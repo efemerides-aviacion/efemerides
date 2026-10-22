@@ -92,9 +92,9 @@ La capitanía de 1976, en un Twin Otter, deshizo el último argumento de que una
 
 ## Legado
 
-Cincuenta y tres años después, el hito se formula con la precisión del museo: Warner, primera piloto permanente de una aerolínea regular estadounidense; Tiburzi, primera de una gran aerolínea. Las dos cabinas de 1973 no se restan.
+El hito se formula con la precisión del museo: Warner, primera piloto permanente de una aerolínea regular estadounidense; Tiburzi, primera de una gran aerolínea. Las dos cabinas de 1973 no se restan.
 
-Warner no se presentó como excepción. Había enseñado a volar a hombres que luego la adelantaron en la cola de las compañías. El 29 de enero invirtió ese orden. El aeródromo de Granby lleva su nombre; el National Aviation Hall of Fame la inscribió en 2014. El asiento que le preguntaron cómo vestir aquel invierno sigue, medio siglo después, ocupado por mujeres a las que ella abrió la puerta.
+Warner no se presentó como excepción. Había enseñado a volar a hombres que luego la adelantaron en la cola de las compañías. El 29 de enero invirtió ese orden. El aeródromo de Granby lleva su nombre; el National Aviation Hall of Fame la inscribió en 2014. El asiento que le preguntaron cómo vestir aquel invierno sigue ocupado por las aviadoras a las que ella abrió la puerta.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

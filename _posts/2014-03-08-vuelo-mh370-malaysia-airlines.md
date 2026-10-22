@@ -6,7 +6,7 @@ categories: [accidente]
 author: Enrique Pomares
 pais: Malasia
 operator: Malaysia Airlines
-excerpt: "El 8 de marzo de 2014, el Boeing 777-200ER del vuelo MH370 desapareció con 239 personas a bordo. Doce años después, la causa sigue siendo desconocida y el fuselaje principal no ha sido localizado."
+excerpt: "El 8 de marzo de 2014, el Boeing 777-200ER del vuelo MH370 desapareció con 239 personas a bordo; la causa exacta sigue sin determinarse y el fuselaje principal permanece sin localizar."
 image: 2014-03-08-vuelo-mh370-malaysia-airlines.webp
 ---
 
@@ -17,7 +17,7 @@ image: 2014-03-08-vuelo-mh370-malaysia-airlines.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 8 de marzo de 2014, el vuelo MH370 de Malaysia Airlines desapareció con 239 personas a bordo poco después de despegar de Kuala Lumpur con destino a Pekín. Tras apagar sus sistemas de comunicación, la aeronave se desvió de su ruta y se estima que voló durante horas hacia el sur del océano Índico, donde presuntamente se estrelló al agotarse el combustible. Doce años después, a pesar de ser la búsqueda más costosa de la historia y de haberse encontrado algunos restos en costas africanas, el paradero del fuselaje principal y la causa exacta de su desaparición siguen siendo un misterio. En 2026, una nueva búsqueda por parte de Ocean Infinity continúa en el sur del Índico sin resultados concluyentes hasta el momento.</p>
+<p>El 8 de marzo de 2014, el vuelo MH370 de Malaysia Airlines desapareció con 239 personas a bordo poco después de despegar de Kuala Lumpur con destino a Pekín. Tras apagar sus sistemas de comunicación, la aeronave se desvió de su ruta y se estima que voló durante horas hacia el sur del océano Índico, donde presuntamente se estrelló al agotarse el combustible. Pese a motivar la búsqueda más costosa de la historia aeronáutica y al hallazgo de fragmentos dispersos en costas del Índico occidental, el paradero del fuselaje principal y la causa exacta de su desaparición permanecieron sin esclarecerse, incluidas las campañas posteriores de rastreo submarino emprendidas por Ocean Infinity en el sur del Índico.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Datos verificados del evento
@@ -29,7 +29,7 @@ image: 2014-03-08-vuelo-mh370-malaysia-airlines.webp
 - **Desaparición del transpondedor:** 01:21 MYT  
 - **Último contacto radar militar:** 02:22 MYT sobre el mar de Andamán  
 - **Restos confirmados:** Flaperón hallado en isla Reunión (2015) y piezas en costas africanas  
-- **Estado actual (2026):** Fuselaje principal no localizado, búsqueda en curso por Ocean Infinity  
+- **Búsqueda principal:** Fuselaje principal no localizado tras los rastreos multinacionales y de Ocean Infinity  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Contexto Histórico
@@ -50,7 +50,7 @@ El MH370 pasó a ser un símbolo de incertidumbre y dolor, objeto de múltiples 
 - **2015–2016:** Aparición de restos en costas del Índico occidental.  
 - **2017:** Suspensión de la búsqueda oficial tras cubrir 120.000 km².  
 - **2018:** Nueva búsqueda por Ocean Infinity, sin resultados.  
-- **2025–2026:** Reanudación de la búsqueda por Ocean Infinity, aún inconclusa.  
+- **2025–2026:** Nueva campaña de rastreo submarino de Ocean Infinity en el sur del Índico sin hallar el fuselaje principal.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Consecuencias e Impacto

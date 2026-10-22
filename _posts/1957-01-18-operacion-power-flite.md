@@ -79,7 +79,7 @@ Al mismo tiempo, las dificultades del vuelo —la retirada de un bombardero titu
 
 Con la llegada del *Lucky Lady III* a March se cerró la era de las grandes circunnavegaciones demostrativas de posguerra: a partir de entonces, los vuelos intercontinentales de veinticuatro a cuarenta horas con múltiples repostajes pasaron a formar parte de las alertas en el aire (*Chrome Dome*) y de las operaciones cotidianas del Mando Aéreo Estratégico.
 
-Aunque ninguno de los ejemplares de la serie B-52B que protagonizaron la misión ha llegado completo a nuestros días —retirados a mediados de los años sesenta en Davis-Monthan o desguazados posteriormente—, la familia Stratofortress en su variante B-52H continúa en servicio activo casi setenta años después de aquella primera vuelta al mundo a reacción.
+Aunque ninguno de los ejemplares de la serie B-52B que protagonizaron la misión se conserva completo —retirados a mediados de los años sesenta en Davis-Monthan o desguazados posteriormente—, la familia Stratofortress en su variante B-52H prolongó su servicio operativo muchas décadas después de aquella primera vuelta al mundo a reacción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

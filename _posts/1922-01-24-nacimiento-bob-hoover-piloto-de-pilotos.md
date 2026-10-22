@@ -75,7 +75,7 @@ En la posguerra, los festivales aéreos convirtieron a los acróbatas en estrell
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
-Ciento cuatro años después de su nacimiento, Bob Hoover sigue siendo el piloto de pilotos: el tercero en la lista de Air & Space/Smithsonian, el décimo en los 51 Héroes de la Aviación de Flying, la única persona que presidió dos veces la asociación de pilotos de pruebas experimentales y el hombre de quien Doolittle dijo que era el mejor stick-and-rudder que jamás haya vivido. Su Shrike Commander descansa en el Udvar-Hazy Center y su nombre bautiza desde 2007 el Bob Hoover Freedom of Flight Award; pero su legado verdadero vuela todavía en cada festival aéreo donde un piloto, apagados los motores, vuelve a la pista rueda a rueda y aterriza como si la física fuera una cortesía.
+En la memoria de la aviación mundial, Bob Hoover sigue siendo el piloto de pilotos: el tercero en la lista de Air & Space/Smithsonian, el décimo en los 51 Héroes de la Aviación de Flying, la única persona que presidió dos veces la asociación de pilotos de pruebas experimentales y el hombre de quien Doolittle dijo que era el mejor stick-and-rudder que jamás haya vivido. Su Shrike Commander descansa en el Udvar-Hazy Center y su nombre bautiza desde 2007 el Bob Hoover Freedom of Flight Award; pero su legado verdadero vuela todavía en cada festival aéreo donde un piloto, apagados los motores, vuelve a la pista rueda a rueda y aterriza como si la física fuera una cortesía.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas

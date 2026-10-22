@@ -82,7 +82,7 @@ Su impacto histórico fue abrir un antecedente nacional identificable y conserva
 
 ## Legado
 
-Ochenta y nueve años después, el episodio conserva a un trabajador técnico entre los protagonistas de la memoria aeronáutica venezolana. La condición de mecánico amplía una historia que suele concentrarse en pilotos, aeronaves y mandos: también el personal de talleres podía protagonizar los acontecimientos que atraían la atención nacional.
+Dentro de esa historia, el episodio conserva a un trabajador técnico entre los protagonistas de la memoria aeronáutica venezolana. La condición de mecánico amplía una historia que suele concentrarse en pilotos, aeronaves y mandos: también el personal de talleres podía protagonizar los acontecimientos que atraían la atención nacional.
 
 La recopilación de la Federación y las crónicas del Museo mantienen vigente esa memoria junto a las de generaciones posteriores, mediante notas históricas y testimonios conservados. Ese trabajo permite reconocer al individuo sin perder de vista a instructores, tripulaciones y técnicos que sostuvieron el desarrollo de la actividad. Leída con ese alcance, la historia de Murillo reúne dos dimensiones del patrimonio aeronáutico: la persona que afrontó el descenso y la comunidad profesional que hizo posible volar.
 

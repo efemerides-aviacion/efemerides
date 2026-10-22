@@ -77,7 +77,7 @@ La puesta en servicio de BALANDA en 1964 puso fin a la exclusiva concentración 
 
 ## Legado
 
-Transcurridos más de sesenta años desde su fundación el **14 de febrero de 1964**, la Base Aérea Teniente Vicente Landaeta Gil permanece como una de las unidades operativas de mayor tradición de la aviación militar venezolana. Por sus pistas, aulas de instrucción táctica y simuladores han pasado todas las promociones de pilotos de caza formadas en el país desde la década de 1970, honrando en cada despegue sobre el cielo crepuscular de Barquisimeto el legado del aviador que le dio su nombre.
+Desde su fundación el **14 de febrero de 1964**, la Base Aérea Teniente Vicente Landaeta Gil permanece como una de las unidades operativas de mayor tradición de la aviación militar venezolana. Por sus pistas, aulas de instrucción táctica y simuladores han pasado todas las promociones de pilotos de caza formadas en el país desde la década de 1970, honrando en cada despegue sobre el cielo crepuscular de Barquisimeto el legado del aviador que le dio su nombre.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

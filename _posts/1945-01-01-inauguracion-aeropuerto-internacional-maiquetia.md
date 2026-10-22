@@ -79,7 +79,7 @@ Aquel aeropuerto nació de una guerra, no de un plan urbano. El 22 de agosto de 
 
 ## Legado
 
-<p>Maiquetía siguió siendo el nombre común de la puerta de Venezuela durante ochenta años. El Estado lo renombró en 1972 con el de Simón Bolívar, el terminal de Malaussena de 1945 sigue en pie y en servicio como terminal de aviación general, y el lugar conserva su antiguo código de navegación, MIQ, como una pieza de museo.</p>
+<p>Maiquetía siguió siendo, generación tras generación, el nombre común de la puerta aérea de Venezuela. El Estado lo renombró en 1972 con el de Simón Bolívar, el terminal de Malaussena de 1945 sigue en pie y en servicio como terminal de aviación general, y el lugar conserva su antiguo código de navegación, MIQ, como una pieza de museo.</p>
 <p>También fue el lugar donde el país midió su ascenso y su caída: desde sus pistas despegó el <em>vuelo 742 de Viasa</em> que se perdió en 1969 con 155 víctimas, el accidente más grave de su historia, y en diciembre de 1999 sirvió de campamento de refugiados y centro de rescate tras la tragedia de Vargas.</p>
 <p>Hubo un proyecto para mover el tráfico internacional a Higuerote y dejar Maiquetía para los vuelos domésticos. No se hizo: el campo que Lindbergh señaló de paso sigue siendo, con sus defectos y sus colas, la puerta del país.</p>
 

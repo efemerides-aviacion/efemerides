@@ -20,7 +20,7 @@ image: 1985-10-25-fundacion-emirates-primeros-vuelos.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 25 de octubre de 1985, a las 11:45, el vuelo EK600 despegó de Dubái hacia Karachi. Detrás no había una flota ni una compañía rodada, sino dos aviones alquilados en húmedo a Pakistan International Airlines, un puñado de oficinas y una consigna: estar en el aire en cinco meses con diez millones de dólares.</p>
-<p>Emirates nació así, sin subsidios y sin protección aeropolítica, bajo la política de cielos abiertos que Dubái impuso como doctrina. Ese mismo día salió el segundo vuelo, a Bombay. Cuarenta años después, aquella aerolínea de dos aparatos prestados conecta más de 150 ciudades y es la mayor operadora de Airbus A380 y Boeing 777 del mundo.</p>
+<p>Emirates nació así, sin subsidios y sin protección aeropolítica, bajo la política de cielos abiertos que Dubái impuso como doctrina. Ese mismo día salió el segundo vuelo, a Bombay. Aquella aerolínea nacida con dos aparatos prestados llegó a conectar más de 150 ciudades y a convertirse en la mayor operadora mundial de Airbus A380 y Boeing 777.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -71,7 +71,7 @@ Lo que en marzo era un plan de negocio de diez millones de dólares se convirti�
 - **Efecto sobre la competencia:** la entrada de la nueva compañía coincidió con un desplome de los beneficios de Gulf Air, que perdió el monopolio del tráfico regional y vería caer sus resultados aún más al año siguiente.
 - **Un modelo sin red:** la obligación de operar sin subsidios ni protección obligó a la compañía a crecer con criterios de rentabilidad desde el primer vuelo, algo poco habitual entre las aerolíneas de bandera del golfo.
 - **Escala posterior:** en el año 2000 Emirates fue la primera aerolínea en encargar el Airbus A380 y en 2005 firmó un pedido de 42 Boeing 777; con esa base se convirtió en la mayor operadora de ambos modelos.
-- **Cuarenta años después:** al cumplirse el aniversario, en octubre de 2025, la compañía conectaba más de 150 ciudades, operaba cerca de 270 aviones y había transportado más de 860 millones de pasajeros.
+- **Balance en octubre de 2025:** al cierre de sus primeras cuatro décadas, la compañía conectaba más de 150 ciudades, operaba cerca de 270 aviones y había transportado más de 860 millones de pasajeros.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

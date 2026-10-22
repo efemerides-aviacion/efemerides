@@ -90,7 +90,7 @@ El incidente de enero quedó como lección de ensayo: la palanca fija, sin recor
 
 ## Legado
 
-Cincuenta y dos años después, el F-16 sigue en producción y en servicio en más de dos docenas de fuerzas aéreas. El prototipo que Oestricher sacó de Edwards el 2 de febrero de 1974, el 72-1567, se exhibe en el Virginia Air & Space Science Center, en Hampton.
+Con miles de ejemplares fabricados, el F-16 se ha mantenido en producción y en servicio en más de dos docenas de fuerzas aéreas. El prototipo que Oestricher sacó de Edwards el 2 de febrero de 1974, el 72-1567, se exhibe en el Virginia Air & Space Science Center, en Hampton.
 
 Aquella hora y media no fue el primer instante en que las ruedas dejaron el suelo —eso había ocurrido el 20 de enero—, pero sí el vuelo con el que el programa se presentó al mundo. De un caza ligero pensado para el combate diurno salió el Fighting Falcon.
 

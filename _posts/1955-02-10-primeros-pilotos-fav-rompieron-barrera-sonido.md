@@ -75,7 +75,7 @@ Asimismo, la experiencia adquirida por aquellos primeros oficiales en los proced
 
 ## Legado
 
-Setenta y un años después de aquella jornada en el desierto de Nevada, los nombres de Pascual Azara, Leonidas Marquina y Braulio Martínez Zerpa encabezan el cuadro de honor de los aviadores venezolanos que cruzaron la frontera del sonido. Su vuelo de instrucción en el North American F-86F Sabre abrió el camino que, dieciocho años más tarde, culminaría con la incorporación de los cazas de Mach 2 Dassault Mirage IIIEV/5V, consolidando una tradición iniciada por aquellos tres Alféreces el 10 de febrero de 1955.
+Desde aquella jornada en el desierto de Nevada, los nombres de Pascual Azara, Leonidas Marquina y Braulio Martínez Zerpa encabezan el cuadro de honor de los aviadores venezolanos que cruzaron la frontera del sonido. Su vuelo de instrucción en el North American F-86F Sabre abrió el camino que, dieciocho años más tarde, culminaría con la incorporación de los cazas de Mach 2 Dassault Mirage IIIEV/5V, consolidando una tradición iniciada por aquellos tres Alféreces el 10 de febrero de 1955.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

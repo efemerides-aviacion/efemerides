@@ -82,7 +82,7 @@ En la Johns Hopkins, Guier y Weiffenbach demostraron con sus grabaciones que una
 
 Transit fue el primer sistema de navegación por satélite: en 1964 ya guiaba submarinos y buques de superficie, y en 1996 cedió el relevo al Global Positioning System (<a href="https://efemerides-aviacion.github.io/efemerides/espacial/1995/04/27/declaracion-gps-operativo-pleno-uso-civil.html" style="color: #315fea; text-decoration: none;">GPS</a>) (Sistema de Posicionamiento Global), concebido a partir de su experiencia y de otros dos programas. La rampa de la que había partido el Sputnik 1 lanzaría en 1961 a <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1961/04/12/primer-humano-orbitar-la-tierra.html" style="color: #315fea; text-decoration: none;">Yuri Gagarin</a>.
 
-La esfera que voló se perdió en la reentrada, pero sesenta y ocho años después se conservan al menos dos ejemplares de reserva: uno en el museo de la corporación Energia, heredera del OKB-1, y otro, listo para volar, en el Cosmosphere de Hutchinson, en Kansas. Se cumplió así lo que Koroliov había gritado a un operario que pulió mal una maqueta del satélite: «¡Esta bola se exhibirá en los museos!».
+La esfera que voló se perdió en la reentrada, pero en las colecciones espaciales se conservan al menos dos ejemplares de reserva: uno en el museo de la corporación Energia, heredera del OKB-1, y otro, listo para volar, en el Cosmosphere de Hutchinson, en Kansas. Se cumplió así lo que Koroliov había gritado a un operario que pulió mal una maqueta del satélite: «¡Esta bola se exhibirá en los museos!».
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 

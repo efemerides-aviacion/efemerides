@@ -104,7 +104,7 @@ La secuencia recorre desde su nacimiento hasta los homenajes póstumos.
 
 ## Legado
 
-A ciento veintinueve años de su nacimiento, el nombre de Manuel Ríos sigue presente en la aviación venezolana de una forma que pocos pioneros alcanzan.
+El nombre de Manuel Ríos sigue presente en la aviación venezolana de una forma que pocos pioneros alcanzan.
 
 La **Base Aérea Capitán Manuel Ríos**, entre Chaguaramas y El Sombrero, en el estado Guárico, lleva su nombre. También una **plaza** en el sector La Playera de Altagracia de Orituco, con un monumento que incorpora un ejemplar de avión. La **promoción** de oficiales egresada el 18 de diciembre de 1943 se bautizó con su nombre, y desde 1976 el **plan de estudios** con que se forma a los oficiales aviadores de la Academia Militar de la Aviación lleva su nombre.
 

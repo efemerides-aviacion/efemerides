@@ -81,7 +81,7 @@ Asimismo, la convivencia operativa con el terminal civil de La Chinita optimizó
 
 ## Legado
 
-Cincuenta y dos años después de su creación jurídica, la Base Aérea «General Rafael Urdaneta» continúa siendo el baluarte aeroespacial de la región zuliana. Por sus hangares y líneas de vuelo han pasado generaciones de pilotos, mecánicos y especialistas del Grupo Aéreo de Operaciones Especiales N.º 15 «Furias», cuya historia operativa con el OV-10 Bronco y el K-8W Karakorum forma parte esencial del patrimonio aeronáutico nacional. Su nombre perpetúa la memoria del prócer marabino Rafael Urdaneta en una instalación estratégica para la soberanía del occidente venezolano.
+Desde su creación jurídica en enero de 1974, la Base Aérea «General Rafael Urdaneta» se ha consolidado como el baluarte aeroespacial de la región zuliana. Por sus hangares y líneas de vuelo han pasado generaciones de pilotos, mecánicos y especialistas del Grupo Aéreo de Operaciones Especiales N.º 15 «Furias», cuya historia operativa con el OV-10 Bronco y el K-8W Karakorum forma parte esencial del patrimonio aeronáutico nacional. Su nombre perpetúa la memoria del prócer marabino Rafael Urdaneta en una instalación estratégica para la soberanía del occidente venezolano.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

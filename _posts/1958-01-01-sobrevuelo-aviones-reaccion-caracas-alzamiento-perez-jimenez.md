@@ -81,7 +81,7 @@ Semanas antes del sobrevuelo, el plebiscito de diciembre de 1957 había prolonga
 
 <p>El 1 de enero de 1958 quedó como el primer signo público del fin: una intentona derrotada que hizo posible la victoria del 23 de enero. La junta que tomó el poder ordenó liberar a los presos políticos, reincorporar a los oficiales de los alzamientos anteriores y decretar una amnistía general para los exiliados.</p>
 <p>La FAV siguió volando aquellos reactores tras la transición: en mayo de 1958, <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1958/05/23/accidente-vampire-fb52-guillermo-hernandez-jacobsen.html" style="color: #315fea; text-decoration: none;">un Vampire FB.52 se perdió contra unos cables de alta tensión</a> en el lago de Valencia, con la muerte de su piloto. Y el avión presidencial que sacó del país a los trece aviadores rebeldes fue el mismo Douglas C-54 <em>La Vaca Sagrada</em> en el que, veintidós días más tarde, huyó el dictador.</p>
-<p>Sesenta y ocho años después, la imagen que abre esta efeméride sigue siendo la del principio del fin: unos reactores sobre El Silencio, en la ciudad que despertaba de la última Nochevieja de la dictadura.</p>
+<p>En la memoria venezolana, la imagen que abre esta efeméride sigue siendo la del principio del fin: unos reactores sobre El Silencio, en la ciudad que despertaba de la última Nochevieja de la dictadura.</p>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

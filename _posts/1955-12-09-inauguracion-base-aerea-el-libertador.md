@@ -77,7 +77,7 @@ Además de concentrar los grupos de vuelo más potentes del país, el desarrollo
 
 ## Legado
 
-Setenta años después de aquel corte de cinta del 9 de diciembre de 1955, la Base Aérea «El Libertador» continúa siendo el principal bastión operativo y logístico de la Aviación Militar Bolivariana. Sede actual de los grupos aéreos de Transporte N.º 6, de Operaciones Especiales N.º 10 y de Caza N.º 16, así como de los principales comandos de mantenimiento y defensa aérea de la región central, sus pistas e instalaciones resumen toda la historia contemporánea del poder aéreo venezolano.
+Desde aquel corte de cinta del 9 de diciembre de 1955, la Base Aérea «El Libertador» se ha mantenido como el principal bastión operativo y logístico de la Aviación Militar Bolivariana. Sede de los grupos aéreos de Transporte N.º 6, de Operaciones Especiales N.º 10 y de Caza N.º 16, así como de los principales comandos de mantenimiento y defensa aérea de la región central, sus pistas e instalaciones resumen toda la historia contemporánea del poder aéreo venezolano.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

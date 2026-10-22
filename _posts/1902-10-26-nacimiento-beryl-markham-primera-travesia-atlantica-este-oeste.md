@@ -20,7 +20,7 @@ image: 1902-10-26-nacimiento-beryl-markham-primera-travesia-atlantica-este-oeste
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 26 de octubre de 1902 nació en Inglaterra Beryl Clutterbuck, que pasaría a la historia como Beryl Markham: entrenadora de caballos en Kenia, piloto comercial de la aviación de bush africana y autora de <em>West with the Night</em>.</p>
-<p>Ciento veinticuatro años después, su nombre sigue atado a una sola noche de 1936. Entre el 4 y el 5 de septiembre despegó de Abingdon rumbo a Nueva York en un Percival Vega Gull sin radio; el hielo cerró los respiraderos de los depósitos y la obligó a posarse en una turbera de Nueva Escocia, sin alcanzar su meta pero dentro de la historia: acababa de convertirse en la primera mujer que cruzaba el Atlántico en solitario de este a oeste.</p>
+<p>En la historia aeronáutica, su nombre permanece atado a una sola noche de 1936. Entre el 4 y el 5 de septiembre despegó de Abingdon rumbo a Nueva York en un Percival Vega Gull sin radio; el hielo cerró los respiraderos de los depósitos y la obligó a posarse en una turbera de Nueva Escocia, sin alcanzar su meta pero dentro de la historia: acababa de convertirse en la primera mujer que cruzaba el Atlántico en solitario de este a oeste.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
