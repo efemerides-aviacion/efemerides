@@ -81,7 +81,7 @@ La expansión posterior incorporó nuevas escalas caribeñas y continentales. Su
 
 ## Legado
 
-Noventa y nueve años después, aquel arranque conserva valor como ejemplo de la relación entre aviación comercial y comunicaciones públicas. La futura aerolínea mundial surgió de la combinación de obligaciones estatales y capacidades privadas, antes de asociarse con los grandes viajes de pasajeros que dominarían su imagen.
+Visto en perspectiva histórica, aquel arranque conserva pleno valor como ejemplo de la relación entre aviación comercial y comunicaciones públicas. La futura aerolínea mundial surgió de la combinación de obligaciones estatales y capacidades privadas, antes de asociarse con los grandes viajes de pasajeros que dominarían su imagen.
 
 Tras el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1991/12/04/ultimo-vuelo-pan-am.html" style="color: #315fea; text-decoration: none;">cierre de operaciones de Pan Am en 1991</a>, sus fondos documentales continuaron preservando esa historia. El Smithsonian cataloga correspondencia de la colección Basil Lee Rowe que permite estudiar los comienzos del enlace cubano. Es un legado material distinto de la publicidad y de las evocaciones posteriores: documentos transportados, fechados y conservados que ayudan a separar el estreno operativo de la regularidad alcanzada después. La conservación de estas fuentes mantiene visible una etapa en la que el correo, antes que el turismo, daba sentido cotidiano a la aviación internacional.
 

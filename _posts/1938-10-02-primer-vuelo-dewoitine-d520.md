@@ -83,7 +83,7 @@ La figura del as de caza, heredada de 1914-1918, seguía dominando la memoria co
 
 ## Legado
 
-Ochenta y ocho años después de aquel despegue en Toulouse-Francazal, el D.520 permanece como el símbolo del caza francés que llegó tarde: un aparato que, en manos de pilotos experimentados, demostró ser superior a cuanto volaba la Armée de l'Air en 1940 y capaz de enfrentarse al Bf 109E. Su fama no deriva de haber cambiado el curso de la guerra, imposible con los números disponibles, sino de haber demostrado lo que la caza francesa habría podido hacer de haber dispuesto del aparato a tiempo. Varios ejemplares se conservan en museos, entre ellos el n.º 862 del Musée de l'Air et de l'Espace, pintado como el n.º 277 de Pierre Le Gloan, y el n.º 603 del Conservatoire de l'air et de l'espace d'Aquitaine.
+Desde aquel primer vuelo de otoño en Toulouse-Francazal, el Dewoitine D.520 permanece como el símbolo del caza francés que llegó tarde: un aparato que, en manos de pilotos experimentados, demostró ser superior a cuanto volaba la Armée de l'Air en 1940 y capaz de enfrentarse al Bf 109E. Su fama no deriva de haber cambiado el curso de la guerra, imposible con los números disponibles, sino de haber demostrado lo que la caza francesa habría podido hacer de haber dispuesto del aparato a tiempo. Varios ejemplares se conservan en museos, entre ellos el n.º 862 del Musée de l'Air et de l'Espace, pintado como el n.º 277 de Pierre Le Gloan, y el n.º 603 del Conservatoire de l'air et de l'espace d'Aquitaine.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

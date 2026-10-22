@@ -79,7 +79,7 @@ La prensa neoyorquina lo dijo sin rodeos el 5 de octubre: «British Gloat As The
 
 ## Legado
 
-Sesenta y ocho años después, el Comet 4 que abrió el Atlántico a los reactores sigue siendo recordado como el avión que ganó aquella carrera por horas.
+En la crónica del transporte aéreo transoceánico, el Comet 4 que abrió el Atlántico a los reactores perdura como el avión que ganó aquella carrera por horas.
 
 - **Los aviones.** El G-APDB voló 36.269 horas y 15.733 aterrizajes hasta su último vuelo, el 12 de febrero de 1974, y se conserva en el Imperial War Museum de Duxford, dentro de la British Air Liner Collection de la Duxford Aviation Society; el G-APDC fue desguazado en abril de 1975.
 - **El tipo.** El último vuelo comercial de un Comet lo realizó Dan-Air en noviembre de 1980; la compañía llegó a operar la mayor flota de Comet del mundo.

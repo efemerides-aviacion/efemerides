@@ -84,7 +84,7 @@ En 1961 llegaron el vuelo convencional y, en septiembre, la transición completa
 
 Reino Unido, Estados Unidos y Alemania Occidental evaluaron juntos nueve Kestrel, desarrollo directo del P.1127, y en abril de 1969 el Harrier entró en servicio con la Royal Air Force como el primer avión de combate de despegue vertical operativo. Su versión naval, el Sea Harrier, combatió en la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1982/05/01/bautismo-fuego-faa-malvinas.html" style="color: #315fea; text-decoration: none;">guerra de las Malvinas</a>, y la capacidad de despegue corto y aterrizaje vertical pasó después al <a href="https://efemerides-aviacion.github.io/efemerides/evento/2006/12/15/primer-vuelo-f35-aa1.html" style="color: #315fea; text-decoration: none;">F-35B</a>.
 
-Bedford murió el 20 de octubre de 1996, en vísperas del aniversario de aquel salto. Sesenta y seis años después, el XP831 cuelga en el Science Museum de Londres, cedido por el Museo de la Royal Air Force, y un Pegasus de desarrollo, el BS 916, fue declarado en 1993 hito histórico internacional de la ingeniería mecánica.
+Bedford murió el 20 de octubre de 1996, en vísperas del aniversario de aquel salto. Retirado de los ensayos en vuelo, el XP831 cuelga en el Science Museum de Londres, cedido por el Museo de la Royal Air Force, y un Pegasus de desarrollo, el BS 916, fue declarado en 1993 hito histórico internacional de la ingeniería mecánica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

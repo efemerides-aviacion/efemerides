@@ -80,7 +80,7 @@ El aterrizaje del 4 de octubre de 1930 selló la conversión del campo de tierra
 
 ## Legado
 
-Noventa y seis años después, el campo que abrió aquel sábado de octubre de 1930 es la principal puerta aérea de Venezuela.
+Aquel terreno costero inaugurado un sábado de octubre de 1930 se convirtió en la principal puerta aérea internacional de Venezuela.
 
 - **El aeropuerto.** Entre 1940 y 1945, Pan American hizo entrega de los aeropuertos de Maiquetía, Maturín y Maracaibo; el aeródromo de aquel aterrizaje es hoy el aeropuerto Internacional de Maiquetía «Simón Bolívar», heredero directo de la franja de la familia Luy.
 - **El método.** La fórmula de Pan American —escalas sobre el agua donde no había pistas y campos de tierra donde el tráfico los exigía, como el de La Guaira— se convirtió en el patrón de las rutas aéreas comerciales entre Estados Unidos y la Sudamérica de entreguerras.

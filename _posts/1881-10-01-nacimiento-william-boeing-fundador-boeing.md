@@ -20,7 +20,7 @@ image: 1881-10-01-nacimiento-william-boeing-fundador-boeing.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de octubre de 1881 nació en Detroit (Míchigan) William Edward Boeing, hijo de un inmigrante westfaliano enriquecido con la madera y el hierro de Minnesota. Tras abandonar los estudios de ingeniería en Yale, se estableció en el estado de Washington, donde multiplicó la fortuna familiar al frente de sus propias empresas madereras antes de descubrir la aviación en los festivales aéreos de 1909 y 1910.</p>
-<p>Boeing aprendió a volar en 1915, financió el hidroavión B&W y constituyó en Seattle, en julio de 1916, la compañía que lleva su nombre; de ella nacerían una gran aerolínea, contratos postales decisivos y una industria que, ciento cuarenta y cinco años después de su nacimiento, sigue entre las mayores del mundo.</p>
+<p>Boeing aprendió a volar en 1915, financió el hidroavión B&W y constituyó en Seattle, en julio de 1916, la compañía que lleva su nombre; de ella nacerían una gran aerolínea, contratos postales decisivos y un grupo industrial que se consolidó de forma duradera entre los mayores fabricantes aeroespaciales del mundo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -85,7 +85,7 @@ La apuesta postal de 1927, con sus 25 Model 40A entre San Francisco y Chicago, d
 ## Legado
 Galardonado con la medalla Daniel Guggenheim en 1934 e ingresado en el National Aviation Hall of Fame en 1966, diez años después de su muerte, Boeing figura entre los pioneros consagrados de la aviación estadounidense. El Museum of Flight preserva su primera factoría, el granero rojo de Seattle, exhibe una réplica del B&W y custodia sus papeles personales; el aeródromo del condado mantiene el nombre de Boeing Field.
 
-Ciento cuarenta y cinco años después de su nacimiento en Detroit, el apellido anglicanizado de un inmigrante westfaliano rotula aviones en todos los continentes y da nombre a la empresa que él fundó con el hidroavión B&W.
+Nacido en aquel hogar maderero de Detroit en 1881, el apellido anglicanizado de un inmigrante westfaliano rotula aviones en todos los continentes y da nombre a la empresa que William Boeing fundó con el hidroavión B&W.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

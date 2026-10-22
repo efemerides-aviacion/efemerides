@@ -92,7 +92,7 @@ Las fuentes sitúan el balance en torno a 24.000 misiones de combate. Más de ve
 
 El 46.º Regimiento «Taman» fue disuelto el 15 de octubre de 1945. Muchas veteranas regresaron a profesiones civiles y sus experiencias quedaron durante años fuera de los relatos más difundidos de la guerra. Entrevistas, archivos fotográficos y estudios posteriores recuperaron las voces de pilotos, navegantes y especialistas de tierra.
 
-Ochenta y cinco años después de la Orden n.º 0099, las «Brujas de la Noche» siguen representando dos historias inseparables: la adaptación táctica de una máquina modesta y la conquista de funciones militares que se negaban a las mujeres. El fondo de Anne Noggle conservado por el Smithsonian, las colecciones rusas y la imagen de las aviadoras ante su U-2 han ayudado a separar la trayectoria documentada del regimiento de las simplificaciones legendarias acumuladas alrededor del apodo.
+Nacidas de la Orden n.º 0099 de octubre de 1941, las «Brujas de la Noche» encarnan en la historiografía militar dos historias inseparables: la adaptación táctica de una máquina modesta y la conquista de funciones militares que se negaban a las mujeres. El fondo de Anne Noggle conservado por el Smithsonian, las colecciones rusas y la imagen de las aviadoras ante su U-2 han ayudado a separar la trayectoria documentada del regimiento de las simplificaciones legendarias acumuladas alrededor del apodo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

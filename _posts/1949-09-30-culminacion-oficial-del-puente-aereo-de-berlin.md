@@ -78,7 +78,7 @@ La operación demostró que el transporte aéreo estratégico podía sostener in
 
 ## Legado
 
-Frente al edificio terminal del antiguo aeropuerto de Tempelhof —preservado desde 2008 como gran parque urbano abierto (*Tempelhofer Feld*)— se alza desde 1951 el monumento *Luftbrückendenkmal*, cuyos tres arcos de hormigón evocan los tres corredores aéreos de acceso a la ciudad y recuerdan por su nombre a las 101 personas caídas durante el servicio. Setenta y siete años después de aquel último aterrizaje nocturno del 30 de septiembre de 1949, la operación permanece como el modelo clásico de puente logístico y humanitario de la aviación contemporánea.
+Frente al edificio terminal del antiguo aeropuerto de Tempelhof —preservado desde 2008 como gran parque urbano abierto (*Tempelhofer Feld*)— se alza desde 1951 el monumento *Luftbrückendenkmal*, cuyos tres arcos de hormigón evocan los tres corredores aéreos de acceso a la ciudad y recuerdan por su nombre a las 101 personas caídas durante el servicio. Desde aquel último aterrizaje nocturno del 30 de septiembre de 1949 en Berlín Occidental, la operación permanece como el modelo clásico de puente logístico y humanitario de la aviación contemporánea.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

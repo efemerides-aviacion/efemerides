@@ -78,7 +78,7 @@ El récord fue también el canto del cisne del 56-6671: devuelto a North America
 
 ## Legado
 - **El homenaje:** el presidente Lyndon B. Johnson entregó a Knight <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1866/07/01/nacimiento-clifford-burke-harmon-premio-aeronautico.html" style="color: #315fea; text-decoration: none;">el Trofeo Internacional Harmon</a> en la Casa Blanca.
-- **Cincuenta y nueve años después:** ningún piloto ha volado más rápido en la atmósfera; la NASA sigue citando a Knight como el hombre más veloz de la historia.
+- **Plusmarca invicta de velocidad tripulada:** ningún otro avión cohete pilotado ha superado Mach 6,72, y la NASA mantiene a Knight como el hombre más veloz de la aviación.
 - **La lección:** el daño térmico imprevisto —las ondas del simulador que fundieron el Inconel— aportó datos sobre interacción de ondas de choque y calentamiento turbulento que la NASA cuenta entre los hallazgos del programa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

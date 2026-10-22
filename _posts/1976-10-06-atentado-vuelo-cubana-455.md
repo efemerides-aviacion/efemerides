@@ -76,7 +76,7 @@ La causa también quedó atravesada por controversias sobre jurisdicción, prueb
 ## Legado
 El recuerdo del vuelo 455 se mantiene en monumentos y ceremonias regionales. En Paynes Bay, Barbados, se inauguró un memorial en 1998. Décadas después, los homenajes de CARICOM y Cuba reunieron a representantes de distintas naciones en torno a las víctimas; el Ministerio de Asuntos Exteriores de Barbados documentó una conmemoración conjunta en 2022.
 
-Al cumplirse cincuenta años en 2026, el legado no consiste solo en una resolución o en el desenlace de los procesos penales. También está en la memoria de quienes perdieron familiares, amistades y compañeros, y en la exigencia de que la aviación civil sea protegida sin distinción de nacionalidad. Contar la historia con cautela documental honra a las víctimas y evita que la incertidumbre política borre lo que sí está establecido.
+El alcance histórico de aquella tragedia sobre aguas de Barbados no reside solo en una resolución o en el desenlace de los procesos penales. También está en la memoria de quienes perdieron familiares, amistades y compañeros, y en la exigencia de que la aviación civil sea protegida sin distinción de nacionalidad. Contar la historia con cautela documental honra a las víctimas y evita que la incertidumbre política borre lo que sí está establecido.
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Referencias Verificadas
