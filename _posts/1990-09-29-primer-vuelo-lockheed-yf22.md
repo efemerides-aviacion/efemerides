@@ -83,7 +83,7 @@ La campaña inaugurada el 29 de septiembre de 1990 inclinó la balanza del concu
 
 ## Legado
 
-Treinta y seis años después de aquel vuelo de 18 minutos entre Palmdale y Edwards, el linaje abierto por el YF-22 continúa definiendo el estándar de los cazas de quinta generación. El F-22A Raptor alcanzó la capacidad operativa inicial (IOC) en diciembre de 2005 y su combinación de geometría facetada, supercrucero, empuje vectorial y bodegas internas fijó el canon que seguirían los programas furtivos posteriores.
+Aquel traslado inaugural de dieciocho minutos entre Palmdale y Edwards consolidó con el YF-22 el estándar de los cazas de quinta generación. El F-22A Raptor alcanzó la capacidad operativa inicial (IOC) en diciembre de 2005 y su combinación de geometría facetada, supercrucero, empuje vectorial y bodegas internas fijó el canon que seguirían los programas furtivos posteriores.
 
 El apodo no oficial «Lightning II» que llevó el prototipo en 1990 fue recuperado en 2006 para bautizar al caza multirrol Lockheed Martin F-35, cuyo <a href="https://efemerides-aviacion.github.io/efemerides/evento/2006/12/15/primer-vuelo-f35-aa1.html" style="color: #315fea; text-decoration: none;">prototipo AA-1 voló en diciembre de ese año</a>. El propio PAV-1 (87-0700) que Ferguson despegó el 29 de septiembre de 1990 se conserva hoy en el Air Force Flight Test Museum de la Base Aérea de Edwards.
 

@@ -78,7 +78,7 @@ Esos registros determinaron la arquitectura de la siguiente generación hipersó
 
 El registro de **Mach 3,196** de Milburn Apt permaneció durante casi cuatro años como el registro de velocidad más elevado de un avión tripulado, formando junto con el Mach 1,06 de Chuck Yeager en el X-1 (1947), el Mach 2,005 de Scott Crossfield en el Skyrocket (1953) y el futuro Mach 6,70 de William J. Knight en el X-15A-2 (1967) la columna vertebral de la investigación aeroespacial en Edwards.
 
-Setenta años después, los manuales de mecánica del vuelo explican el acoplamiento inercial con la telemetría del vuelo trece del X-2, y el museo de Edwards conserva fragmentos del `46-674` en homenaje al piloto que abrió el régimen de Mach 3.
+En la ingeniería aeronáutica, los manuales de mecánica del vuelo explican el acoplamiento inercial con la telemetría del vuelo trece del X-2, y el museo de Edwards conserva fragmentos del `46-674` en homenaje al piloto que abrió el régimen de Mach 3.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

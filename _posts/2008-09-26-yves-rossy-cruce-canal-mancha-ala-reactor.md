@@ -83,7 +83,7 @@ La travesía tuvo eco inmediato en la prensa mundial y dejó al piloto con una a
 
 La serie de hazañas posterior confirmó que el Canal de 2008 fue solo el principio. En noviembre de 2009, Rossy intentó cruzar el estrecho de Gibraltar entre Tánger y Atlanterra para unir dos continentes, pero los vientos y los bancos de nubes lo obligaron a amerizar a 4,8 kilómetros de la costa española; salió ileso y la Guardia Costera española recuperó el ala. El 5 de noviembre de 2010, lanzado desde un globo pilotado por Brian Jones a 2.400 metros, ejecutó dos rizos completos con el ala a reacción. El 7 de mayo de 2011 sobrevoló el Gran Cañón en Arizona, después de que la FAA clasificara su sistema como aeronave y lo eximiera de las horas de ensayo habituales. En octubre de 2015 voló en formación junto a un Airbus A380 de Emirates sobre Dubái, acompañado de Vince Reffet, ya dentro del equipo Jetman Dubai.
 
-Dieciocho años después, el cruce Calais–Dover sigue siendo la primera página de esa serie y la hazaña que llevó el vuelo personal a reacción a la primera plana mundial.
+Aquella travesía entre Calais y Dover quedó como la primera página de esa serie y la hazaña que llevó el vuelo personal a reacción a la primera plana mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -86,7 +86,7 @@ La trayectoria de Arnaldo Tamayo Méndez, de la Guantánamo de su infancia a la 
 
 ## Legado
 
-Cuarenta y seis años después, el vuelo de la Soyuz 38 permanece como el hito fundacional de la cosmonáutica latinoamericana y caribeña. En 2017 la Unesco otorgó a Tamayo Méndez su Medalla sobre Ciencia Espacial. Tras su misión orbital, el aviador guantanamero alcanzó el grado de General de Brigada de las Fuerzas Armadas Revolucionarias, presidió el grupo parlamentario de amistad cubano-ruso como diputado a la Asamblea Nacional del Poder Popular y vio conservados su escafandra *Sokol* y el módulo de descenso en museos de La Habana, testimonio material de las 128 órbitas completadas en septiembre de 1980.
+La misión orbital de la Soyuz 38 permanece como el hito fundacional de la cosmonáutica latinoamericana y caribeña. En 2017 la Unesco otorgó a Tamayo Méndez su Medalla sobre Ciencia Espacial. Tras su misión orbital, el aviador guantanamero alcanzó el grado de General de Brigada de las Fuerzas Armadas Revolucionarias, presidió el grupo parlamentario de amistad cubano-ruso como diputado a la Asamblea Nacional del Poder Popular y vio conservados su escafandra *Sokol* y el módulo de descenso en museos de La Habana, testimonio material de las 128 órbitas completadas en septiembre de 1980.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 

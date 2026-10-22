@@ -84,7 +84,7 @@ El vuelo de septiembre de 1934 demostró que el transporte aéreo regular de pas
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
-Noventa y dos años tras aquel despegue de treinta pesos, la empresa nacida como Aeronaves de México es la aerolínea de bandera de facto del país: bajo el nombre comercial Aeroméxico opera más de 130 aeronaves hacia un centenar de destinos en América, Europa y Asia, y forma parte de la alianza SkyTeam. La triple vida de su razón social —Aeronaves de México hasta 1972, el relanzamiento como Aerovías de México en 1988 y la marca Aeroméxico— no rompió la continuidad operativa que la compañía reivindica desde el vuelo inaugural.
+Desde aquel enlace inaugural de treinta pesos, la compañía nacida como Aeronaves de México se consolidó como aerolínea de referencia del país: bajo la marca Aeroméxico se integró en la alianza SkyTeam y extendió su red intercontinental hacia América, Europa y Asia. La triple vida de su razón social —Aeronaves de México hasta 1972, el relanzamiento como Aerovías de México en 1988 y la marca Aeroméxico— no rompió la continuidad operativa que la compañía reivindica desde el vuelo inaugural.
 
 La memoria material de ese origen volvió a casa: el Stinson SR-5A Reliant XB-AJI, vendido a fines de los años treinta y localizado décadas después en Estados Unidos, fue repatriado en 2016, restaurado con sus colores originales y exhibido en el Museo Militar de Aviación de la Base Aérea Militar n.º 1 de Santa Lucía como homenaje a los primeros vuelos civiles de México. Cada 14 de septiembre la aerolínea conmemora aquel vuelo de 1934, y la ruta Ciudad de México–Acapulco sigue en su red como el trazo más antiguo de su historia.
 

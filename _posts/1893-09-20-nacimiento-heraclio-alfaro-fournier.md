@@ -93,7 +93,7 @@ Su emigración técnica multiplicó el impacto: formó a generaciones de ingenie
 ## Legado
 El Aero Club de Vitoria lleva su nombre desde 1955 y una calle junto al aeropuerto de Barajas recuerda al ingeniero; en su ciudad natal, placas oficiales señalan la casa donde nació y la Diputación Foral de Álava publicó en 2020 su biografía de referencia, obra de Sáenz de Ugarte y Sagastuy.
 
-Ciento treinta y tres años después, Alfaro enlaza en una sola biografía los planeadores de madera y tela con la ingeniería aeronáutica universitaria, y Vitoria con Dayton, Cleveland y Boston.
+La figura de Heraclio Alfaro enlaza en una sola biografía los planeadores de madera y tela con la ingeniería aeronáutica universitaria, y Vitoria con Dayton, Cleveland y Boston.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

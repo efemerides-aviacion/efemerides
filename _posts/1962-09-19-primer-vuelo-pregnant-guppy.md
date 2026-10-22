@@ -81,7 +81,7 @@ El efecto inmediato fue logístico: las etapas de los cohetes pasaron de tardar 
 
 ## Legado
 
-Sesenta y cuatro años después, el vuelo de Van Nuys sigue siendo el acta de nacimiento de los supertransportes aéreos: cada Beluga que cruza Europa con un ala de avión en el vientre desciende en línea recta del Stratocruiser «preñado» de Conroy. El Pregnant Guppy original ya no existe —desguazado en 1979—, pero parte de su cola vuela todavía en el Super Guppy `N941NA` de la NASA, el último de la estirpe en servicio.
+El despegue de Van Nuys quedó inscrito como el acta de nacimiento de los supertransportes aéreos: cada Beluga que cruza Europa con un ala de avión en el vientre desciende en línea recta del Stratocruiser «preñado» de Conroy. El Pregnant Guppy original fue desguazado en 1979, aunque una sección de su cola se integró en el Super Guppy `N941NA` operado por la NASA.
 
 El primer Super Guppy (`N1038V`), retirado por la NASA en 1991, se conserva en el Pima Air & Space Museum; y el copiloto de aquel 19 de septiembre, Clay Lacy, ingresó en 2010 en el National Aviation Hall of Fame con más de 50.000 horas de vuelo y 300 tipos de avión en su libreta.
 

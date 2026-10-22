@@ -77,7 +77,7 @@ El efecto inmediato fue la autorización real para volar con humanos: convencido
 
 ## Legado
 
-Doscientos cuarenta y tres años después, la oveja, el pato y el gallo de Versalles siguen siendo los primeros pasajeros de la historia de la aviación: ningún ser vivo había volado antes en una máquina construida por el hombre, y ninguno de los vuelos humanos que siguieron habría sido autorizado sin su viaje de ocho minutos. El <i>Aérostat Réveillon</i> dio nombre a una familia entera de globos —las «montgolfieras»— y la fecha del 19 de septiembre quedó como el día en que la humanidad comprobó, con una jaula de granja, que el cielo era transitable.
+En los anales de la aerostación, la oveja, el pato y el gallo de Versalles figuran como los primeros pasajeros de la historia de la aviación: ningún ser vivo había volado antes en una máquina construida por el hombre, y ninguno de los vuelos humanos que siguieron habría sido autorizado sin su viaje de ocho minutos. El <i>Aérostat Réveillon</i> dio nombre a una familia entera de globos —las «montgolfieras»— y la fecha del 19 de septiembre quedó como el día en que la humanidad comprobó, con una jaula de granja, que el cielo era transitable.
 
 La escena vive en museos y colecciones de todo el mundo: el Smithsonian custodia una de las grandes colecciones de estampas del nacimiento del globo, y el grabado parisino de 1783 que ilustra esta efeméride se conserva en la Library of Congress.
 

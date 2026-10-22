@@ -83,7 +83,7 @@ En el plano industrial, el programa sostuvo a Junkers en el rearme aéreo alemá
 
 ## Legado
 
-Noventa y un años después de aquel despegue en Dessau, el Stuka sigue siendo el avión más reconocible de la Segunda Guerra Mundial: el ala en gaviota invertida, el tren con polainas y la sirena del picado forman una silueta que no necesita siglas. Su piloto más famoso, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1916/07/02/nacimiento-hans-ulrich-rudel.html" style="color: #315fea; text-decoration: none;">Hans-Ulrich Rudel</a>, encarna la segunda vida del aparato como cazacarros del frente oriental.
+Desde aquel vuelo de prueba en Dessau, el Stuka permanece como el avión más reconocible de la Segunda Guerra Mundial: el ala en gaviota invertida, el tren con polainas y la sirena del picado forman una silueta que no necesita siglas. Su piloto más famoso, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1916/07/02/nacimiento-hans-ulrich-rudel.html" style="color: #315fea; text-decoration: none;">Hans-Ulrich Rudel</a>, encarna la segunda vida del aparato como cazacarros del frente oriental.
 
 En la segunda mitad de la guerra el Ju 87 quedó obsoleto como bombardero diurno y terminó sus días como bombardero nocturno, mientras las versiones de asalto del Focke-Wulf Fw 190 lo sustituían. De los miles construidos solo sobreviven completos dos: el Ju 87G-2 n.º 494083 del RAF Museum de Hendon (capturado en mayo de 1945) y el Ju 87R-2 tropical n.º 5954 del Museo de Ciencia e Industria de Chicago.
 

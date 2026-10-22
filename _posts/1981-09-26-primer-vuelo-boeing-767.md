@@ -79,7 +79,7 @@ Boeing llegaba a 1981 convaleciente de la peor crisis de su historia: tras el co
 
 ## Legado
 
-Cuarenta y cinco años después de aquel despegue en Paine Field, el Boeing 767 supera los 1.370 ejemplares entregados y continúa en producción en sus variantes de carga y cisterna militar. Mientras el prototipo `N767BA` sirvió posteriormente como laboratorio volante del programa *Airborne Optical Adjunct* y *The Spirit of Delta* se conserva en el museo de su aerolínea en Atlanta, su mayor huella reside en haber transformado las rutas intercontinentales punto a punto que hoy dominan los bimotores de largo alcance.
+Desde aquel primer vuelo en Paine Field, la serie Boeing 767 superó los 1.300 ejemplares construidos y prolongó su fabricación mediante las variantes carguera y cisterna militar. Mientras el prototipo `N767BA` sirvió posteriormente como laboratorio volante del programa *Airborne Optical Adjunct* y *The Spirit of Delta* se conserva en el museo de su aerolínea en Atlanta, su mayor huella reside en haber transformado las rutas intercontinentales punto a punto mediante bimotores de largo alcance.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

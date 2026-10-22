@@ -6,7 +6,7 @@ categories: [nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Guardia Nacional Aérea (Estados Unidos)
-excerpt: "El 18 de septiembre de 1974 nació Heather Renee Penney en la base aérea Davis-Monthan (Arizona). Piloto de F-16 de la Guardia Nacional Aérea, el 11 de septiembre de 2001 despegó desarmada desde la base Andrews junto a su oficial al mando para interceptar el vuelo 93 de United Airlines, dispuesta a embestirlo antes de que alcanzara Washington. Cumple 52 años."
+excerpt: "El 18 de septiembre de 1974 nació Heather Renee Penney en la base aérea Davis-Monthan (Arizona). Piloto de F-16 de la Guardia Nacional Aérea, el 11 de septiembre de 2001 despegó desarmada desde la base Andrews junto a su oficial al mando para interceptar el vuelo 93 de United Airlines, dispuesta a embestirlo antes de que alcanzara Washington."
 image: 1974-09-18-nacimiento-heather-penney-piloto-f-16.webp
 ---
 
@@ -18,7 +18,7 @@ image: 1974-09-18-nacimiento-heather-penney-piloto-f-16.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 18 de septiembre de 1974 nació Heather Renee Penney en la base aérea Davis-Monthan, en Arizona, hija del Coronel John Penney, piloto de la Fuerza Aérea de Estados Unidos y más tarde de United Airlines. Criada en un hogar de aviadores, estudió literatura en Purdue University y se formó como piloto de caza: fue la única mujer de su clase de vuelo y la única destinada en el 121st Fighter Squadron, el escuadrón de F-16 de la Guardia Nacional Aérea del Distrito de Columbia con sede en la base Andrews, en Maryland.</p>
-<p>El 11 de septiembre de 2001, la Teniente Heather «Lucky» Penney despegó sin armamento desde Andrews junto a su oficial al mando, Marc «Sass» Sasseville, con la orden de impedir que el vuelo 93 de United Airlines llegara a Washington D. C., aunque para ello tuviera que embestirlo con su propio F-16. Tras dos giras de combate en Irak, el retiro con el grado de mayor y una carrera en la industria y la investigación aeroespacial, Penney, que cumple 52 años, sigue volando y honrando la memoria de aquel día.</p>
+<p>El 11 de septiembre de 2001, la Teniente Heather «Lucky» Penney despegó sin armamento desde Andrews junto a su oficial al mando, Marc «Sass» Sasseville, con la orden de impedir que el vuelo 93 de United Airlines llegara a Washington D. C., aunque para ello tuviera que embestirlo con su propio F-16. Tras dos giras de combate en Irak, el retiro con el grado de mayor y una carrera en la industria y la investigación aeroespacial, Penney ha compaginado el análisis de defensa con el pilotaje civil y la divulgación de aquel día.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Datos verificados del evento
@@ -33,7 +33,7 @@ image: 1974-09-18-nacimiento-heather-penney-piloto-f-16.webp
 - **Giras de combate:** dos, en Irak, a los mandos de F-16
 - **Carrera civil:** Lockheed Martin (desde 2006; programas de superioridad aérea, F-35); Mitchell Institute for Aerospace Studies (desde 2018; directora de investigación)
 - **Distinciones:** premio Emerging Voice de Purdue University (2012); galardón Outstanding Aviator del Wings Club y la International Aviation Womens Association (2017)
-- **Edad:** 52 años el 18 de septiembre de 2026
+- **Aviación civil:** piloto de carreras aéreas en Reno, de aeronaves históricas y de reactores corporativos Cessna Citation XLS+
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
@@ -62,8 +62,7 @@ El 11 de septiembre de 2001 transformó la aviación en arma y la defensa aérea
 - **2012:** Recibe el reconocimiento Emerging Voice otorgado por su alma máter en Indiana.
 - **2016:** Pasa a situación de retiro tras alcanzar el grado de mayor.
 - **2017:** Ofrece junto a su padre la conferencia «9/11 Perspectives» en el Museo Nacional del Aire y el Espacio, y es distinguida conjuntamente por el Wings Club y la asociación internacional de mujeres de la aviación con su premio anual al aviador destacado.
-- **2018:** Se incorpora al Mitchell Institute for Aerospace Studies, donde es directora de investigación.
-- **2026:** Cumple 52 años; vuela en las carreras aéreas de Reno, pilota aviones antiguos y trabaja como piloto corporativa de Cessna Citation XLS+.
+- **Desde 2018:** Se incorpora al Mitchell Institute for Aerospace Studies como directora de investigación, labor que compagina con las carreras aéreas de Reno, el pilotaje de aeronaves antiguas y la aviación corporativa en Cessna Citation XLS+.
 
 ### El vuelo del 11 de septiembre
 
@@ -82,7 +81,7 @@ El plan no llegó a ejecutarse: el vuelo 93 se había estrellado al menos 35 min
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
-Heather «Lucky» Penney encarna la respuesta improvisada del poder aéreo estadounidense el 11 de septiembre de 2001: una teniente primera de 26 años —cumpliría 27 una semana después del atentado— dispuesta a dar su vida para proteger la capital. Su historia ha ganado reconocimiento con el paso de los años, y su testimonio honra tanto a sus compañeros de armas como a los pasajeros del vuelo 93. En activo en la investigación aeroespacial y en los mandos de aviones de carreras, clásicos y corporativos, Penney llega a sus 52 años, más de medio siglo después de aquel 1974.
+Heather «Lucky» Penney encarna la respuesta improvisada del poder aéreo estadounidense el 11 de septiembre de 2001: una teniente primera de 26 años —cumpliría 27 una semana después del atentado— dispuesta a dar su vida para proteger la capital. Su historia ha ganado reconocimiento con el paso de los años, y su testimonio honra tanto a sus compañeros de armas como a los pasajeros del vuelo 93. Su trayectoria posterior unió la investigación aeroespacial con el pilotaje de reactores corporativos, aviones históricos y monoplazas de competición.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas

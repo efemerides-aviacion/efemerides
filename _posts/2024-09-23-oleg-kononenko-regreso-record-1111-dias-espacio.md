@@ -96,7 +96,7 @@ El aterrizaje cerró tres marcas a la vez y dejó otras tantas consecuencias inm
 
 ## Legado
 
-Dos años después del aterrizaje, la cifra de 1.111 días sigue intacta y Kononenko ha pasado del asiento de comandante a la dirección del centro donde se forman los cosmonautas rusos.
+Al término de su quinta misión orbital, Kononenko dejó fijada en 1.111 días la plusmarca de permanencia acumulada y pasó después del asiento de comandante a la dirección del centro donde se forman los cosmonautas rusos.
 
 - **Un récord estable:** ningún viajero espacial en actividad se encuentra a menos de un año de la marca, y las misiones comerciales de corta duración no permiten acumular tiempo al ritmo de las estancias anuales en la ISS.
 - **Del vuelo a la formación:** el 10 de noviembre de 2025 Kononenko asumió de forma interina la jefatura del Centro de Entrenamiento de Cosmonautas Yuri Gagarin, y el 22 de marzo de 2026 el director general de ROSCOSMOS, Dmitri Bakánov, anunció su nombramiento como director titular, sin retirarlo del cuerpo de cosmonautas.

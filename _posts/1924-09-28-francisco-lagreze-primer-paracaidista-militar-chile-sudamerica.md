@@ -83,7 +83,7 @@ El gesto de Lagreze fue interpretado como acto de honor militar. Su nieto Franci
 
 ## Legado
 
-Ciento dos años después, el salto de El Bosque sigue siendo recordado como el acto fundacional del paracaidismo en Chile. El museo aeronáutico chileno conserva fotografías del descenso, el paracaídas Heinecke y la reseña biográfica del Teniente Lagreze Pérez. La Federación Chilena de Paracaidismo, presidida en 2024 por Patricio Candia Morales, lo reconoce como origen de la disciplina organizada.
+En la memoria aeronáutica sudamericana, el salto de El Bosque perdura como el acto fundacional del paracaidismo en Chile. El museo aeronáutico chileno conserva fotografías del descenso, el paracaídas Heinecke y la reseña biográfica del Teniente Lagreze Pérez. La Federación Chilena de Paracaidismo, presidida en 2024 por Patricio Candia Morales, lo reconoce como origen de la disciplina organizada.
 
 El centenario de 2024 reunió a familiares, historiadores y autoridades aeronáuticas en el MNAE y dio lugar a la publicación de “Paracaidismo en Chile, 100 años”. La figura de Lagreze, sepultado en el cementerio de La Serena y a veces descrita como héroe olvidado, fue reivindicada como ejemplo de valentía técnica y honor militar, en paralelo a otros pioneros del aire chileno.
 
