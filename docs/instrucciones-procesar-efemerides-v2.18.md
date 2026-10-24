@@ -1,5 +1,5 @@
 # Documento de Instrucciones Editoriales para Procesar Efemérides de Aviación
-> Última actualización: 2026-10-21  
+> Última actualización: 2026-10-24  
 > Versión: v2.18
 
 ---
@@ -12,9 +12,11 @@ y su licencia y **consigna en el `<figcaption>` el enlace al archivo de origen**
 encuadra y convierte a 1.200 × 675 con Photopea, en todas las altas y no solo cuando el
 original no admita el recorte. Queda sin efecto la redacción de la v2.16, que hacía del
 recorte por el editor la excepción. La imagen publicada tras el empuje es la del editor:
-no se coteja el archivo propio contra el suyo ni se mide su calidad. En paralelo: Plantilla
-Maestra v2.24, Instrucciones de Formato v2.23, Manual de Estilo v1.21 y
-`docs/protocolo-continuidad-sesiones.md`. Registro de la versión anterior debajo.
+no se coteja el archivo propio contra el suyo ni se mide su calidad. En paralelo el
+21-10-2026: Plantilla Maestra v2.24, Instrucciones de Formato v2.23, Manual de Estilo v1.21
+y `docs/protocolo-continuidad-sesiones.md` *(desde el 22-10-2026 rigen Plantilla Maestra
+v2.25, Instrucciones de Formato v2.24 y Manual de Estilo v1.22, permaneciendo este documento
+en v2.18 sin novedad)*. Registro de la versión anterior debajo.
 
 ### Registro de la v2.17
 
@@ -90,7 +92,6 @@ efemérides se publican **el mismo día y el mismo mes del hito**. El campo deja
 de tener uso normativo para el cómputo de años: desde la v2.17 el post no
 consigna la distancia en años con el presente (véase «Distancia temporal con
 el presente»).
-curso.
 
 Campos opcionales frecuentes:
 - `Título del post`
@@ -767,5 +768,7 @@ Rige para las entregas posteriores al 21-10-2026 y no reabre cierres comunicados
 
 ### Alineación
 
-Plantilla Maestra v2.24, Instrucciones de Formato v2.23, Manual de Estilo v1.21 y
-`docs/protocolo-continuidad-sesiones.md`.
+En paralelo el 21-10-2026: Plantilla Maestra v2.24, Instrucciones de Formato v2.23, Manual
+de Estilo v1.21 y `docs/protocolo-continuidad-sesiones.md`. Desde el 22-10-2026 rigen
+Plantilla Maestra v2.25, Instrucciones de Formato v2.24 y Manual de Estilo v1.22,
+permaneciendo este documento en v2.18 sin novedad.
