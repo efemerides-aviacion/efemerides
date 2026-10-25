@@ -77,15 +77,15 @@ El vuelo 2605 sigue siendo el accidente más mortífero ocurrido en Ciudad de M�
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
-<div class="references-box">
+<div class="references">
   <ul>
-    <li><a href="https://www.ntsb.gov/safety/safety-recs/RecLetters/A80_59_60.pdf" style="color: #315fea; text-decoration: none;">National Transportation Safety Board (NTSB) — «Safety Recommendations A-80-59 and -60» (14 de julio de 1980; revisado el 21 de agosto de 1980)</a></li>
-    <li><a href="https://data.ntsb.gov/Docket?ProjectID=79687" style="color: #315fea; text-decoration: none;">National Transportation Safety Board (NTSB) — «Investigation docket DCA80RA003: Western Airlines Flight 2605, Mexico City, 31 October 1979»</a></li>
-    <li><a href="https://www.faa.gov/lessons_learned/transport_airplane/accidents/N110AA" style="color: #315fea; text-decoration: none;">Federal Aviation Administration (FAA) — «Lessons Learned: McDonnell Douglas DC-10-10, N110AA» (suspensión del certificado de tipo del DC-10, 6 de junio de 1979, y restablecimiento, 13 de julio de 1979)</a></li>
-    <li><a href="https://www.milenio.com/policia/el-tecolotazo-los-secretos-tragicos-del-avionazo-en-cdmx" style="color: #315fea; text-decoration: none;">Milenio — «El Tecolotazo: los secretos trágicos del avionazo en CdMx» (reporte de la Secretaría de Comunicaciones y Transportes obtenido por acceso a la información)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Western_Airlines_Flight_2605" style="color: #315fea; text-decoration: none;">Wikipedia — «Western Airlines Flight 2605» (artículo enciclopédico con referencias a la circular 173-AN/109 de la OACI)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Western_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia — «Western Airlines» (trayectoria de la compañía y fusión con Delta Air Lines)</a></li>
-    <li><a href="https://simpleflying.com/western-airlines-flight-2605-cabin-crew-perspective/" style="color: #315fea; text-decoration: none;">Simple Flying — «Western Airlines Flight 2605: A Cabin Crew Perspective» (testimonios de la tripulación de cabina)</a></li>
+    <li><a href="https://www.ntsb.gov/safety/safety-recs/RecLetters/A80_59_60.pdf" style="color: #315fea; text-decoration: none;">NTSB – Safety Recommendations A-80-59 and -60 (14 de julio de 1980)</a></li>
+    <li><a href="https://data.ntsb.gov/Docket?ProjectID=79687" style="color: #315fea; text-decoration: none;">NTSB – Investigation docket DCA80RA003: Western Airlines Flight 2605</a></li>
+    <li><a href="https://www.faa.gov/lessons_learned/transport_airplane/accidents/N110AA" style="color: #315fea; text-decoration: none;">FAA – Lessons Learned: McDonnell Douglas DC-10-10, N110AA (1979)</a></li>
+    <li><a href="https://www.milenio.com/policia/el-tecolotazo-los-secretos-tragicos-del-avionazo-en-cdmx" style="color: #315fea; text-decoration: none;">Milenio – El Tecolotazo: los secretos trágicos del avionazo en CdMx (2025, informe de la SCT por acceso a la información)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Western_Airlines_Flight_2605" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Western Airlines Flight 2605</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Western_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Western Airlines</a></li>
+    <li><a href="https://simpleflying.com/western-airlines-flight-2605-cabin-crew-perspective/" style="color: #315fea; text-decoration: none;">Simple Flying – Western Airlines Flight 2605: A Cabin Crew Perspective (2024)</a></li>
   </ul>
 </div>
 
@@ -98,7 +98,7 @@ El vuelo 2605 sigue siendo el accidente más mortífero ocurrido en Ciudad de M�
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-25 06:06:06 CST
+- **Timestamp de verificación:** 2026-10-25 06:58:36 CST
 - **Fuentes primarias/institucionales consultadas:** National Transportation Safety Board (expediente DCA80RA003 y recomendaciones A-80-59/-60); Federal Aviation Administration; Secretaría de Comunicaciones y Transportes de México (informe difundido por Milenio); Organización de Aviación Civil Internacional (circular 173-AN/109).
 - **Fuentes secundarias de contraste:** Wikipedia; Simple Flying; prensa mexicana.
 - **Discrepancias resueltas:** 89 ocupantes y 73 víctimas totales, frente a los 88 ocupantes que repiten otras fichas (véase la Nota aclaratoria).
