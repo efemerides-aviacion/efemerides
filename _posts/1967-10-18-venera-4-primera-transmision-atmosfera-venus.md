@@ -73,12 +73,15 @@ Venera 4 inauguró la era de la exploración atmosférica directa en el sistema 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
-1. <a href="https://www.laspace.ru/activities/projects/venera-4/" style="color: #315fea; text-decoration: none;">NPO Lavochkin — Automatic interplanetary station Venera-4</a>. Reseña histórica oficial y especificaciones técnicas del vehículo espacial, archivo de proyectos institucionales de NPO Lavochkin.
-2. <a href="https://www.nasa.gov/history/55-years-ago-mariner-5-explores-venus/" style="color: #315fea; text-decoration: none;">NASA History Division — 55 Years Ago: Mariner 5 Explores Venus</a>. Crónica institucional de los encuentros de 1967 de Venera 4 y Mariner 5 y el intercambio científico conjunto.
-3. <a href="https://www.esa.int/ESA_Multimedia/Images/2004/06/Venera_4_the_first_spacecraft_to_return_data_about_the_atmosphere_of_Venus" style="color: #315fea; text-decoration: none;">European Space Agency (ESA) — Venera 4, the first spacecraft to return data about the atmosphere of Venus</a>. Ficha divulgativa de la agencia sobre el primer ingreso atmosférico planetario.
-4. Vinogradov, A. P., Surkov, Y. A., Florensky, C. P., & Andreichikov, B. M. (1968). «The Chemical Composition of the Venus Atmosphere Based on the Data of the Interplanetary Station Venera 4». <em>Journal of the Atmospheric Sciences</em>, 25(4), 535–536.
-5. Avduevsky, V. S., Marov, M. Y., & Rozhdestvensky, M. K. (1968). «Model of the Atmosphere of the Planet Venus Based on Results of Measurements Made by the Soviet Automatic Interplanetary Station Venera 4». <em>Journal of the Atmospheric Sciences</em>, 25(4), 537–545.
-
+<div class="references">
+  <ul>
+    <li><a href="https://www.laspace.ru/activities/projects/venera-4/" style="color: #315fea; text-decoration: none;">NPO Lavochkin — Automatic interplanetary station Venera-4</a>. Reseña histórica oficial y especificaciones técnicas del vehículo espacial, archivo de proyectos institucionales de NPO Lavochkin.</li>
+    <li><a href="https://www.nasa.gov/history/55-years-ago-mariner-5-explores-venus/" style="color: #315fea; text-decoration: none;">NASA History Division — 55 Years Ago: Mariner 5 Explores Venus</a>. Crónica institucional de los encuentros de 1967 de Venera 4 y Mariner 5 y el intercambio científico conjunto.</li>
+    <li><a href="https://www.esa.int/ESA_Multimedia/Images/2004/06/Venera_4_the_first_spacecraft_to_return_data_about_the_atmosphere_of_Venus" style="color: #315fea; text-decoration: none;">European Space Agency (ESA) — Venera 4, the first spacecraft to return data about the atmosphere of Venus</a>. Ficha divulgativa de la agencia sobre el primer ingreso atmosférico planetario.</li>
+    <li>Vinogradov, A. P., Surkov, Y. A., Florensky, C. P., & Andreichikov, B. M. (1968). «The Chemical Composition of the Venus Atmosphere Based on the Data of the Interplanetary Station Venera 4». <em>Journal of the Atmospheric Sciences</em>, 25(4), 535–536.</li>
+    <li>Avduevsky, V. S., Marov, M. Y., & Rozhdestvensky, M. K. (1968). «Model of the Atmosphere of the Planet Venus Based on Results of Measurements Made by the Soviet Automatic Interplanetary Station Venera 4». <em>Journal of the Atmospheric Sciences</em>, 25(4), 537–545.</li>
+  </ul>
+</div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">

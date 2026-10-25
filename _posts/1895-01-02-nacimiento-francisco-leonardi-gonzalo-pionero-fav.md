@@ -74,11 +74,14 @@ Leonardi encarna el puente institucional entre los pioneros empíricos de princi
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
-1. Academia Militar de la Aviación Bolivariana (AMAB). *Reseña histórica y orígenes de la Escuela de Aviación Militar de Maracay (1920)*. Ministerio del Poder Popular para la Defensa, Caracas.
-2. Museo Aeronáutico de Maracay «Coronel Luis Hernán Paredes». *Catálogo histórico de pioneros y fundadores de la Aviación Militar Venezolana*. Maracay, estado Aragua.
-3. Paredes, L. H. (1985). *Historia de la Aviación Militar Venezolana: de los primeros vuelos a la era del reactor*. Comandancia General de la Aviación, Caracas.
-4. Gaceta Oficial de los Estados Unidos de Venezuela. Decretos ejecutivos de nombramiento en el Ministerio de Guerra y Marina y la Línea Aeropostal Venezolana (1931–1938), Archivo General de la Nación, Caracas.
-
+<div class="references">
+  <ul>
+    <li>Academia Militar de la Aviación Bolivariana (AMAB). *Reseña histórica y orígenes de la Escuela de Aviación Militar de Maracay (1920)*. Ministerio del Poder Popular para la Defensa, Caracas.</li>
+    <li>Museo Aeronáutico de Maracay «Coronel Luis Hernán Paredes». *Catálogo histórico de pioneros y fundadores de la Aviación Militar Venezolana*. Maracay, estado Aragua.</li>
+    <li>Paredes, L. H. (1985). *Historia de la Aviación Militar Venezolana: de los primeros vuelos a la era del reactor*. Comandancia General de la Aviación, Caracas.</li>
+    <li>Gaceta Oficial de los Estados Unidos de Venezuela. Decretos ejecutivos de nombramiento en el Ministerio de Guerra y Marina y la Línea Aeropostal Venezolana (1931–1938), Archivo General de la Nación, Caracas.</li>
+  </ul>
+</div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">

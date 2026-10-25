@@ -80,16 +80,18 @@ El alcance histórico de aquella tragedia sobre aguas de Barbados no reside solo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Referencias Verificadas
-<ul>
-  <li>OACI — Doc 9790, Resolución A22-5: <a href="https://www.icao.int/sites/default/files/publications/DocSeries/9790_es.pdf" style="color: #315fea; text-decoration: none;">versión en español</a>; <a href="https://www.icao.int/sites/default/files/publications/DocSeries/9790_en.pdf" style="color: #315fea; text-decoration: none;">versión en inglés</a>.</li>
-  <li><a href="https://foreign.gov.tt/documents/1586/Wreath_Laying_Cuba_-_6_Oct_2024_-_Media_Release.pdf" style="color: #315fea; text-decoration: none;">Ministerio de Relaciones Exteriores y CARICOM de Trinidad y Tobago — comunicado conmemorativo</a></li>
-  <li><a href="https://www.foreign.gov.bb/caricom-cuba-commemorate-aircraft-tragedy/" style="color: #315fea; text-decoration: none;">Ministerio de Relaciones Exteriores de Barbados — homenaje de CARICOM y Cuba</a></li>
-  <li><a href="https://aviation-safety.net/asndb/329301" style="color: #315fea; text-decoration: none;">Flight Safety Foundation — Aviation Safety Network, ficha CU-T1201</a></li>
-  <li><a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB153/index.htm" style="color: #315fea; text-decoration: none;">National Security Archive — documentos desclasificados de CIA y FBI</a></li>
-  <li><a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB218/index.htm" style="color: #315fea; text-decoration: none;">National Security Archive — documentación policial y judicial relacionada con el caso</a></li>
-  <li><a href="https://cidh.oas.org/annualrep/84.85eng/Venezuela9058.htm" style="color: #315fea; text-decoration: none;">CIDH/OEA — Resolución 2/84, caso 9058</a></li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:Cubana_Douglas_DC-8-43_CU-T1201.jpg" style="color: #315fea; text-decoration: none;">Fotografía de Clint Groves del CU-T1201 en Wikimedia Commons</a>; licencia GNU FDL 1.2 (<a href="https://www.gnu.org/licenses/old-licenses/fdl-1.2.html" style="color: #315fea; text-decoration: none;">texto oficial</a>). Adaptación: recorte y conversión WebP.</li>
-</ul>
+<div class="references">
+  <ul>
+    <li>OACI — Doc 9790, Resolución A22-5: <a href="https://www.icao.int/sites/default/files/publications/DocSeries/9790_es.pdf" style="color: #315fea; text-decoration: none;">versión en español</a>; <a href="https://www.icao.int/sites/default/files/publications/DocSeries/9790_en.pdf" style="color: #315fea; text-decoration: none;">versión en inglés</a>.</li>
+    <li><a href="https://foreign.gov.tt/documents/1586/Wreath_Laying_Cuba_-_6_Oct_2024_-_Media_Release.pdf" style="color: #315fea; text-decoration: none;">Ministerio de Relaciones Exteriores y CARICOM de Trinidad y Tobago — comunicado conmemorativo</a></li>
+    <li><a href="https://www.foreign.gov.bb/caricom-cuba-commemorate-aircraft-tragedy/" style="color: #315fea; text-decoration: none;">Ministerio de Relaciones Exteriores de Barbados — homenaje de CARICOM y Cuba</a></li>
+    <li><a href="https://aviation-safety.net/asndb/329301" style="color: #315fea; text-decoration: none;">Flight Safety Foundation — Aviation Safety Network, ficha CU-T1201</a></li>
+    <li><a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB153/index.htm" style="color: #315fea; text-decoration: none;">National Security Archive — documentos desclasificados de CIA y FBI</a></li>
+    <li><a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB218/index.htm" style="color: #315fea; text-decoration: none;">National Security Archive — documentación policial y judicial relacionada con el caso</a></li>
+    <li><a href="https://cidh.oas.org/annualrep/84.85eng/Venezuela9058.htm" style="color: #315fea; text-decoration: none;">CIDH/OEA — Resolución 2/84, caso 9058</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Cubana_Douglas_DC-8-43_CU-T1201.jpg" style="color: #315fea; text-decoration: none;">Fotografía de Clint Groves del CU-T1201 en Wikimedia Commons</a>; licencia GNU FDL 1.2 (<a href="https://www.gnu.org/licenses/old-licenses/fdl-1.2.html" style="color: #315fea; text-decoration: none;">texto oficial</a>). Adaptación: recorte y conversión WebP.</li>
+  </ul>
+</div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 <div class="note-box">

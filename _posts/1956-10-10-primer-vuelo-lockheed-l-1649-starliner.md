@@ -80,15 +80,16 @@ El L-1649 cerró la evolución comercial de la familia Constellation, pero la hi
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-<ul>
-  <li>Smithsonian Institution, National Air and Space Museum, <a href="https://airandspace.si.edu/collection-objects/lockheed-1049f-55-96-constellation/nasm_A19880371000" style="color: #315fea; text-decoration: none;">“Lockheed 1049F-55-96, ‘Constellation’”</a>.</li>
-  <li>South African Airways Museum Society, <a href="https://saamuseum.co.za/our-aircraft/" style="color: #315fea; text-decoration: none;">“Our aircraft”</a>, ficha “Lockheed L1649A Starliner – 1958”.</li>
-  <li><i>Los Angeles Times</i>, vol. LXXV, 11 de octubre de 1956, parte 1, p. 5, col. 5; transcripción reproducida por <a href="https://www.thisdayinaviation.com/10-october-1956-lockheed-l-1649-starliner/" style="color: #315fea; text-decoration: none;">This Day in Aviation</a>.</li>
-  <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-lockheed-l-1649-starliner.html" style="color: #315fea; text-decoration: none;">“Today in Aviation History: First Flight of the Lockheed L-1649 Starliner”</a>, <i>Vintage Aviation News</i>.</li>
-  <li><a href="https://newsroom.lufthansagroup.com/en/lufthansa-celebrates-roll-out-of-the-legendary-lockheed-super-star/" style="color: #315fea; text-decoration: none;">“Lufthansa celebrates roll-out of the legendary Lockheed Super Star”</a>, Lufthansa Group Newsroom.</li>
-  <li><a href="https://www.twahotel.com/connie-airplane/connies-history" style="color: #315fea; text-decoration: none;">“Connie’s History”</a>, TWA Hotel.</li>
-</ul>
-
+<div class="references">
+  <ul>
+    <li>Smithsonian Institution, National Air and Space Museum, <a href="https://airandspace.si.edu/collection-objects/lockheed-1049f-55-96-constellation/nasm_A19880371000" style="color: #315fea; text-decoration: none;">“Lockheed 1049F-55-96, ‘Constellation’”</a>.</li>
+    <li>South African Airways Museum Society, <a href="https://saamuseum.co.za/our-aircraft/" style="color: #315fea; text-decoration: none;">“Our aircraft”</a>, ficha “Lockheed L1649A Starliner – 1958”.</li>
+    <li><i>Los Angeles Times</i>, vol. LXXV, 11 de octubre de 1956, parte 1, p. 5, col. 5; transcripción reproducida por <a href="https://www.thisdayinaviation.com/10-october-1956-lockheed-l-1649-starliner/" style="color: #315fea; text-decoration: none;">This Day in Aviation</a>.</li>
+    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-lockheed-l-1649-starliner.html" style="color: #315fea; text-decoration: none;">“Today in Aviation History: First Flight of the Lockheed L-1649 Starliner”</a>, <i>Vintage Aviation News</i>.</li>
+    <li><a href="https://newsroom.lufthansagroup.com/en/lufthansa-celebrates-roll-out-of-the-legendary-lockheed-super-star/" style="color: #315fea; text-decoration: none;">“Lufthansa celebrates roll-out of the legendary Lockheed Super Star”</a>, Lufthansa Group Newsroom.</li>
+    <li><a href="https://www.twahotel.com/connie-airplane/connies-history" style="color: #315fea; text-decoration: none;">“Connie’s History”</a>, TWA Hotel.</li>
+  </ul>
+</div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">

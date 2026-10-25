@@ -73,11 +73,14 @@ La caminata del 18 de octubre de 2019 supuso un hito en la historia de la explor
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
-1. <a href="https://blogs.nasa.gov/spacestation/2019/10/18/nasa-astronauts-wrap-up-historic-all-woman-spacewalk/" style="color: #315fea; text-decoration: none;">NASA — NASA Astronauts Wrap Up Historic All-Woman Spacewalk</a>. Comunicado oficial del blog de operaciones de la Estación Espacial Internacional con el balance y cronograma de la salida extravehicular.
-2. <a href="https://www.nasa.gov/image-feature/nasa-astronaut-christina-koch-takes-an-out-of-this-world-space-selfie" style="color: #315fea; text-decoration: none;">NASA — NASA Astronaut Christina Koch Takes an Out-of-this-World 'Space-Selfie'</a>. Ficha institucional de la imagen y crónica técnica de la caminata espacial del 18 de octubre de 2019.
-3. <a href="https://www.nasa.gov/people/christina-hammock-koch/" style="color: #315fea; text-decoration: none;">NASA — Astronaut Christina Hammock Koch</a>. Perfil biográfico oficial y registro de actividades extravehiculares de la astronauta en la NASA.
-4. <a href="https://www.nasa.gov/people/jessica-u-meir/" style="color: #315fea; text-decoration: none;">NASA — Astronaut Jessica U. Meir</a>. Ficha biográfica institucional y trayectoria de vuelos de la astronauta en la agencia espacial estadounidense.
-
+<div class="references">
+  <ul>
+    <li><a href="https://blogs.nasa.gov/spacestation/2019/10/18/nasa-astronauts-wrap-up-historic-all-woman-spacewalk/" style="color: #315fea; text-decoration: none;">NASA — NASA Astronauts Wrap Up Historic All-Woman Spacewalk</a>. Comunicado oficial del blog de operaciones de la Estación Espacial Internacional con el balance y cronograma de la salida extravehicular.</li>
+    <li><a href="https://www.nasa.gov/image-feature/nasa-astronaut-christina-koch-takes-an-out-of-this-world-space-selfie" style="color: #315fea; text-decoration: none;">NASA — NASA Astronaut Christina Koch Takes an Out-of-this-World 'Space-Selfie'</a>. Ficha institucional de la imagen y crónica técnica de la caminata espacial del 18 de octubre de 2019.</li>
+    <li><a href="https://www.nasa.gov/people/christina-hammock-koch/" style="color: #315fea; text-decoration: none;">NASA — Astronaut Christina Hammock Koch</a>. Perfil biográfico oficial y registro de actividades extravehiculares de la astronauta en la NASA.</li>
+    <li><a href="https://www.nasa.gov/people/jessica-u-meir/" style="color: #315fea; text-decoration: none;">NASA — Astronaut Jessica U. Meir</a>. Ficha biográfica institucional y trayectoria de vuelos de la astronauta en la agencia espacial estadounidense.</li>
+  </ul>
+</div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">

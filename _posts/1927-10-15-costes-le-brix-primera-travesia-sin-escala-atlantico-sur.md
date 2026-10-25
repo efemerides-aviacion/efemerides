@@ -95,14 +95,16 @@ El *Nungesser-Coli* condensaba dos memorias aeronáuticas: la desaparición de u
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-
-1. Fédération Aéronautique Internationale (FAI), <a href="https://fai.org/news/90-years-ago-first-non-stop-flight-across-south-atlantic-ocean" style="color: #315fea; text-decoration: none;">“90 years ago: First non-stop flight across South Atlantic Ocean”</a>, 15 de octubre de 2017. Fechas, ruta, distancia, tipo de aeronave y marco de la expedición.
-2. Organización de Aviación Civil Internacional (ICAO), <a href="https://www.icao.int/sites/default/files/postalhistory/aviation_history_the_first_over_the_atlantic.htm" style="color: #315fea; text-decoration: none;">“Aviation History – The First Over the Atlantic”</a>. Cronología de la aviación transatlántica, cruce de Costes y Le Brix y antecedente portugués de 1922.
-3. <em>Le Gaulois</em>, 15 de octubre de 1927, digitalizado por Gallica-Bibliothèque nationale de France, <a href="https://gallica.bnf.fr/ark:/12148/bpt6k5410389.texte.langFR" style="color: #315fea; text-decoration: none;">fascículo del día</a>. Reporte contemporáneo sobre la salida desde Saint-Louis.
-4. <em>Le Petit Parisien</em>, 16 de octubre de 1927, digitalizado por Gallica-Bibliothèque nationale de France, <a href="https://gallica.bnf.fr/ark:/12148/bpt6k6070004.texte.langFR" style="color: #315fea; text-decoration: none;">fascículo del día</a>. Noticia contemporánea del aterrizaje y declaraciones de Costes.
-5. Musée de l’Air et de l’Espace, <a href="https://www.museeairespace.fr/aller-plus-haut/collections/breguet-19-gr-n1685-nungesser-coli-et-toile-de-la-gouverne-de-direction/" style="color: #315fea; text-decoration: none;">ficha del Breguet 19 GR n.º 1685 «Nungesser-Coli»</a>. Identificación del aparato, denominación y antecedentes; la fecha de llegada consignada en la ficha se trata en la nota aclaratoria.
-6. Air Journal, Stéphanie Meyniel, <a href="https://www.air-journal.fr/2011-10-15-le-15-octobre-1927-dans-le-ciel-costes-et-le-brix-traversent-l%E2%80%99atlantique-sud-536571.html" style="color: #315fea; text-decoration: none;">“Le 15 octobre 1927 dans le ciel : Costes et Le Brix traversent l’Atlantique Sud”</a>, 15 de octubre de 2011. Contraste secundario sobre hora de partida y duración publicada.
-
+<div class="references">
+  <ul>
+    <li>Fédération Aéronautique Internationale (FAI), <a href="https://fai.org/news/90-years-ago-first-non-stop-flight-across-south-atlantic-ocean" style="color: #315fea; text-decoration: none;">“90 years ago: First non-stop flight across South Atlantic Ocean”</a>, 15 de octubre de 2017. Fechas, ruta, distancia, tipo de aeronave y marco de la expedición.</li>
+    <li>Organización de Aviación Civil Internacional (ICAO), <a href="https://www.icao.int/sites/default/files/postalhistory/aviation_history_the_first_over_the_atlantic.htm" style="color: #315fea; text-decoration: none;">“Aviation History – The First Over the Atlantic”</a>. Cronología de la aviación transatlántica, cruce de Costes y Le Brix y antecedente portugués de 1922.</li>
+    <li><em>Le Gaulois</em>, 15 de octubre de 1927, digitalizado por Gallica-Bibliothèque nationale de France, <a href="https://gallica.bnf.fr/ark:/12148/bpt6k5410389.texte.langFR" style="color: #315fea; text-decoration: none;">fascículo del día</a>. Reporte contemporáneo sobre la salida desde Saint-Louis.</li>
+    <li><em>Le Petit Parisien</em>, 16 de octubre de 1927, digitalizado por Gallica-Bibliothèque nationale de France, <a href="https://gallica.bnf.fr/ark:/12148/bpt6k6070004.texte.langFR" style="color: #315fea; text-decoration: none;">fascículo del día</a>. Noticia contemporánea del aterrizaje y declaraciones de Costes.</li>
+    <li>Musée de l’Air et de l’Espace, <a href="https://www.museeairespace.fr/aller-plus-haut/collections/breguet-19-gr-n1685-nungesser-coli-et-toile-de-la-gouverne-de-direction/" style="color: #315fea; text-decoration: none;">ficha del Breguet 19 GR n.º 1685 «Nungesser-Coli»</a>. Identificación del aparato, denominación y antecedentes; la fecha de llegada consignada en la ficha se trata en la nota aclaratoria.</li>
+    <li>Air Journal, Stéphanie Meyniel, <a href="https://www.air-journal.fr/2011-10-15-le-15-octobre-1927-dans-le-ciel-costes-et-le-brix-traversent-l%E2%80%99atlantique-sud-536571.html" style="color: #315fea; text-decoration: none;">“Le 15 octobre 1927 dans le ciel : Costes et Le Brix traversent l’Atlantique Sud”</a>, 15 de octubre de 2011. Contraste secundario sobre hora de partida y duración publicada.</li>
+  </ul>
+</div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
