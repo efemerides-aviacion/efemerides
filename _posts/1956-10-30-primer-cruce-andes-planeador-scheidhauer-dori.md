@@ -74,7 +74,7 @@ La vertiente oriental patagónica explorada en octubre de 1956 terminó consolid
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-<div class="references-box">
+<div class="references">
   <ul>
     <li><a href="https://www.argentina.gob.ar/noticias/museo-nacional-de-aeronautica-la-reapertura-al-publico" style="color: #315fea; text-decoration: none;">Presidencia de la Nación / Fuerza Aérea Argentina (Portal Oficial del Estado Argentino) — «Museo Nacional de Aeronáutica: la reapertura al público» (reseña patrimonial oficial del ala volante IA-41 Urubú)</a></li>
     <li><a href="https://mna.ar/notas/industria_nacional/industria_nacional.html" style="color: #315fea; text-decoration: none;">Museo Nacional de Aeronáutica (Fuerza Aérea Argentina, Morón) — «La industria nacional en el MNA: Aeronaves de fabricación nacional en el Museo Nacional de Aeronáutica»</a></li>

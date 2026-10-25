@@ -76,7 +76,7 @@ En el plano normativo y judicial, las recomendaciones de la NTSB (informe ASR-19
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
-<div class="references-box">
+<div class="references">
   <ul>
     <li><a href="https://knkt.go.id/Repo/Files/Laporan/Penerbangan/2018/PK-LQP%20Final%20Report.pdf" style="color: #315fea; text-decoration: none;">Komite Nasional Keselamatan Transportasi (KNKT) — «Final Aircraft Accident Investigation Report KNKT.18.10.35.04: PT. Lion Mentari Airlines, Boeing 737-8 (MAX); PK-LQP, Tanjung Karawang, West Java, 29 October 2018» (25 de octubre de 2019)</a></li>
     <li><a href="https://www.ntsb.gov/investigations/accidentreports/reports/asr1901.pdf" style="color: #315fea; text-decoration: none;">National Transportation Safety Board (NTSB) — «Safety Recommendation Report ASR-19-01: Assumptions Used in the Safety Assessment Process and the Effects of Multiple Alerts and Indications on Pilot Performance» (septiembre de 2019)</a></li>

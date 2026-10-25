@@ -76,7 +76,7 @@ Tras el cierre de las operaciones aéreas regulares en el antiguo campo de Marac
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-<div class="references-box">
+<div class="references">
   <ul>
     <li><a href="https://clac-lacac.org/wp-content/uploads/2020/10/EM-VEN-RH.pdf" style="color: #315fea; text-decoration: none;">Comisión Latinoamericana de Aviación Civil (CLAC) — «Reseña histórica de la aviación en Venezuela» (documento institucional del Estado miembro)</a></li>
     <li><a href="http://servicio.bc.uc.edu.ve/postgrado/manongo41/art08.pdf" style="color: #315fea; text-decoration: none;">Froilán Ramos-Rodríguez (Universidad de Carabobo, revista Mañongo, n.º 41, 2013) — «Aviación Militar venezolana, 1920-1936. Del Personalismo a la Institucionalidad»</a></li>
