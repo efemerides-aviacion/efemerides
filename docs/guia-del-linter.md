@@ -1,5 +1,6 @@
 # Guía del validador estructural de efemérides
-> Última actualización: 2026-10-22 (calibración integral de la auditoría [AVISO] 12 en `awk` POSIX compatible con `bash 3.2` de macOS: audita todas las ocurrencias de `YAML` (`title`/`excerpt`), cuerpo y `Nota aclaratoria`, incluidos apócopes `un`/`veintiún`, `A X años de…`, aproximaciones `casi`/`más de`/`durante X años`, edad viva `cumple X años` y `Un siglo después` sin ancla; censo verificado sobre `663` posts: **117 posts** y **132 ocurrencias**; `0` cambios de código de salida). Actualización previa del mismo día: 2026-10-22 (nueva auditoría [AVISO] 13: títulos de realeza, nobleza y dignidades en minúscula ante nombre propio — Manual de Estilo v1.22, § 4.3, decisión D1-c; Plantilla Maestra v2.25, regla maestra 5; Instrucciones de Formato v2.24 —; no computa como fallo y no es retroactiva). Actualización anterior: 2026-10-21 (nueva auditoría [AVISO] 12: recuento de años anclado al presente, tras la derogación de la regla de cómputo — Manual de Estilo v1.20, § 5.9 —; no computa como fallo y no es retroactiva). > Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
+> Última actualización: 2026-10-25 (nueva auditoría **14**: marcado de `## Referencias Verificadas` — envoltorio obligatorio `<div class="references"><ul><li>…</li></ul></div>`, aviso ante cualquier clase ajena a la hoja de estilos del sitio —`references-box` u otra— y aviso ante lista Markdown sin `<li>`; en modo `[AVISO]`, no retroactiva y sin cambios de código de salida. Censo sobre `672` posts en el HEAD `fbc8d8024f46`: **665** con el envoltorio normativo, **7** sin él y **11** avisos nuevos; `0` cambios de veredicto).
+> Última actualización anterior: 2026-10-22 (calibración integral de la auditoría [AVISO] 12 en `awk` POSIX compatible con `bash 3.2` de macOS: audita todas las ocurrencias de `YAML` (`title`/`excerpt`), cuerpo y `Nota aclaratoria`, incluidos apócopes `un`/`veintiún`, `A X años de…`, aproximaciones `casi`/`más de`/`durante X años`, edad viva `cumple X años` y `Un siglo después` sin ancla; censo verificado sobre `663` posts: **117 posts** y **132 ocurrencias**; `0` cambios de código de salida). Actualización previa del mismo día: 2026-10-22 (nueva auditoría [AVISO] 13: títulos de realeza, nobleza y dignidades en minúscula ante nombre propio — Manual de Estilo v1.22, § 4.3, decisión D1-c; Plantilla Maestra v2.25, regla maestra 5; Instrucciones de Formato v2.24 —; no computa como fallo y no es retroactiva). Actualización anterior: 2026-10-21 (nueva auditoría [AVISO] 12: recuento de años anclado al presente, tras la derogación de la regla de cómputo — Manual de Estilo v1.20, § 5.9 —; no computa como fallo y no es retroactiva). > Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
 
 ## Finalidad
 
@@ -124,3 +125,33 @@ mayúscula de *rey*, *reina*, *emperador*, *zar*, *conde Zeppelin*, *marqués* o
 de salida** y **0 diferencias ajenas a la auditoría 13**; el post del
 `1943-10-26` (Do 335) pasa con 61 comprobaciones `[OK]`, 0 avisos y 0 fallos.
 La norma **no es retroactiva**: los 14 posts previos quedan congelados.
+
+Desde el 2026-10-25 el validador comprueba además el **marcado de la sección de
+referencias** (auditoría 14; Plantilla Maestra v2.25, regla maestra 14, y hoja de
+estilos del sitio `assets/css/main.css`). Tres comprobaciones, todas en modo
+`[AVISO]` y **no retroactivas**:
+
+1. `[OK] Referencias: envoltorio normativo <div class="references">` cuando la
+   sección abre con el envoltorio del patrón de la casa; en su defecto, aviso
+   `Referencias sin el envoltorio`.
+2. Aviso cuando el envoltorio usa una **clase ajena a la hoja de estilos**
+   (`references-box` u otra): `main.css` solo define `.references`, de modo que
+   la sección se publica sin caja ni borde y con viñetas. El escaneo abarca
+   únicamente las clases que aparecen **antes de la primera entrada** de la
+   lista, para no confundir el envoltorio con la `note-box` de la nota
+   aclaratoria posterior.
+3. Aviso cuando las entradas van en **lista Markdown** (viñeta o numeración) en
+   lugar de `<li>` dentro de `<ul>`: el patrón de la casa es
+   `<div class="references"><ul><li>…</li></ul></div>`.
+
+Fotografía del corpus en el HEAD `fbc8d8024f46` (2026-10-25; **672 posts**):
+**665** con el envoltorio normativo, **7** sin él —`1895-01-02`, `1907-10-10`,
+`1927-10-15`, `1956-10-10`, `1967-10-18`, `1976-10-06` y `2019-10-18`, de los
+que cuatro llevan además lista Markdown—, **0** con clase ajena y **11** avisos
+nuevos en total. La regresión completa sobre los 672 posts deja **0 cambios de
+código de salida** (662 con código 0 y los mismos 10 con código 1 que antes de
+la auditoría) y **0 diferencias ajenas a la auditoría 14**. La corrección del
+`1979-10-31` y de las tres altas afines del `24-10`, publicada en los commits
+`f9c1e4dc` y `fbc8d80`, se adelantó a la herramienta y por eso ya no figura
+entre los avisos. La norma **no es retroactiva**: los 7 posts previos quedan
+congelados.

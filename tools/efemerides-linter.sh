@@ -42,6 +42,10 @@
 #  cuerpo y Nota aclaratoria —incluidos apócopes un/veintiún, «A X años de…», «casi/más de X años»,
 #  edad viva «cumple X años» y «Un siglo después» sin ancla—, descartando edades biográficas,
 #  fallecimientos/jubilaciones fechados, duraciones cerradas y conmemoraciones con fecha completa.
+# nueva comprobación 14 el 2026-10-25 (orden del editor tras el alta 1979-10-31): marcado de
+#  «## Referencias Verificadas» — envoltorio obligatorio <div class="references">, aviso ante
+#  cualquier clase ajena a la hoja de estilos del sitio (p. ej. references-box) y aviso ante lista
+#  Markdown sin <li>; en modo [AVISO], no retroactiva y sin cambios de veredicto en el corpus.
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -245,6 +249,30 @@ NREFS=$(grep -cE '^\s*(<li>|[-*] |[0-9]+\. )' <<<"$REFS")
 [ "$NREFS" -ge 4 ] && ok "Referencias verificadas: $NREFS (mínimo 4, contando <li>/viñeta/numeradas)" \
   || fail "Referencias verificadas: solo $NREFS — se exigen al menos 4"
 [ "$NREFS" -eq 0 ] && fail "La sección de referencias está vacía"
+
+# --------------------------------------- Marcado de Referencias (regla 14-bis) (8-bis)
+# Aviso, no fallo (no retroactiva): la Plantilla Maestra fija el patrón
+# <div class="references"><ul><li>…</li></ul></div> y la hoja de estilos del sitio
+# (assets/css/main.css) solo define .references; una clase ajena —p. ej. «references-box»—
+# no tiene regla asociada y deja la sección sin caja. Números y clases: docs/guia-del-linter.md.
+# El bloque termina en el primer divisor: así la nota aclaratoria posterior (note-box)
+# no se confunde con el envoltorio de las referencias.
+REFS_BLOQUE=$(printf '%s\n' "$REFS" | awk '/^<hr/{exit} {print}')
+if grep -q '<div class="references">' <<<"$REFS_BLOQUE"; then
+  ok "Referencias: envoltorio normativo <div class=\"references\">"
+else
+  printf '[AVISO]   Referencias sin el envoltorio <div class="references"> (Plantilla Maestra: la hoja de estilos solo define .references; no retroactivo)\n'
+fi
+# Solo cuenta el envoltorio: las clases que aparecen ANTES de la primera entrada de la lista.
+# Así la nota aclaratoria posterior (note-box) no se confunde con el envoltorio de las referencias.
+REFS_PRE=$(printf '%s\n' "$REFS_BLOQUE" | awk '/^[[:space:]]*(<li>|[-*] |[0-9]+\. )/{exit} {print}')
+REFS_CLASES=$(grep -oE 'class="[^"]*"' <<<"$REFS_PRE" | sed -e 's/^class="//' -e 's/"$//' | tr ' ' '\n' | grep -vx 'references' | sort -u | tr '\n' ' ' || true)
+if [ -n "${REFS_CLASES:-}" ]; then
+  printf '[AVISO]   Referencias: clase de envoltorio ajena a la hoja de estilos: «%s» (usar <div class="references">; no retroactivo)\n' "$(printf '%s' "$REFS_CLASES" | sed -e 's/[[:space:]]*$//')"
+fi
+if grep -qE '^[[:space:]]*([-*] |[0-9]+\. )' <<<"$REFS_BLOQUE" && ! grep -q '<li>' <<<"$REFS_BLOQUE"; then
+  printf '[AVISO]   Referencias en lista Markdown (viñeta o numeración) en lugar de <li> dentro de <ul> (Plantilla Maestra: patrón <div class="references"><ul><li>; no retroactivo)\n'
+fi
 
 # ------------------------------------------------- Metadatos de Control (9)
 META=$(awk '/^## Metadatos de Control$/{f=1;next} f' <<<"$BODY")
