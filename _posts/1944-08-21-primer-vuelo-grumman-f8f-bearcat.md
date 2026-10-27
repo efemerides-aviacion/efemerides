@@ -14,7 +14,7 @@ image: 1944-08-21-primer-vuelo-grumman-f8f-bearcat.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-08-21-primer-vuelo-grumman-f8f-bearcat.webp" alt="Prototipo del Grumman XF8F-1 Bearcat en vuelo, visto de frente y ligeramente desde abajo, sobre un cielo claro">
   <figcaption class="post-caption">El prototipo Grumman XF8F-1 Bearcat en vuelo hacia 1944, muy probablemente el Bu. No. 90460 que realizó el primer vuelo el 21 de agosto de 1944. Fotografía de la U.S. Navy, dominio público, vía Wikimedia Commons.</figcaption>
 </figure>
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El Grumman XF8F-1 Bearcat fue diseñado como interceptor embarcado de alta prestación para portaaviones de distintos tamaños. El Museo Nacional de Aviación Naval y This Day in Aviation sitúan su primer vuelo el 21 de agosto de 1944, con Robert Leicester Hall a los mandos; CAF Southern California publica el día 31. Se mantiene el 21 como fecha canónica, sin ocultar la diferencia. El Bearcat llegó demasiado tarde para combatir en la Segunda Guerra Mundial. Su desarrollo produjo un caza compacto para la posguerra, aunque las cifras de producción varían según se cuente el contrato, los aviones militares y los ejemplares civiles.</p>

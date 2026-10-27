@@ -14,7 +14,7 @@ image: 1944-08-08-primer-vuelo-junkers-ju-287.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-08-08-primer-vuelo-junkers-ju-287.webp" alt="Vista lateral de un bombardero cuatrimotor a reacción con tren de aterrizaje fijo carenado y alas inclinadas hacia adelante, estacionado en una pista de hierba con varias personas junto al morro">
   <figcaption class="post-caption">El Junkers Ju 287 V1, matrícula de pruebas RS+RA, en el aeródromo de Brandis en agosto de 1944. Son visibles el tren de aterrizaje fijo con carenados, los dos turborreactores adosados a los costados del morro y los otros dos suspendidos bajo el ala. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Junkers_Ju_287_V1_side_view.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de agosto de 1944, según el Museo Estatal de Aviación de Ucrania, el Junkers Ju 287 V1 inició sus pruebas de vuelo desde Brandis. Fue un banco de ensayos para un bombardero a reacción proyectado por la Alemania nazi, no un modelo de serie. Su rasgo más visible era el ala en flecha invertida, una solución investigada para mejorar el comportamiento a baja velocidad. La fecha, sin embargo, no es uniforme en las fuentes: un estudio de la NASA sitúa el primer vuelo el 16 de agosto y una historia de HistoryNet, el 22. La divergencia se conserva abierta; el 8 de agosto se mantiene aquí por ser la fecha del registro canónico de la tanda y estar respaldada por el museo ucraniano.</p>

@@ -14,7 +14,7 @@ image: 1945-09-02-rendicion-de-japon-uss-missouri.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-09-02-rendicion-de-japon-uss-missouri.webp" alt="Mamoru Shigemitsu firma el Acta de Rendición de Japón a bordo del USS Missouri">
   <figcaption class="post-caption">El ministro de Relaciones Exteriores de Japón, Mamoru Shigemitsu, firma el Instrumento de Rendición en nombre del gobierno imperial a bordo del acorazado USS <em>Missouri</em> (BB-63) en la bahía de Tokio, el 2 de septiembre de 1945. Frente a él, al otro lado de la mesa, supervisa el acto el Teniente General Richard K. Sutherland (jefe de Estado Mayor del General MacArthur), mientras el diplomático Toshikazu Kase asiste al ministro. Fotografía oficial del Teniente Stephen E. Korpanty, U.S. Army Signal Corps / Naval History and Heritage Command (SC 213700), dominio público.</figcaption>
 </figure>
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de septiembre de 1945, representantes japoneses firmaron el Instrumento de Rendición a bordo del USS <em>Missouri</em>, fondeado en la bahía de Tokio. El acto formalizó la capitulación de Japón y puso fin a las hostilidades con los Aliados. El documento registra las 09:04 para la firma japonesa y las 09:03 para la aceptación de Douglas MacArthur. Después se realizó un sobrevuelo de aeronaves navales y bombarderos B-29, pero los recuentos difieren y no demuestran que todos los aparatos registrados cruzaran juntos sobre el mismo punto. La jornada reunió un acto legal y una demostración aérea antes de la ocupación aliada.</p>
@@ -27,8 +27,8 @@ image: 1945-09-02-rendicion-de-japon-uss-missouri.webp
 - **Fecha:** 2 de septiembre de 1945.
 - **Lugar:** a bordo del acorazado USS <em>Missouri</em> (BB-63), en la bahía de Tokio.
 - **Documento:** Instrumento de Rendición de Japón, preparado por el Departamento de Guerra y aprobado por el presidente Harry S. Truman.
-- **Firmantes japoneses:** el ministro de Relaciones Exteriores Mamoru Shigemitsu y el general Yoshijirō Umezu.
-- **Representante aliado:** el general del Ejército Douglas MacArthur firmó como comandante supremo aliado; el almirante Chester W. Nimitz representó a Estados Unidos.
+- **Firmantes japoneses:** el ministro de Relaciones Exteriores Mamoru Shigemitsu y el General Yoshijirō Umezu.
+- **Representante aliado:** el general del Ejército Douglas MacArthur firmó como comandante supremo aliado; el Almirante Chester W. Nimitz representó a Estados Unidos.
 - **Horario inscrito:** 09:04 para la firma japonesa y 09:03 para la aceptación aliada; algunas cronologías describen el comienzo ceremonial a las 09:04.
 - **Despliegue aéreo posterior:** aeronaves embarcadas de la Tercera Flota y bombarderos B-29 de la Vigésima Fuerza Aérea sobrevolaron el área.
 - **Recuentos publicados:** se citan 349 o 450 aviones navales y hasta 462 B-29 despachados, cifras que describen conteos distintos.

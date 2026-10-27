@@ -15,7 +15,7 @@ image: 1945-12-03-primer-apontaje-despegue-desde-portaaviones.webp
   <figcaption class="post-caption">De Havilland Sea Vampire Mk.10 LZ551/G atrapa el cable de detención a bordo del HMS Ocean el 3 de diciembre de 1945, primer apontaje de un jet en un portaaviones por el Lt. Cdr. Eric “Winkle” Brown. This Day in Aviation / IWM (A 31015).
 </figcaption>
 </figure>
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de diciembre de 1945, Eric «Winkle» Brown realizó despegues y apontajes del Sea Vampire LZ551/G desde el portaaviones británico HMS <em>Ocean</em>. La prueba se reconoce como la primera operación de cubierta de un reactor puro: el avión empleaba un turborreactor sin motor de pistón. El Ryan FR-1 Fireball había mostrado antes que un avión híbrido podía operar desde un portaaviones, pero combinaba ambos tipos de motor. El ensayo del Sea Vampire respondió a otra cuestión: si un avión impulsado únicamente por reacción podía despegar y recuperar su velocidad de vuelo desde una cubierta en movimiento. La demostración aportó experiencia a la aviación naval, sin incorporar de inmediato el modelo al servicio regular.</p>

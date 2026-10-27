@@ -14,7 +14,7 @@ image: 1945-05-28-ataque-kamikaze-hajime-fujii.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-05-28-ataque-kamikaze-hajime-fujii.webp" alt="USS Drexler (DD-741) en el mar">
   <figcaption class="post-caption">El oficial japonés Hajime Fujii, representado junto a aviones de la Segunda Guerra Mundial en una composición gráfica, protagonista del ataque kamikaze contra el USS Drexler el 28 de mayo de 1945; fuente: War History Online, “The Tragic Tale of Hajime Fujii – A Kamikaze Fighter Who Crashed Into And Sunk The USS Drexler”.</figcaption>
 </figure>
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de mayo de 1945, aviones de la 45.ª Unidad Shinbu atacaron a los destructores USS <em>Drexler</em> y USS <em>Lowry</em>, asignados a un piquete de radar frente a Okinawa. El <em>Drexler</em> recibió impactos y se hundió; las fuentes navales discrepan sobre el número de muertos. El Museo de la Paz de Chiran registra a Hajime Fujii como comandante de la unidad, le asocia un Kawasaki Ki-45 y consigna su muerte ese día, pero no demuestra que pilotara uno de los aviones que chocaron contra el destructor. Su expediente también documenta la muerte de su esposa y sus dos hijas en diciembre de 1944, ligada a su solicitud de servir en una unidad especial.</p>

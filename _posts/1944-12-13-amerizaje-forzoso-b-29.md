@@ -14,7 +14,7 @@ image: 1944-12-13-amerizaje-forzoso-b-29.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-12-13-amerizaje-forzoso-b-29.webp" alt="B-29 'Dat's My Boy' flotando tras el amerizaje">
   <figcaption class="post-caption">El B-29 “Dat’s My Boy” flotando después del amerizaje forzoso en el Océano Pacífico, 13 de diciembre de 1944. (Fuente: National Archives / Mann, R.G.).</figcaption>
 </figure>
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 13 de diciembre de 1944, una fuente secundaria sitúa un amerizaje de B-29 en el Pacífico durante las operaciones contra Japón. El 14 de diciembre, el diario del USS <em>Cummings</em> registra el rescate de once tripulantes de un B-29, pero no consigna nombre, matrícula ni unidad. La cronología de la USAAF confirma actividad aérea el día 13; no vincula esa operación con la anotación naval del día siguiente. Las fuentes disponibles sostienen que hubo operaciones y un rescate en fechas consecutivas, pero no permiten afirmar que describan el mismo avión o incidente, ni fijar el lugar exacto, la causa o el destino del aparato.</p>

@@ -14,7 +14,7 @@ image: 1945-08-09-fat-man-bomba-nagasaki.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-08-09-fat-man-bomba-nagasaki.webp" alt="Once tripulantes con uniforme de verano posando en fila ante el morro de un bombardero cuatrimotor plateado, con un rótulo en el suelo que identifica a cada uno por su nombre y grado">
   <figcaption class="post-caption">La tripulación del B-29 <em>Bockscar</em> fotografiada el 11 de agosto de 1945, dos días después de la misión sobre Nagasaki. El aparato no lleva todavía la decoración de morro que recibiría más tarde. En el centro, el Mayor Charles W. Sweeney, comandante de la aeronave; a su derecha, el Capitán Kermit K. Beahan, bombardero. Fuente: <a href="https://www.nationalmuseum.af.mil/Upcoming/Photos/igphoto/2000548756/" style="color: #315fea; text-decoration: none;">U.S. Air Force, National Museum of the United States Air Force</a>.</figcaption>
 </figure>
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de agosto de 1945, el B-29 <em>Bockscar</em> lanzó la bomba de plutonio Fat Man sobre Nagasaki, después de que nubes y humo impidieran una identificación visual suficiente de Kokura, el objetivo primario. La detonación ocurrió a las 11:02 según la hora japonesa y devastó el valle de Urakami. La ciudad registró 73.884 fallecidos y 74.909 heridos hasta finales de ese año; otras fuentes separan las víctimas inmediatas de las posteriores. Fue el segundo y, hasta hoy, último uso de un arma nuclear en guerra. Su peso en la decisión japonesa de rendirse se discute junto con la entrada soviética en la guerra y el ataque a Hiroshima.</p>

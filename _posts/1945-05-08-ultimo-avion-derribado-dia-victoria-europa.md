@@ -14,7 +14,7 @@ image: 1945-05-08-ultimo-avion-derribado-dia-victoria-europa.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-05-08-ultimo-avion-derribado-dia-victoria-europa.webp" alt="Siebel Si 204 similar al derribado el 8 de mayo de 1945">
   <figcaption class="post-caption">Un Siebel Si 204, avión ligero bimotor de transporte y entrenamiento, del mismo tipo que el abatido el 8 de mayo de 1945 en Baviera. La imagen no corresponde al aparato derribado. Fuente: <a href="https://commons.wikimedia.org/wiki/Category:Siebel_Si_204" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de mayo de 1945, día de la Victoria en Europa, un P-38 estadounidense recibió crédito por abatir un Siebel Si 204 al sureste de Rodach, Baviera. La historia del 474.º Grupo de Caza atribuye el derribo a Kenneth L. Swift hacia las 20:05, antes de la entrada en vigor del alto el fuego. El caso suele citarse como candidato al último derribo aire-aire de un avión alemán en el frente occidental. El Museo Nacional del Aire y el Espacio describe otro episodio del día: un Ju 88 que cayó tras ser alcanzado por fuego antiaéreo. Son hechos de categorías distintas; las fuentes no permiten cerrar una candidatura única para todos los derribos del 8 de mayo.</p>

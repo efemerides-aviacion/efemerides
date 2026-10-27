@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9–10 de marzo de 1945 | Operación Meetinghouse sobre Tokio"
+title: "9 de marzo de 1945 | Bombardeo incendiario de Tokio (Operación Meetinghouse)"
 date: 1945-03-09
 categories: [evento]
 author: Enrique Pomares
@@ -14,7 +14,7 @@ image: 1945-03-09-operacion-meetinghouse-bombardeo-sobre-tokio.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-03-09-operacion-meetinghouse-bombardeo-sobre-tokio.webp" alt="Bombardeo incendiario sobre Tokio, marzo de 1945">
   <figcaption class="post-caption">Vista aérea del devastador bombardeo incendiario sobre Tokio (Japón) el 9 de marzo de 1945, el más mortífero de la II Guerra Mundial no nuclear: ~105.400 muertos, 267.171 edificios destruidos. Operación LeMay con 325 B-29 Superfortress a baja altitud. (Library of Congress).</figcaption>
 </figure>
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>La Operación Meetinghouse fue el ataque incendiario de mayor escala realizado contra Tokio durante la Segunda Guerra Mundial. Comenzó durante la noche del 9 de marzo de 1945 y continuó en la madrugada del día 10; las fuentes usan ambas fechas según el huso y el registro de misión. Los B-29 del XXI Bomber Command atacaron a baja altura con bombas incendiarias, extendiendo fuegos por barrios densamente construidos. Las estimaciones de víctimas varían entre la United States Strategic Bombing Survey, el informe operacional citado por el National Security Archive y el Truman Library Institute. La operación se convirtió en referencia para estudiar el bombardeo estratégico y sus efectos sobre la población urbana.</p>
