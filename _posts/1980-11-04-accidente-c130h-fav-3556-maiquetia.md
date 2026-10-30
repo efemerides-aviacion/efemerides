@@ -20,7 +20,7 @@ image: 1980-11-04-accidente-c130h-fav-3556-maiquetia.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de noviembre de 1980, el Lockheed C-130H Hercules con matrícula FAV-3556 de la Fuerza Aérea Venezolana cayó sobre viviendas próximas al Aeropuerto Internacional de Maiquetía durante su ascenso inicial. La ficha de Aviation Safety Network registra una falla de motor; una reconstrucción memorialística de FAV-CLUB habla de una pérdida crítica de potencia. Los seis tripulantes murieron y también fallecieron cinco personas en tierra.</p>
-<p>La aeronave, número de construcción 4406 y fabricada en 1971, había partido de Maiquetía con la Base Aérea El Libertador de Maracay como destino consignado. El accidente destruyó el aparato. La información publicada permite establecer la secuencia general y el saldo humano, pero no identifica el motor afectado ni acredita que el avión hubiese iniciado el despegue con un motor apagado.</p>
+<p>El C-130H, número de construcción 4406, fue fabricado en 1971 y salió de Maiquetía con la Base Aérea El Libertador de Maracay como destino consignado. Luis Hernán Paredes sitúa la misión en la ruta El Libertador–Maiquetía–Maracaibo. El accidente destruyó la aeronave. Dos testimonios posteriores atribuyen la falla al motor n.º 1 y un intento de despegue con él apagado, sin sustituir un informe técnico.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -31,7 +31,7 @@ image: 1980-11-04-accidente-c130h-fav-3556-maiquetia.webp
 - **Lugar:** zona residencial próxima al Aeropuerto Internacional de Maiquetía «Simón Bolívar», Venezuela.
 - **Aeronave:** Lockheed C-130H Hercules, matrícula FAV-3556, número de construcción 4406, fabricado en 1971.
 - **Operador:** Fuerza Aérea Venezolana (FAV).
-- **Itinerario consignado:** Maiquetía (CCS/SVMI)–Base Aérea El Libertador, Maracay (MYC/SVBL).
+- **Itinerarios documentados:** ASN consigna Maiquetía (CCS/SVMI)–Base Aérea El Libertador, Maracay (MYC/SVBL); Paredes sitúa el hecho en una misión de servicio El Libertador–Maiquetía–Maracaibo.
 - **Fase de vuelo:** ascenso inicial después del despegue.
 - **Ocupantes:** seis tripulantes; la ficha técnica no registra pasajeros.
 - **Víctimas:** seis fallecidos a bordo y cinco en tierra; once en total.
@@ -43,21 +43,23 @@ image: 1980-11-04-accidente-c130h-fav-3556-maiquetia.webp
 
 ## Contexto Histórico
 
-El accidente ocurrió junto al <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1945/01/01/inauguracion-aeropuerto-internacional-maiquetia.html" style="color: #315fea; text-decoration: none;">aeropuerto inaugurado en Maiquetía en 1945</a>, principal puerta aérea de Caracas. La cercanía entre la pista y sectores habitados hizo que la emergencia afectara también a quienes estaban en tierra.
+El accidente ocurrió junto al <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1945/01/01/inauguracion-aeropuerto-internacional-maiquetia.html" style="color: #315fea; text-decoration: none;">aeropuerto inaugurado en Maiquetía en 1945</a>, principal puerta aérea de Caracas, y alcanzó viviendas cercanas.
 
-La FAV empleaba entonces el Hercules como transporte militar. Había incorporado sus primeras seis unidades C-130H a comienzos de la década de 1970; la ficha del accidente consigna Maracay como destino del FAV-3556.
+La FAV empleaba entonces el Hercules como transporte militar. ASN consigna Maracay como destino y Paredes la ruta El Libertador–Maiquetía–Maracaibo, sin publicar la secuencia completa de la misión.
 
 ### Entorno social
 
-La nota de Associated Press publicada por <em>El Tiempo</em> al día siguiente describió la caída sobre casas y señaló desde el primer momento los seis fallecidos de la tripulación y cinco personas en tierra. La prensa registró además que se investigaban las causas.
+La nota de Associated Press publicada por <em>El Tiempo</em> describió la caída sobre casas, seis fallecidos de la tripulación y cinco personas en tierra. También registró la investigación de las causas.
 
-Esa información conserva la prudencia de las primeras horas: no adjudicaba un componente concreto ni una decisión de cabina. Las síntesis posteriores coinciden en una pérdida de potencia, pero no añaden un número de motor ni una secuencia técnica que pueda presentarse como conclusión oficial publicada. El desglose de seis muertes a bordo y cinco fuera del avión evita convertir once víctimas de circunstancias distintas en una sola cifra sin contexto. Esa separación mantiene visibles tanto a la tripulación como a la comunidad alcanzada por la caída.
+Esa información conserva la prudencia de las primeras horas: no adjudicaba un componente concreto ni una decisión de cabina. Las síntesis posteriores coinciden en una pérdida de potencia, sin añadir una secuencia técnica oficial. El desglose de seis muertes a bordo y cinco fuera del avión mantiene visibles tanto a la tripulación como a la comunidad alcanzada por la caída.
+
+<strong>Testimonios posteriores.</strong> Un testimonio telefónico recibido por Enrique Pomares se atribuye al General de Brigada (Av.) Frank Ramón Lares Rodríguez, identificado por el comunicante como integrante de la junta investigadora; afirma una falla del motor n.º 1 y un despegue deliberado con ese motor apagado. Un texto memorialístico sin fecha ni URL pública, <em>En recuerdo de la tripulación del Lockheed Hercules C-130H siglas FAV 3556</em>, atribuido editorialmente al Coronel (Av.) José Luis Ochoa Vargas, sostiene la misma versión y agrega detalles sin aportar el informe técnico, los boletines de Lockheed ni transcripciones identificables. Su coincidencia permite registrar una versión testimonial, no una causa técnica establecida ni un motivo para alterar el saldo de cinco víctimas en tierra.
 
 ### Entorno tecnológico
 
 El C-130H pertenecía a la familia cuyo <a href="https://efemerides-aviacion.github.io/efemerides/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">primer vuelo del Lockheed YC-130 Hercules</a> tuvo lugar en 1954. Era un transporte táctico de cuatro motores turbohélice Allison T56-A-15; Lockheed documentó para la variante H cuatro grupos motopropulsores, hélices Hamilton Standard de cuatro palas, rampa trasera y una amplia bodega de carga. Son rasgos generales del modelo, no datos específicos del vuelo accidentado ni de la condición técnica concreta del FAV-3556.
 
-Esa arquitectura no permite reconstruir este caso como una operación de tres motores. El diseño general de un modelo no sustituye la condición de una aeronave concreta, su carga, sus procedimientos ni la naturaleza de una avería. Para el FAV-3556, la evidencia publicada no identifica el motor n.º 1 ni sostiene que despegara intencionalmente con ese propulsor apagado. La documentación de Lockheed describe características del modelo, no el estado de mantenimiento ni la configuración del aparato venezolano aquella mañana.
+Esa arquitectura no permite reconstruir este caso como una operación de tres motores. El diseño general de un modelo no sustituye la condición de una aeronave concreta, su carga, sus procedimientos ni la naturaleza de una avería. Para el FAV-3556, las fuentes publicadas no identifican el motor n.º 1 ni documentan un despegue intencional con ese propulsor apagado; los testimonios posteriores que lo afirman se conservan como tales. La documentación de Lockheed describe características del modelo, no el estado de mantenimiento ni la configuración del aparato venezolano aquella mañana.
 
 ### Entorno cultural
 
@@ -68,8 +70,8 @@ Los Hercules de la FAV quedaron ligados a misiones de transporte y a pérdidas d
 ## Desarrollo Cronológico
 
 - **Antes del 4 de noviembre de 1980:** el FAV-3556 era uno de los C-130H de la Fuerza Aérea Venezolana. Construido en 1971, llevaba la matrícula 3556 y el número de construcción 4406, dato que individualiza al aparato dentro de la flota. La fotografía conservada por FAV-CLUB lo muestra intacto en plataforma antes de su pérdida.
-- **Mañana del 4 de noviembre:** la aeronave despegó de Maiquetía. Aviation Safety Network registra la Base Aérea El Libertador de Maracay como destino y clasifica la actividad como militar. Un testimonio publicado décadas después por FAV-CLUB asocia el vuelo al traslado de personal técnico que estaba en Maiquetía; no aporta una ficha operativa capaz de precisar la naturaleza de la misión ni el reparto de funciones de cada tripulante.
-- **Ascenso inicial:** ASN clasifica la fase como ascenso inicial y resume el hecho como falla de motor. El relato de FAV-CLUB, que reproduce una reseña de <em>El Nacional</em>, usa la expresión «pérdida crítica de potencia». Ninguna de las dos versiones precisa qué grupo motopropulsor resultó afectado, la altura alcanzada o las comunicaciones de cabina.
+- **Mañana del 4 de noviembre:** la aeronave despegó de Maiquetía. Aviation Safety Network registra la Base Aérea El Libertador de Maracay como destino y clasifica la actividad como militar. FAV-CLUB asocia el vuelo al traslado de personal técnico que estaba en Maiquetía; ninguna de esas fuentes publica una ficha operativa completa.
+- **Ascenso inicial:** ASN clasifica la fase como ascenso inicial y resume el hecho como falla de motor. El relato de FAV-CLUB, que reproduce una reseña de <em>El Nacional</em>, usa la expresión «pérdida crítica de potencia». Los dos testimonios posteriores identifican el motor n.º 1 y sostienen un despegue con tres motores, pero no sustituyen la determinación técnica publicada. Ninguna fuente pública precisa la altura alcanzada o las comunicaciones de cabina.
 - **Impacto:** al no poder sostener el ascenso, el C-130H cayó sobre viviendas cercanas al aeródromo. La ficha técnica lo registra como destruido y dado de baja; la información contemporánea confirma que el accidente tuvo víctimas también fuera de la aeronave.
 - **Víctimas:** los seis integrantes de la tripulación fallecieron; ASN no registra pasajeros. El accidente causó, además, cinco muertes entre quienes se encontraban en tierra.
 - **Horas posteriores:** la página 4B de <em>El Tiempo</em> dejó constancia del despliegue investigador de las autoridades y del balance de once fallecidos comunicado al día siguiente. La información disponible no fija hora, pista, altura ni comunicaciones de la tripulación; la cronología se limita por ello de forma estricta a la secuencia documentada por las fuentes disponibles.
@@ -78,11 +80,11 @@ Los Hercules de la FAV quedaron ligados a misiones de transporte y a pérdidas d
 
 ## Consecuencias e Impacto
 
-La primera consecuencia fue humana y directa: once personas murieron en el accidente, cinco de ellas fuera de la aeronave. Para el operador, se perdió por completo un transporte militar de cuatro motores; para la comunidad próxima a Maiquetía, una emergencia nacida en el ascenso inicial traspasó de inmediato el perímetro aeroportuario.
+La primera consecuencia fue humana: once personas murieron en el accidente, cinco de ellas fuera de la aeronave. Se perdió un transporte militar de cuatro motores y la emergencia traspasó el perímetro aeroportuario hacia la comunidad próxima a Maiquetía.
 
-La escasez de datos técnicos públicos obliga a conservar una frontera clara entre lo documentado y lo supuesto. Es válido afirmar que los registros describen una deficiencia propulsiva, porque así lo resumen las fuentes técnicas y el testimonio publicado. No lo es atribuir la pérdida a un motor determinado, fijar una carga, una velocidad, un procedimiento de emergencia o un despegue deliberado con tres motores sin un informe de investigación que lo sostenga.
+La escasez de datos técnicos públicos obliga a conservar una frontera clara entre lo documentado y lo supuesto. Es válido afirmar que los registros describen una deficiencia propulsiva, porque así lo resumen las fuentes técnicas y el testimonio publicado. También cabe consignar, con atribución expresa, que dos testimonios posteriores señalan el motor n.º 1 y un despegue con tres motores. No cabe presentarlo como conclusión técnica establecida, ni fijar como hechos una carga, una velocidad, un procedimiento de emergencia o la secuencia de averías sin el informe de investigación que lo sostenga.
 
-Esa precisión también protege la memoria de las víctimas. Las explicaciones simples pueden parecer satisfactorias después de un accidente, pero una efeméride no debe reemplazar una investigación técnica ni completar sus huecos con detalles plausibles. El registro de <em>El Tiempo</em> conserva que las autoridades investigaban; las bases de datos posteriores fijan una falla de motor como explicación general. Entre ambos niveles, permanece un límite documental que el relato histórico debe respetar.
+Esa precisión también protege la memoria de las víctimas. Las explicaciones simples pueden parecer satisfactorias después de un accidente, pero una efeméride no debe reemplazar una investigación técnica ni completar sus huecos con detalles plausibles. El registro de <em>El Tiempo</em> conserva que las autoridades investigaban; las bases de datos posteriores fijan una falla de motor como explicación general. Entre esos registros y los testimonios posteriores, permanece un límite documental que el relato histórico debe respetar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -101,6 +103,7 @@ La imagen previa del FAV-3556, la prensa conservada y los registros de seguridad
   <ul>
     <li><a href="https://news.google.com/newspapers?id=rKwqAAAAIBAJ&sjid=q2EEAAAAIBAJ&hl=es&pg=5259%2C4017777" style="color: #315fea; text-decoration: none;">El Tiempo – «Cae avión en Venezuela: 11 muertos», 5 de noviembre de 1980, p. 4B</a></li>
     <li><a href="https://aviation-safety.net/asndb/328213" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Accident Lockheed C-130H Hercules 3556, 4 November 1980</a></li>
+    <li><a href="https://books.google.com/books?id=GBtjAAAAMAAJ&amp;dq=%22FAV+3556%22" style="color: #315fea; text-decoration: none;">Luis Hernán Paredes – <em>Historia de la aviación militar venezolana: 1966-1994</em>, 3.ª edición, 1997, p. 244</a></li>
     <li><a href="https://favclubven.wordpress.com/2025/11/06/infausto-destino/" style="color: #315fea; text-decoration: none;">FAV-CLUB – «Infausto destino»</a></li>
     <li><a href="https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/documents/sustainment/csc/service-news/sn-mag-v1-v10/V6N4.pdf" style="color: #315fea; text-decoration: none;">Lockheed-Georgia Company – <em>Service News</em>, «Meet the Hercules», octubre-diciembre de 1979</a></li>
     <li><a href="https://www.defensa.com/venezuela/aviacion-militar-venezuela-recupera-avion-c-130hv-hercules-clave" style="color: #315fea; text-decoration: none;">defensa.com – La Aviación Militar de Venezuela recupera un C-130HV Hércules</a></li>
@@ -110,17 +113,18 @@ La imagen previa del FAV-3556, la prensa conservada y los registros de seguridad
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La imagen muestra al FAV-3556 antes del accidente y se emplea para identificar la aeronave, no para representar el impacto. La ficha de ASN consigna Maiquetía–Maracay, mientras que el relato de FAV-CLUB asocia la misión con el traslado de personal técnico; no se fija una naturaleza más específica del vuelo. Las fuentes publicadas atribuyen el siniestro a una falla de motor o pérdida de potencia, pero no identifican el motor afectado ni documentan un despegue deliberado con tres motores.</p>
+  <p><strong>Nota aclaratoria:</strong> La imagen muestra al FAV-3556 antes del accidente y se emplea para identificar la aeronave, no para representar el impacto. ASN consigna el tramo Maiquetía–Maracay; Paredes sitúa el accidente en una misión El Libertador–Maiquetía–Maracaibo, sin publicar la secuencia completa del vuelo. Las fuentes públicas atribuyen el siniestro a una falla de motor o pérdida de potencia. Un testimonio telefónico atribuido al General de Brigada (Av.) Frank Ramón Lares Rodríguez y una reseña atribuida al Coronel (Av.) José Luis Ochoa Vargas señalan el motor n.º 1 y un despegue con tres motores; se registran como testimonios, no como determinación técnica publicada.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-30 09:19:44 CST  
+- **Timestamp de verificación:** 2026-10-30 11:19:01 CST  
 - **Fuentes primarias/institucionales consultadas:** <em>El Tiempo</em>; Lockheed-Georgia Company  
-- **Fuentes secundarias de contraste:** Aviation Safety Network; FAV-CLUB; defensa.com  
-- **Discrepancias resueltas:** Misión y formulación causal: se conserva solo lo común a las fuentes y no se asigna un motor concreto.  
-- **Nivel de confianza:** Medio  
+- **Fuentes secundarias de contraste:** Aviation Safety Network; Luis Hernán Paredes; FAV-CLUB; defensa.com  
+- **Fuentes testimoniales no publicadas:** comunicación telefónica atribuida al General de Brigada (Av.) Frank Ramón Lares Rodríguez; texto memorialístico atribuido al Coronel (Av.) José Luis Ochoa Vargas.  
+- **Discrepancias resueltas:** ASN consigna el tramo Maiquetía–Maracay y Paredes una misión El Libertador–Maiquetía–Maracaibo; se preservan ambas formulaciones sin deducir una secuencia no publicada. La atribución del motor n.º 1 y del despegue con tres motores se registra como testimonial, no como determinación técnica.  
+- **Nivel de confianza:** Medio para la ocurrencia, el aparato, la secuencia general y las víctimas; bajo para la configuración propulsiva atribuida por los testimonios.  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
 
 ___
