@@ -1,5 +1,6 @@
 # Guía del validador estructural de efemérides
-> Última actualización: 2026-10-25 (nueva auditoría **14**: marcado de `## Referencias Verificadas` — envoltorio obligatorio `<div class="references"><ul><li>…</li></ul></div>`, aviso ante cualquier clase ajena a la hoja de estilos del sitio —`references-box` u otra— y aviso ante lista Markdown sin `<li>`; en modo `[AVISO]`, no retroactiva y sin cambios de código de salida. Censo sobre `672` posts en el HEAD `fbc8d8024f46`: **665** con el envoltorio normativo, **7** sin él y **11** avisos nuevos; `0` cambios de veredicto).
+> Última actualización: 2026-11-01 (nueva comprobación **15**: extensión del `<figcaption class="post-caption">` — banda de **20 a 30 palabras** de texto visible, descontadas las etiquetas HTML y, con ellas, las URL; señala tanto el pie recargado como el que no llega al mínimo descriptivo. Censo sobre los `697` posts del HEAD `49b3f51e`: **134** en banda, **538** por encima de 30 y **25** por debajo de 20; mediana de `38` palabras, máximo de `131`. En modo `[AVISO]`, no retroactiva, sin cambios de veredicto: **0** diferencias de código de salida en los `697` posts. Orden del editor del `01-11-2026` para que el pie breve se respete siempre.)
+> Última actualización anterior: 2026-10-25 (nueva auditoría **14**: marcado de `## Referencias Verificadas` — envoltorio obligatorio `<div class="references"><ul><li>…</li></ul></div>`, aviso ante cualquier clase ajena a la hoja de estilos del sitio —`references-box` u otra— y aviso ante lista Markdown sin `<li>`; en modo `[AVISO]`, no retroactiva y sin cambios de código de salida. Censo sobre `672` posts en el HEAD `fbc8d8024f46`: **665** con el envoltorio normativo, **7** sin él y **11** avisos nuevos; `0` cambios de veredicto).
 > Última actualización anterior: 2026-10-22 (calibración integral de la auditoría [AVISO] 12 en `awk` POSIX compatible con `bash 3.2` de macOS: audita todas las ocurrencias de `YAML` (`title`/`excerpt`), cuerpo y `Nota aclaratoria`, incluidos apócopes `un`/`veintiún`, `A X años de…`, aproximaciones `casi`/`más de`/`durante X años`, edad viva `cumple X años` y `Un siglo después` sin ancla; censo verificado sobre `663` posts: **117 posts** y **132 ocurrencias**; `0` cambios de código de salida). Actualización previa del mismo día: 2026-10-22 (nueva auditoría [AVISO] 13: títulos de realeza, nobleza y dignidades en minúscula ante nombre propio — Manual de Estilo v1.22, § 4.3, decisión D1-c; Plantilla Maestra v2.25, regla maestra 5; Instrucciones de Formato v2.24 —; no computa como fallo y no es retroactiva). Actualización anterior: 2026-10-21 (nueva auditoría [AVISO] 12: recuento de años anclado al presente, tras la derogación de la regla de cómputo — Manual de Estilo v1.20, § 5.9 —; no computa como fallo y no es retroactiva). > Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
 
 ## Finalidad
@@ -69,6 +70,30 @@ una sección fuera de banda y 29 son conformes; por sección, fuera de banda: `R
 fuera de 5–7, `Consecuencias e Impacto` 443 y `Legado` 433. La regresión completa del script con la
 auditoría nueva dejó 0 diferencias ajenas a ella y ningún cambio de código de salida: los 10 posts con
 `FALLECE` del corpus son los mismos de antes.
+Desde el 2026-11-01 el validador mide la **extensión del pie de foto**
+(comprobación 15; criterio de pie telegráfico del `01-11-2026`, elevado a norma en el
+estado vigente §7.53). Toma cada bloque `<figcaption class="post-caption">` del cuerpo,
+descuenta las etiquetas HTML —y con ellas las URL de los `href`, que no son texto
+visible— y cuenta las palabras que quedan. Imprime `[OK]` cuando el pie cae entre **20 y
+30 palabras** y `[AVISO]` cuando las supera —con la indicación de describir solo qué
+muestra la imagen, cuándo y su fuente, sin crónica, datos técnicos ni proceso de
+selección— o cuando no llega a 20. Si el cuerpo no tiene ningún `post-caption` localizable,
+emite además el aviso correspondiente. Un post con varias figuras recibe un veredicto por
+cada pie.
+
+La norma **no es retroactiva** y el aviso **no computa como fallo**: los pies ya
+publicados quedan congelados y solo los incumplirían si se re-auditaran, del mismo modo que
+las demás auditorías de `[AVISO]`.
+
+Fotografía del corpus en el HEAD `49b3f51e` (2026-11-01; **697 posts**): **134** pies en
+banda (19,2 %), **538** por encima de 30 palabras (77,2 %) y **25** por debajo de 20 (3,6 %);
+ningún post carece de `post-caption`. Mediana del corpus: `38` palabras; media, `39,2`;
+percentiles 90 y 99, `53` y `80`; máximo, `131`; mínimo, `9`. La regresión completa con la
+comprobación nueva deja **0 cambios de código de salida** y **0 diferencias ajenas a ella**:
+los `697` posts devuelven código `0` y ningún `FALLECE` antes y después del cambio. La cifra
+de partida confirma el motivo de la norma: el pie mediano del corpus duplica el máximo que
+ahora se recomienda.
+
 ## Normas de mantenimiento
 
 1. Todo cambio del script debe contrastarse con los seis rectores vigentes.

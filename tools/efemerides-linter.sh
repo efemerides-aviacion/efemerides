@@ -46,6 +46,11 @@
 #  «## Referencias Verificadas» — envoltorio obligatorio <div class="references">, aviso ante
 #  cualquier clase ajena a la hoja de estilos del sitio (p. ej. references-box) y aviso ante lista
 #  Markdown sin <li>; en modo [AVISO], no retroactiva y sin cambios de veredicto en el corpus.
+# nueva comprobación 15 el 2026-11-01 (orden del editor: que el pie de foto breve se respete siempre):
+#  extensión del <figcaption class="post-caption"> — banda de 20 a 30 palabras, contadas sobre el texto
+#  visible una vez descontadas las etiquetas HTML y, con ellas, las URL; señala tanto el pie recargado
+#  (crónica o ficha técnica) como el que no llega al mínimo descriptivo. En modo [AVISO], no retroactiva
+#  y sin cambios de veredicto ni de código de salida en el corpus.
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -498,6 +503,36 @@ if [ -n "$IMG_FILE" ] && command -v identify >/dev/null 2>&1; then
     || fail "Imagen $DIMS — el tamaño de casa es $WANT para todas las categorías, incluida nacimiento (regla maestra 12)"
 else
   printf '[AVISO]   Imagen no localizada en el entorno (auditar dims. manualmente: %s)\n' "${IMG_LINE}"
+fi
+
+# ------------------------- 15. Extensión del pie de foto (criterio de pie telegráfico, 01-11-2026)
+# Aviso, no fallo: el <figcaption class="post-caption"> es una línea descriptiva, no una
+# crónica. Banda de 20 a 30 palabras, contadas sobre el texto visible (las etiquetas y, con
+# ellas, las URL quedan descontadas). Rige para las altas nuevas desde el 01-11-2026 y NO es
+# retroactiva: un [AVISO] en un post anterior no computa como fallo ni reabre su cierre.
+CAP_FLAT=$(tr '\n' ' ' <<<"$BODY")
+CAP_LIST=$(sed 's|</figcaption>|\n|g' <<<"$CAP_FLAT" \
+  | grep -F '<figcaption' \
+  | sed -e 's/<[^>]*>//g' -e 's/&nbsp;/ /g' -e 's/  */ /g' -e 's/^ *//' -e 's/ *$//' || true)
+if [ -z "${CAP_LIST:-}" ]; then
+  printf '[AVISO]   Pie de foto: no se localizó ningún <figcaption class="post-caption"> en el cuerpo (revisar el <figure>)\n'
+else
+  CAP_N=0; CAP_BAD=0
+  while IFS= read -r cap; do
+    [ -z "$cap" ] && continue
+    CAP_N=$((CAP_N+1))
+    CAP_WC=$(wc -w <<<"$cap" | tr -d ' ')
+    if [ "$CAP_WC" -ge 20 ] && [ "$CAP_WC" -le 30 ]; then
+      ok "Pie de foto: $CAP_WC palabras (banda 20–30, criterio de pie telegráfico)"
+    elif [ "$CAP_WC" -gt 30 ]; then
+      CAP_BAD=$((CAP_BAD+1))
+      printf '[AVISO]   Pie de foto: %s palabras — supera el máximo de 30; describir solo qué muestra la imagen, cuándo y su fuente, sin crónica, datos técnicos ni proceso de selección (criterio de pie telegráfico del 01-11-2026; no retroactivo)\n' "$CAP_WC"
+    else
+      CAP_BAD=$((CAP_BAD+1))
+      printf '[AVISO]   Pie de foto: %s palabras — por debajo del mínimo de 20; completar con la fecha y la fuente del archivo de origen (criterio de pie telegráfico del 01-11-2026; no retroactivo)\n' "$CAP_WC"
+    fi
+  done <<<"$CAP_LIST"
+  [ "$CAP_N" -gt 1 ] && [ "$CAP_BAD" -eq 0 ] && printf '[OK]      Pie de foto: %s figuras en banda (20–30 palabras cada una)\n' "$CAP_N"
 fi
 
 # --------------------------------- Extensión narrativa (Manual v1.18 § 5.10)
