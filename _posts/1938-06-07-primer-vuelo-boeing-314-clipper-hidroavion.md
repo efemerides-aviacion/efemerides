@@ -149,7 +149,7 @@ Requisados por EE. UU. en diciembre de 1941:
 - **Revolución en los viajes transoceánicos:** El 314 demostró que el vuelo regular de pasajeros a través del Atlántico y el Pacífico era viable, reduciendo los tiempos de viaje de días a horas.
 - **Estándar de lujo:** Estableció un estándar de lujo en la aviación comercial que no se volvería a ver hasta la era de los jets (Boeing 707, Douglas DC-8).
 - **Precedente para la aviación militar:** Los Clippers demostraron la utilidad de los hidroaviones de largo alcance para el transporte militar, influyendo en el desarrollo de aviones como el Martin JRM Mars.
-- **Obsolescencia tecnológica:** La llegada de aviones terrestres como el Lockheed Constellation o el Douglas DC-4 tras la guerra, combinada con el desarrollo de aeropuertos internacionales, hizo obsoletos a los hidroaviones.
+- **Obsolescencia tecnológica:** La llegada de aviones terrestres como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/01/09/primer-vuelo-lockheed-constellation.html" style="color: #315fea; text-decoration: none;">Lockheed Constellation</a> o el Douglas DC-4 tras la guerra, combinada con el desarrollo de aeropuertos internacionales, hizo obsoletos a los hidroaviones.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

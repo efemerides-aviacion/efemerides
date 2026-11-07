@@ -54,7 +54,7 @@ Hughes fue también magnate del cine y figura mediática, lo que amplificó su i
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 - Influencia directa en el diseño de aeronaves militares y comerciales.  
-- Impulso al desarrollo del Lockheed Constellation en TWA.  
+- Impulso al desarrollo del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/01/09/primer-vuelo-lockheed-constellation.html" style="color: #315fea; text-decoration: none;">Lockheed Constellation</a> en TWA.  
 - Hughes Aircraft pionera en sistemas de radar, misiles guiados y satélites de comunicación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

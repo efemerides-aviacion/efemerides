@@ -39,7 +39,7 @@ image: 1947-07-08-primer-vuelo-boeing-377-stratocruiser.webp
 
 ## Contexto Histórico
 
-El Boeing 377 vio la luz cuando los grandes fabricantes norteamericanos pugnaban por trasladar los avances aerodinámicos y metalúrgicos de la Segunda Guerra Mundial a las rutas transoceánicas civiles. Frente al Douglas DC-6 y al Lockheed Constellation, la casa de Seattle apostó por una aeronave de volumen interior sin precedentes que trasladara a los vuelos sobre el Atlántico y el Pacífico las comodidades de los transatlánticos marítimos y de los trenes expresos de lujo.
+El Boeing 377 vio la luz cuando los grandes fabricantes norteamericanos pugnaban por trasladar los avances aerodinámicos y metalúrgicos de la Segunda Guerra Mundial a las rutas transoceánicas civiles. Frente al Douglas DC-6 y al <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/01/09/primer-vuelo-lockheed-constellation.html" style="color: #315fea; text-decoration: none;">Lockheed Constellation</a>, la casa de Seattle apostó por una aeronave de volumen interior sin precedentes que trasladara a los vuelos sobre el Atlántico y el Pacífico las comodidades de los transatlánticos marítimos y de los trenes expresos de lujo.
 
 ### Entorno social
 

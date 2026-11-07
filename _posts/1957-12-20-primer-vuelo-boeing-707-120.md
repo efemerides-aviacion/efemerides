@@ -41,7 +41,7 @@ redirect_from:
 
 ## Contexto Histórico
 
-A mediados de la década de 1950, el mercado mundial de aerolíneas de largo radio seguía dominado por los cuatrimotores de pistón fabricados en el sur de California —los Douglas DC-6 y DC-7 y los Lockheed Constellation y Super Constellation—, mientras que Boeing Airplane Company era percibida esencialmente como un constructor de bombarderos estratégicos (B-47 y B-52) con escasa fortuna previa en el transporte civil tras las discretas ventas del Stratocruiser.
+A mediados de la década de 1950, el mercado mundial de aerolíneas de largo radio seguía dominado por los cuatrimotores de pistón fabricados en el sur de California —los Douglas DC-6 y DC-7 y los <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/01/09/primer-vuelo-lockheed-constellation.html" style="color: #315fea; text-decoration: none;">Lockheed Constellation</a> y Super Constellation—, mientras que Boeing Airplane Company era percibida esencialmente como un constructor de bombarderos estratégicos (B-47 y B-52) con escasa fortuna previa en el transporte civil tras las discretas ventas del Stratocruiser.
 
 ### Entorno social
 
