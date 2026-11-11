@@ -301,3 +301,39 @@
 .card:hover .read-more {
   gap: 7px;
 }
+/* Emblema del hero: disposición aprobada en la vista previa. */
+.magazine-hero.magazine-hero--emblema {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 36px;
+  padding: 40px;
+}
+.magazine-hero--emblema .hero-emblema {
+  width: 190px;
+  height: 190px;
+  object-fit: contain;
+  flex: 0 0 190px;
+  border-radius: 50%;
+}
+.magazine-hero.magazine-hero--emblema .hero-content {
+  margin: 0;
+  max-width: 760px;
+  flex: 1;
+  text-align: left;
+}
+.magazine-hero--emblema .search-wrapper { margin-left: 0; }
+@media (max-width: 700px) {
+  .magazine-hero.magazine-hero--emblema {
+    flex-direction: column;
+    gap: 18px;
+    padding: 28px 20px;
+  }
+  .magazine-hero--emblema .hero-emblema {
+    width: 124px;
+    height: 124px;
+    flex: 0 0 124px;
+  }
+  .magazine-hero.magazine-hero--emblema .hero-content { text-align: center; }
+  .magazine-hero--emblema .search-wrapper { margin: 0 auto; }
+}
