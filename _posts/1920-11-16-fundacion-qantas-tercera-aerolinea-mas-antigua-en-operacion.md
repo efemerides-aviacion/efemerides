@@ -76,7 +76,7 @@ La compañía demostró que una red aérea podía sostener la vida económica y 
 
 ## Legado
 
-Qantas conserva el registro de haber sido fundada en 1920 y de haber operado de forma continua desde entonces, condición que su propia historia reivindica como la más larga del sector. Su trayectoria posterior pasó por los hidroaviones Empire de los años treinta, la ruta Canguro a Londres desde 1947, los reactores Boeing 707 en 1959 y la era del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1970/01/22/primer-vuelo-comercial-b747.html" style="color: #315fea; text-decoration: none;">Boeing 747, que la aerolínea operó en una flota exclusiva</a>. De aquel primer consejo en el Winton Club queda hoy memoria material: el hangar de Longreach de 1922, declarado patrimonio nacional, y el Qantas Founders Museum, que conserva una réplica del Avro 504K y la documentación de los primeros años.
+Qantas conserva el registro de haber sido fundada en 1920 y de haber operado de forma continua desde entonces, condición que su propia historia reivindica como la más larga del sector. Su trayectoria posterior pasó por los hidroaviones Empire de los años treinta, la ruta Canguro a Londres desde 1947, los reactores Boeing 707 en 1959 y el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1970/01/22/primer-vuelo-comercial-b747.html" style="color: #315fea; text-decoration: none;">Boeing 747</a>, con el que en 1979 llegó a operar una flota compuesta solo por ese modelo. De aquel primer consejo en el Winton Club queda hoy memoria material: el hangar de Longreach de 1922, declarado patrimonio nacional, y el Qantas Founders Museum, que conserva una réplica del Avro 504K y la documentación de los primeros años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -104,7 +104,7 @@ Qantas conserva el registro de haber sido fundada en 1920 y de haber operado de 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-11-12 07:59:12 CST
+- **Timestamp de verificación:** 2026-11-12 08:33:26 CST
 - **Fuentes primarias/institucionales consultadas:** Queensland State Archives (ITM1139492 y blog institucional); Qantas (historia y logotipos); State Library of Queensland; Wikimedia Commons (ficha de la imagen)
 - **Fuentes secundarias de contraste:** Reuters
 - **Discrepancias resueltas:** la sociedad se registró como QANTAS el 16 de noviembre de 1920, tras una denominación anterior breve (Western Queensland Auto Aero Services); el nombre corporativo cambió en 1934 y 1967; se distinguen constitución, inicio de operaciones y primer servicio regular.
