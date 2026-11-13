@@ -93,7 +93,7 @@ El F-13 era un avión de apariencia moderna y elegante. Su diseño, completament
 - **1921:** Junkers funda su propia aerolínea, Junkers Luftverkehr, para promover el F-13 
 - **1921-1923:** Producción trasladada a Danzig y Reval debido a restricciones de la Comisión de Control Aliada 
 - **1922-1923:** Hugo Junkers firma un contrato con la Unión Soviética para producir el F-13 en la fábrica de Fili, cerca de Moscú 
-- **1926:** Junkers Luftverkehr se fusiona con Lufthansa 
+- **1926:** Junkers Luftverkehr se fusiona con Deutscher Aero Lloyd para crear <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1926/01/06/fundacion-deutsche-luft-hansa-berlin.html" style="color: #315fea; text-decoration: none;">Deutsche Luft Hansa</a> 
 - **1932:** Cese de la producción; 332 unidades construidas 
 - **1938:** Los últimos F-13 de Lufthansa son retirados del servicio 
 

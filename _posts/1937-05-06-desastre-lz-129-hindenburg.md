@@ -52,7 +52,7 @@ A mediados de la década de 1930, los dirigibles representaban la vanguardia del
 
 ### Entorno social
 
-El Hindenburg era más que un medio de transporte; era un símbolo del orgullo nacional alemán en la era nazi. Propiedad de la Deutsche Zeppelin-Reederei (DZR), una empresa con participación de Lufthansa y financiamiento del Estado alemán controlado por Adolf Hitler desde 1933, el dirigible lucía esvásticas en sus aletas de cola. El nombre "Hindenburg" fue elegido en honor al fallecido presidente alemán Paul von Hindenburg. A pesar de su asociación con el régimen, el Hindenburg era admirado en todo el mundo como un prodigio de la ingeniería alemana.
+El Hindenburg era más que un medio de transporte; era un símbolo del orgullo nacional alemán en la era nazi. Propiedad de la Deutsche Zeppelin-Reederei (DZR), una empresa con participación de <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1926/01/06/fundacion-deutsche-luft-hansa-berlin.html" style="color: #315fea; text-decoration: none;">Lufthansa</a> y financiamiento del Estado alemán controlado por Adolf Hitler desde 1933, el dirigible lucía esvásticas en sus aletas de cola. El nombre "Hindenburg" fue elegido en honor al fallecido presidente alemán Paul von Hindenburg. A pesar de su asociación con el régimen, el Hindenburg era admirado en todo el mundo como un prodigio de la ingeniería alemana.
 
 ### Entorno tecnológico
 

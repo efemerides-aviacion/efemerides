@@ -58,7 +58,7 @@ La historia de Iberia en sus primeros años estuvo marcada por un rápido despeg
 
 - **28 de junio de 1927:** Firma ante un notario de Madrid de la escritura de constitución de la Sociedad Anónima IBERIA, Compañía Aérea de Transportes, bajo la presidencia del empresario vizcaíno Horacio Echevarrieta Maruri.
 - **Septiembre de 1927:** El Gobierno español otorga a la nueva compañía la autorización provisional para la explotación de líneas aéreas comerciales dentro del territorio nacional.
-- **Octubre-noviembre de 1927:** Llegada a España de los tres primeros trimotores Rohrbach Ro VIII Roland I procedentes del inventario de la aerolínea alemana Deutsche Luft Hansa.
+- **Octubre-noviembre de 1927:** Llegada a España de los tres primeros trimotores Rohrbach Ro VIII Roland I procedentes del inventario de la aerolínea alemana <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1926/01/06/fundacion-deutsche-luft-hansa-berlin.html" style="color: #315fea; text-decoration: none;">Deutsche Luft Hansa</a>.
 - **14 de diciembre de 1927 (09:00):** Despega desde El Prat (Barcelona) el primer vuelo comercial real operado por Iberia hacia Madrid con la aeronave matrícula `M-CACA` (posteriormente `M-CAAC`), adelantándose al acto protocolario para presenciar la llegada del monarca.
 - **14 de diciembre de 1927 (12:30):** El rey Alfonso XIII preside la inauguración oficial del servicio regular en el Aeropuerto de Carabanchel (Madrid), embarcando en la aeronave matrícula `M-CBBB` con rumbo a la Ciudad Condal.
 - **19 de abril de 1928:** Un Rohrbach Ro VIII Roland de Iberia (matrícula `M-CCCC`) realiza un aterrizaje forzoso en la provincia de Teruel debido a una densa niebla, lo que resulta en daños severos y la primera baja de la aerolínea.

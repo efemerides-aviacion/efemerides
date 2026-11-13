@@ -50,7 +50,7 @@ El vuelo inaugural simbolizó el inicio de la aviación civil en Alemania y en E
 - **1919, 6 feb:** Inicio de vuelos regulares, expansión hacia Leipzig.  
 - **1919–1923:** Expansión de la red a Hamburgo, Hannover, Warnemünde y Róterdam.  
 - **1923:** Fusión con Deutscher Aero Lloyd.  
-- **1926:** Fundación de Deutsche Luft Hansa (actual Lufthansa).  
+- **1926:** <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1926/01/06/fundacion-deutsche-luft-hansa-berlin.html" style="color: #315fea; text-decoration: none;">Fundación de Deutsche Luft Hansa</a> (actual Lufthansa).  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto

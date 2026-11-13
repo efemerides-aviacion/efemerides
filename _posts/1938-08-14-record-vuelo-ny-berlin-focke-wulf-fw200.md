@@ -50,7 +50,7 @@ El Condor encarnó la idea del avión como puente entre pueblos que proclamaba l
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
-- **Junio de 1936:** Kurt Tank propone a Deutsche Luft Hansa un avión de línea de largo alcance, con tren de ruedas, para las rutas transoceánicas.
+- **Junio de 1936:** Kurt Tank propone a <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1926/01/06/fundacion-deutsche-luft-hansa-berlin.html" style="color: #315fea; text-decoration: none;">Deutsche Luft Hansa</a> un avión de línea de largo alcance, con tren de ruedas, para las rutas transoceánicas.
 - **27 de julio de 1937:** primer vuelo del prototipo Fw 200 V1 en Neulander Feld, Bremen, con el propio Tank a los mandos.
 - **Agosto de 1938, vísperas:** el V1, redesignado Fw 200 S-1 y bautizado Brandenburg, recibe depósitos adicionales que llevan su combustible a 9.084 litros.
 - **10 de agosto, hacia las 19:30:** despegue de Berlín-Staaken rumbo al Atlántico por ruta ortodrómica.
