@@ -66,7 +66,7 @@ Antes de Kubis, las tareas de atender a los pasajeros recaían en los copilotos.
 
 - **16 de junio de 1888:** Nace Heinrich Kubis en Alemania 
 - **Primera década del siglo XX (antes de 1912):** Trabaja como camarero en el Hôtel Ritz (París) y el Carlton Hotel (Londres), adquiriendo experiencia en el servicio a pasajeros de alto nivel. Esta trayectoria sería determinante para su posterior contratación por DELAG
-- **Marzo de 1912:** Es contratado por DELAG como primer asistente de vuelo de la historia, a bordo del dirigible LZ-10 Schwaben 
+- **Marzo de 1912:** Es contratado por <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1909/11/16/fundacion-delag-primera-aerolinea-del-mundo.html" style="color: #315fea; text-decoration: none;">DELAG</a> como primer asistente de vuelo de la historia, a bordo del dirigible LZ-10 Schwaben 
 - **28 de junio de 1912:** El LZ-10 Schwaben se incendia en su hangar; Kubis sobrevive sin heridas graves 
 - **1912-1914:** Continúa su carrera en otros dirigibles de DELAG 
 - **1914-1918:** Primera Guerra Mundial; la aviación comercial se paraliza 

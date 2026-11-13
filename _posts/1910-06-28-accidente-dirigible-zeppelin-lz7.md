@@ -43,7 +43,7 @@ La excursión pertenecía a los primeros intentos de convertir la navegación a�
 
 ### Entorno social
 
-DELAG se había constituido en 1909 para explotar comercialmente los productos de Luftschiffbau Zeppelin. Su propuesta inicial se apoyaba en excursiones y vuelos de exhibición, no en una red de enlaces regulares comparable a la de las aerolíneas posteriores.
+<a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1909/11/16/fundacion-delag-primera-aerolinea-del-mundo.html" style="color: #315fea; text-decoration: none;">DELAG se había constituido en 1909</a> para explotar comercialmente los productos de Luftschiffbau Zeppelin. Su propuesta inicial se apoyaba en excursiones y vuelos de exhibición, no en una red de enlaces regulares comparable a la de las aerolíneas posteriores.
 
 El nuevo aparato comenzó a volar el 19 de junio. Su traslado desde Friedrichshafen a la base renana y las primeras salidas con invitados dieron a la empresa una oportunidad de exhibir el producto. La presencia de periodistas debía extender esa experiencia a un público que nunca había visto de cerca un transporte aéreo.
 

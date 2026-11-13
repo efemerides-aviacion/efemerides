@@ -84,7 +84,7 @@ La prueba de veinticuatro horas había fracasado y con ella la compra por parte 
 
 Aquel dinero, alrededor de seis millones de marcos, no se destinó únicamente a reponer el aparato perdido. Permitió dotar al proyecto de una base empresarial estable mediante la creación de la sociedad Luftschiffbau Zeppelin y de una fundación destinada a sostener el desarrollo a largo plazo. Por primera vez, la investigación aeronáutica del conde dejó de depender de su patrimonio personal y de la benevolencia del Estado.
 
-El cambio de actitud oficial llegó después. Con una estructura industrial consolidada y el respaldo demostrado de la opinión pública, la administración militar alemana terminó incorporando dirigibles a sus fuerzas, y en 1909 nació la sociedad de transporte aéreo que explotaría comercialmente los zepelines en los años previos a la Primera Guerra Mundial.
+El cambio de actitud oficial llegó después. Con una estructura industrial consolidada y el respaldo demostrado de la opinión pública, la administración militar alemana terminó incorporando dirigibles a sus fuerzas, y en 1909 nació <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1909/11/16/fundacion-delag-primera-aerolinea-del-mundo.html" style="color: #315fea; text-decoration: none;">la sociedad de transporte aéreo</a> que explotaría comercialmente los zepelines en los años previos a la Primera Guerra Mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
