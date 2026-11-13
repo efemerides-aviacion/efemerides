@@ -35,7 +35,7 @@ image: 1992-12-16-cruce-trasatlantico-helicoptero-la-guacamaya.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 
-El año 1992 marcó el V Centenario del encuentro entre Europa y América. Numerosas expediciones, regatas y vuelos conmemorativos se organizaron en ambos lados del Atlántico. La hazaña de “La Guacamaya” se inscribió en este espíritu, pero con un enfoque específico: replicar en sentido inverso el tercer viaje de Colón, que en 1498 llegó a la costa de Paria (actual Venezuela).
+El año 1992 marcó el V Centenario del encuentro entre Europa y América. Numerosas expediciones, regatas y vuelos conmemorativos se organizaron en ambos lados del Atlántico. La hazaña de “La Guacamaya” se inscribió en este espíritu, pero con un enfoque específico: replicar en sentido inverso el tercer viaje de Colón, que en 1498 llegó a la costa de Paria (actual Venezuela), cuyas abruptas montañas próximas al golfo ya habían sido escenario medio siglo antes del <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1943/11/16/accidente-stinson-reliant-fk825-peninsula-paria.html" style="color: #315fea; text-decoration: none;">accidente del Stinson Reliant FK825 en la península de Paria</a>.
 
 ### Entorno social
 Venezuela y España mantenían entonces estrechos lazos culturales. La hazaña fue apoyada por gobiernos regionales, empresas privadas y la Fundación Tokoara, que buscaba destacar el origen venezolano del nombre “América” (derivado de Américo Vespucio, quien recorrió esas costas).

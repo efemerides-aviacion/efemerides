@@ -110,7 +110,7 @@ El Walrus fue el primer avión británico de servicio en combinar tres innovacio
 
 El uso de un motor en configuración propulsora (con la hélice trasera) protegía la hélice de daños por agua salada y reducía el riesgo para la tripulación durante las operaciones de amarre. El motor se montó desviado 3° a estribor para contrarrestar el efecto de guiñada causado por la hélice.
 
-Su capacidad para plegar alas a 90° (reduciendo la envergadura de 14 m a solo 5,33 m) permitía almacenar varios aviones en los reducidos hangares de los cruceros. El Walrus también era famoso por su robustez: un piloto de pruebas comentó que podía aterrizar sobre hierba con el tren retraído sin sufrir daños graves.
+Su capacidad para plegar alas a 90° (reduciendo la envergadura de 14 m a solo 5,33 m) permitía almacenar varios aviones en los reducidos hangares de los cruceros. El Walrus también era famoso por su robustez: un piloto de pruebas comentó que podía aterrizar sobre hierba con el tren retraído sin sufrir daños graves; asimismo sirvió en escuelas aeronavales como Trinidad junto a los Reliant marcados por el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1943/11/16/accidente-stinson-reliant-fk825-peninsula-paria.html" style="color: #315fea; text-decoration: none;">siniestro del FK825 frente a Uquire</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

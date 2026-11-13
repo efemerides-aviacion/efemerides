@@ -96,6 +96,8 @@ En 1978, AVENSA crea Servivensa, inicialmente concebida para prestar servicios d
 
 ## Consecuencias e Impacto
 
+El nacimiento de AVENSA en mayo de 1943 impulsó la integración aérea de Venezuela en un año de intenso tráfico regional —incluida la operación civil de modelos Stinson Reliant— compartido sobre el eje hacia Trinidad con escuelas aliadas de vuelo naval marcadas seis meses después por la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1943/11/16/accidente-stinson-reliant-fk825-peninsula-paria.html" style="color: #315fea; text-decoration: none;">caída del Stinson británico FK825 en Paria</a>.
+
 - **Pionera de la aviación venezolana:** AVENSA fue la primera aerolínea privada en modernizar la aviación comercial en el país.
 - **Formación de profesionales:** Su escuela técnica formó a generaciones de mecánicos, pilotos y personal de tierra.
 - **Innovación constante:** Introdujo sistemas de reservación computarizados y servicios a bordo de alta calidad.
