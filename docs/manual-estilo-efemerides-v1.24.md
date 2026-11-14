@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
 > Edición consolidada: 2026-11-14  
-> Versión: v1.23
+> Versión: v1.24
 
 ---
 
@@ -310,7 +310,16 @@ Usar HTML inline:
 - **reciprocidad:** cuando una efeméride recién publicada vuelve posible o
   necesario un enlace desde posts ya publicados (y viceversa), se añade el
   enlace recíproco mediante commit de corrección (caso de los tres hermanos
-  Wright, 14 de agosto de 2026).
+  Wright, 14 de agosto de 2026);
+- **barrido obligatorio en cada alta:** la reciprocidad no se deja al azar. Antes
+  de entregar una efeméride nueva se mide el corpus completo con un repertorio de
+  términos declarado en el chat, se descartan los falsos positivos leyendo la línea
+  completa de cada candidato y se presentan los resultados al editor en tabla —post,
+  línea, texto, ancla propuesta y veredicto—, **también cuando la medición arroje
+  cero**. El barrido obliga a medir y presentar, no a aplicar: solo se enlazan los
+  candidatos aprobados, en commit de corrección posterior al alta. Método completo
+  en las Instrucciones de Procesar v2.19, apartado «Barrido obligatorio de
+  recíprocos en cada alta»; la operación no suma unidad al contador R4.
 
 ---
 
@@ -576,6 +585,8 @@ investigador (14 de agosto de 2026).
   (§ 6.3);
 - incluir en el post líneas de estado del documento o notas sobre resolución de
   imágenes (§ 9.1).
+- presentar una alta sin el barrido de enlaces recíprocos medido y presentado, o
+  afirmar que no hay candidatos sin haber medido el corpus (§ 6.3).
 - escribir en minúscula un grado, una jerarquía de aviación o un tratamiento honorífico que precede inmediatamente a un nombre propio (§ 4.3);
 - capitalizar cargos u oficios civiles ante nombre propio, o escribir en minúscula el plural de grado que encabeza una lista de nombres (§ 4.3, decisiones D1-a y D2-a de 2026-09-03);
 - aplicar el verbo *adolecer* a una máquina, aeronave o sistema (§ 4.2);
@@ -926,3 +937,18 @@ Instrucciones de Procesar v2.18: sin novedad.
 Alineadas en la misma fecha: Plantilla Maestra v2.26, Instrucciones de Formato v2.25 y
 `docs/protocolo-continuidad-sesiones.md`. Instrucciones de Procesar v2.18 y
 `tools/efemerides-linter.sh` (solo cabecera de alineación): sin novedad.
+
+## 35. Actualizaciones editoriales v1.24 — 2026-11-14
+
+- **§ 6.3 ampliada (barrido obligatorio de enlaces recíprocos):** la reciprocidad pasa de criterio a
+  paso medido del flujo. Se incorpora la obligación de medir el corpus, leer el contexto de cada
+  candidato y presentar la tabla al editor —también con resultado cero— antes de entregar cualquier
+  alta; la aplicación sigue dependiendo de la aprobación del editor y viaja en commit de corrección
+  posterior. Remite al método completo de las Instrucciones de Procesar v2.19.
+- **§ 13, viñeta nueva de errores** para la alta presentada sin barrido medido.
+- **Alcance:** no retroactivo. Rige para las altas desde el 14-11-2026; la primera sujeta a la regla
+  es 1960-11-21 (Viasa), cuyo barrido se presentó y aprobó ese mismo día.
+
+Alineadas en la misma fecha: Plantilla Maestra v2.26, Instrucciones de Formato v2.25,
+Instrucciones de Procesar v2.19 y `docs/protocolo-continuidad-sesiones.md`.
+`tools/efemerides-linter.sh`: sin novedad.
