@@ -1,6 +1,6 @@
 # Protocolo de continuidad entre sesiones
 
-> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos (auditoría [AVISO] 12), el 21 de octubre de 2026 para registrar Plantilla Maestra v2.24, Formato v2.23, Procesar v2.18 y Manual de Estilo v1.21 sobre el reparto del trabajo con la imagen y la convención de entrega en `rectores/`, y el 22 de octubre de 2026 para registrar Plantilla Maestra v2.25, Formato v2.24 y Manual de Estilo v1.22 (Procesar v2.18 sin novedad), la auditoría [AVISO] 13 sobre títulos de realeza y nobleza en minúscula (D1-c), el paso a RECTOR del reparto de la imagen en § 5 y la ratificación de `en-proceso/` en § 7, y actualizada el 14 de noviembre de 2026 para registrar Plantilla Maestra v2.26, Formato v2.25 y Manual de Estilo v1.23 (Procesar v2.18 sin novedad) tras la fijación de la regla de fecha canónica y doble cómputo calendárico, que hasta hoy no constaba en ninguno de los once documentos de `docs/` y `tools/` No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
+> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos (auditoría [AVISO] 12), el 21 de octubre de 2026 para registrar Plantilla Maestra v2.24, Formato v2.23, Procesar v2.18 y Manual de Estilo v1.21 sobre el reparto del trabajo con la imagen y la convención de entrega en `rectores/`, y el 22 de octubre de 2026 para registrar Plantilla Maestra v2.25, Formato v2.24 y Manual de Estilo v1.22 (Procesar v2.18 sin novedad), la auditoría [AVISO] 13 sobre títulos de realeza y nobleza en minúscula (D1-c), el paso a RECTOR del reparto de la imagen en § 5 y la ratificación de `en-proceso/` en § 7, y actualizada el 14 de noviembre de 2026 para registrar Plantilla Maestra v2.26, Formato v2.25 y Manual de Estilo v1.23 (Procesar v2.18 sin novedad) tras la fijación de la regla de fecha canónica y doble cómputo calendárico, que hasta hoy no constaba en ninguno de los once documentos de `docs/` y `tools/`, y actualizada de nuevo el 14 de noviembre de 2026 para registrar Instrucciones de Procesar v2.19 y Manual de Estilo v1.24 tras la aprobación de la regla permanente del barrido obligatorio de enlaces recíprocos. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
 
 ## Principio
 
@@ -59,8 +59,8 @@ Debe enumerar nominalmente los seis rectores y sus versiones:
 
 1. `docs/plantilla-maestra-efemerides-v2.26.md`
 2. `docs/instrucciones-formato-efemerides-v2.25.md`
-3. `docs/instrucciones-procesar-efemerides-v2.18.md`
-4. `docs/manual-estilo-efemerides-v1.23.md`
+3. `docs/instrucciones-procesar-efemerides-v2.19.md`
+4. `docs/manual-estilo-efemerides-v1.24.md`
 5. `docs/anexo-comparacion-tratamientos-y-rangos.md`
 6. `docs/excepciones-rangos-y-tratamientos.md`
 
@@ -278,3 +278,15 @@ Antes de entregarlo debe comprobarse:
 - las rutas de recuperación son completas;
 - ninguna herramienta obligatoria queda referida solo por una ruta local efímera; `tools/eco7.py` está presente, su sintaxis es válida y su SHA-256 coincide con el estado vigente;
 - el documento sustituido queda identificado claramente.
+
+---
+
+## Versiones vigentes y remisiones — REGLA OPERATIVA (orden del editor, 14-11-2026)
+
+La lista de rectores del § 2 de este documento, la cabecera «Normas auditadas» de
+`tools/efemerides-linter.sh` y el catálogo del § 2 del `ESTADO-Y-PENDIENTES-DEFINITIVO` son los
+únicos lugares donde se declara qué versión de cada rector está en vigor. Toda otra mención de un
+número de versión en `docs/` y `tools/` es registro fechado de una alineación o de una
+incorporación, se conserva sin actualizar (R2) y no se persigue en revisiones posteriores. Por eso
+una remisión normativa a un rector cita la sección —`Manual de Estilo, § 4.8`— y el número de
+versión que consta junto a ella indica cuándo se incorporó, no cuál está vigente.
