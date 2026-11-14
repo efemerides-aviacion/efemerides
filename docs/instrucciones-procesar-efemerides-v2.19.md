@@ -1,10 +1,18 @@
 # Documento de Instrucciones Editoriales para Procesar Efemérides de Aviación
-> Última actualización: 2026-10-24  
-> Versión: v2.18
+> Última actualización: 2026-11-14  
+> Versión: v2.19
 
 ---
 
 ## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.19.** Orden del editor del 14-11-2026: el **barrido de enlaces recíprocos pasa a ser
+obligatorio en cada alta**. Antes de entregar una efeméride nueva se mide el corpus completo y se presentan
+al editor todos los candidatos con su tabla de menciones, también cuando el resultado sea cero; la
+aplicación de los aprobados viaja en commit de corrección propio, posterior al alta. El método queda fijado
+en el apartado «ENLACES CRUZADOS ENTRE EFEMÉRIDES». En paralelo el 14-11-2026: Plantilla Maestra v2.26,
+Instrucciones de Formato v2.25, Manual de Estilo v1.23 y `docs/protocolo-continuidad-sesiones.md`, sin
+novedad. Registro de la versión anterior debajo.
 
 **Novedad de la v2.18.** Orden del editor del 21-10-2026: **el reparto del trabajo con la
 imagen queda como siempre había sido**. El investigador elige la imagen, acredita su fuente
@@ -199,6 +207,34 @@ Se conmemora la **culminación** (aterrizaje, llegada, término), no el inicio. 
 - solo usar la URL pública real del post ya publicado;
 - nunca enlazar una efeméride consigo misma;
 - no usar rutas `.md`, `post_url`, URLs inventadas o estructuras futuras inferidas.
+
+### Barrido obligatorio de recíprocos en cada alta
+
+El barrido deja de ser una precaución y pasa a ser un paso obligatorio y medido del flujo. Se
+ejecuta antes de entregar el post y su resultado se presenta siempre al editor, aunque sea cero.
+
+1. **Medición sobre el corpus completo.** Descargar por `raw@SHA` los `.md` de `_posts/` de la rama
+   `restauracion-efemerides-3` y buscar con `grep -i` un repertorio de términos declarado en el chat
+   —nombre del sujeto, siglas, variantes ortográficas, topónimos y, cuando existan, matrícula o número
+   de vuelo—. El tamaño del corpus medido se declara con su cifra.
+2. **Filtrado y lectura.** Descartar los falsos positivos —cadenas numéricas, homónimos, siglos
+   ajenos— y leer la línea completa de cada candidato antes de calificarlo. Prohibido deducir la
+   ausencia de candidatos sin la medición y presentar un candidato sin leer su contexto.
+3. **Presentación medida.** Entregar en el chat una tabla con post, línea, texto que menciona el
+   hecho, ancla propuesta y veredicto —fuerte, débil o descartado con su motivo—, también cuando el
+   veredicto global sea «ninguno».
+4. **Decisión del editor.** El barrido obliga a medir y presentar, no a aplicar: solo se enlazan los
+   candidatos aprobados.
+5. **Anclaje y forma canónica.** El `<a>` recae sobre el sintagma cuyo contenido desarrolla el post de
+   destino; la URL sigue el patrón canónico —fecha en barras y slug sin prefijo de fecha— y el destino
+   se comprueba con respuesta `200` antes de entregar.
+6. **Commit propio y orden de publicación.** Los recíprocos viajan en commit de corrección posterior al
+   alta, nunca mezclados con ella. Si el destino aún no está publicado, se advierte al editor del
+   orden: alta primero, corrección después.
+7. **Empaquetado y purga.** Los `.md` editados van en `.zip` con `COMMIT.md` en la raíz, y el paquete
+   se purga tras confirmar la publicación y el despliegue.
+8. **Efecto en el contador.** El barrido y su commit no suman unidad `R4`: solo suman las efemérides
+   publicadas.
 
 ---
 
@@ -425,6 +461,7 @@ asume como estado vigente. Práctica registrada los días 27 y 28 de agosto de
 - [ ] Las incidencias del proceso se comunicaron al editor en el chat, no en el documento.
 - [ ] Los enlaces en el texto usan HTML inline con estilo sin subrayado.
 - [ ] Solo hay enlaces cruzados si realmente aportan valor.
+- [ ] Se ejecutó el barrido de recíprocos y se presentó medido al editor, aunque su resultado fuera cero.
 - [ ] No hay URLs públicas inferidas para posts inéditos.
 - [ ] Los metadatos **no** citan el borrador preliminar como fuente de contraste.
 - [ ] El post tiene al menos cuatro referencias verificadas, dos de ellas primarias o institucionales.
@@ -458,6 +495,7 @@ asume como estado vigente. Práctica registrada los días 27 y 28 de agosto de
 | v2.17 | 2026-10-21 | Derogada la regla de cómputo de años transcurridos (v2.5): el post no consigna la distancia en años entre el hito y el presente. Se conservan las distancias entre dos hechos pasados, las aproximaciones a un tercer hecho y el cómputo cuando el aniversario es el asunto de la efeméride, con ancla explícita. Cambio no retroactivo: los 98 posts afectados conservan su cifra y se limpian cuando se revisen. |
 | v2.16 | 2026-10-19 | Tamaño de casa único 1.200 × 675 para todas las categorías en el apartado «Tamaño de casa» y en el checklist final; derogada la distinción por categoría. Se incorpora el reparto del recorte con el editor cuando el original no lo admite sin degradación. Alineado con Plantilla Maestra v2.22, regla maestra 12. |
 | v2.15 | 2026-10-02 | Flujo de commit alineado con Formato v2.20 y Plantilla v2.21: dos bloques en chat, tabla file-a-file fuera del mensaje, sin TXT y sin prohibición de mencionar la imagen; se mantiene la exclusión de cambios internos del flujo. |
+| v2.19 | 2026-11-14 | Barrido obligatorio de enlaces recíprocos en cada alta: medición del corpus por repertorio declarado, presentación medida de candidatos —también cuando el resultado es cero—, anclaje sobre el sintagma descriptivo, commit de corrección propio posterior al alta y exclusión del contador R4. Se añade la comprobación al checklist final. |
 
 
 ---
