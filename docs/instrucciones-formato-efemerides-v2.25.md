@@ -1,10 +1,23 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-10-22  
-> Versión: v2.24
+> Última actualización: 2026-11-14  
+> Versión: v2.25
 
 ---
 
 ## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.25.** Orden del editor del 14-11-2026: **la fecha canónica de la efeméride
+—campo `date:`, título, nombre del archivo y URL— es siempre la del calendario gregoriano**, y el
+doble cómputo calendárico queda reglado con su tabla de desfases por centuria, la regla de silencio
+cuando la fuente no declara el calendario y la exclusión de las fechas anteriores al 15-10-1582
+(§ «Fecha canónica y doble cómputo calendárico»). Cierra la laguna que obligaba a deducir el
+criterio de los precedentes del corpus: hasta hoy ninguno de los once documentos de `docs/` y
+`tools/` nombraba los calendarios. Sin auditorías nuevas en `tools/efemerides-linter.sh`, que solo
+actualiza su cabecera de alineación. En paralelo: Plantilla Maestra v2.26, Manual de Estilo v1.23 y
+`docs/protocolo-continuidad-sesiones.md`. Instrucciones de Procesar v2.18: sin novedad. Registro de
+la versión anterior debajo.
+
+### Registro de la v2.24
 
 **Novedad de la v2.24.** Decisión del editor del 22-10-2026 (**D1-c**): **los títulos de realeza,
 nobleza y dignidades caballerescas o tradicionales se escriben con minúscula inicial ante nombre
@@ -85,6 +98,39 @@ Estilo v1.20, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`.
 2. No incluir marcadores automáticos del tipo `[citation:X]`, `[1]`, `[2]`, etc.
 3. No incluir la etiqueta `[VERIFICADO]` en el texto visible.
 4. Solo se admite `[NO CONFIRMADO]` cuando la línea editorial decida mantener un dato de alto valor contextual pese a no estar plenamente cerrado.
+
+---
+
+## FECHA CANÓNICA Y DOBLE CÓMPUTO CALENDÁRICO
+
+La fecha canónica de la efeméride —campo `date:` del YAML, título, nombre del archivo y URL
+publicada— es siempre la del **calendario gregoriano**.
+
+Cuando la fuente primaria consigne la fecha en **calendario juliano** —el vigente en el Imperio
+ruso y en los territorios bajo su administración hasta el 14 de febrero de 1918—, se convierte al
+gregoriano para el campo `date:`, el título y el nombre del archivo, y la equivalencia se declara
+en la primera mención del cuerpo con la fórmula «6 de junio de 1889 —25 de mayo del calendario
+juliano—» o, en su variante entre paréntesis, «28 de marzo de 1912 (calendario juliano: 15 de
+marzo)» (Manual de Estilo v1.23, § 4.8).
+
+La diferencia entre ambos cómputos **no es constante** y depende del siglo:
+
+| Fecha juliana | Desfase | Precedente verificado en el corpus |
+|---|---:|---|
+| 15-10-1582 a 28-02-1700 | +10 días | — |
+| 01-03-1700 a 28-02-1800 | +11 días | — |
+| 01-03-1800 a 28-02-1900 | **+12 días** | 25-05-1889 → 06-06-1889 |
+| 01-03-1900 a 13-02-1918 | **+13 días** | 15-03-1912 → 28-03-1912; 27-04-1909 → 10-05-1909 |
+
+La tabla es normativa. Aplicar a una fecha el desfase de otra centuria introduce un error de un
+día, de modo que no se admiten reglas mnemotécnicas ni el desfase «habitual» del siglo XX.
+
+Si la fuente institucional publica una fecha **sin declarar el calendario**, no se presume la
+equivalencia: se conserva la fecha publicada como referencia de la efeméride y la Nota aclaratoria
+deja constancia de que no se establece conversión.
+
+Las fechas anteriores al 15 de octubre de 1582 no se convierten ni se glosan: el calendario
+gregoriano no existía aún.
 
 ---
 
@@ -826,3 +872,29 @@ marqués d'Arlandes*, *sir Frank Whittle*, *el jeque Mohammed bin Rashid Al Makt
 Plantilla Maestra v2.25, Manual de Estilo v1.22, `tools/efemerides-linter.sh`,
 `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Instrucciones de Procesar
 v2.18: sin novedad.
+
+---
+
+## ACTUALIZACIONES DE FORMATO V2.25 — 2026-11-14
+
+### Fecha canónica y doble cómputo calendárico
+
+Orden del editor del 14-11-2026: la fecha de la efeméride es la del calendario gregoriano y el paso
+desde el juliano se rige por la tabla de desfases por centuria, con tres reglas de cierre: la
+equivalencia se declara en el cuerpo, no se presume cuando la fuente no declara calendario y no se
+convierte nada anterior al 15-10-1582.
+
+- Se añade la sección «Fecha canónica y doble cómputo calendárico» antes de «Enlaces: norma
+  editorial vigente».
+- Motivo documentado: la convención regía de hecho en el corpus —1912-03-28 (Raskova) y 1909-05-10
+  (Grizodúbova) la aplican—, pero no constaba en ninguno de los once documentos de `docs/` y
+  `tools/`, de modo que su aplicación dependía de la interpretación de los precedentes.
+- Alcance no retroactivo: no reabre cierres comunicados ni exige reconvertir fechas ya publicadas.
+  La primera alta sujeta a la regla explícita es 1889-06-06 (Sikorsky), publicada en el commit
+  `a1fe32abd`.
+
+### Alineación
+
+Plantilla Maestra v2.26, Manual de Estilo v1.23 y `docs/protocolo-continuidad-sesiones.md`.
+`tools/efemerides-linter.sh` actualiza solo su cabecera de alineación, sin auditorías nuevas.
+Instrucciones de Procesar v2.18: sin novedad.

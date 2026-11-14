@@ -1,10 +1,23 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2026-10-22  
-> Versión: v2.25
+> Última actualización: 2026-11-14  
+> Versión: v2.26
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.26.** Orden del editor del 14-11-2026: **la fecha canónica de la efeméride es
+la del calendario gregoriano**, reglada con la tabla de desfases por centuria, la declaración de la
+equivalencia juliana en el cuerpo y tres reglas de cierre (no se presume conversión si la fuente no
+declara calendario; nada anterior al 15-10-1582 se convierte; la Nota aclaratoria explica la
+diferencia cuando los repertorios difunden la fecha antigua). Se incorpora como párrafo de la regla
+maestra 1 y remite a las Instrucciones de Formato v2.25 y al Manual de Estilo v1.23, § 4.8.
+**No retroactivo.** Sin auditorías nuevas en `tools/efemerides-linter.sh` (solo su cabecera de
+alineación). En paralelo: Instrucciones de Formato v2.25, Manual de Estilo v1.23 y
+`docs/protocolo-continuidad-sesiones.md`; Instrucciones de Procesar v2.18, sin novedad.
+Registro de la versión anterior debajo.
+
+### Registro de la v2.25
 
 **Novedad de la v2.25.** Decisión del editor del 22-10-2026 (**D1-c**): **los títulos de
 realeza, nobleza y dignidades caballerescas o tradicionales siguen la minúscula inicial de la
@@ -249,6 +262,12 @@ Las cabeceras normativas del post deben mantenerse **exactamente** así:
 - `## Metadatos de Control`
 
 No deben sustituirse por variantes como “Referencias”, “Contexto histórico”, “Estado actual”, “Conclusiones” o equivalentes, salvo autorización expresa del editor.
+
+El campo `date:` del YAML, el título y el nombre permanente del archivo llevan la **fecha canónica en
+calendario gregoriano**; cuando la fuente primaria dé la fecha en calendario juliano, la conversión
+se aplica a esos tres elementos y la equivalencia se declara en la primera mención del cuerpo
+(Instrucciones de Formato v2.25, «Fecha canónica y doble cómputo calendárico»; Manual de Estilo
+v1.23, § 4.8).
 
 ### 2) Enlaces HTML obligatorios
 Dentro del cuerpo del post, las referencias internas o externas integradas en párrafos deben escribirse con este formato:

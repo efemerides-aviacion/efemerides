@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-10-22  
-> Versión: v1.22
+> Edición consolidada: 2026-11-14  
+> Versión: v1.23
 
 ---
 
@@ -200,6 +200,31 @@ descrito como suavizante de «los movimientos del morro en el eje vertical»; ni
 lazo de verificación del asistente ni la revisión del editor lo detectaron, y lo
 señalaron tres lectores el día de la conmemoración. El editor lo corrigió en la
 rama el 28-08-2026 («eje transversal o lateral»).
+
+---
+
+### 4.8 Fechas y doble cómputo calendárico
+La fecha que gobierna la efeméride es la del calendario **gregoriano** (Instrucciones de Formato
+v2.25, «Fecha canónica y doble cómputo calendárico»).
+
+Cuando la fuente primaria dé la fecha en calendario **juliano** —el vigente en el Imperio ruso y en
+los territorios bajo su administración hasta el 14 de febrero de 1918—, la conversión se declara en
+la primera mención del cuerpo, entre rayas o entre paréntesis, y nunca se deja al lector:
+
+**Correcto ✅**
+- «6 de junio de 1889 —25 de mayo del calendario juliano—, Kiev, Imperio ruso».
+- «28 de marzo de 1912 (calendario juliano: 15 de marzo)».
+
+**Incorrecto ❌**
+- Dar solo la fecha juliana y suponer que el lector conoce el desfase.
+- Convertir una fecha sin declararlo, o declarar la conversión y dejar en el YAML la fecha antigua.
+- Aplicar a un hecho de 1917 el desfase de +12 días, que corresponde a la centuria anterior.
+
+El desfase depende del siglo y se toma de la tabla normativa de las Instrucciones de Formato v2.25.
+La Nota aclaratoria explica la diferencia de cómputos cuando los repertorios difundan la fecha
+antigua. Si la fuente institucional no declara el calendario, no se presume la equivalencia: se
+conserva la fecha publicada y se advierte de que no se establece conversión. Las fechas anteriores
+al 15 de octubre de 1582 se escriben tal como constan, sin glosa: el gregoriano no existía.
 
 ---
 
@@ -559,6 +584,7 @@ investigador (14 de agosto de 2026).
 - insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que corresponden a `## Referencias Verificadas` o al `<figcaption>` (§ 6.4);
 - repetir fuera del `Resumen Ejecutivo` hechos, cifras técnicas, episodios cronológicos o premios entre distintas secciones del post, o superar las 1.550 palabras narrativas (§ 5);
 - redactar `## Metadatos de Control` con textos largos (>150 palabras) o duplicando en sus listas de fuentes los títulos, autores y descripciones de `## Referencias Verificadas` (§ 10).
+- dar la fecha juliana como fecha de la efeméride, o convertirla sin declarar la equivalencia en el cuerpo y sin aplicar el desfase que corresponde a su centuria (§ 4.8).
 
 ---
 
@@ -884,3 +910,19 @@ de Procesar v2.18, además de `docs/protocolo-continuidad-sesiones.md`. Sin camb
 Alineadas en la misma fecha: Plantilla Maestra v2.25, Instrucciones de Formato v2.24,
 `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
 Instrucciones de Procesar v2.18: sin novedad.
+
+## 34. Actualizaciones editoriales v1.23 — 2026-11-14
+
+- **§ 4.8 nueva (fecha canónica y doble cómputo calendárico):** la fecha canónica es la
+  gregoriana; la juliana se convierte con la tabla de desfases por centuria de las Instrucciones de
+  Formato v2.25 y la equivalencia se declara en la primera mención del cuerpo. Se documentan tres
+  cierres: no se presume equivalencia si la fuente no declara calendario, no se convierte nada
+  anterior al 15-10-1582 y la Nota aclaratoria explica la diferencia cuando los repertorios
+  difunden la fecha antigua.
+- **Alcance:** no retroactivo. Rige para las altas desde el 14-11-2026; la primera sujeta a la
+  regla explícita es 1889-06-06 (Sikorsky).
+- **§ 13, viñeta nueva de errores** remitiendo a § 4.8.
+
+Alineadas en la misma fecha: Plantilla Maestra v2.26, Instrucciones de Formato v2.25 y
+`docs/protocolo-continuidad-sesiones.md`. Instrucciones de Procesar v2.18 y
+`tools/efemerides-linter.sh` (solo cabecera de alineación): sin novedad.

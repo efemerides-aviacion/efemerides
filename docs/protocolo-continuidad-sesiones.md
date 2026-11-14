@@ -1,6 +1,6 @@
 # Protocolo de continuidad entre sesiones
 
-> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos (auditoría [AVISO] 12), el 21 de octubre de 2026 para registrar Plantilla Maestra v2.24, Formato v2.23, Procesar v2.18 y Manual de Estilo v1.21 sobre el reparto del trabajo con la imagen y la convención de entrega en `rectores/`, y el 22 de octubre de 2026 para registrar Plantilla Maestra v2.25, Formato v2.24 y Manual de Estilo v1.22 (Procesar v2.18 sin novedad), la auditoría [AVISO] 13 sobre títulos de realeza y nobleza en minúscula (D1-c), el paso a RECTOR del reparto de la imagen en § 5 y la ratificación de `en-proceso/` en § 7. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
+> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos (auditoría [AVISO] 12), el 21 de octubre de 2026 para registrar Plantilla Maestra v2.24, Formato v2.23, Procesar v2.18 y Manual de Estilo v1.21 sobre el reparto del trabajo con la imagen y la convención de entrega en `rectores/`, y el 22 de octubre de 2026 para registrar Plantilla Maestra v2.25, Formato v2.24 y Manual de Estilo v1.22 (Procesar v2.18 sin novedad), la auditoría [AVISO] 13 sobre títulos de realeza y nobleza en minúscula (D1-c), el paso a RECTOR del reparto de la imagen en § 5 y la ratificación de `en-proceso/` en § 7, y actualizada el 14 de noviembre de 2026 para registrar Plantilla Maestra v2.26, Formato v2.25 y Manual de Estilo v1.23 (Procesar v2.18 sin novedad) tras la fijación de la regla de fecha canónica y doble cómputo calendárico, que hasta hoy no constaba en ninguno de los once documentos de `docs/` y `tools/` No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
 
 ## Principio
 
@@ -57,10 +57,10 @@ https://api.github.com/repos/efemerides-aviacion/efemerides/branches/restauracio
 
 Debe enumerar nominalmente los seis rectores y sus versiones:
 
-1. `docs/plantilla-maestra-efemerides-v2.25.md`
-2. `docs/instrucciones-formato-efemerides-v2.24.md`
+1. `docs/plantilla-maestra-efemerides-v2.26.md`
+2. `docs/instrucciones-formato-efemerides-v2.25.md`
 3. `docs/instrucciones-procesar-efemerides-v2.18.md`
-4. `docs/manual-estilo-efemerides-v1.22.md`
+4. `docs/manual-estilo-efemerides-v1.23.md`
 5. `docs/anexo-comparacion-tratamientos-y-rangos.md`
 6. `docs/excepciones-rangos-y-tratamientos.md`
 
@@ -150,6 +150,17 @@ títulos reales, nobiliarios y dignidades caballerescas o tradicionales (*rey*, 
 *emperador*, *príncipe*, *conde*, *marqués*, *barón*, *lord*, *lady*, *sir*, *jeque*…) se escriben
 con minúscula inicial ante nombre propio o denominación nobiliaria, conforme a la *Ortografía* de
 la RAE y a D1-a, sin efecto retroactivo sobre cierres comunicados.
+
+#### Fecha canónica y doble cómputo calendárico — RECTOR (orden del editor, 14-11-2026)
+
+Incorporado en Instrucciones de Formato v2.25 (§ «Fecha canónica y doble cómputo calendárico»),
+Manual de Estilo v1.23 (§ 4.8) y Plantilla Maestra v2.26 (regla maestra 1): la fecha canónica
+—campo `date:`, título, nombre del archivo y URL— es la del calendario **gregoriano**; la juliana se
+convierte con la tabla de desfases por centuria (+10 hasta 28-02-1700; +11 hasta 28-02-1800; +12
+hasta 28-02-1900; +13 hasta el 13-02-1918) y la equivalencia se declara en la primera mención del
+cuerpo. No se presume conversión si la fuente institucional no declara calendario, nada anterior al
+15-10-1582 se convierte y la Nota aclaratoria explica la diferencia cuando los repertorios difunden
+la fecha antigua. Sin efecto retroactivo y sin auditorías nuevas en `tools/efemerides-linter.sh`.
 
 ### 6. Observaciones sin acción y asuntos reservados al editor
 
