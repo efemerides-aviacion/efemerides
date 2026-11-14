@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Francia
 operator: Générale Aéronautique Marcel Dassault (GAMD); Fuerza Aérea Francesa
-excerpt: "El 17 de noviembre de 1956 despegó en Melun-Villaroche el prototipo Dassault Mirage III 001, con Roland Glavany a los mandos. Su ala delta y su fuselaje de cintura estrecha dieron origen al Mirage IIIA, el primer avión de combate de Europa occidental que superó Mach 2, en octubre de 1958."
+excerpt: "El 17 de noviembre de 1956 despegó en Melun-Villaroche el prototipo Mirage III 001, con Roland Glavany a los mandos. Su ala delta y su fuselaje estrechado condujeron al IIIA, el primer caza de Europa occidental que superó Mach 2 en octubre de 1958."
 image: 1956-11-17-primer-vuelo-dassault-mirage-iii.webp
 ---
 
@@ -19,7 +19,7 @@ image: 1956-11-17-primer-vuelo-dassault-mirage-iii.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 17 de noviembre de 1956, a las cuatro de la tarde, el piloto de pruebas Roland Glavany despegó de la pista de Melun-Villaroche con el prototipo Mirage III 001: un monoplaza de ala delta, un solo turborreactor SNECMA Atar y un fuselaje estrechado en la cintura según la regla de las áreas. Dassault lo había diseñado en menos de un año a partir del pequeño Mirage I.</p>
+<p>El 17 de noviembre de 1956, a las cuatro de la tarde, el piloto de pruebas Roland Glavany despegó de la pista de Melun-Villaroche con el prototipo Mirage III 001: un monoplaza de ala delta, un solo turborreactor SNECMA Atar y un fuselaje cuya sección se estrecha conforme a la regla de las áreas. Dassault lo había diseñado en menos de un año a partir del pequeño Mirage I.</p>
 <p>Ese primer vuelo no fue supersónico, pero fijó la fórmula que la Fuerza Aérea Francesa adoptó y que, dos años después, llevó al Mirage IIIA 01 a superar Mach 2: el primer avión de combate de Europa occidental en conseguirlo. De esa célula salió un caza de exportación masiva y un linaje que llegó hasta el Mirage 2000.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -30,7 +30,7 @@ image: 1956-11-17-primer-vuelo-dassault-mirage-iii.webp
 - **Lugar:** aeródromo de Melun-Villaroche, Sena y Marne, Francia.
 - **Protagonista:** Roland Glavany, piloto de pruebas de Dassault.
 - **Aeronave:** Dassault Mirage III 001, prototipo monoplaza de ala delta; apodado «Balzac» por los equipos del constructor.
-- **Planta motriz:** un turborreactor SNECMA Atar 101G-1 de 44 kN de empuje y un cohete auxiliar SEPR 66.
+- **Planta motriz:** un turborreactor SNECMA Atar 101G-1 de unos 44 kN de empuje (4.500 kilogramos-fuerza) y un cohete auxiliar SEPR 66.
 - **Dimensiones:** envergadura de 7,58 m.
 - **Diseño:** ala delta sin cola horizontal y fuselaje ajustado a la regla de las áreas; concebido a finales de 1955 y derivado del Mirage I.
 - **Prestaciones del prototipo:** Mach 1,52 en su décimo vuelo; Mach 1,8 con el cohete en septiembre de 1957; techo práctico de 16.500 m.
@@ -62,7 +62,7 @@ El avión era, para la Francia de posguerra, una carta de prestigio. Los salones
 - **25 de junio de 1955:** vuela por primera vez en Melun-Villaroche el MD 550 Mystère Delta, monoplaza de dos turborreactores ligeros y ala delta, con Glavany a los mandos. Despegó a las 08:50 y el primer vuelo duró veinte minutos. Es el banco de pruebas de la fórmula.
 - **1956:** el aparato, rebautizado Mirage I tras recibir postcombustión, un cohete SEPR 66 y una deriva rediseñada, alcanza Mach 1,3 en vuelo horizontal con sus motores y Mach 1,6 con el cohete.
 - **Octubre y noviembre de 1956:** los ingenieros de Dassault observan en la base de Cazaux las pruebas del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1954/10/06/primer-vuelo-fairey-delta-2.html" style="color: #315fea; text-decoration: none;">Fairey Delta 2</a>, que realiza allí casi medio centenar de vuelos supersónicos a baja cota y aporta datos sobre el comportamiento del ala delta.
-- **17 de noviembre de 1956:** a las 16:00 despega el Mirage III 001. El nuevo aparato pesa un 30 por ciento más que el Mirage I, lleva un solo Atar y estrena el fuselaje de cintura estrecha.
+- **17 de noviembre de 1956:** a las 16:00 despega el Mirage III 001. El nuevo aparato pesa unos 4.840 kilogramos vacío, alrededor de un tercio más que el Mirage I, lleva un solo Atar y estrena el estrechamiento del fuselaje que impone la regla de las áreas.
 - **1957:** el décimo vuelo registra Mach 1,52 y, el 13 de abril, el servicio técnico aeronáutico reclama al constructor el expediente de definición de la versión de preserie. El 11 de junio, en el Salón de París, el prototipo se presenta ante el público en su vuelo número 62. El 19 de septiembre, con el cohete, llega a Mach 1,8, y en octubre a Mach 1,89; la tobera fija de las tomas de aire frena el avance hasta que se adoptan conos móviles, las «souris».
 - **12 de mayo de 1958:** vuela en Melun-Villaroche el Mirage IIIA 01, primero de los diez aviones de preserie, más largo, con ala mayor y motor Atar 9B.
 - **24 de octubre de 1958:** una vez más con Glavany a los mandos, el IIIA 01 supera Mach 2 en vuelo horizontal y establece la marca de Europa occidental.
@@ -98,13 +98,13 @@ El Mirage III se convirtió en la carta de presentación de la aviación de comb
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> El vuelo del 17 de noviembre de 1956 fue el primero del prototipo, no un vuelo supersónico: el aparato pasó Mach 1 en su décimo vuelo y Mach 2 no se alcanzó hasta el 24 de octubre de 1958, con el Mirage IIIA 01, de modo que la condición de primer avión de combate de Europa occidental en superar Mach 2 corresponde a esa segunda máquina y no al 001. El museo del Aire describe el logro como el primer avión francés en franquear Mach 2 «bajo control oficial», fórmula más restrictiva que la de Europa occidental que emplean el constructor y los repertorios. Dassault Aviation fecha el pedido de los diez aviones de preserie en mayo de 1957, mientras otras cronologías lo sitúan en abril.</p>
+<p><strong>Nota aclaratoria:</strong> El vuelo del 17 de noviembre de 1956 fue el primero del prototipo, no un vuelo supersónico: el aparato pasó Mach 1 en su décimo vuelo y Mach 2 no se alcanzó hasta el 24 de octubre de 1958, con el Mirage IIIA 01, de modo que la condición de primer avión de combate de Europa occidental en superar Mach 2 corresponde a esa segunda máquina y no al 001. El museo del Aire describe el logro como el primer avión francés en franquear Mach 2 «bajo control oficial», fórmula más restrictiva que la de Europa occidental que emplean el constructor y los repertorios. La ficha de Dassault Aviation data el pedido de los diez aviones de preserie en abril de 1957 y, más adelante en la misma página, el 9 de mayo de 1957 como fecha de la orden cursada por la Secretaría de Estado del Aire para esos mismos diez aparatos.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-11-14 09:09:40 CST  
+- **Timestamp de verificación:** 2026-11-14 10:19:17 CST  
 - **Fuentes primarias/institucionales consultadas:** Dassault Aviation; Musée de l'Air et de l'Espace  
 - **Fuentes secundarias de contraste:** AviaFrance; Aviation Classics; Wikipedia (EN/FR)  
 - **Discrepancias resueltas:** alcance real del vuelo de 1956 frente a Mach 2 de 1958, fórmula del museo y fecha del pedido de preserie, resumidas en la Nota aclaratoria  
