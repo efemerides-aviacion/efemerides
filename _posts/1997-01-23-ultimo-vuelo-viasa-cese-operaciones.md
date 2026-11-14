@@ -57,7 +57,7 @@ Viasa trascendió lo empresarial para instalarse en la cultura venezolana. Lleva
 
 ## Desarrollo Cronológico
 
-- **21 de noviembre de 1960:** Fundación de Viasa por el gobierno de Rómulo Betancourt, fusionando las rutas internacionales de LAV y Avensa.
+- **21 de noviembre de 1960:** <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1960/11/21/fundacion-viasa.html" style="color: #315fea; text-decoration: none;">Fundación de Viasa</a> por el gobierno de Rómulo Betancourt, fusionando las rutas internacionales de LAV y Avensa.
 - **2 de abril de 1961:** Primer vuelo comercial: Caracas – Ámsterdam con escalas en Azores, Lisboa, Madrid y Roma, operado con un DC-8 de KLM.
 - **1961-1975:** Época de expansión y rentabilidad. Viasa se convierte en la aerolínea con más destinos internacionales de América Latina.
 - **1975:** Nacionalización. Comienza el declive financiero, aunque el Estado venezolano inyecta capital para mantenerla a flote.

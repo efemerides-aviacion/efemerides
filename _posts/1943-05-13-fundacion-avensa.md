@@ -72,7 +72,7 @@ La aerolínea se volvió emblema de la Venezuela petrolera que se modernizaba. E
 - **Diciembre de 1943:** Se realiza el vuelo inaugural con un Ford Trimotor en la ruta Caracas - Ciudad Bolívar.
 - **1944:** Inicia los vuelos regulares de pasajeros.
 - **1955:** Introduce los primeros aviones presurizados (Convair 340) en sus rutas internacionales a Miami.
-- **1961:** AVENSA transfiere sus rutas internacionales a la recién creada VIASA, de la cual se convierte en accionista.
+- **1961:** AVENSA transfiere sus rutas internacionales a <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1960/11/21/fundacion-viasa.html" style="color: #315fea; text-decoration: none;">la recién creada VIASA</a>, de la cual se convierte en accionista.
 - **1964:** Incorpora su primer reactor, el Sud Aviation Caravelle, iniciando la era del jet en Venezuela.
 - **1976:** El Estado venezolano adquiere las acciones de Pan Am, nacionalizando completamente la aerolínea.
 - **1990/1991:** Moderniza su flota con la introducción de los Boeing 757-200 y 737-300.
