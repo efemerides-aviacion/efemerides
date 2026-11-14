@@ -19,7 +19,7 @@ image: 1913-05-13-primer-vuelo-russky-vityaz.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El S-21 de Ígor Sikorsky demostró que un avión de gran tamaño podía transportar personas en una cabina cerrada y emplear varios motores. Los archivos históricos del diseñador asignan su primer vuelo al 13 de mayo de 1913. Esa fecha se conserva como referencia de la efeméride, con una advertencia: la cronología del prototipo y de sus cambios de planta motriz no es uniforme entre las fuentes. El interés del proyecto va más allá de una prioridad: convirtió en experiencia de vuelo una solución que abriría posibilidades para aparatos mucho mayores.</p>
+<p>El S-21 de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1889/06/06/nacimiento-igor-sikorsky.html" style="color: #315fea; text-decoration: none;">Ígor Sikorsky</a> demostró que un avión de gran tamaño podía transportar personas en una cabina cerrada y emplear varios motores. Los archivos históricos del diseñador asignan su primer vuelo al 13 de mayo de 1913. Esa fecha se conserva como referencia de la efeméride, con una advertencia: la cronología del prototipo y de sus cambios de planta motriz no es uniforme entre las fuentes. El interés del proyecto va más allá de una prioridad: convirtió en experiencia de vuelo una solución que abriría posibilidades para aparatos mucho mayores.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
