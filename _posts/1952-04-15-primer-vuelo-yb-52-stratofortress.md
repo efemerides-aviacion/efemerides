@@ -43,7 +43,7 @@ El nacimiento del B-52 respondió a la búsqueda por parte de las Fuerzas Aérea
 
 ### Entorno social
 
-A comienzos de la década de 1950, el estallido de la Guerra de Corea y el desarrollo del arsenal nuclear soviético convirtieron al Mando Aéreo Estratégico (SAC), dirigido por el General Curtis E. LeMay, en el pilar central de la doctrina de disuasión de Estados Unidos. Aunque el gigantesco <a href="https://efemerides-aviacion.github.io/efemerides/evento/1946/08/08/primer-vuelo-convair-b36.html" style="color: #315fea; text-decoration: none;">Convair B-36 Peacemaker</a> de propulsión mixta y el birreactor de alcance medio Boeing B-47 Stratojet cubrían las necesidades inmediatas, la vulnerabilidad de los aviones de hélice frente a los nuevos interceptores a reacción exigía disponer cuanto antes de un reactor de alcance intercontinental.
+A comienzos de la década de 1950, el estallido de la Guerra de Corea y el desarrollo del arsenal nuclear soviético convirtieron al Mando Aéreo Estratégico (SAC), dirigido por el General <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1906/11/15/nacimiento-curtis-lemay.html" style="color: #315fea; text-decoration: none;">Curtis E. LeMay</a>, en el pilar central de la doctrina de disuasión de Estados Unidos. Aunque el gigantesco <a href="https://efemerides-aviacion.github.io/efemerides/evento/1946/08/08/primer-vuelo-convair-b36.html" style="color: #315fea; text-decoration: none;">Convair B-36 Peacemaker</a> de propulsión mixta y el birreactor de alcance medio Boeing B-47 Stratojet cubrían las necesidades inmediatas, la vulnerabilidad de los aviones de hélice frente a los nuevos interceptores a reacción exigía disponer cuanto antes de un reactor de alcance intercontinental.
 
 ### Entorno tecnológico
 

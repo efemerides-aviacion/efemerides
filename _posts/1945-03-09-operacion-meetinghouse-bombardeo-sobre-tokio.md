@@ -46,7 +46,7 @@ Tokio era una metrópoli extensa, con barrios residenciales e industriales entre
 
 ### Entorno tecnológico
 
-El B-29 combinaba gran alcance con sistemas presurizados y motores potentes, pero las misiones largas sobre el Pacífico imponían límites de combustible y mantenimiento. Curtis LeMay, al frente del XXI Bomber Command desde enero de 1945, ordenó sustituir parte de las incursiones diurnas a gran altura por ataques nocturnos a baja cota. El cambio buscaba reducir los efectos de los vientos en altura y concentrar las bombas sobre zonas delimitadas.
+El B-29 combinaba gran alcance con sistemas presurizados y motores potentes, pero las misiones largas sobre el Pacífico imponían límites de combustible y mantenimiento. <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1906/11/15/nacimiento-curtis-lemay.html" style="color: #315fea; text-decoration: none;">Curtis LeMay</a>, al frente del XXI Bomber Command desde enero de 1945, ordenó sustituir parte de las incursiones diurnas a gran altura por ataques nocturnos a baja cota. El cambio buscaba reducir los efectos de los vientos en altura y concentrar las bombas sobre zonas delimitadas.
 
 Meetinghouse empleó munición incendiaria, en lugar de depender principalmente de explosivos de alto poder. El National WWII Museum cifra en 279 los B-29 que participaron y en unas 1.665 toneladas la carga lanzada. Las aeronaves pathfinder marcaron el área inicial con fuego para guiar a las formaciones siguientes. Esta táctica podía propagar incendios entre edificaciones cercanas; su efecto dependía del viento, la sequedad, la densidad urbana y la capacidad local para contener las llamas.
 

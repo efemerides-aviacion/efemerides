@@ -39,7 +39,7 @@ image: 1957-01-18-operacion-power-flite.webp
 
 ## Contexto Histórico
 
-La Operación Power Flite fue concebida por el General Curtis E. LeMay, jefe del Mando Aéreo Estratégico (SAC), como una demostración pública e inequívoca de disuasión termonuclear: acreditar ante Moscú que los nuevos bombarderos a reacción estadounidenses podían golpear cualquier objetivo del planeta en menos de dos días sin depender de bases avanzadas vulnerables.
+La Operación Power Flite fue concebida por el General <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1906/11/15/nacimiento-curtis-lemay.html" style="color: #315fea; text-decoration: none;">Curtis E. LeMay</a>, jefe del Mando Aéreo Estratégico (SAC), como una demostración pública e inequívoca de disuasión termonuclear: acreditar ante Moscú que los nuevos bombarderos a reacción estadounidenses podían golpear cualquier objetivo del planeta en menos de dos días sin depender de bases avanzadas vulnerables.
 
 ### Entorno social
 
