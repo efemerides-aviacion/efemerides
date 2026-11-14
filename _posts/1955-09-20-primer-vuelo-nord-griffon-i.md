@@ -73,7 +73,7 @@ La evolución del programa desde los planeadores experimentales hasta los récor
 
 Los ensayos de los dos prototipos Nord 1500 demostraron en vuelo real la viabilidad del ciclo combinado turborreactor-estatorreactor hasta más allá de Mach 2, proporcionando a los centros franceses de investigación (CEV y ONERA) datos fundamentales sobre la admisión de aire supersónica, la estabilidad de combustión a gran altitud y el calentamiento aerodinámico de las estructuras metálicas.
 
-Al mismo tiempo, la campaña puso de relieve las limitaciones operativas que llevaron al Estado Mayor del Aire a inclinarse por el Dassault Mirage III con turborreactor puro: el estatorreactor del Griffon II funcionaba en régimen casi «todo o nada» (con escasa capacidad de regulación intermedia de gases), presentaba un elevado consumo específico de combustible y sufría un rápido desgaste térmico en la tobera, mientras que la célula de duraluminio alcanzaba su frontera estructural en torno a Mach 2,2.
+Al mismo tiempo, la campaña puso de relieve las limitaciones operativas que llevaron al Estado Mayor del Aire a inclinarse por el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1956/11/17/primer-vuelo-dassault-mirage-iii.html" style="color: #315fea; text-decoration: none;">Dassault Mirage III</a> con turborreactor puro: el estatorreactor del Griffon II funcionaba en régimen casi «todo o nada» (con escasa capacidad de regulación intermedia de gases), presentaba un elevado consumo específico de combustible y sufría un rápido desgaste térmico en la tobera, mientras que la célula de duraluminio alcanzaba su frontera estructural en torno a Mach 2,2.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

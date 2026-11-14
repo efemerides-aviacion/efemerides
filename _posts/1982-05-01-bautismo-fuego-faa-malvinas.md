@@ -45,7 +45,7 @@ image: 1982-05-01-bautismo-fuego-faa-malvinas.webp
 
 El 2 de abril de 1982, Argentina recuperó las Islas Malvinas mediante la Operación Rosario. En respuesta, el gobierno británico de Margaret Thatcher ordenó el envío de una Fuerza de Tareas (Task Force) para recuperar el archipiélago. El 5 de abril, la flota británica partió hacia el Atlántico Sur, y durante las semanas siguientes se desplegaron fuerzas argentinas en las islas y en la Patagonia.
 
-La Fuerza Aérea Argentina (FAA) había desplegado sus unidades en aeródromos de la Patagonia desde marzo, preparándose para un posible conflicto. Los pilotos de Mirage IIIEA y Dagger operaban desde Río Gallegos, Río Grande y Trelew. El 30 de abril, el Comodoro Sandy Woodward, comandante de la Fuerza de Tareas británica a bordo del HMS Hermes, ordenó el inicio de las operaciones de ataque.
+La Fuerza Aérea Argentina (FAA) había desplegado sus unidades en aeródromos de la Patagonia desde marzo, preparándose para un posible conflicto. Los pilotos de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1956/11/17/primer-vuelo-dassault-mirage-iii.html" style="color: #315fea; text-decoration: none;">Mirage IIIEA</a> y Dagger operaban desde Río Gallegos, Río Grande y Trelew. El 30 de abril, el Comodoro Sandy Woodward, comandante de la Fuerza de Tareas británica a bordo del HMS Hermes, ordenó el inicio de las operaciones de ataque.
 
 ### Entorno social
 

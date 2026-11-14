@@ -48,7 +48,7 @@ En mayo de 1967, las tensiones aumentaron drásticamente. Egipto movilizó sus f
 
 ### Entorno tecnológico
 
-La Fuerza Aérea de Israel contaba con unos 200 aviones de combate, principalmente franceses (Mirage III, Mystère IV). Enfrente, las fuerzas aéreas árabes sumaban aproximadamente 600 aviones (con MiG-19, MiG-21, Tu-16, Il-28). Sin embargo, la superioridad cualitativa israelí en entrenamiento, mantenimiento y planificación compensaba la desventaja numérica. Los cazas Mirage III eran superiores a los MiG-21 en ciertos aspectos, especialmente en maniobrabilidad a baja altitud. Además, la IAF había estudiado a fondo las tácticas de combate soviéticas que empleaban los árabes y había desarrollado contramedidas.
+La Fuerza Aérea de Israel contaba con unos 200 aviones de combate, principalmente franceses (Mirage III, Mystère IV). Enfrente, las fuerzas aéreas árabes sumaban aproximadamente 600 aviones (con MiG-19, MiG-21, Tu-16, Il-28). Sin embargo, la superioridad cualitativa israelí en entrenamiento, mantenimiento y planificación compensaba la desventaja numérica. Los cazas <a href="https://efemerides-aviacion.github.io/efemerides/evento/1956/11/17/primer-vuelo-dassault-mirage-iii.html" style="color: #315fea; text-decoration: none;">Mirage III</a> eran superiores a los MiG-21 en ciertos aspectos, especialmente en maniobrabilidad a baja altitud. Además, la IAF había estudiado a fondo las tácticas de combate soviéticas que empleaban los árabes y había desarrollado contramedidas.
 
 ### Entorno cultural
 

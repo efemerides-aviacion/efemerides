@@ -19,7 +19,7 @@ image: 1959-08-26-jacqueline-auriol-primera-mujer-mach-2.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 26 de agosto de 1959, la piloto de pruebas francesa Jacqueline Auriol (1917-2000) voló a los mandos del prototipo Dassault Mirage III 001 sobre las instalaciones del CEV en Istres, pasando a ser la primera aviadora en alcanzar Mach 2, el doble de la velocidad del sonido. La casa fabricante registra una punta de 2.150 km/h en aquel vuelo.</p>
+  <p>El 26 de agosto de 1959, la piloto de pruebas francesa Jacqueline Auriol (1917-2000) voló a los mandos del prototipo <a href="https://efemerides-aviacion.github.io/efemerides/evento/1956/11/17/primer-vuelo-dassault-mirage-iii.html" style="color: #315fea; text-decoration: none;">Dassault Mirage III 001</a> sobre las instalaciones del CEV en Istres, pasando a ser la primera aviadora en alcanzar Mach 2, el doble de la velocidad del sonido. La casa fabricante registra una punta de 2.150 km/h en aquel vuelo.</p>
   <p>Cuatro días después, el 30 de agosto de 1959, Auriol llevó el mismo aparato en un circuito cerrado de 100 kilómetros a una media de 1.789 km/h y arrebató el récord femenino de velocidad en esa distancia a su gran rival, la estadounidense Jacqueline Cochran. El doble vuelo consolidó la reputación internacional del caza de ala en delta de Marcel Dassault y confirmó a Auriol en la élite mundial de las aviadoras de ensayo militar.</p>
 </div>
 
