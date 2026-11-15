@@ -78,7 +78,7 @@ La importancia histórica también depende de la precisión del rótulo. La fór
 
 El vuelo quedó registrado en una fotografía de Cole &amp; Co. y en una película preservada por la Library of Congress. Esos soportes permiten contrastar el relato escrito con la llegada, el embarque y el regreso, y explican por qué el episodio se convirtió en referencia para la historia de la aviación presidencial. La memoria no debe reducirse a la frase «primer presidente en volar»: los archivos y las crónicas facilitan recuperar el matiz de su situación institucional.
 
-Hoxsey murió el 31 de diciembre de 1910 en un accidente al intentar superar su récord de altitud. Roosevelt siguió activo en política, volvió a competir por la presidencia en 1912 y murió en 1919. Sus trayectorias distintas unen la breve carrera del piloto con la fama duradera del expresidente. El vuelo conserva valor como escena de transición cultural, no como anuncio de una aviación comercial ya segura.
+Hoxsey murió el 31 de diciembre de 1910 en un accidente al intentar superar su récord de altitud; <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1910/11/17/accidente-ralph-johnstone-primer-piloto-fallecido.html" style="color: #315fea; text-decoration: none;">Ralph Johnstone</a>, su compañero de escuadrilla, había muerto en Denver seis semanas antes. Roosevelt siguió activo en política, volvió a competir por la presidencia en 1912 y murió en 1919. Sus trayectorias distintas unen la breve carrera del piloto con la fama duradera del expresidente. El vuelo conserva valor como escena de transición cultural, no como anuncio de una aviación comercial ya segura.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
