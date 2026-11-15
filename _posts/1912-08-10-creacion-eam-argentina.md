@@ -59,7 +59,7 @@ Los antecedentes del proceso pueden seguirse en dos episodios distintos: <a href
 
 Tras la creación legal se reunieron aviones, personal e instalaciones para desarrollar los cursos. El Arcón de la Historia identifica entre los primeros alumnos a Pedro Zanni, Melchor Zacarías Escola y Manuel Félix Origone; sus licencias y trayectorias no deben atribuirse indistintamente a un único curso o aparato.
 
-En 1915 se autorizó la admisión de oficiales extranjeros. Los uruguayos Cesáreo Berisso y Esteban Cristi se formaron en ese marco y obtuvieron sus acreditaciones al año siguiente.
+En 1915 se autorizó la admisión de oficiales extranjeros. Los uruguayos <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1913/03/17/fundacion-escuela-aviacion-militar-uruguay.html" style="color: #315fea; text-decoration: none;">Cesáreo Berisso</a> y Esteban Cristi se formaron en ese marco y obtuvieron sus acreditaciones al año siguiente.
 
 La etapa cordobesa se preparó durante la década de 1930. La historia oficial sitúa el comienzo de las obras en 1934 y la habilitación del edificio a finales de 1936; otras síntesis reservan 1937 para el traslado o la inauguración. Son fases que conviene distinguir, no fechas intercambiables de un mismo acto.
 
