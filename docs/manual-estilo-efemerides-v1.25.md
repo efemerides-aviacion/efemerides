@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-11-14  
-> Versión: v1.24
+> Edición consolidada: 2026-11-15  
+> Versión: v1.25
 
 ---
 
@@ -225,6 +225,34 @@ La Nota aclaratoria explica la diferencia de cómputos cuando los repertorios di
 antigua. Si la fuente institucional no declara el calendario, no se presume la equivalencia: se
 conserva la fecha publicada y se advierte de que no se establece conversión. Las fechas anteriores
 al 15 de octubre de 1582 se escriben tal como constan, sin glosa: el gregoriano no existía.
+
+---
+
+### 4.9 Léxico de las justas aeronáuticas
+Las justas de la etapa pionera se nombran con «demostración aérea» o «exhibición aérea», formas
+asentadas en el corpus. Se evita «reunión», voz genérica que el lector asocia a cualquier tipo de
+encuentro, y se evita el anglicismo «meeting», cuya acepción en inglés es precisamente la que se
+descarta y que no aporta nada al castellano. El criterio rige para las altas nuevas, en cualquier
+sección del post.
+
+**Correcto ✅**
+- «las demostraciones aéreas eran el escaparate comercial de la compañía».
+- «tras las exhibiciones de Indianápolis en junio y de Asbury Park en agosto».
+
+**Incorrecto ❌**
+- «las reuniones aéreas eran el escaparate comercial».
+- «el meeting de Belmont Park».
+
+Cuando el texto aluda a la actuación concreta de uno o varios pilotos ante el público, basta
+«demostración» o «exhibición» sin más calificativo.
+
+Precedente: en el alta 1910-11-17 (muerte de Ralph Johnstone), el editor señaló el 15-11-2026 que
+«reunión» es un término demasiado común en castellano para designar una justa aeronáutica y que
+«meeting» es una voz inglesa con esa misma acepción. El censo del HEAD `50834ba` registró 44
+apariciones de «reunión» en 24 posts y 8 de «meeting» en 3; las 11 apariciones de «Meetinghouse»
+quedan fuera del cómputo, por ser nombre propio de la operación de bombardeo de 1945. De esas 44,
+solo 9 acompañan a «aérea», «aéreo» o «aeronáutica»; el resto son usos legítimos del castellano
+(«reunión en Caracas con el geólogo», «reuniones públicas»).
 
 ---
 
@@ -566,6 +594,7 @@ investigador (14 de agosto de 2026).
 - dar commits prematuros antes de la revisión;
 - introducir enlaces internos innecesarios;
 - atribuir el cabeceo al eje vertical (es rotación en torno al transversal o lateral; el vertical es el de la guiñada) (§ 4.7);
+- designar una justa aeronáutica como «reunión» o «meeting» (§ 4.9);
 - llenar el texto de cifras sin jerarquía narrativa;
 - relatar en el post los errores del borrador, los enlaces caídos o las
   sustituciones de fuentes motivadas por problemas de acceso (§ 9.1);
@@ -952,3 +981,21 @@ Alineadas en la misma fecha: Plantilla Maestra v2.26, Instrucciones de Formato v
 Alineadas en la misma fecha: Plantilla Maestra v2.26, Instrucciones de Formato v2.25,
 Instrucciones de Procesar v2.19 y `docs/protocolo-continuidad-sesiones.md`.
 `tools/efemerides-linter.sh`: sin novedad.
+
+## 36. Actualizaciones editoriales v1.25 — 2026-11-15
+
+- **§ 4.9 nueva (léxico de las justas aeronáuticas):** las justas de la etapa pionera se nombran
+  «demostración aérea» o «exhibición aérea»; se evitan «reunión», voz genérica que el lector asocia
+  a cualquier tipo de encuentro, y el anglicismo «meeting». Se documenta el precedente del alta
+  1910-11-17 y el censo que lo respalda.
+- **§ 13, viñeta nueva de errores** remitiendo a § 4.9.
+- **Alcance:** no retroactivo. Rige para las altas desde el 15-11-2026. Los 24 posts con «reunión» y
+  los 3 con «meeting» conservan su redacción y solo se ajustan si se revisan por otro motivo.
+
+Alineado en la misma fecha: `docs/protocolo-continuidad-sesiones.md` (inventario del rector en su
+versión vigente). Plantilla Maestra v2.26, Instrucciones de Formato v2.25, Instrucciones de Procesar
+v2.19 y `tools/efemerides-linter.sh`: sin novedad. **La norma no se audita en el linter.** A
+diferencia del aviso de «adolecer» (§ 4.2), que es binario, aquí la palabra es de uso corriente y
+solo el contexto decide si designa una justa aeronáutica: una comprobación automática marcaría
+usos legítimos («reunión en Caracas con el geólogo») y dejaría pasar los impropios que no llevan
+el adjetivo («reuniones de Doncaster y Juvisy»). La vigilancia es de lectura.
