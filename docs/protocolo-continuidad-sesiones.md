@@ -1,6 +1,6 @@
 # Protocolo de continuidad entre sesiones
 
-> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos (auditoría [AVISO] 12), el 21 de octubre de 2026 para registrar Plantilla Maestra v2.24, Formato v2.23, Procesar v2.18 y Manual de Estilo v1.21 sobre el reparto del trabajo con la imagen y la convención de entrega en `rectores/`, y el 22 de octubre de 2026 para registrar Plantilla Maestra v2.25, Formato v2.24 y Manual de Estilo v1.22 (Procesar v2.18 sin novedad), la auditoría [AVISO] 13 sobre títulos de realeza y nobleza en minúscula (D1-c), el paso a RECTOR del reparto de la imagen en § 5 y la ratificación de `en-proceso/` en § 7, y actualizada el 14 de noviembre de 2026 para registrar Plantilla Maestra v2.26, Formato v2.25 y Manual de Estilo v1.23 (Procesar v2.18 sin novedad) tras la fijación de la regla de fecha canónica y doble cómputo calendárico, que hasta hoy no constaba en ninguno de los once documentos de `docs/` y `tools/`, y actualizada de nuevo el 14 de noviembre de 2026 para registrar Instrucciones de Procesar v2.19 y Manual de Estilo v1.24 tras la aprobación de la regla permanente del barrido obligatorio de enlaces recíprocos, y actualizada el 15 de noviembre de 2026 para registrar Manual de Estilo v1.25 tras la aprobación de la norma del léxico de las justas aeronáuticas (§ 4.9). No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
+> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos (auditoría [AVISO] 12), el 21 de octubre de 2026 para registrar Plantilla Maestra v2.24, Formato v2.23, Procesar v2.18 y Manual de Estilo v1.21 sobre el reparto del trabajo con la imagen y la convención de entrega en `rectores/`, y el 22 de octubre de 2026 para registrar Plantilla Maestra v2.25, Formato v2.24 y Manual de Estilo v1.22 (Procesar v2.18 sin novedad), la auditoría [AVISO] 13 sobre títulos de realeza y nobleza en minúscula (D1-c), el paso a RECTOR del reparto de la imagen en § 5 y la ratificación de `en-proceso/` en § 7, y actualizada el 14 de noviembre de 2026 para registrar Plantilla Maestra v2.26, Formato v2.25 y Manual de Estilo v1.23 (Procesar v2.18 sin novedad) tras la fijación de la regla de fecha canónica y doble cómputo calendárico, que hasta hoy no constaba en ninguno de los once documentos de `docs/` y `tools/`, y actualizada de nuevo el 14 de noviembre de 2026 para registrar Instrucciones de Procesar v2.19 y Manual de Estilo v1.24 tras la aprobación de la regla permanente del barrido obligatorio de enlaces recíprocos, y actualizada el 15 de noviembre de 2026 para registrar Manual de Estilo v1.25 tras la aprobación de la norma del léxico de las justas aeronáuticas (§ 4.9), y actualizada el 16 de noviembre de 2026 para registrar Plantilla Maestra v2.27, Instrucciones de Formato v2.26 y Manual de Estilo v1.26 (Procesar v2.19 sin novedad) tras la enmienda presidencial de D1-a y la comprobación [AVISO] 16 de `tools/efemerides-linter.sh` junto con la quinta excepción de `tools/efemerides-rangos-excepciones.txt` y `docs/excepciones-rangos-y-tratamientos.md`. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
 
 ## Principio
 
@@ -57,10 +57,10 @@ https://api.github.com/repos/efemerides-aviacion/efemerides/branches/restauracio
 
 Debe enumerar nominalmente los seis rectores y sus versiones:
 
-1. `docs/plantilla-maestra-efemerides-v2.26.md`
-2. `docs/instrucciones-formato-efemerides-v2.25.md`
+1. `docs/plantilla-maestra-efemerides-v2.27.md`
+2. `docs/instrucciones-formato-efemerides-v2.26.md`
 3. `docs/instrucciones-procesar-efemerides-v2.19.md`
-4. `docs/manual-estilo-efemerides-v1.25.md`
+4. `docs/manual-estilo-efemerides-v1.26.md`
 5. `docs/anexo-comparacion-tratamientos-y-rangos.md`
 6. `docs/excepciones-rangos-y-tratamientos.md`
 
@@ -89,6 +89,10 @@ años anclados al presente (Manual v1.20 § 5.9; 98 posts congelados en el corpu
 22-10-2026 la auditoría `[AVISO] 13`, no retroactiva, que señala los títulos de realeza, nobleza y
 dignidades capitalizados ante nombre propio o denominación nobiliaria (Manual v1.22 § 4.3, decisión
 D1-c; 14 posts y 34 ocurrencias congeladas sobre 661 posts en `ef6d75235e30`, con 0 cambios de
+código de salida). Desde el 16-11-2026 se retira `Presidente` de `CIVIL_RE` y se incorpora la
+comprobación `[AVISO] 16`, no retroactiva, para señalar `presidente`/`presidenta` en minúscula
+ante nombre propio (Manual v1.26 § 4.3, enmienda D1-a; 80 posts y 118 ocurrencias de jefe/a de
+Estado sobre 744 posts en `5770364266e2`, más 1 exención en `1961-10-20`, con 0 cambios de
 código de salida).
 
 `tools/eco7.py` es la fuente de verdad del detector de ecos desde su incorporación al repositorio el 25 de septiembre de 2026. No debe depender de una copia única en `/home/user/herramientas/`, de un adjunto ni de un equipo local. La copia versionada se recupera con el sparse-checkout de `tools/`. Si el archivo falta, su hash difiere del registrado o no supera las comprobaciones de apertura, debe reconstruirse el clon desde el HEAD remoto antes de auditar contenido.
@@ -161,6 +165,18 @@ hasta 28-02-1900; +13 hasta el 13-02-1918) y la equivalencia se declara en la pr
 cuerpo. No se presume conversión si la fuente institucional no declara calendario, nada anterior al
 15-10-1582 se convierte y la Nota aclaratoria explica la diferencia cuando los repertorios difunden
 la fecha antigua. Sin efecto retroactivo y sin auditorías nuevas en `tools/efemerides-linter.sh`.
+
+#### Enmienda presidencial de D1-a — RECTOR (decisión del editor, 16-11-2026)
+
+Incorporado en Manual de Estilo v1.26 (§ 4.3), Plantilla Maestra v2.27 (regla maestra 5),
+Instrucciones de Formato v2.26, `tools/efemerides-linter.sh` (`CIVIL_RE` sin `Presidente` y
+comprobación `[AVISO] 16`), `tools/efemerides-rangos-excepciones.txt` y
+`docs/excepciones-rangos-y-tratamientos.md`: **«Presidente» y «Presidenta» referidos a un jefe
+o jefa de Estado se escriben con mayúscula inicial ante nombre propio** (*el Presidente Juan Pablo
+Rojas Paúl*, *el Presidente Francisco I. Madero*, *la Presidenta Claudia Sheinbaum*); conservan la
+minúscula el uso genérico sin nombre propio, *vicepresidente*/*vicepresidenta*,
+*expresidente*/*expresidenta* y la presidencia de empresas o asociaciones civiles (*su presidente
+Hans Thau* en IFATCA). Sin efecto retroactivo sobre cierres comunicados.
 
 ### 6. Observaciones sin acción y asuntos reservados al editor
 

@@ -1,10 +1,28 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2026-11-14  
-> Versión: v2.26
+> Última actualización: 2026-11-16  
+> Versión: v2.27
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.27.** Decisión del editor del 16-11-2026 (**enmienda presidencial a D1-a**):
+**«Presidente» y «Presidenta» referidos a un jefe o jefa de Estado se escriben con mayúscula
+inicial ante nombre propio** (*el Presidente Juan Pablo Rojas Paúl*, *el Presidente Francisco I.
+Madero*, *la Presidenta Claudia Sheinbaum*). Conservan minúscula el uso genérico sin nombre
+propio (*el propio presidente*), *vicepresidente*/*vicepresidenta*, *expresidente*/*expresidenta* y
+los cargos directivos de entidades privadas o asociaciones civiles (*el presidente de la aerolínea*,
+*su presidente Hans Thau*). **No retroactivo:** no reabre cierres comunicados;
+`tools/efemerides-linter.sh` retira `Presidente` de `CIVIL_RE` y añade la comprobación `[AVISO] 16`
+(80 posts y 118 ocurrencias de jefe/a de Estado sobre los 744 posts del HEAD `5770364266e2`, más
+1 exención en `1961-10-20`, con 0 cambios de código de salida). En paralelo: Instrucciones de
+Formato v2.26, Manual de Estilo v1.26, `tools/efemerides-linter.sh`,
+`tools/efemerides-rangos-excepciones.txt`, `docs/excepciones-rangos-y-tratamientos.md`,
+`docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`; Instrucciones de Procesar
+v2.19 y `docs/anexo-comparacion-tratamientos-y-rangos.md`, sin novedad. Registro de la versión
+anterior debajo.
+
+### Registro de la v2.26
 
 **Novedad de la v2.26.** Orden del editor del 14-11-2026: **la fecha canónica de la efeméride es
 la del calendario gregoriano**, reglada con la tabla de desfases por centuria, la declaración de la
@@ -322,7 +340,7 @@ Ante nombre propio inmediato, mayúscula inicial en:
 - los tratamientos honoríficos y académicos (`Doctor`, `Licenciado`, `Señor`, `Señora`, `Señorita` y sus femeninos) —decisión D2-a del editor, 2026-09-03—;
 - el plural que encabeza una lista de nombres propios: `los Tenientes Gómez y Ramírez`, `los Mayores Squier y Wallace`.
 
-Sin nombre propio: minúscula. Cargos y oficios civiles: minúscula siempre, incluso ante nombre propio (*el ingeniero civil Gustavo Heny*, *el presidente Juan Pablo Rojas Paúl*) —decisión D1-a, en vigor desde el primer Manual y reconfirmada el 2026-09-03—.
+Sin nombre propio: minúscula. **Excepción presidencial (enmienda a D1-a, decisión del editor del 16-11-2026):** los cargos de *Presidente* y *Presidenta* referidos a un jefe o jefa de Estado llevan **mayúscula inicial ante nombre propio** (*el Presidente Juan Pablo Rojas Paúl*, *el Presidente Francisco I. Madero*, *la Presidenta Claudia Sheinbaum*); conservan minúscula el uso genérico sin nombre propio (*el propio presidente*), *vicepresidente*/*vicepresidenta*, *expresidente*/*expresidenta* y la presidencia de empresas o asociaciones civiles (*su presidente Hans Thau*). No retroactivo; auditado en modo `[AVISO]` (comprobación 16). Los demás cargos y oficios civiles van en minúscula siempre, incluso ante nombre propio (*el ingeniero civil Gustavo Heny*, *el vicepresidente Richard M. Nixon*, *el ministro Alberto Adriani*) —decisión D1-a—.
 
 **Excepción institucional (D1-b, decisión del editor del 23-09-2026).** El cargo civil se capitaliza cuando encabeza una denominación institucional capitalizada (`Presidente de la República`, `Ministro de Guerra y Marina`, `Inspector General de Aviación`), antepuesto al nombre propio o en aposición posterior; en cualquier otro uso rige la minúscula de D1-a.
 
@@ -2135,3 +2153,37 @@ residuales sobre los 661 posts del HEAD `ef6d75235e30`, con 0 cambios de veredic
 `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y
 `docs/protocolo-continuidad-sesiones.md`. `docs/instrucciones-procesar-efemerides-v2.18.md`: sin
 novedad.
+
+---
+
+## Enmienda presidencial a D1-a v2.27 — 2026-11-16
+
+### Regla maestra 5 enmendada: «Presidente» y «Presidenta» ante nombre propio
+
+Decisión del editor del 16-11-2026: dentro de la regla D1-a sobre cargos civiles, **«Presidente» y
+«Presidenta» referidos a un jefe o jefa de Estado se escriben con mayúscula inicial cuando
+preceden inmediatamente al nombre propio** (*el Presidente Juan Pablo Rojas Paúl*, *el Presidente
+Francisco I. Madero*, *la Presidenta Claudia Sheinbaum*).
+
+Permanecen en minúscula el uso genérico sin nombre propio (*el propio presidente*, *un presidente
+en ejercicio*), el cargo de *vicepresidente* o *vicepresidenta* (*el vicepresidente Richard M.
+Nixon*), la voz derivada *expresidente*/*expresidenta* (*el expresidente Adolfo Suárez*) y la
+presidencia de empresas, aerolíneas o asociaciones civiles (*el presidente de la aerolínea*, *su
+presidente Hans Thau* en IFATCA). Los demás cargos y oficios civiles mantienen la minúscula de
+D1-a salvo que encabecen una denominación institucional capitalizada (D1-b).
+
+### Alcance
+
+No retroactivo: rige desde el 16-11-2026 y no reabre cierres comunicados. `tools/efemerides-linter.sh`
+retira `Presidente` de `CIVIL_RE` e incorpora la comprobación `[AVISO] 16` (**80 posts y 118
+ocurrencias** de jefe/a de Estado sobre los 744 posts del HEAD `5770364266e2`, más 1 exención en
+`1961-10-20` registrada en `tools/efemerides-rangos-excepciones.txt` y
+`docs/excepciones-rangos-y-tratamientos.md`, con **0 cambios de código de salida**).
+
+### Alineación
+
+`docs/instrucciones-formato-efemerides-v2.26.md`, `docs/manual-estilo-efemerides-v1.26.md`,
+`tools/efemerides-linter.sh`, `tools/efemerides-rangos-excepciones.txt`,
+`docs/excepciones-rangos-y-tratamientos.md`, `docs/guia-del-linter.md` y
+`docs/protocolo-continuidad-sesiones.md`. `docs/instrucciones-procesar-efemerides-v2.19.md` y
+`docs/anexo-comparacion-tratamientos-y-rangos.md`: sin novedad.

@@ -1,10 +1,27 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-11-14  
-> Versión: v2.25
+> Última actualización: 2026-11-16  
+> Versión: v2.26
 
 ---
 
 ## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.26.** Decisión del editor del 16-11-2026 (**enmienda presidencial a D1-a**):
+**«Presidente» y «Presidenta» referidos a un jefe o jefa de Estado se escriben con mayúscula
+inicial ante nombre propio** (*el Presidente Juan Pablo Rojas Paúl*, *el Presidente Francisco I.
+Madero*, *la Presidenta Claudia Sheinbaum*). Conservan la minúscula el uso genérico sin nombre
+propio (*el propio presidente*), *vicepresidente*/*vicepresidenta*, *expresidente*/*expresidenta* y
+la presidencia de empresas o asociaciones civiles (*su presidente Hans Thau*). **No retroactivo:**
+`tools/efemerides-linter.sh` retira `Presidente` de `CIVIL_RE` y añade la comprobación `[AVISO] 16`
+(80 posts y 118 ocurrencias sobre los 744 posts del HEAD `5770364266e2`, más 1 exención en
+`1961-10-20`, con 0 cambios de código de salida). En paralelo: Plantilla Maestra v2.27, Manual de
+Estilo v1.26, `tools/efemerides-linter.sh`, `tools/efemerides-rangos-excepciones.txt`,
+`docs/excepciones-rangos-y-tratamientos.md`, `docs/guia-del-linter.md` y
+`docs/protocolo-continuidad-sesiones.md`. Instrucciones de Procesar v2.19 y
+`docs/anexo-comparacion-tratamientos-y-rangos.md`: sin novedad. Registro de la versión anterior
+debajo.
+
+### Registro de la v2.25
 
 **Novedad de la v2.25.** Orden del editor del 14-11-2026: **la fecha canónica de la efeméride
 —campo `date:`, título, nombre del archivo y URL— es siempre la del calendario gregoriano**, y el
@@ -242,7 +259,8 @@ un tercer hecho histórico de datación imprecisa.
 - Grados militares de cualquier arma, país y época —lista enunciativa: `Teniente`, `Subteniente`, `Capitán`, `Mayor`, `Teniente Coronel`, `Coronel`, `Alférez`, `Teniente de Navío`, `Comodoro`, `Sargento`, `General de Brigada`…— y jerarquías de aviación civil (`Capitán`, `Primer Oficial`…): **mayúscula inicial al preceder inmediatamente al nombre propio**; minúscula sin él.
 - El plural que encabeza una lista de nombres conserva la mayúscula: `los Tenientes Gómez y Ramírez`.
 - Tratamientos honoríficos y académicos (`Doctor`, `Licenciado`, `Señor`, `Señora`, `Señorita` y femeninos): mayúscula al preceder inmediatamente al nombre propio (`Doctor Juan Pablo Rojas Paúl`), minúscula en cualquier otro uso —decisión D2-a del editor, 2026-09-03—.
-- Cargos y oficios civiles: minúscula siempre, incluso con nombre propio (`el ingeniero civil Gustavo Heny`, `el presidente Juan Pablo Rojas Paúl`) —decisión D1-a—.
+- Cargos y oficios civiles: minúscula siempre, incluso con nombre propio (`el ingeniero civil Gustavo Heny`, `el vicepresidente Richard M. Nixon`, `el ministro Alberto Adriani`, `su presidente Hans Thau` en una asociación civil) —decisión D1-a—, con la salvedad presidencial siguiente:
+- **Excepción presidencial (enmienda a D1-a, decisión del editor del 16-11-2026):** `Presidente` y `Presidenta` referidos a un jefe o jefa de Estado llevan **mayúscula inicial ante nombre propio** (`el Presidente Juan Pablo Rojas Paúl`, `el Presidente Francisco I. Madero`, `la Presidenta Claudia Sheinbaum`); conservan minúscula el uso genérico sin nombre propio (`el propio presidente`), `vicepresidente`/`vicepresidenta`, `expresidente`/`expresidenta` y la presidencia de entidades privadas o asociaciones civiles. No retroactivo; el linter lo audita en modo `[AVISO]` (comprobación 16).
 - **Excepción institucional (D1-b, decisión del editor del 23-09-2026):** mayúscula inicial del cargo civil cuando encabeza una denominación institucional capitalizada (`Presidente de la República`, `Ministro de Guerra y Marina`, `Inspector General de Aviación`), en cualquier posición respecto al nombre propio, incluida la aposición posterior; minúscula en todo otro uso, conforme a D1-a.
 - **Títulos de realeza, nobleza y dignidades (D1-c, decisión del editor del 22-10-2026):** minúscula inicial siempre, incluso ante nombre propio o denominación nobiliaria (`el rey Alfonso XIII`, `el conde Ferdinand von Zeppelin`, `el marqués d'Arlandes`, `sir Frank Whittle`, `el jeque Mohammed bin Rashid Al Maktoum`), conforme a la Ortografía de la RAE y a D1-a; solo conservan mayúscula en sobrenombres antonomásticos (`el Barón Rojo`), nombres propios de aeronaves, premios o instituciones (`Lucky Lady II`, `Copa del Rey`, `Aeropuerto Reina Sofía`), topónimos (`Puerto Príncipe`) y títulos bibliográficos extranjeros en `## Referencias Verificadas`. No retroactivo; el linter lo audita en modo `[AVISO]` (auditoría 13).
 - La capitalización de grados y tratamientos se aparta deliberadamente de la Ortografía de la RAE por el protocolo venezolano de referencia; fundamento y tabla comparativa: `docs/anexo-comparacion-tratamientos-y-rangos.md`. Rige el Manual de Estilo § 4.3 (v1.22); el linter lo audita.
@@ -507,7 +525,7 @@ viaja siempre en un commit único con su imagen.
   post;
 - citar el borrador preliminar entre las fuentes de contraste de los metadatos;
 - entregar un post con menos de cuatro referencias verificadas;
-- escribir en minúscula un cargo civil que encabeza una denominación institucional capitalizada, o en mayúscula un cargo civil fuera de ese supuesto (D1-a y D1-b);
+- escribir en minúscula `Presidente` o `Presidenta` como jefe/a de Estado ante nombre propio, escribir en minúscula un cargo civil que encabeza una denominación institucional capitalizada o capitalizar otro cargo civil fuera de ambos supuestos (D1-a, enmendada el 16-11-2026, y D1-b);
 - capitalizar títulos de realeza, nobleza o dignidades (`rey`, `reina`, `príncipe`, `conde`, `marqués`, `barón`, `lord`, `lady`, `sir`, `jeque`…) ante nombre propio o denominación nobiliaria, fuera de apodos antonomásticos, nombres propios de aeronaves o instituciones y topónimos (D1-c);
 - insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que deben vivir en `## Referencias Verificadas` o en el `<figcaption>` (apartado 5 de «Enlaces»);
 - repetir fuera del `Resumen Ejecutivo` hechos, cifras técnicas, episodios cronológicos o premios entre distintas secciones del post, o superar las 1.550 palabras narrativas;
@@ -898,3 +916,32 @@ convierte nada anterior al 15-10-1582.
 Plantilla Maestra v2.26, Manual de Estilo v1.23 y `docs/protocolo-continuidad-sesiones.md`.
 `tools/efemerides-linter.sh` actualiza solo su cabecera de alineación, sin auditorías nuevas.
 Instrucciones de Procesar v2.18: sin novedad.
+
+---
+
+## ACTUALIZACIONES DE FORMATO V2.26 — 2026-11-16
+
+### Enmienda presidencial a D1-a («Presidente» y «Presidenta» ante nombre propio)
+
+Decisión del editor del 16-11-2026: dentro de la regla D1-a sobre cargos civiles, **«Presidente» y
+«Presidenta» referidos a un jefe o jefa de Estado van con mayúscula inicial ante nombre propio**
+(*el Presidente Juan Pablo Rojas Paúl*, *el Presidente Francisco I. Madero*, *la Presidenta Claudia
+Sheinbaum*).
+
+- Se actualiza la viñeta de cargos civiles en «Rangos, nombres y estilo histórico» (sustituyendo el
+  ejemplo presidencial previo de D1-a) y el error correlativo en la lista de errores frecuentes.
+- Permanecen en minúscula el uso genérico sin nombre propio (*el propio presidente*),
+  *vicepresidente*/*vicepresidenta* (*el vicepresidente Richard M. Nixon*),
+  *expresidente*/*expresidenta* (*el expresidente Adolfo Suárez*) y la presidencia de empresas o
+  asociaciones civiles (*su presidente Hans Thau* en IFATCA).
+- No retroactivo: `tools/efemerides-linter.sh` retira `Presidente` de `CIVIL_RE` e incorpora la
+  comprobación `[AVISO] 16` (**80 posts y 118 ocurrencias** residuales sobre los 744 posts del HEAD
+  `5770364266e2`, más 1 exención en `1961-10-20` registrada en `tools/efemerides-rangos-excepciones.txt`
+  y `docs/excepciones-rangos-y-tratamientos.md`, con **0 cambios de código de salida**).
+
+### Alineación
+
+Plantilla Maestra v2.27, Manual de Estilo v1.26, `tools/efemerides-linter.sh`,
+`tools/efemerides-rangos-excepciones.txt`, `docs/excepciones-rangos-y-tratamientos.md`,
+`docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Instrucciones de Procesar
+v2.19 y `docs/anexo-comparacion-tratamientos-y-rangos.md`: sin novedad.

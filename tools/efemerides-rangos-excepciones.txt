@@ -3,3 +3,4 @@
 1899-08-15-nacimiento-carola-lorenzini-primera-instructora-vuelo-suramerica.md|Presidente Rivadavia|Parte del nombre propio de un aeródromo; no es tratamiento personal.
 1920-04-17-fundacion-escuela-aviacion-militar-venezuela.md|Ciudad CCS|Transcripción literal del nombre de una fuente citada.
 1987-08-18-crisis-corbeta-caldas-venezuela-colombia.md|general Jo|Forma parte del cargo civil «secretario general»; la minúscula es correcta según D1-a.
+1961-10-20-fundacion-ifatca-controladores-aereos.md|presidente Hans|Cargo directivo de asociación civil (no jefe de Estado); la minúscula es correcta según D1-a.

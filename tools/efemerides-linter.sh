@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # ============================================================================
 # efemerides-linter.sh — Validador estructural de posts de efemérides
-# Normas auditadas: Plantilla Maestra v2.26 · Manual de Estilo v1.24 ·
-# Instrucciones de Procesar v2.19 · Instrucciones de Formato v2.25 ·
+# Normas auditadas: Plantilla Maestra v2.27 · Manual de Estilo v1.26 ·
+# Instrucciones de Procesar v2.19 · Instrucciones de Formato v2.26 ·
 # anexo y registro de excepciones de rangos/tratamientos.
 # Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
 # alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17;
@@ -59,6 +59,13 @@
 # realineado con Instrucciones de Procesar v2.19 · Manual de Estilo v1.24 el 2026-11-14
 #  (regla permanente del barrido obligatorio de enlaces recíprocos; cambio documental:
 #  sin auditorías nuevas, sin cambios de código y con 0 diferencias de veredicto en el corpus).
+#
+# alineado con Plantilla Maestra v2.27 · Manual de Estilo v1.26 · Instrucciones de Formato v2.26
+#  el 2026-11-16 (orden del editor: enmienda presidencial de D1-a —«Presidente» y «Presidenta»
+#  como jefes de Estado se escriben con mayúscula inicial ante nombre propio—; se retira
+#  «Presidente» de CIVIL_RE y se añade la comprobación [AVISO] 16, no retroactiva, para señalar
+#  «presidente/a» en minúscula ante nombre propio. Fotografía de corpus HEAD 5770364266e2:
+#  80 posts y 118 ocurrencias de jefe/a de Estado + 1 exención en 1961-10-20; 0 cambios de salida).
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
 # ============================================================================
@@ -409,14 +416,14 @@ else
 fi
 
 # -------------------------------------- Cargos civiles en minúscula (D1-a)
-CIVIL_RE='Presidente|Vicepresidente|Ministro|Ministra|Canciller|Gobernador|Gobernadora|Alcalde|Alcaldesa|Secretario|Secretaria|Embajador|Embajadora|Senador|Senadora|Diputado|Diputada|Director|Directora|Gerente'
+CIVIL_RE='Vicepresidente|Ministro|Ministra|Canciller|Gobernador|Gobernadora|Alcalde|Alcaldesa|Secretario|Secretaria|Embajador|Embajadora|Senador|Senadora|Diputado|Diputada|Director|Directora|Gerente'
 BAD_CIVIL=$(grep -nE "(^|[ .;:»)\"])(El|La|Los|Las|Un|Una)? ?($CIVIL_RE) +[A-ZÁÉÍÓÚ][a-záéíóú]+" "$FILE" | grep -vE "^[0-9]+:(El|La|Los|Las) $CIVIL_RE" || { [ $? -ge 2 ] && GREP_ERR="$GREP_ERR grep"; true; })
 if [ -n "$BAD_CIVIL" ]; then
   while IFS= read -r l; do
     n="${l%%:*}"; frag=$(sed 's/^[0-9]*://' <<<"$l" | grep -oE "($CIVIL_RE) +[A-ZÁÉÍÓÚ][a-záéíóú]+" | head -1)
         BFILE=$(basename "$FILE")
     if MOT=$(exc_hit "$BFILE" "$frag"); then printf '[AVISO]   Excepción D1-a/D2-a en línea %s: «%s» — %s\n' "$n" "$frag" "$MOT"; continue; fi
-fail "Cargo civil capitalizado ante nombre propio (línea $n): «$frag» — minúscula (Manual v1.16 § 4.3, decisión D1-a)"
+fail "Cargo civil capitalizado ante nombre propio (línea $n): «$frag» — minúscula (Manual v1.26 § 4.3, decisión D1-a)"
   done <<<"$BAD_CIVIL"
 else
   ok "Cargos civiles en minúscula ante nombre propio (D1-a)"
@@ -836,6 +843,45 @@ if [ -n "$REAL_CANDS" ]; then
   done <<<"$REAL_CANDS"
 fi
 [ "$REAL_N" -eq 0 ] && ok "Títulos de realeza y nobleza: sin mayúscula indebida ante nombre propio (D1-c, Manual v1.22 § 4.3)"
+
+# ------------------------- 16. Cargo presidencial en minúscula ante nombre propio (D1-a)
+# Aviso, no fallo: por enmienda del 2026-11-16 a la decisión D1-a, «Presidente» y «Presidenta»
+# como jefes de Estado se escriben con mayúscula inicial ante nombre propio. Se auditan
+# YAML (title/excerpt) y prosa hasta «## Metadatos de Control» (saltando «## Referencias
+# Verificadas» e incluyendo «Nota aclaratoria»). No retroactivo: no computa como fallo.
+PRES_LOW_RE="(^|[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ])(president[ea])([[:space:]]+[A-ZÁÉÍÓÚÜÑ][A-Za-zÁÉÍÓÚÜÑa-záéíóúüñ'’-]+)"
+PRES_CANDS=$(awk '
+  /^---$/ { yc++; in_yaml = (yc == 1); next }
+  in_yaml { if ($0 ~ /^(title|excerpt):/) print NR "|" $0; next }
+  /^## Referencias Verificadas[[:space:]]*$/ { in_refs = 1; next }
+  /^## Metadatos de Control[[:space:]]*$/ { exit }
+  in_refs { if ($0 ~ /^<hr/ || $0 ~ /^## /) in_refs = 0; else next }
+  { print NR "|" $0 }
+' "$FILE" | sed -e 's/<[^>]*>//g' -e 's#https\?://[^ )>"]*##g' \
+  | grep -E "(^|[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ])president[ea][[:space:]]+[A-ZÁÉÍÓÚÜÑ]" || true)
+PRES_N=0
+if [ -n "$PRES_CANDS" ]; then
+  BFILE=$(basename "$FILE")
+  while IFS= read -r p_row; do
+    [ -z "$p_row" ] && continue
+    p_ln="${p_row%%|*}"; p_rest="${p_row#*|}"
+    while [[ -n "$p_rest" && "$p_rest" =~ $PRES_LOW_RE ]]; do
+      p_full="${BASH_REMATCH[0]}"; p_lead="${BASH_REMATCH[1]}"
+      p_tit="${BASH_REMATCH[2]}"; p_tail="${BASH_REMATCH[3]}"
+      p_frag="${p_tit}${p_tail}"
+      p_pref="${p_rest%%"$p_full"*}${p_lead}"
+      p_adv=$(( ${#p_pref} + ${#p_tit} ))
+      p_rest="${p_rest:$p_adv}"
+      if MOT=$(exc_hit "$BFILE" "$p_frag"); then
+        printf '[AVISO]   Excepción D1-a en línea %s: «%s» — %s\n' "$p_ln" "$p_frag" "$MOT"
+        continue
+      fi
+      PRES_N=$((PRES_N+1))
+      printf '[AVISO]   Cargo presidencial en minúscula ante nombre propio (línea %s): «%s» — mayúscula inicial como jefe/a de Estado (Manual v1.26 § 4.3, enmienda D1-a; no retroactivo)\n' "$p_ln" "$p_frag"
+    done
+  done <<<"$PRES_CANDS"
+fi
+[ "$PRES_N" -eq 0 ] && ok "Cargo presidencial: sin «presidente/a» en minúscula ante nombre propio (D1-a, Manual v1.26 § 4.3)"
 
 # ------------------------------------------------------------------ Veredicto
 if [ -n "$GREP_ERR" ]; then fail "Auditoría(s) de rangos estropeadas (error de grep en: $GREP_ERR) — no se puede certificar ninguna ausencia de violaciones"; fi

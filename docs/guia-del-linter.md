@@ -1,5 +1,6 @@
 # Guía del validador estructural de efemérides
-> Última actualización: 2026-11-01 (nueva comprobación **15**: extensión del `<figcaption class="post-caption">` — banda de **20 a 30 palabras** de texto visible, descontadas las etiquetas HTML y, con ellas, las URL; señala tanto el pie recargado como el que no llega al mínimo descriptivo. Censo sobre los `697` posts del HEAD `49b3f51e`: **134** en banda, **538** por encima de 30 y **25** por debajo de 20; mediana de `38` palabras, máximo de `131`. En modo `[AVISO]`, no retroactiva, sin cambios de veredicto: **0** diferencias de código de salida en los `697` posts. Orden del editor del `01-11-2026` para que el pie breve se respete siempre.)
+> Última actualización: 2026-11-16 (enmienda presidencial de D1-a y nueva comprobación **16** en modo `[AVISO]`: retirada de `Presidente` de `CIVIL_RE` —de modo que `Presidente` y `Presidenta` ante nombre propio ya no disparan `[FALLECE]`— y aviso cuando `presidente`/`presidenta` va en minúscula ante nombre propio como jefe/a de Estado; Manual de Estilo v1.26 § 4.3, Plantilla Maestra v2.27, Instrucciones de Formato v2.26. Censo sobre los `744` posts del HEAD `5770364266e2`: **80** posts y **118** ocurrencias en minúscula de jefe/a de Estado, más **1** exención documentada en `1961-10-20` —cargo directivo de asociación civil— y **664** posts conformes; **0** cambios de código de salida en los `744` posts.)
+> Última actualización anterior: 2026-11-01 (nueva comprobación **15**: extensión del `<figcaption class="post-caption">` — banda de **20 a 30 palabras** de texto visible, descontadas las etiquetas HTML y, con ellas, las URL; señala tanto el pie recargado como el que no llega al mínimo descriptivo. Censo sobre los `697` posts del HEAD `49b3f51e`: **134** en banda, **538** por encima de 30 y **25** por debajo de 20; mediana de `38` palabras, máximo de `131`. En modo `[AVISO]`, no retroactiva, sin cambios de veredicto: **0** diferencias de código de salida en los `697` posts. Orden del editor del `01-11-2026` para que el pie breve se respete siempre.)
 > Última actualización anterior: 2026-10-25 (nueva auditoría **14**: marcado de `## Referencias Verificadas` — envoltorio obligatorio `<div class="references"><ul><li>…</li></ul></div>`, aviso ante cualquier clase ajena a la hoja de estilos del sitio —`references-box` u otra— y aviso ante lista Markdown sin `<li>`; en modo `[AVISO]`, no retroactiva y sin cambios de código de salida. Censo sobre `672` posts en el HEAD `fbc8d8024f46`: **665** con el envoltorio normativo, **7** sin él y **11** avisos nuevos; `0` cambios de veredicto).
 > Última actualización anterior: 2026-10-22 (calibración integral de la auditoría [AVISO] 12 en `awk` POSIX compatible con `bash 3.2` de macOS: audita todas las ocurrencias de `YAML` (`title`/`excerpt`), cuerpo y `Nota aclaratoria`, incluidos apócopes `un`/`veintiún`, `A X años de…`, aproximaciones `casi`/`más de`/`durante X años`, edad viva `cumple X años` y `Un siglo después` sin ancla; censo verificado sobre `663` posts: **117 posts** y **132 ocurrencias**; `0` cambios de código de salida). Actualización previa del mismo día: 2026-10-22 (nueva auditoría [AVISO] 13: títulos de realeza, nobleza y dignidades en minúscula ante nombre propio — Manual de Estilo v1.22, § 4.3, decisión D1-c; Plantilla Maestra v2.25, regla maestra 5; Instrucciones de Formato v2.24 —; no computa como fallo y no es retroactiva). Actualización anterior: 2026-10-21 (nueva auditoría [AVISO] 12: recuento de años anclado al presente, tras la derogación de la regla de cómputo — Manual de Estilo v1.20, § 5.9 —; no computa como fallo y no es retroactiva). > Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
 
@@ -10,7 +11,7 @@
 ## Archivos
 
 - `tools/efemerides-linter.sh`: programa de validación.
-- `tools/efemerides-rangos-excepciones.txt`: cuatro excepciones D1-a/D2-a legibles por máquina.
+- `tools/efemerides-rangos-excepciones.txt`: cinco excepciones documentadas D1-a/D2-a legibles por máquina (cuatro de la tanda del 03-09-2026 —incluidas dos históricas sobre `Presidente` conservadas como registro— más una quinta añadida el 16-11-2026 para `1961-10-20`).
 - `docs/excepciones-rangos-y-tratamientos.md`: explicación humana y normativa de esas excepciones.
 
 El archivo de excepciones debe permanecer junto al script para que el validador pueda localizarlo después de clonar el repositorio.
@@ -180,3 +181,31 @@ la auditoría) y **0 diferencias ajenas a la auditoría 14**. La corrección del
 `f9c1e4dc` y `fbc8d80`, se adelantó a la herramienta y por eso ya no figura
 entre los avisos. La norma **no es retroactiva**: los 7 posts previos quedan
 congelados.
+
+Desde el 2026-11-16 el validador incorpora la **enmienda presidencial de la regla D1-a**
+(comprobación **16**, modo `[AVISO]`, **no retroactiva**; Manual de Estilo v1.26 § 4.3,
+Plantilla Maestra v2.27 regla maestra 5, Instrucciones de Formato v2.26):
+
+1. Retira `Presidente` de `CIVIL_RE` en la comprobación de cargos civiles en minúscula (D1-a),
+   de modo que `Presidente` y `Presidenta` como jefes de Estado ante nombre propio dejan de
+   emitir `[FALLECE]`. Los demás cargos civiles (`Vicepresidente`, `Ministro`, `Canciller`,
+   `Gobernador`, `Alcalde`, `Secretario`, `Embajador`, `Senador`, `Diputado`, `Director`,
+   `Gerente`) mantienen la exigencia de minúscula ante nombre propio salvo excepción D1-b.
+2. Emite `[AVISO]` en comprobación **16** cuando `title:` o `excerpt:` del YAML, el cuerpo
+   narrativo o la `Nota aclaratoria` —excluido el listado bibliográfico de
+   `## Referencias Verificadas`, las etiquetas HTML y las URL— contienen `presidente` o
+   `presidenta` en minúscula seguidos inmediatamente de palabra con mayúscula inicial, y
+   permite excepciones en `tools/efemerides-rangos-excepciones.txt` para presidencias de
+   entidades civiles no estatales.
+
+Fotografía del corpus en el HEAD `5770364266e2` (2026-11-16; **744 posts**): **664** posts
+`[OK]`, **80** posts con **118 ocurrencias** en minúscula de jefes de Estado (todas
+`presidente [Nombre]`, `0` `presidenta`) y **1** ocurrencia exenta en
+`1961-10-20-fundacion-ifatca-controladores-aereos.md` (`presidente Hans`, cargo directivo de
+asociación civil en IFATCA). La regresión completa de la versión anterior contra la nueva en
+los `744` posts arroja **0 cambios de código de salida** y **0 diferencias ajenas a la
+enmienda**, con el efecto esperado en `1911-11-30-primer-presidente-en-vuelo.md`, donde
+`Presidente Aviador` deja de activar la excepción de `CIVIL_RE` al salir `Presidente` de esa
+lista y el pie de foto en línea 15 recibe el nuevo `[AVISO]` sobre `presidente Francisco`. La
+norma **no es retroactiva**: los 80 posts previos quedan congelados hasta que se revisen por
+otro motivo.

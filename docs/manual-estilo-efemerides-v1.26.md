@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-11-15  
-> Versión: v1.25
+> Edición consolidada: 2026-11-16  
+> Versión: v1.26
 
 ---
 
@@ -104,10 +104,26 @@ periodístico recogidos en el anexo *Comparación de tratamientos y rangos*
 (`docs/anexo-comparacion-tratamientos-y-rangos.md`).
 
 Los **cargos y oficios civiles van en minúscula incluso ante nombre propio**:
-*el comandante del vuelo*, *el ingeniero civil Gustavo Heny*, *el presidente de
-la aerolínea*, *el presidente Juan Pablo Rojas Paúl*. Decisión D1-a del editor
-(2026-09-03): se mantiene la regla vigente y se armonizan hacia ella las
-correlaciones capitalizadas heredadas.
+*el comandante del vuelo*, *el ingeniero civil Gustavo Heny*, *el vicepresidente
+Richard M. Nixon*, *el presidente de la aerolínea*, *su presidente Hans Thau*
+(asociación civil). Decisión D1-a del editor (2026-09-03), con la enmienda
+presidencial del 16-11-2026 indicada abajo.
+
+**Excepción presidencial ante nombre propio (enmienda a D1-a, decisión del
+editor del 16-11-2026).** Los cargos de **Presidente** y **Presidenta** referidos
+a un jefe o jefa de Estado se escriben con **mayúscula inicial** cuando
+preceden inmediatamente al nombre propio: *el Presidente Juan Pablo Rojas Paúl*,
+*el Presidente Francisco I. Madero*, *la Presidenta Claudia Sheinbaum*. Conservan
+la **minúscula** en el uso genérico sin nombre propio (*el propio presidente*,
+*un presidente en ejercicio*), en el cargo de **vicepresidente** o
+**vicepresidenta** (*el vicepresidente Richard M. Nixon*), en la voz derivada
+**expresidente / expresidenta** (*el expresidente Adolfo Suárez*) y cuando
+designan la presidencia de una empresa, aerolínea, sociedad o entidad civil no
+estatal (*el presidente de la aerolínea*, *su presidente Hans Thau* en IFATCA).
+Norma **no retroactiva**: no reabre cierres comunicados y las formas en
+minúscula publicadas hasta el 16-11-2026 quedan congeladas hasta que el post se
+revise por otro motivo; `tools/efemerides-linter.sh` la audita en modo
+`[AVISO]` (comprobación 16).
 
 **Excepción institucional (D1-b, decisión del editor del 23-09-2026).** Cuando el
 cargo u oficio civil encabeza una denominación institucional capitalizada, se
@@ -116,11 +132,12 @@ propio: *Presidente de la República*, *Ministro de Guerra y Marina*, *Inspector
 General de Aviación*, *Secretario General de la OEA*. Rige antepuesto (*el
 Presidente de la República, General Juan Vicente Gómez*) y también en aposición
 posterior al nombre (*firmado por el Doctor Rafael Caldera, Presidente de la
-República*). Fuera de ese supuesto permanece íntegra la minúscula de D1-a: ante
-nombre propio sin institución (*el presidente Juan Pablo Rojas Paúl*) y en uso
-genérico (*el propio presidente*). La distinción no atiende a la jerarquía del
-cargo, sino a que la denominación institucional forme parte del nombre oficial
-del órgano.
+República*). Fuera de ese supuesto y de la excepción presidencial ante nombre
+propio permanece íntegra la minúscula de D1-a: ante nombre propio sin
+institución (*el ministro Alberto Adriani*, *el vicepresidente Richard M. Nixon*)
+y en uso genérico (*el propio presidente*). La distinción no atiende a la
+jerarquía del cargo, sino a que la denominación institucional forme parte del
+nombre oficial del órgano.
 
 **Títulos de realeza, nobleza y dignidades (D1-c, decisión del editor del
 22-10-2026).** Los títulos reales, nobiliarios y dignidades caballerescas o
@@ -617,7 +634,7 @@ investigador (14 de agosto de 2026).
 - presentar una alta sin el barrido de enlaces recíprocos medido y presentado, o
   afirmar que no hay candidatos sin haber medido el corpus (§ 6.3).
 - escribir en minúscula un grado, una jerarquía de aviación o un tratamiento honorífico que precede inmediatamente a un nombre propio (§ 4.3);
-- capitalizar cargos u oficios civiles ante nombre propio, o escribir en minúscula el plural de grado que encabeza una lista de nombres (§ 4.3, decisiones D1-a y D2-a de 2026-09-03);
+- escribir en minúscula «Presidente» o «Presidenta» como jefe/a de Estado ante nombre propio, capitalizar otros cargos u oficios civiles ante nombre propio (salvo D1-b), o escribir en minúscula el plural de grado que encabeza una lista de nombres (§ 4.3, decisiones D1-a —enmendada el 16-11-2026— y D2-a);
 - aplicar el verbo *adolecer* a una máquina, aeronave o sistema (§ 4.2);
 - escribir en minúscula un cargo civil que encabeza una denominación institucional capitalizada, o en mayúscula un cargo civil fuera de ese supuesto (§ 4.3, D1-a y D1-b);
 - capitalizar títulos de realeza, nobleza o dignidades (*rey*, *reina*, *príncipe*, *conde*, *marqués*, *barón*, *lord*, *lady*, *sir*, *jeque*…) ante nombre propio o denominación nobiliaria, fuera de apodos antonomásticos, nombres propios de aeronaves, premios o instituciones y topónimos (§ 4.3, D1-c);
@@ -645,7 +662,7 @@ investigador (14 de agosto de 2026).
 - [ ] ¿Los metadatos evitan citar el borrador preliminar como fuente de contraste?
 - [ ] ¿Los metadatos reflejan honestamente el nivel de certeza?
 - [ ] ¿Se respetó exactamente lo que el editor pidió en esta ronda?
-- [ ] ¿Los cargos civiles ante denominación institucional capitalizada llevan mayúscula, y minúscula en todo otro uso (§ 4.3, D1-a y D1-b)?
+- [ ] ¿«Presidente» o «Presidenta» como jefe/a de Estado ante nombre propio y los cargos civiles ante denominación institucional capitalizada llevan mayúscula, y minúscula los demás cargos civiles y el uso genérico (§ 4.3, D1-a y D1-b)?
 - [ ] ¿Quedan los enlaces externos institucionales o documentales fuera del cuerpo narrativo (§ 6.4)?
 - [ ] ¿Cada dato o episodio aparece en una sola sección fuera del `Resumen Ejecutivo` y el cuerpo narrativo se mantiene dentro de las 1.150–1.550 palabras (§ 5)?
 - [ ] ¿`## Metadatos de Control` usa viñetas telegráficas (≤150 palabras) sin repetir títulos ni descripciones de `## Referencias Verificadas` (§ 10)?
@@ -999,3 +1016,28 @@ diferencia del aviso de «adolecer» (§ 4.2), que es binario, aquí la palabra 
 solo el contexto decide si designa una justa aeronáutica: una comprobación automática marcaría
 usos legítimos («reunión en Caracas con el geólogo») y dejaría pasar los impropios que no llevan
 el adjetivo («reuniones de Doncaster y Juvisy»). La vigilancia es de lectura.
+
+---
+
+## 37. Actualizaciones editoriales v1.26 — 2026-11-16
+
+- **§ 4.3 enmendada (decisión del editor sobre el cargo presidencial en D1-a):** los cargos de
+  **Presidente** y **Presidenta** referidos a un jefe o jefa de Estado se escriben con
+  **mayúscula inicial** ante nombre propio (*el Presidente Juan Pablo Rojas Paúl*, *el Presidente
+  Francisco I. Madero*, *la Presidenta Claudia Sheinbaum*). Permanecen en **minúscula** el uso
+  genérico sin nombre propio (*el propio presidente*), el cargo de *vicepresidente*/*vicepresidenta*,
+  la voz derivada *expresidente*/*expresidenta* y la presidencia de empresas o asociaciones civiles
+  (*su presidente Hans Thau* en IFATCA). Se sustituye el ejemplo previo de D1-a en § 4.3 y D1-b.
+- **§ 13 y § 14 actualizados** en la viñeta de errores y en la casilla de verificación de D1-a/D1-b.
+- **Alcance:** no retroactivo. Rige para las entregas desde el 16-11-2026. `tools/efemerides-linter.sh`
+  retira `Presidente` de `CIVIL_RE` (para que no dispare `[FALLECE]`) e incorpora la comprobación
+  `[AVISO] 16`, que señala **80 posts y 118 ocurrencias** en minúscula de jefe/a de Estado sobre
+  los 744 posts del HEAD `5770364266e2` —más 1 caso exento en `1961-10-20` (*presidente Hans Thau*),
+  incorporado a `tools/efemerides-rangos-excepciones.txt` y a
+  `docs/excepciones-rangos-y-tratamientos.md`—, con **0 cambios de código de salida**.
+
+Alineados en la misma fecha: Plantilla Maestra v2.27, Instrucciones de Formato v2.26,
+`tools/efemerides-linter.sh`, `tools/efemerides-rangos-excepciones.txt`,
+`docs/excepciones-rangos-y-tratamientos.md`, `docs/guia-del-linter.md` y
+`docs/protocolo-continuidad-sesiones.md`. `docs/instrucciones-procesar-efemerides-v2.19.md` y
+`docs/anexo-comparacion-tratamientos-y-rangos.md`: sin novedad.
