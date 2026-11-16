@@ -15,6 +15,7 @@ image: 1941-07-23-conmemoracion-dia-fuerza-aerea-peru.webp
   <figcaption class="post-caption">Ceremonia por el 79.º aniversario del Día de la Fuerza Aérea del Perú (base aérea de Las Palmas, 23 de julio de 2022). Detrás del podio, sobre su pedestal, el caza North American NA-50 «Torito» conservado por la FAP con los colores de la 41.ª Escuadrilla de Caza, el tipo de avión en el que se inmolaría Quiñones en 1941. Fuente: <a href="https://commons.wikimedia.org/wiki/File:MINISTRO_DE_DEFENSA_ACOMPA%C3%91%C3%93_AL_PRESIDENTE_DE_LA_REP%C3%9ABLICA_DURANTE_LA_CEREMONIA_SIMB%C3%93LICA_POR_EL_79_ANIVERSARIO_DE_LA_FUERZA_A%C3%89REA_DEL_PER%C3%9A_(50144023933).jpg" style="color: #315fea; text-decoration: none;">Ministerio de Defensa del Perú / Wikimedia Commons</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Cada 23 de julio, el Perú celebra el Día de la Fuerza Aérea en memoria de José Abelardo Quiñones Gonzales. La efeméride remite a la batalla de Quebrada Seca, durante el conflicto de 1941 con Ecuador, y no a la fundación orgánica de la aviación militar peruana, que corresponde a otra fecha. La legislación distingue ambos hitos; la conmemoración nacional honra al piloto de caza que pasó a ser un referente de la tradición de la FAP.</p>
@@ -61,7 +62,7 @@ La construcción de una efeméride convierte un episodio bélico en rito cívico
 
 La conmemoración reúne la historia institucional de la aviación peruana y la trayectoria del piloto que la FAP reconoce como su patrono.
 
-- **28 de enero de 1919:** se organiza el Servicio de Aviación Militar del Ejército, antecedente institucional del arma aérea peruana.
+- **28 de enero de 1919:** se organiza <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1919/01/28/creacion-servicio-aviacion-militar-peru.html" style="color: #315fea; text-decoration: none;">el Servicio de Aviación Militar del Ejército</a>, antecedente institucional del arma aérea peruana.
 - **22 de abril de 1914:** nace José Abelardo Quiñones Gonzales en Pimentel, en la región de Lambayeque.
 - **12 de marzo de 1935:** inicia su formación como aviador militar en la escuela de Las Palmas.
 - **21 de enero de 1939:** se gradúa en la promoción «Comandante Raguz» y obtiene el primer puesto de su especialidad de caza, según las reseñas institucionales.
@@ -100,11 +101,13 @@ La fecha permite además recordar que la aviación militar tuvo una evolución i
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
+
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La legislación peruana distingue el Día de la Aviación Militar, asociado al origen institucional del servicio aéreo, del Día de la Fuerza Aérea del Perú, celebrado en homenaje a Quiñones. Durante la acción de Quebrada Seca tenía grado de teniente; el ascenso a capitán fue póstumo y la denominación de Gran General del Aire corresponde a un reconocimiento posterior. El relato del ataque final se presenta como versión oficial de la FAP y del Congreso, no como una transcripción independiente del parte de combate.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-10-05 12:13:57 CST
 - **Fuentes primarias/institucionales consultadas:** Congreso de la República del Perú; Gobierno del Perú / Fuerza Aérea del Perú.
