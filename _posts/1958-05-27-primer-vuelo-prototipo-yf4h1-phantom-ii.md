@@ -79,7 +79,7 @@ Al mismo tiempo, los combates cerrados sobre Vietnam del Norte pusieron de relie
 
 Con **5.195 ejemplares producidos**, el McDonnell Douglas F-4 Phantom II continúa siendo el caza supersónico más fabricado en la historia de Estados Unidos y el único avión de combate que voló simultáneamente, entre 1969 y 1973, en las dos patrullas acrobáticas de las fuerzas armadas estadounidenses: los *Blue Angels* de la Armada y los *Thunderbirds* de la Fuerza Aérea.
 
-Operado por doce fuerzas aéreas en cuatro continentes a lo largo de más de seis décadas —desde Estados Unidos, el Reino Unido, Alemania Occidental, España, Japón, Israel y Corea del Sur hasta Grecia, Turquía e Irán—, el diseño que Robert C. Little despegó por primera vez en St. Louis el 27 de mayo de 1958 definió toda una generación de cazas polivalentes y preparó el camino para sus sucesores directos, el F-14 Tomcat, el F-15 Eagle y el F/A-18 Hornet.
+Operado por doce fuerzas aéreas en cuatro continentes a lo largo de más de seis décadas —desde Estados Unidos, el Reino Unido, Alemania Occidental, España, Japón, Israel y Corea del Sur hasta Grecia, Turquía e Irán—, el diseño que Robert C. Little despegó por primera vez en St. Louis el 27 de mayo de 1958 definió toda una generación de cazas polivalentes y preparó el camino para sus sucesores directos, el F-14 Tomcat, el F-15 Eagle y el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1978/11/18/primer-vuelo-mcdonnell-douglas-fa18-hornet.html" style="color: #315fea; text-decoration: none;">F/A-18 Hornet</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

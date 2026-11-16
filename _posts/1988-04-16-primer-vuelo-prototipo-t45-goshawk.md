@@ -40,7 +40,7 @@ image: 1988-04-16-primer-vuelo-prototipo-t45-goshawk.webp
 
 ## Contexto Histórico
 
-A mediados de la década de 1970, la Armada de los Estados Unidos enfrentaba un problema creciente: sus entrenadores a reacción T-2 Buckeye y TA-4 Skyhawk estaban envejeciendo rápidamente. Ambos aviones, diseñados en la década de 1950, habían superado su vida útil prevista y sus costos de mantenimiento se disparaban. La Armada necesitaba un único avión que pudiera cubrir tanto las fases intermedias como avanzadas del entrenamiento de pilotos para aviones de combate embarcados como el F-14 Tomcat y el F/A-18 Hornet.
+A mediados de la década de 1970, la Armada de los Estados Unidos enfrentaba un problema creciente: sus entrenadores a reacción T-2 Buckeye y TA-4 Skyhawk estaban envejeciendo rápidamente. Ambos aviones, diseñados en la década de 1950, habían superado su vida útil prevista y sus costos de mantenimiento se disparaban. La Armada necesitaba un único avión que pudiera cubrir tanto las fases intermedias como avanzadas del entrenamiento de pilotos para aviones de combate embarcados como el F-14 Tomcat y el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1978/11/18/primer-vuelo-mcdonnell-douglas-fa18-hornet.html" style="color: #315fea; text-decoration: none;">F/A-18 Hornet</a>.
 
 ### Entorno social
 

@@ -80,7 +80,7 @@ Entre el pliego del LWF y el vuelo oficial mediaron dos años; entre ese vuelo y
 
 ## Consecuencias e Impacto
 
-El vuelo del 2 de febrero convirtió un demostrador en candidato creíble. En un año, la USAF cerró el concurso a favor del YF-16 y Europa ató su relevo del F-104 al mismo tipo. El YF-17 no desapareció: la Armada lo tomó como base del F/A-18 Hornet.
+El vuelo del 2 de febrero convirtió un demostrador en candidato creíble. En un año, la USAF cerró el concurso a favor del YF-16 y Europa ató su relevo del F-104 al mismo tipo. El YF-17 no desapareció: la Armada lo tomó como base del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1978/11/18/primer-vuelo-mcdonnell-douglas-fa18-hornet.html" style="color: #315fea; text-decoration: none;">F/A-18 Hornet</a>.
 
 En lo técnico, el primer vuelo oficial confirmó que un caza de producción podía prescindir del mando mecánico. La NASA recuerda que el F-16 fue el primer avión de serie con fly-by-wire; el sistema nació analógico y pasó después a digital. La palanca lateral, el asiento reclinado y la cubierta de burbuja se volvieron marca de la casa.
 
