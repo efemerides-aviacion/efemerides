@@ -6,6 +6,10 @@ url: "https://efemerides-aviacion.github.io"
 
 theme: minima
 
+# Publicar también los posts fechados después del día de compilación:
+# las efemérides se redactan la víspera del día que conmemoran.
+future: true
+
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
