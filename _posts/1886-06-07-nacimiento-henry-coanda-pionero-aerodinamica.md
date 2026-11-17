@@ -11,8 +11,8 @@ image: 1886-06-07-nacimiento-henry-coanda-pionero-aerodinamica.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1886-06-07-nacimiento-henry-coanda-pionero-aerodinamica.webp" alt="Retrato de Henri Coandă">
-  <figcaption class="post-caption">Retrato del ingeniero y académico rumano Henri Marie Coandă (1886-1972), ya maduro, pionero de la aviación y de la aerodinámica. Fuente: <a href="https://www.icr.ro/pagini/henri-marie-coanda" style="color: #315fea; text-decoration: none;">Instituto Cultural Rumano (ICR)</a>.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1886-06-07-nacimiento-henry-coanda-pionero-aerodinamica.webp" alt="Retrato de juventud de Henri Coandă de perfil, con el pelo peinado hacia atrás, levita oscura y corbatín claro, sobre un fondo sepia">
+  <figcaption class="post-caption">Retrato de juventud de Henri Coandă, hacia 1903, de perfil y con levita. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Henri_Coanda_young.jpg" style="color: #315fea; text-decoration: none;">Simiprof / Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" style="color: #315fea; text-decoration: none;">CC BY-SA 4.0</a>, imagen recortada.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -133,6 +133,7 @@ Henri Coandă ocupa un lugar propio entre los pioneros de la aviación y la aero
     <li><a href="https://en.wikipedia.org/wiki/Henri_Coand%C4%83" style="color: #315fea; text-decoration: none;">Wikipedia – Henri Coandă</a></li>
     <li><a href="https://es.wikipedia.org/wiki/Henri_Coand%C4%83" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Henri Coandă</a></li>
     <li><a href="https://www.icr.ro/pagini/henri-marie-coanda" style="color: #315fea; text-decoration: none;">ICR – Henri Marie Coandă</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Henri_Coanda_young.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — «Henri Coanda young», retrato de juventud, autor Simiprof, licencia CC BY-SA 4.0</a></li>
     <li><a href="https://airandspace.si.edu/collection-archive/henri-coanda-papers-stine/sova-nasm-xxxx-0170" style="color: #315fea; text-decoration: none;">National Air and Space Museum – Henri Coanda Papers [Stine]</a></li>
     <li><a href="https://aeroporturibucuresti.ro/en/about/technical-information/" style="color: #315fea; text-decoration: none;">Aeroportul Henri Coandă – Official Website</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Coand%C4%83-1910" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Coandă-1910, con las refutaciones de Gibbs-Smith y Winter</a></li>
@@ -154,8 +155,8 @@ Henri Coandă ocupa un lugar propio entre los pioneros de la aviación y la aero
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-11-17 07:05:20 CST
-- **Fuentes primarias/institucionales consultadas:** Instituto Cultural Rumano (ICR), National Air and Space Museum (Smithsonian) – fondo *Henri Coanda Papers [Stine]*, Aeroportul Henri Coandă, Gibbs-Smith (1960, Science Museum), Winter (1980, NASM).  
+- **Timestamp de verificación:** 2026-11-17 12:25:21 CST  
+- **Fuentes primarias/institucionales consultadas:** Instituto Cultural Rumano (ICR), Wikimedia Commons (retrato de juventud, CC BY-SA 4.0), National Air and Space Museum (Smithsonian) – fondo *Henri Coanda Papers [Stine]*, Aeroportul Henri Coandă, Gibbs-Smith (1960, Science Museum), Winter (1980, NASM).  
 - **Fuentes secundarias de contraste:** Wikipedia (EN/ES, biografía de Henri Coandă y artículo Coandă-1910).  
 - **Discrepancias resueltas:** Sobre el Coandă-1910 se adopta la posición de Gibbs-Smith y Winter —primer avión de tamaño real concebido para propulsión por reacción, sin que conste que llegara a volar— frente a la versión del vuelo de 1910 difundida por el propio Coandă a partir de 1956.  
 - **Nivel de confianza:** Alto.  
