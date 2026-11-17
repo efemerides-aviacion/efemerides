@@ -46,7 +46,7 @@ A comienzos de la década de 1950, las fuerzas aéreas de América y Europa prom
 
 ### Entorno social
 
-En la base carioca de Campo dos Afonsos, los jóvenes instructores de la Escuela de Aeronáutica advirtieron que buena parte de los cadetes abordaba con recelo las maniobras avanzadas en el robusto pero exigente monomotor T-6. Para demostrar a los alumnos que el avión respondía con total nobleza cuando se pilotaba con rigor técnico, un pequeño grupo de oficiales comenzó a reunirse durante el descanso del mediodía para ensayar toneles, rizos y cambios de formación a baja cota. Aunque el mando veía al principio con cautela aquellas prácticas no reglamentadas —que valieron al grupo el apodo interno de *«Cambalhoteiros»*—, el éxito de la primera exhibición formal solicitada para agasajar a una delegación militar extranjera el 14 de mayo de 1952 abrió el camino a su respaldo institucional.
+En la base carioca de Campo dos Afonsos, donde el Ejército había creado su <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1919/01/29/fundacion-escuela-aviacion-militar-brasil.html" style="color: #315fea; text-decoration: none;">Escuela de Aviação Militar</a> en 1919, los jóvenes instructores de la Escuela de Aeronáutica advirtieron que buena parte de los cadetes abordaba con recelo las maniobras avanzadas en el robusto pero exigente monomotor T-6. Para demostrar a los alumnos que el avión respondía con total nobleza cuando se pilotaba con rigor técnico, un pequeño grupo de oficiales comenzó a reunirse durante el descanso del mediodía para ensayar toneles, rizos y cambios de formación a baja cota. Aunque el mando veía al principio con cautela aquellas prácticas no reglamentadas —que valieron al grupo el apodo interno de *«Cambalhoteiros»*—, el éxito de la primera exhibición formal solicitada para agasajar a una delegación militar extranjera el 14 de mayo de 1952 abrió el camino a su respaldo institucional.
 
 ### Entorno tecnológico
 
@@ -109,7 +109,7 @@ Con cerca de cuatro mil presentaciones acumuladas, la *Esquadrilha da Fumaça* e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 08:35:00 CST  
+- **Timestamp de verificación:** 2026-11-17 08:34:48 CST  
 - **Fuentes primarias/institucionales consultadas:** AerobaticTeams.net (historial oficial de la Esquadrilha da Fumaça / FAB), Spotter Brasil  
 - **Fuentes de contraste:** Viva Brazil, Wikipedia (PT)  
 - **Discrepancias resueltas:** se deslinda el vuelo fundacional del 14 de mayo de 1952 de la adopción del humo (1953), la dotación exclusiva de cinco T-6 (1955) y la denominación orgánica EDA (1982).  
