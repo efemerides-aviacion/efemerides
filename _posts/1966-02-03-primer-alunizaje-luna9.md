@@ -77,7 +77,7 @@ Las primeras fotografías tomadas desde el suelo de otro mundo causaron una conm
 
 ## Legado
 
-El éxito del **3 de febrero de 1966** consagró a la oficina **Lavochkin** de Gueorgui Babakin como artífice de las grandes sondas automáticas soviéticas, desde los primeros orbitadores selenitas (*Luna 10*, marzo de 1966) hasta los retornos robotizados de muestras geológicas (*Luna 16, 20 y 24*), los vehículos todoterreno *Lunojod* y las cápsulas de descenso en Venus y Marte. Cincuenta años más tarde, los investigadores que examinaban fotografías orbitales de alta resolución obtenidas por la cámara **LROC** del *Lunar Reconnaissance Orbiter* identificaron candidatos verosímiles para los restos de la etapa de frenado y de la pequeña esfera **ALS** en torno a las coordenadas `7,13° N, 64,37° O`, dejando en la llanura del Oceanus Procellarum el primer monumento intacto de la humanidad sobre otro mundo.
+El éxito del **3 de febrero de 1966** consagró a la oficina **Lavochkin** de Gueorgui Babakin como artífice de las grandes sondas automáticas soviéticas, desde los primeros orbitadores selenitas (*Luna 10*, marzo de 1966) hasta los retornos robotizados de muestras geológicas (*Luna 16, 20 y 24*), los vehículos todoterreno <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1970/11/17/lunojod-1-primer-vehiculo-teledirigido-luna.html" style="color: #315fea; text-decoration: none;"><em>Lunojod</em></a> y las cápsulas de descenso en Venus y Marte. Cincuenta años más tarde, los investigadores que examinaban fotografías orbitales de alta resolución obtenidas por la cámara **LROC** del *Lunar Reconnaissance Orbiter* identificaron candidatos verosímiles para los restos de la etapa de frenado y de la pequeña esfera **ALS** en torno a las coordenadas `7,13° N, 64,37° O`, dejando en la llanura del Oceanus Procellarum el primer monumento intacto de la humanidad sobre otro mundo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -107,7 +107,7 @@ El éxito del **3 de febrero de 1966** consagró a la oficina **Lavochkin** de G
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 15:24:00 CST
+- **Timestamp de verificación:** 2026-11-17 09:31:09 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA NSSDCA (`1966-006A`), ESA, Smithsonian NASM, RussianSpaceWeb y BBC.
 - **Discrepancias resueltas:** Confirmación de la hora exacta del contacto suave (`18:45:30 UTC` / `21:45:30` hora de Moscú) y del episodio de recepción en tiempo real en Jodrell Bank.
 - **Nivel de confianza:** Alto
