@@ -54,7 +54,7 @@ En 1886, cuando Coandă nació, la aviación era todavía un sueño. Los hermano
 
 ### Entorno cultural
 
-Coandă fue contemporáneo de otros grandes pioneros de la aviación temprana: los hermanos Wright, Louis Blériot (primer cruce del Canal de la Mancha en 1909), y Alberto Santos-Dumont. Sin embargo, a diferencia de ellos, Coandă se centró en la propulsión a reacción, una idea que estaba décadas por delante de su tiempo.
+Coandă fue contemporáneo de otros grandes pioneros de la aviación temprana: los hermanos Wright, Louis Blériot (primer cruce del Canal de la Mancha en 1909), Alberto Santos-Dumont y el también rumano <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1882/11/19/nacimiento-aurel-vlaicu-constructor-primer-avion-rumano.html" style="color: #315fea; text-decoration: none;">Aurel Vlaicu</a>. Sin embargo, a diferencia de ellos, Coandă se centró en la propulsión a reacción, una idea que estaba décadas por delante de su tiempo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
