@@ -75,7 +75,7 @@ La Pioneer 10 llevaba a bordo una placa de aluminio dorado de 15 × 23 centímet
 
 ## Consecuencias e Impacto
 
-- **Viabilidad de las misiones a los planetas gigantes:** La travesía intacta del cinturón de asteroides y las mediciones de los intensos cinturones de radiación de Júpiter resultaron indispensables para blindar la electrónica de las sondas *Voyager 1* y *Voyager 2* (1977), *Galileo* (1989) y *Cassini* (1997), complementando los hitos planetarios interiores como el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1976/07/20/viking1-sonda-espacial-en-marte.html" style="color: #315fea; text-decoration: none;">amartizaje de la sonda *Viking 1* en 1976</a>.
+- **Viabilidad de las misiones a los planetas gigantes:** La travesía intacta del cinturón de asteroides y las mediciones de los intensos cinturones de radiación de Júpiter resultaron indispensables para blindar la electrónica de las sondas <a href="https://efemerides-aviacion.github.io/efemerides/espacial/2026/11/18/voyager-1-primer-objeto-humano-a-un-dia-luz.html" style="color: #315fea; text-decoration: none;"><em>Voyager 1</em></a> y *Voyager 2* (1977), *Galileo* (1989) y *Cassini* (1997), complementando los hitos planetarios interiores como el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1976/07/20/viking1-sonda-espacial-en-marte.html" style="color: #315fea; text-decoration: none;">amartizaje de la sonda *Viking 1* en 1976</a>.
 - **Pionera de la mensajería interestelar:** La lámina de aluminio anodizado en oro adherida a los soportes de su antena inauguró la tradición de incluir mensajes simbólicos en naves con velocidad de escape solar, que culminaría cinco años después con el Disco de Oro de las *Voyager*.
 - **Repercusión mundial en 1983:** La superación del confín planetario el 13 de junio de 1983 ocupó las portadas internacionales; al día siguiente, el diario *El País* tituló *«La Pioneer-10 salió ayer del sistema solar rumbo al vacío»* y *The New York Times* destacó su salto hacia un reino inexplorado.
 - **Descubrimiento y resolución de la «Anomalía Pioneer»:** El seguimiento Doppler de precisión de las *Pioneer 10* y *11* reveló una minúscula desaceleración hacia el Sol de unos $8,74 \times 10^{-10}\text{ m/s}^2$; tras décadas de debate astrofísico, estudios publicados en 2012 demostraron que provenía del retroceso térmico anisotrópico de los fotones infrarrojos emitidos por sus generadores nucleares y su compartimento electrónico.
@@ -114,7 +114,7 @@ Silenciosa desde enero de 2003, la nave continúa alejándose del Sol por el med
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
+- **Timestamp de verificación:** 2026-11-17 11:53:28 CST  
 - **Fuentes primarias/institucionales consultadas:** El País (14/06/1983), La Vanguardia, Wikipedia, Última Hora, Agencia Espacial Mexicana, Muy Interesante, The New York Times (14/06/1983)
 - **Discrepancias resueltas:** Corregida distancia al Sol (4.522 millones de km vs 4.800 millones). Corregida velocidad actual (44.000 km/h vs 55.000 km/h). Corregida velocidad de lanzamiento (51.682 km/h vs 132.000 km/h). Corregida masa (258 kg vs 258,8 kg). Añadida hora exacta del cruce (5:00 a.m. PDT). Aclarada la situación de Plutón como planeta no más distante en 1983 debido a su órbita excéntrica.
 - **Nivel de confianza:** Alto
