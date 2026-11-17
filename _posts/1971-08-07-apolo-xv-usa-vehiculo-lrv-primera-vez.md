@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "7 de agosto de 1971 | Concluye el Apolo 15, la misión que estrenó el vehículo lunar"
+title: "7 de agosto de 1971 | Concluye el Apolo 15, la misión que estrenó el automóvil lunar"
 date: 1971-08-07
 categories: [espacial]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA
-excerpt: "Scott e Irwin recorrieron 27,9 kilómetros por Hadley-Apenino a bordo del primer vehículo con ruedas que operó fuera de la Tierra."
+excerpt: "Scott e Irwin recorrieron 27,9 kilómetros por Hadley-Apenino a bordo del primer vehículo con ruedas que llevó tripulación fuera de la Tierra."
 image: 1971-08-07-apolo-xv-usa-vehiculo-lrv-primera-vez.webp
 ---
 
@@ -18,7 +18,7 @@ image: 1971-08-07-apolo-xv-usa-vehiculo-lrv-primera-vez.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 7 de agosto de 1971, a las 20:45:53 UTC, el módulo de mando <em>Endeavour</em> amerizó en el Pacífico Norte y puso fin a la misión Apolo 15. Fue la novena misión tripulada del programa, la cuarta en alunizar y la primera de tipo J, concebida para estancias largas y con un peso científico muy superior al de sus predecesoras.</p>
-<p>Su aportación más visible había ocurrido una semana antes. El 31 de julio, David R. Scott y James B. Irwin desplegaron en la superficie lunar el Lunar Roving Vehicle, un automóvil eléctrico de cuatro ruedas motrices plegado en el costado del módulo lunar. Con él recorrieron 27,9 kilómetros por la región de Hadley-Apenino en tres jornadas de exploración, alcanzaron formaciones geológicas inaccesibles a pie y trajeron a la Tierra 77 kilogramos de muestras. Era el primer vehículo con ruedas que operaba sobre otro cuerpo celeste.</p>
+<p>Su aportación más visible había ocurrido una semana antes. El 31 de julio, David R. Scott y James B. Irwin desplegaron en la superficie lunar el Lunar Roving Vehicle, un automóvil eléctrico de cuatro ruedas motrices plegado en el costado del módulo lunar. Con él recorrieron 27,9 kilómetros por la región de Hadley-Apenino en tres jornadas de exploración, alcanzaron formaciones geológicas inaccesibles a pie y trajeron a la Tierra 77 kilogramos de muestras. Era el primer vehículo con ruedas que llevaba tripulación sobre otro cuerpo celeste.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Datos verificados del evento
@@ -58,7 +58,7 @@ La secuencia recorre los doce días de la misión, desde el despegue hasta la re
 - **26 de julio de 1971, 13:34:00 UTC:** despega el Saturn V SA-510 desde la plataforma 39A del Centro Espacial Kennedy.
 - **30 de julio de 1971, 22:16:29 UTC:** el módulo lunar *Falcon* se posa en Hadley-Apenino, con Scott e Irwin a bordo. Worden permanece en órbita en el *Endeavour*.
 - **30 de julio de 1971:** Scott realiza una salida de reconocimiento desde la escotilla superior del módulo para examinar el terreno circundante.
-- **31 de julio de 1971:** primera salida a la superficie. Scott e Irwin despliegan el vehículo lunar desde su alojamiento en el costado del módulo mediante un sistema de poleas y cuerdas, y efectúan el primer recorrido motorizado sobre otro cuerpo celeste. La dirección delantera no responde y conducen gobernando con las ruedas traseras.
+- **31 de julio de 1971:** primera salida a la superficie. Scott e Irwin despliegan el vehículo lunar desde su alojamiento en el costado del módulo mediante un sistema de poleas y cuerdas, y efectúan el primer recorrido motorizado tripulado sobre otro cuerpo celeste. La dirección delantera no responde y conducen gobernando con las ruedas traseras.
 - **1 de agosto de 1971:** segunda salida, la más larga de la misión. La dirección delantera vuelve a funcionar. Se recoge la muestra que se conocerá como Roca Génesis.
 - **2 de agosto de 1971:** tercera salida. Antes de concluirla, Scott efectúa ante las cámaras el experimento del martillo y la pluma.
 - **2 de agosto de 1971, 17:11:23 UTC:** el *Falcon* despega de la superficie lunar. El vehículo queda abandonado en Hadley, orientado para transmitir la partida.
@@ -81,7 +81,7 @@ En el plano operativo, el vehículo validó un concepto que se repetiría en los
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Legado
 
-El vehículo lunar del Apolo 15 inauguró la exploración planetaria motorizada, una línea que no se ha interrumpido desde entonces.
+El vehículo lunar del Apolo 15 inauguró la conducción tripulada fuera de la Tierra, una línea que no se ha interrumpido desde entonces.
 
 Su descendencia directa no es tripulada, pero comparte el mismo principio: extender el alcance de la exploración más allá del punto de llegada. Los vehículos automáticos que recorren Marte desde hace décadas resuelven, con otra tecnología y sin tripulación, el problema que el Lunar Roving Vehicle planteó por primera vez. La <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1976/07/20/viking1-sonda-espacial-en-marte.html" style="color: #315fea; text-decoration: none;">sonda Viking 1, que se posó en Marte cinco años después</a>, todavía era estática; la movilidad superficial en otro planeta tardaría dos décadas más en llegar.
 
@@ -107,12 +107,12 @@ El Apolo 15 fue también el primer vuelo lunar cuya tripulación quedó exenta d
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Esta efeméride se fecha el 7 de agosto de 1971, día del amerizaje y conclusión de la misión, conforme al criterio editorial de situar la conmemoración en la jornada que culmina el acontecimiento. El primer despliegue y uso del vehículo lunar tuvo lugar el 31 de julio, durante la primera salida a la superficie. Las fuentes difieren en el número de actividades extravehiculares: unas contabilizan tres salidas a la superficie y otras cuatro, según incluyan o no la de reconocimiento que Scott realizó desde la escotilla superior del módulo lunar sin descender de él. La distancia recorrida se cifra en 27,9 kilómetros según el informe oficial de la misión, dato que algunas recopilaciones redondean a 28. En cuanto a la masa del vehículo, los 210 kilogramos corresponden a su peso en la Tierra; en la gravedad lunar equivalían a unos 35 kilogramos, cifra que ciertas fuentes presentan sin advertir la distinción. La fotografía que ilustra esta efeméride corresponde a la actividad en superficie de la misión, con anterioridad a la fecha recordada.</p>
+  <p><strong>Nota aclaratoria:</strong> Esta efeméride se fecha el 7 de agosto de 1971, día del amerizaje y conclusión de la misión, conforme al criterio editorial de situar la conmemoración en la jornada que culmina el acontecimiento. El primer despliegue y uso de su vehículo lunar tuvo lugar el 31 de julio, durante la primera salida a la superficie. Las fuentes difieren en el número de actividades extravehiculares: unas contabilizan tres salidas a la superficie y otras cuatro, según incluyan o no la de reconocimiento que Scott realizó desde la escotilla superior del módulo lunar sin descender de él. La distancia recorrida se cifra en 27,9 kilómetros según el informe oficial de la misión, dato que algunas recopilaciones redondean a 28. En cuanto a la masa del vehículo, los 210 kilogramos corresponden a su peso en la Tierra; en la gravedad lunar equivalían a unos 35 kilogramos, cifra que ciertas fuentes presentan sin advertir la distinción. La fotografía que ilustra esta efeméride corresponde a la actividad en superficie de la misión, con anterioridad a la fecha recordada.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-07 16:33:00 CST
+- **Timestamp de verificación:** 2026-11-17 09:31:09 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA (página oficial de la misión Apolo 15 y archivo histórico del LRV) y Smithsonian National Air and Space Museum (ficha del módulo *Endeavour*).
 - **Fuentes secundarias de contraste:** Wikipedia (EN/ES), informe de misión y cronología de Orloff y Harland.
 - **Discrepancias resueltas:** Se consignaron cuatro actividades extravehiculares en superficie (incluida la observación desde la escotilla superior), la distancia oficial de `27,9 km` frente al redondeo a `28 km`, la masa terrestre de `210 kg` frente a los `35 kg` equivalentes en gravedad lunar y la distinción entre el estreno del vehículo (31 de julio) y el amerizaje (7 de agosto).
