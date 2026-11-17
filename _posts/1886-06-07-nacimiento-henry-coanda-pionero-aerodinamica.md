@@ -12,7 +12,7 @@ image: 1886-06-07-nacimiento-henry-coanda-pionero-aerodinamica.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1886-06-07-nacimiento-henry-coanda-pionero-aerodinamica.webp" alt="Retrato de Henri Coandă">
-  <figcaption class="post-caption">Retrato del ingeniero y académico rumano Henri Marie Coandă (1886‑1972), pionero de la aviación, precursor conceptual de la propulsión por reacción y descubridor del efecto Coandă. Fuente: Instituto Cultural Rumano (ICR).</figcaption>
+  <figcaption class="post-caption">Retrato del ingeniero y académico rumano Henri Marie Coandă (1886-1972), ya maduro, pionero de la aviación y de la aerodinámica. Fuente: <a href="https://www.icr.ro/pagini/henri-marie-coanda" style="color: #315fea; text-decoration: none;">Instituto Cultural Rumano (ICR)</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -118,7 +118,7 @@ El **Efecto Coandă** (o Efecto Coanda) es un fenómeno de dinámica de fluidos 
 
 ## Legado
 
-Henri Coandă ocupa un lugar propio entre los pioneros de la aviación y la aerodinámica. Su nombre está inscrito en la historia de la tecnología por dos contribuciones fundamentales: el Coandă-1910, hito fundacional de la propulsión por reacción, y el descubrimiento del efecto que lleva su nombre.
+Henri Coandă ocupa un lugar propio entre los pioneros de la aviación y la aerodinámica: al Coandă-1910, hito fundacional de la propulsión por reacción, se suma el descubrimiento del efecto que lleva su nombre, principio que la ingeniería aeronáutica y la ventilación industrial siguen empleando.
 
 - **Aeropuerto Internacional Henri Coandă:** El aeropuerto de Bucarest-Otopeni (OTP), el principal del país, fue rebautizado en su honor en 1970.
 - **Museo y colecciones:** El Smithsonian National Air and Space Museum conserva el fondo *Henri Coanda Papers [Stine]*, integrado por los papeles del propio inventor.
@@ -147,14 +147,14 @@ Henri Coandă ocupa un lugar propio entre los pioneros de la aviación y la aero
   <p><strong>Notas aclaratorias:</strong></p>
   <p><strong>1. La controversia sobre el «primer avión a reacción».</strong> La idea de que el Coandă-1910 voló en 1910 y fue el primer avión a reacción la difundió el propio Coandă a partir de 1956, y carece de respaldo contemporáneo: los historiadores Charles Harvard Gibbs-Smith y Frank H. Winter no hallaron rastro del supuesto vuelo en <em>L'Aérophile</em>, <em>Le Figaro</em>, <em>Flight</em> ni en los registros del aeródromo de Issy-les-Moulineaux, y comprobaron que los planos presentados en 1965 como prueba estaban alterados respecto a las patentes originales, que no mencionan inyección de combustible. Lo que sí se reconoce es que el Coandă-1910 fue el primer avión de tamaño real concebido para propulsión por reacción. El primer vuelo efectivo de un turborreactor lo realizó el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1939/08/27/heinkel-he-178-primer-vuelo-avion-reaccion.html" style="color: #315fea; text-decoration: none;">Heinkel He 178</a> el 27 de agosto de 1939; un año después, el 27 de agosto de 1940, la FAI homologó el del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1940/08/27/caproni-campini-n1-primer-vuelo-motorjet.html" style="color: #315fea; text-decoration: none;">Caproni Campini N.1</a> —un motorreactor— antes de que se conociera el vuelo alemán. La referencia que suele esgrimirse a favor de Coandă es el fondo <em>Henri Coanda Papers [Stine]</em> del Smithsonian: se trata de los papeles del propio inventor, no de un pronunciamiento institucional.</p>
   <p><strong>2. El Efecto Coandă vs. otros fenómenos de fluidos:</strong> El Efecto Coandă a menudo se confunde con el fenómeno de "arrastre de chorro", pero son distintos. El Efecto Coandă se refiere específicamente a la adhesión de un chorro a una superficie convexa, mientras que el arrastre se refiere a la mezcla de un chorro con el fluido circundante. Coandă describió y publicó su descubrimiento en 1934.</p>
-  <p><strong>3. El nombre del aeropuerto:</strong> El <strong>Aeropuerto Internacional Henri Coandă</strong> (OTP) es el principal aeropuerto de Rumanía, ubicado en Otopeni, a 16 km del centro de Bucarest. Fue bautizado así en 1970, dos años antes de la muerte de Coandă, en reconocimiento a sus contribuciones a la aviación.</p>
+  <p><strong>3. El nombre del aeropuerto:</strong> El <strong>Aeropuerto Internacional Henri Coandă</strong> (OTP) es el principal aeropuerto de Rumanía, ubicado en Otopeni, a 16 km del centro de Bucarest. Fue bautizado así en 2004, cuando el aeropuerto de Otopeni —abierto en 1970— adoptó su nombre en reconocimiento a sus contribuciones a la aviación.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-01 15:03:55 CST
+- **Timestamp de verificación:** 2026-11-17 07:05:20 CST
 - **Fuentes primarias/institucionales consultadas:** Instituto Cultural Rumano (ICR), National Air and Space Museum (Smithsonian) – fondo *Henri Coanda Papers [Stine]*, Aeroportul Henri Coandă, Gibbs-Smith (1960, Science Museum), Winter (1980, NASM).  
 - **Fuentes secundarias de contraste:** Wikipedia (EN/ES, biografía de Henri Coandă y artículo Coandă-1910).  
 - **Discrepancias resueltas:** Sobre el Coandă-1910 se adopta la posición de Gibbs-Smith y Winter —primer avión de tamaño real concebido para propulsión por reacción, sin que conste que llegara a volar— frente a la versión del vuelo de 1910 difundida por el propio Coandă a partir de 1956.  
