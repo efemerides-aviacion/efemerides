@@ -81,6 +81,8 @@ Gracias al rediseño plasmado en las series 700 y 800, el cuatrimotor de Weybrid
 
 El Vickers Viscount inauguró la presencia de los motores de turbina en el transporte civil de pasajeros y tendió el puente tecnológico entre la era del pistón y la de los reactores comerciales. Sus 445 unidades sirvieron durante más de cuatro décadas con más de sesenta operadores de los cinco continentes, mientras su motor Rolls-Royce Dart permaneció en producción hasta 1987 como una de las plantas motrices más longevas y fiables de la historia aeronáutica. Diversos ejemplares de las series 700 y 800 se conservan hoy en museos del Reino Unido, Canadá, Estados Unidos y Australia como testimonio del primer turbohélice comercial del mundo.
 
+En Sudamérica, el Museo Aeronáutico Jaime Meregalli exhibe el Viscount 827 CX-BJA. Las <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1936/11/20/fundacion-pluna-montevideo-salto.html" style="color: #315fea; text-decoration: none;">Primeras Líneas Uruguayas de Navegación Aérea (PLUNA)</a> operaron ocho Viscount y donaron este ejemplar al museo en 1984.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
@@ -92,6 +94,7 @@ El Vickers Viscount inauguró la presencia de los motores de turbina en el trans
     <li><a href="https://ingenium.ca/aviation/en/collection-highlight/vickers-757-viscount/" style="color: #315fea; text-decoration: none;">Ingenium / Canada Aviation and Space Museum — «Vickers 757 Viscount»</a></li>
     <li><a href="https://airandspace.si.edu/collection-objects/engine-rolls-royce-dart-mk-510-turboprop-engine/nasm_A19690276000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum — «Rolls-Royce Dart Mk. 510 Turboprop Engine»</a></li>
     <li><a href="https://pimaair.org/designation/744/" style="color: #315fea; text-decoration: none;">Pima Air &amp; Space Museum — «Vickers Viscount Model 744»</a></li>
+    <li><a href="https://museo.fau.mil.uy/aeronave/fichas/vickers_viscount" style="color: #315fea; text-decoration: none;">Museo Aeronáutico de la Fuerza Aérea Uruguaya — «Vickers Viscount»</a>. Inventario de la flota de PLUNA e historial y conservación del CX-BJA.</li>
   </ul>
 </div>
 
@@ -104,8 +107,8 @@ El Vickers Viscount inauguró la presencia de los motores de turbina en el trans
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-07 08:05:00 CST  
-- **Fuentes primarias/institucionales consultadas:** Royal Aviation Museum of Western Canada, Ingenium / Canada Aviation and Space Museum, Smithsonian National Air and Space Museum, Pima Air &amp; Space Museum  
+- **Timestamp de verificación:** 2026-11-18 07:45:39 CST  
+- **Fuentes primarias/institucionales consultadas:** Royal Aviation Museum of Western Canada, Ingenium / Canada Aviation and Space Museum, Smithsonian National Air and Space Museum, Pima Air &amp; Space Museum, Museo Aeronáutico de la Fuerza Aérea Uruguaya  
 - **Fuentes de contraste:** Vickers Viscount Network  
 - **Discrepancias resueltas:** se distingue la concesión del certificado de aeronavegabilidad (27 de julio de 1950), los vuelos de familiarización (28 de julio) y el primer vuelo comercial de línea a París (29 de julio).  
 - **Nivel de confianza:** Alto  
