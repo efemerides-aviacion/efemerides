@@ -47,7 +47,7 @@ La iniciativa interesaba al Cuerpo Aéreo del Ejército de Estados Unidos. Sus o
 
 ### Entorno tecnológico
 
-Un trimotor terrestre podía cubrir el trayecto a La Habana, siempre que encontrara una pista en condiciones. En Cayo Hueso, una semana de lluvia podía convertir ese requisito en el principal obstáculo del servicio. Los aparatos con flotadores daban otra opción: salir y posarse en el agua, con un punto protegido desde el cual cargar los sacos. Ninguna solución eliminaba el trabajo en tierra. Hacían falta combustible, mecánicos, información del tiempo y medios para recibir y despachar correspondencia. Esa infraestructura se volvería tan importante como el alcance de los aviones al extenderse la red a lugares sin aeródromo.
+El trimotor Fokker podía cubrir el trayecto a La Habana, pero necesitaba una pista firme. En Cayo Hueso, una semana de lluvia podía convertir ese requisito en el principal obstáculo del servicio. Los aparatos con flotadores daban otra opción: salir y posarse en el agua, con un punto protegido desde el cual cargar los sacos. Ninguna solución eliminaba el trabajo en tierra. Hacían falta combustible, mecánicos, información del tiempo y medios para recibir y despachar correspondencia. Esa infraestructura se volvería tan importante como el alcance de los aviones al extenderse la red a lugares sin aeródromo.
 
 ### Entorno cultural
 
@@ -114,7 +114,7 @@ Su peso se concentró durante décadas en el mercado internacional, no en el dom
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-11-18 11:48:48 CST
+- **Timestamp de verificación:** 2026-11-18 13:54:41 CST
 - **Fuentes primarias/institucionales consultadas:** Pan Am Historical Foundation, U.S. Centennial of Flight Commission, Congreso de Estados Unidos, Servicio Postal de Estados Unidos, Smithsonian, FAA, Boeing, Foreign Claims Settlement Commission y Universidad de Miami.
 - **Discrepancias resueltas:** Atribución de la constitución y fechas de arranque postal: véase la nota aclaratoria.
 - **Nivel de confianza:** Alto.
