@@ -80,7 +80,7 @@ El programa también exigió coordinar una red de ingeniería, formación y abas
 
 ## Legado
 
-El XB-29 inauguró una familia de bombarderos cuyo alcance, tamaño y sistemas influyeron en la aviación militar de la posguerra. El avión quedó asociado a acontecimientos muy posteriores y de enorme consecuencia humana, pero su primer vuelo debe situarse en el comienzo del proceso técnico que hizo posibles esas misiones. Los prototipos y sus tripulaciones pertenecen también a esa historia: el programa no avanzó sin pérdidas ni modificaciones. Museos aeronáuticos de Seattle y Dayton conservan material sobre el B-29 y sus ensayos, lo que permite estudiar el aparato no solo como arma operacional, sino como resultado de decisiones industriales, experimentación y trabajo de ingeniería. La carrera del modelo se extendió más allá de la Segunda Guerra Mundial: los B-29 también participaron en la guerra de Corea, una trayectoria posterior que ayuda a entender por qué el primer vuelo fue el inicio de una historia de servicio mucho más larga.
+El XB-29 inauguró una familia de bombarderos cuyo alcance, tamaño y sistemas influyeron en la aviación militar de la posguerra. El avión quedó asociado a acontecimientos muy posteriores y de enorme consecuencia humana, pero su primer vuelo debe situarse en el comienzo del proceso técnico que hizo posibles esas misiones. Los prototipos y sus tripulaciones pertenecen también a esa historia: el programa no avanzó sin pérdidas ni modificaciones. Museos aeronáuticos de Seattle y Dayton conservan material sobre el B-29 y sus ensayos, lo que permite estudiar el aparato no solo como arma operacional, sino como resultado de decisiones industriales, experimentación y trabajo de ingeniería. El B-29 siguió en servicio después de la Segunda Guerra Mundial y participó en la guerra de Corea. Un derivado naval, el P2B-1S, sirvió de avión nodriza en el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1953/11/20/douglas-skyrocket-primer-vuelo-mach-2.html" style="color: #315fea; text-decoration: none;">vuelo con el que el Douglas Skyrocket rebasó Mach 2</a> el 20 de noviembre de 1953.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -92,6 +92,7 @@ El XB-29 inauguró una familia de bombarderos cuyo alcance, tamaño y sistemas i
     <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196652/development-of-the-boeing-b-29/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force — desarrollo del Boeing B-29</a></li>
     <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/september-21-1942/" style="color: #315fea; text-decoration: none;">Air &amp; Space Forces Magazine — primer vuelo del XB-29</a></li>
     <li><a href="https://www.thisdayinaviation.com/21-september-1942/" style="color: #315fea; text-decoration: none;">This Day in Aviation — vuelo inaugural del Superfortress</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/douglas-d-558-2/nasm_A19610108000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum — «Douglas D-558-2» (lanzamiento desde el P2B-1S)</a></li>
   </ul>
 </div>
 
@@ -99,8 +100,8 @@ El XB-29 inauguró una familia de bombarderos cuyo alcance, tamaño y sistemas i
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-05 16:45:42 CST  
-- **Fuentes primarias/institucionales consultadas:** The Museum of Flight; National Museum of the United States Air Force.  
+- **Timestamp de verificación:** 2026-11-18 09:20:07 CST  
+- **Fuentes primarias/institucionales consultadas:** The Museum of Flight; National Museum of the United States Air Force; Smithsonian National Air and Space Museum.  
 - **Fuentes secundarias de contraste:** Air &amp; Space Forces Magazine; This Day in Aviation.  
 - **Nivel de confianza:** Alto.  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

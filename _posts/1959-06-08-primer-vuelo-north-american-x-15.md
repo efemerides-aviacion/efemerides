@@ -51,7 +51,7 @@ Cuando el primer X-15 (`56-6670`) fue presentado oficialmente en Los Ángeles el
 
 ### Entorno cultural
 
-El piloto encargado de domar la nueva aeronave, **Scott Crossfield** —quien en noviembre de 1953 ya había sido el primer hombre en alcanzar Mach 2 a bordo del Douglas D-558-II Skyrocket—, había participado personalmente en el diseño de la cabina, del traje de presión completa David Clark MC-2 y del controlador lateral de mando en la muñeca derecha, concebido para que el aviador pudiera pilotar sin que las fuerzas de inercia de la aceleración y la reentrada desplazaran su brazo.
+El piloto encargado de domar la nueva aeronave, **Scott Crossfield** —quien en noviembre de 1953 ya había sido el primer hombre en <a href="https://efemerides-aviacion.github.io/efemerides/evento/1953/11/20/douglas-skyrocket-primer-vuelo-mach-2.html" style="color: #315fea; text-decoration: none;">alcanzar Mach 2 a bordo del Douglas D-558-II Skyrocket</a>—, había participado personalmente en el diseño de la cabina, del traje de presión completa David Clark MC-2 y del controlador lateral de mando en la muñeca derecha, concebido para que el aviador pudiera pilotar sin que las fuerzas de inercia de la aceleración y la reentrada desplazaran su brazo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -104,7 +104,7 @@ Las dos células supervivientes ocupan hoy lugares de honor en los dos grandes m
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 10:38:00 CST
+- **Timestamp de verificación:** 2026-11-18 09:20:07 CST
 - **Fuentes primarias/institucionales consultadas:** NASA History Office (`X-15 Chronology`) y NASA Armstrong Flight Research Center.
 - **Fuentes secundarias de contraste:** This Day in Aviation (`8 June 1959`) y Wikipedia (`North American X-15`).
 - **Discrepancias resueltas:** Se distingue el primer vuelo cautivo (10 de marzo de 1959), el primer vuelo libre en planeo (8 de junio de 1959, 4 min 56,6 s desde 37.550 pies) y el primer vuelo propulsado (17 de septiembre de 1959).

@@ -70,7 +70,7 @@ Por ese logro, Yeager, Lawrence D. Bell y John Stack, del NACA, compartieron el 
 - **Tras separarse del B-29:** Yeager enciende el motor cohete y el avión acelera hasta alcanzar 43.000 pies, donde supera Mach 1 y alcanza Mach 1,06. Los controladores en tierra oyeron un estampido sónico que retumbó por el desierto. Yeager comentó después que el vuelo había sido «agradable, como ir rápido en un coche».
 - **Diciembre de 1947:** la prensa especializada publica la noticia, que se había filtrado a la revista *Aviation Week*. El anuncio oficial llega en junio de 1948.
 - **26 de marzo de 1948:** con Yeager a los mandos, el X-1 alcanza Mach 1,45 a 71.900 pies, la mayor velocidad y altitud alcanzadas hasta entonces por un avión tripulado, según el Smithsonian.
-- **1953:** el aviador George Welch logra el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1953/05/25/george-welch-barrera-sonido-nivelado-f100-super-sabre.html" style="color: #315fea; text-decoration: none;">vuelo supersónico nivelado con el F-100 Super Sabre</a>.
+- **1953:** el aviador George Welch logra el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1953/05/25/george-welch-barrera-sonido-nivelado-f100-super-sabre.html" style="color: #315fea; text-decoration: none;">vuelo supersónico nivelado con el F-100 Super Sabre</a>. El 20 de noviembre, Scott Crossfield pilota el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1953/11/20/douglas-skyrocket-primer-vuelo-mach-2.html" style="color: #315fea; text-decoration: none;">Douglas Skyrocket en el primer vuelo por encima de Mach 2</a>. A diferencia del X-1, el avión cohete de Douglas tiene alas en flecha.
 - **1956 y 1959:** el programa X continúa con el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1956/09/27/milburn-apt-primer-humano-mach-3-bell-x2.html" style="color: #315fea; text-decoration: none;">Bell X-2 de Milburn Apt, primer humano en Mach 3</a>, y con <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/08/26/jacqueline-auriol-primera-mujer-mach-2.html" style="color: #315fea; text-decoration: none;">el vuelo de Jacqueline Auriol a Mach 2 en 1959</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -99,6 +99,7 @@ Yeager siguió vinculado a la aviación militar durante décadas. El 14 de octub
     <li><a href="https://www.thisdayinaviation.com/tag/glamorous-glennis/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Brigadier General Charles Elwood («Chuck») Yeager, y entrada del 14 de octubre de 1947</a></li>
     <li><a href="https://www.chuckyeager.org/history/184/" style="color: #315fea; text-decoration: none;">Chuck Yeager Foundation – Cronología de Chuck Yeager</a></li>
     <li><a href="https://ig.space/commslink/bell-x-1-the-first-airplane-to-break-the-sound-barrier/" style="color: #315fea; text-decoration: none;">Innovation Gateway – Bell X-1: The first airplane to break the sound barrier… sort of</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/douglas-d-558-2/nasm_A19610108000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum — «Douglas D-558-2» (vuelo a Mach 2 del 20 de noviembre de 1953)</a></li>
   </ul>
 </div>
 
@@ -111,8 +112,8 @@ Yeager siguió vinculado a la aviación militar durante décadas. El 14 de octub
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-08 06:24:54 CST
-- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM (ficha nasm_A19510007000); NASA (artículo 14 de octubre de 1947); Smithsonian Magazine
+- **Timestamp de verificación:** 2026-11-18 09:22:16 CST
+- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM (fichas nasm_A19510007000 y nasm_A19610108000); NASA (artículo 14 de octubre de 1947); Smithsonian Magazine
 - **Fuentes secundarias de contraste:** This Day in Aviation; Chuck Yeager (cronología); Innovation Gateway
 - **Discrepancias resueltas:** altitud de suelta (20.000 / 23.000 pies); altitud máxima (43.000 frente a 45.000 pies); velocidad (Mach 1,06 frente a 1,05 y 1,07). Se usan las cifras del Smithsonian y la NASA.
 - **Nivel de confianza:** Alto

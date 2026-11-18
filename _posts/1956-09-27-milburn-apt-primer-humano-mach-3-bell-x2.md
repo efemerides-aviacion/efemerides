@@ -76,7 +76,7 @@ Esos registros determinaron la arquitectura de la siguiente generación hipersó
 
 ## Legado
 
-El registro de **Mach 3,196** de Milburn Apt permaneció durante casi cuatro años como el registro de velocidad más elevado de un avión tripulado, formando junto con el Mach 1,06 de Chuck Yeager en el X-1 (1947), el Mach 2,005 de Scott Crossfield en el Skyrocket (1953) y el futuro Mach 6,70 de William J. Knight en el X-15A-2 (1967) la columna vertebral de la investigación aeroespacial en Edwards.
+El registro de **Mach 3,196** de Milburn Apt permaneció durante casi cuatro años como el registro de velocidad más elevado de un avión tripulado, formando junto con el Mach 1,06 de Chuck Yeager en el X-1 (1947), el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1953/11/20/douglas-skyrocket-primer-vuelo-mach-2.html" style="color: #315fea; text-decoration: none;">Mach 2,005 de Scott Crossfield en el Skyrocket</a> (1953) y el futuro Mach 6,70 de William J. Knight en el X-15A-2 (1967) la columna vertebral de la investigación aeroespacial en Edwards.
 
 En la ingeniería aeronáutica, los manuales de mecánica del vuelo explican el acoplamiento inercial con la telemetría del vuelo trece del X-2, y el museo de Edwards conserva fragmentos del `46-674` en homenaje al piloto que abrió el régimen de Mach 3.
 
@@ -91,7 +91,7 @@ En la ingeniería aeronáutica, los manuales de mecánica del vuelo explican el 
     <li><a href="https://www.edwards.af.mil/News/Article/394758/starbuster-55-years-ago-capt-mel-apt-conquered-mach-3-lost-life-on-fated-flight/" style="color: #315fea; text-decoration: none;">Edwards Air Force Base — «Starbuster: 55 years ago Capt. Mel Apt conquered Mach 3, lost life on fated flight»</a></li>
     <li><a href="https://www.nasa.gov/image-article/x-2-drops-away-from-boeing-b-50-mothership/" style="color: #315fea; text-decoration: none;">NASA — «X-2 Drops Away from Boeing B-50 Mothership» (célula 46-674 y EB-50D 48-096)</a></li>
     <li><a href="https://www.thisdayinaviation.com/27-september-1956/" style="color: #315fea; text-decoration: none;">This Day in Aviation — «27 September 1956: Captain Milburn Grant Apt, USAF»</a></li>
-    <li><a href="https://history.nasa.gov/monograph_18.pdf" style="color: #315fea; text-decoration: none;">NASA History Office — Monograph 18: «Toward Mach 2 and Beyond»</a></li>
+    <li><a href="https://www.nasa.gov/wp-content/uploads/2023/04/sp-4518.pdf" style="color: #315fea; text-decoration: none;">NASA History Office — Monograph 18: «Hypersonics Before the Shuttle» (El vuelo hipersónico antes del transbordador), cap. 1</a></li>
   </ul>
 </div>
 
@@ -105,7 +105,7 @@ En la ingeniería aeronáutica, los manuales de mecánica del vuelo explican el 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 09:52:00 CST
+- **Timestamp de verificación:** 2026-11-18 09:20:07 CST
 - **Fuentes primarias/institucionales consultadas:** NASA (`Bell X-2 Starbuster`, Fact Sheet `FS-2003-06-0079 DFRC`, Monograph 18) y Edwards Air Force Base (`Starbuster: 55 years ago Capt. Mel Apt conquered Mach 3`).
 - **Fuentes secundarias de contraste:** This Day in Aviation (`27 September 1956`).
 - **Discrepancias resueltas:** Uniformidad en Mach 3,196 (2.094 mph); se consigna el valor instrumentado de 65.589 pies (19.992 m) junto con el redondeo institucional de 65.500 pies explicado en la nota aclaratoria.
