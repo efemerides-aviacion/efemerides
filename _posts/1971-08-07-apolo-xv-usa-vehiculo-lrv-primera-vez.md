@@ -21,6 +21,7 @@ image: 1971-08-07-apolo-xv-usa-vehiculo-lrv-primera-vez.webp
 <p>Su aportación más visible había ocurrido una semana antes. El 31 de julio, David R. Scott y James B. Irwin desplegaron en la superficie lunar el Lunar Roving Vehicle, un automóvil eléctrico de cuatro ruedas motrices plegado en el costado del módulo lunar. Con él recorrieron 27,9 kilómetros por la región de Hadley-Apenino en tres jornadas de exploración, alcanzaron formaciones geológicas inaccesibles a pie y trajeron a la Tierra 77 kilogramos de muestras. Era el primer vehículo con ruedas que llevaba tripulación sobre otro cuerpo celeste.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Datos verificados del evento
 
 - **Duración de la misión:** del 26 de julio al 7 de agosto de 1971.
@@ -34,6 +35,7 @@ image: 1971-08-07-apolo-xv-usa-vehiculo-lrv-primera-vez.webp
 - **Hitos científicos y de retorno:** 77 kg de muestras recolectadas (incluida la anortosita llamada Roca Génesis), demostración de caída libre del martillo y la pluma en vacío, y caminata espacial de 39 minutos y 7 segundos de Worden en el trayecto de regreso.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Contexto Histórico
 
 El Apolo 15 marcó el momento en que el programa dejó de perseguir la proeza para dedicarse a la ciencia.
@@ -51,6 +53,7 @@ Las tres primeras misiones de alunizaje habían operado con una limitación seve
 El aparato se ganó de inmediato el apodo de «buggy lunar» y se convirtió en la imagen más reconocible de las últimas misiones Apolo. Su presencia introdujo un elemento cotidiano y casi doméstico en un escenario extraterrestre: un automóvil aparcado en la Luna. Esa familiaridad visual explica buena parte de su permanencia en la memoria colectiva, muy por encima de los instrumentos científicos que transportaba.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Desarrollo Cronológico
 
 La secuencia recorre los doce días de la misión, desde el despegue hasta la recuperación en el Pacífico.
@@ -68,17 +71,19 @@ La secuencia recorre los doce días de la misión, desde el despegue hasta la re
 - **7 de agosto de 1971, 20:45:53 UTC:** el *Endeavour* ameriza en el Pacífico Norte con uno de los tres paracaídas parcialmente abierto. El USS *Okinawa* recupera a la tripulación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Consecuencias e Impacto
 
 El rendimiento científico de la misión superó con holgura al de todas las anteriores, y la razón fue en buena medida el vehículo.
 
 Los 77 kilogramos de muestras casi duplicaron lo recogido en misiones previas, pero el dato relevante no es el peso sino la procedencia: el vehículo permitió muestrear el frente de los Montes Apeninos y el borde de la Rima Hadley, formaciones separadas por kilómetros y de origen geológico distinto. Entre el material figuraba la anortosita bautizada como Roca Génesis, que los primeros análisis atribuyeron a la corteza lunar primitiva y que contribuyó a sostener la hipótesis del océano de magma en la formación de la Luna.
 
-La demostración del martillo y la pluma tuvo una función deliberada: Scott la ejecutó ante las cámaras de televisión reproduciendo en vacío el experimento atribuido a Galileo, y ambos objetos tocaron el suelo simultáneamente.
+Scott recreó el experimento atribuido a Galileo: martillo y pluma tocaron el suelo simultáneamente. A diferencia de la <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/11/24/apolo-12-regreso-television-color-lunar.html" style="color: #315fea; text-decoration: none;">cámara que llevó el color al suelo lunar en el Apolo 12</a>, la del vehículo podía orientarse desde Houston.
 
 En el plano operativo, el vehículo validó un concepto que se repetiría en los Apolo 16 y 17, cuyos ejemplares ampliaron el radio de exploración y quedaron igualmente en la superficie lunar. El fallo de la dirección delantera en la primera salida y la apertura parcial de uno de los tres paracaídas en el amerizaje se resolvieron sin consecuencias para la tripulación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Legado
 
 El vehículo lunar del Apolo 15 inauguró la conducción tripulada fuera de la Tierra, una línea que no se ha interrumpido desde entonces.
@@ -92,6 +97,7 @@ La misión dejó además dos marcas personales. Worden protagonizó el primer pa
 El Apolo 15 fue también el primer vuelo lunar cuya tripulación quedó exenta de cuarentena al regresar, una vez descartado el riesgo biológico: la Luna había dejado de ser una incógnita para convertirse en un laboratorio de campo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Referencias Verificadas
 
 <div class="references">
@@ -111,8 +117,9 @@ El Apolo 15 fue también el primer vuelo lunar cuya tripulación quedó exenta d
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-11-17 09:31:09 CST  
+- **Timestamp de verificación:** 2026-11-18 11:21:07 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA (página oficial de la misión Apolo 15 y archivo histórico del LRV) y Smithsonian National Air and Space Museum (ficha del módulo *Endeavour*).
 - **Fuentes secundarias de contraste:** Wikipedia (EN/ES), informe de misión y cronología de Orloff y Harland.
 - **Discrepancias resueltas:** Se consignaron cuatro actividades extravehiculares en superficie (incluida la observación desde la escotilla superior), la distancia oficial de `27,9 km` frente al redondeo a `28 km`, la masa terrestre de `210 kg` frente a los `35 kg` equivalentes en gravedad lunar y la distinción entre el estreno del vehículo (31 de julio) y el amerizaje (7 de agosto).

@@ -66,7 +66,7 @@ El Phantom II era entonces una novedad radical: un caza embarcado grande y pesad
 - **27 de mayo de 1958:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/27/primer-vuelo-prototipo-yf4h1-phantom-ii.html" style="color: #315fea; text-decoration: none;">vuelo inaugural del prototipo YF4H-1 Phantom II</a>, el aparato que protagonizaría toda la campaña de récords.
 - **6 de diciembre de 1959:** operación *Top Flight*. El Comandante Lawrence E. Flint lleva un YF4H-1 a 30.040 m en ascenso balístico.
 - **1960:** el Phantom establece marcas de velocidad en circuitos cerrados de 500 y 100 km.
-- **24 de mayo de 1961:** operación *LANA*. Los Tenientes Richard Gordon —futuro astronauta del Apolo XII— y Bobbie Long cruzan Estados Unidos de costa a costa en 2 h 47 min y ganan el Trofeo Bendix.
+- **24 de mayo de 1961:** operación *LANA*. Los Tenientes Richard Gordon —<a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/11/24/apolo-12-regreso-television-color-lunar.html" style="color: #315fea; text-decoration: none;">futuro astronauta del Apolo XII</a>— y Bobbie Long cruzan Estados Unidos de costa a costa en 2 h 47 min y ganan el Trofeo Bendix.
 - **18 de mayo de 1961:** primer intento de Sageburner. El F4H-1F Bu. No. 145316 se desintegra en vuelo al fallar el amortiguador de cabeceo. Mueren el Comandante Jack L. Felsman y el Alférez Raymond M. Hite.
 - **Verano de 1961:** se rediseña y simplifica el sistema de control de cabeceo. Hardisty valida los cambios en un simulador de oscilaciones inducidas por el piloto antes de autorizar el segundo intento.
 - **28 de agosto de 1961:** al amanecer, el Bu. No. 145307 cruza dos veces el pasillo de tres kilómetros a menos de 38 metros del suelo. Récord mundial: 1.452,777 km/h.
@@ -123,7 +123,7 @@ El avión del récord, el Bu. No. 145307, fue entregado al Museo Nacional del Ai
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 12:00:00 CST
+- **Timestamp de verificación:** 2026-11-18 11:21:07 CST
 - **Fuentes primarias/institucionales consultadas:** Fédération Aéronautique Internationale (expediente `8516`), Smithsonian National Air and Space Museum (`A19690213000`) y U.S. Navy (`330-PSA-182-61`).
 - **Fuentes secundarias de contraste:** This Day in Aviation (`28 August 1961` y `18 May 1961`), Aviation Safety Network (`153104`) y Wikipedia (`F-4 Phantom II`).
 - **Discrepancias resueltas:** Se adopta la velocidad homologada por la FAI (1.452,777 km/h = 902,714 mph), se precisa la colindancia de White Sands con Holloman AFB y se deslinda la designación original `F4H-1F` (1961) de su posterior renombramiento a `F-4A` (1962).

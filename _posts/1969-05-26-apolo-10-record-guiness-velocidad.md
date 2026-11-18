@@ -54,6 +54,8 @@ El año 1969 fue el clímax de la carrera espacial entre Estados Unidos y la Uni
 
 Apolo 10 fue la primera misión en volar el conjunto completo de la nave espacial Apolo (módulo de mando, servicio y lunar) en el entorno lunar. El módulo lunar "Snoopy" descendió hasta 14,4 kilómetros (7,8 millas náuticas) de la superficie lunar, el punto en el que comenzaría el descenso motorizado en una misión de alunizaje. La maniobra de retorno a la Tierra (Transearth Injection) requirió encender el motor del módulo de servicio en la cara oculta de la Luna para impulsar la nave de vuelta a casa, alcanzando velocidades sin precedentes debido a la aceleración gravitacional lunar.
 
+El módulo de mando llevaba una cámara Westinghouse que estrenó la televisión en color desde el espacio. La NASA adaptó esa misma unidad para <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/11/24/apolo-12-regreso-television-color-lunar.html" style="color: #315fea; text-decoration: none;">la emisión en color del Apolo 12 desde el suelo lunar</a>.
+
 ### Entorno cultural
 
 Los astronautas de Apolo 10 se convirtieron en celebridades internacionales. Stafford, Young y Cernan eran veteranos de Gemini (Stafford había volado en Gemini 6A y Gemini 9; Young en Gemini 3 y Gemini 10; Cernan en Gemini 9). Todos ellos fueron pilotos de pruebas con formación militar. El uso de los callsigns "Charlie Brown" y "Snoopy" creó un vínculo especial con el público, haciendo que la misión fuera más accesible y memorable. El personaje Snoopy se convirtió en una mascota no oficial de la NASA y, desde entonces, la agencia utiliza un "Silver Snoopy Award" para reconocer logros excepcionales de sus empleados y contratistas.
@@ -140,7 +142,7 @@ El récord de velocidad de Apolo 10 permanece como una referencia inigualada den
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 16:12:00 CST  
+- **Timestamp de verificación:** 2026-11-18 11:21:07 CST  
 - **Fuentes primarias/institucionales consultadas:** Guinness World Records, NASA (Apollo 50th, Press Kit), Wikipedia (múltiples archivos), Lunar and Planetary Institute, AF.mil
 - **Discrepancias resueltas:** Confirmación de la cifra oficial de velocidad (39.897 km/h) frente a variantes menores. Verificación de la fecha exacta del récord (26 de mayo de 1969) durante la fase de retorno. Aclaración de la discrepancia de 28.547 mph.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y Guinness World Records coinciden en los datos fundamentales)
