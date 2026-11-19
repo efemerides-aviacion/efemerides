@@ -21,6 +21,7 @@ image: 1971-08-04-primera-persona-sobrevolar-polo-norte-avion-ligero.webp
 <p>El momento decisivo se había producido el 28 de junio, cuando su bimotor Piper Aztec cruzó el Polo Norte geográfico y la convirtió en la primera persona, con independencia de su sexo, en sobrevolar ese punto a bordo de un avión ligero. Durante todo el trayecto transportó equipamiento de la NASA que retransmitía su posición a un satélite en órbita polar, en uno de los primeros ensayos de seguimiento de una plataforma móvil desde el espacio.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 
 - **Fecha de culminación:** 4 de agosto de 1971, con la llegada a Londres-Heathrow.
@@ -37,6 +38,7 @@ image: 1971-08-04-primera-persona-sobrevolar-polo-norte-avion-ligero.webp
 - **Documento conservado:** su cuaderno de bitácora, que abarca del 1 de mayo de 1971 al 2 de mayo de 1972 e incluye el vuelo polar, se conserva en los archivos del National Air and Space Museum con la signatura NASM.XXXX.0863. Presenta daños por agua y parte de sus anotaciones resulta ilegible.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 
 La travesía de 1971 se sitúa en el punto en que la aviación general dejó de conformarse con repetir rutas conocidas y empezó a disputar terrenos reservados a la aviación militar y comercial.
@@ -54,12 +56,13 @@ El *Mythre* era un bimotor ligero de serie, de estructura enteramente metálica 
 El vuelo coincidió con el auge del programa espacial estadounidense y con el interés por demostrar aplicaciones prácticas de los satélites. La travesía de Scott ofrecía un banco de pruebas idóneo: una plataforma móvil, aislada, recorriendo latitudes extremas. La colaboración con la NASA situó una aeronave privada en el centro de un experimento de seguimiento por satélite que anticipaba funciones hoy triviales, pero entonces inéditas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 La secuencia siguiente detalla las etapas principales de la travesía y su encuadre en la trayectoria de la aviadora.
 
 - **1958:** Sheila Scott aprende a volar y realiza su primer vuelo en solitario en el aeródromo de Thruxton tras nueve meses de instrucción.
-- **18 de mayo a 20 de junio de 1966:** completa su primera vuelta al mundo en solitario con el Piper Comanche 260B G-ATOY *Myth Too*, monomotor, en 34 días y unas 31.000 millas.
+- **18 de mayo a 20 de junio de 1966:** completa su primera vuelta al mundo en solitario con el Piper Comanche 260B G-ATOY *Myth Too*, monomotor, en 34 días y unas 31.000 millas. Dos años antes, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1925/11/22/nacimiento-jerrie-mock.html" style="color: #315fea; text-decoration: none;">Jerrie Mock había completado la primera circunnavegación aérea femenina en solitario</a>.
 - **1969-1970:** participa en la carrera aérea Londres-Sídney y encadena a continuación su segunda circunnavegación.
 - **3 de marzo de 1971:** se matricula en el Reino Unido el Piper Aztec D G-AYTO, que recibirá el nombre de *Mythre*.
 - **11 de junio de 1971:** despega de Nairobi e inicia el tramo ecuador-polo-ecuador con escalas en Jartum, Bengasi y Malta.
@@ -72,6 +75,7 @@ La secuencia siguiente detalla las etapas principales de la travesía y su encua
 - **Junio de 1972:** el *Mythre*, enviado a la fábrica de Piper en Lock Haven para su revisión, queda destruido por la inundación provocada por la tormenta tropical Agnes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 
 El resultado inmediato fue una cosecha de marcas homologadas que consolidó a Scott como la aviadora británica más laureada de su generación.
@@ -83,6 +87,7 @@ El experimento de la NASA aportó un resultado de alcance distinto. El sistema i
 En el plano personal, el balance fue más áspero. La travesía dejó a Scott endeudada por una cantidad considerable, circunstancia que ella misma hizo pública poco después de aterrizar y que ilustra la precariedad económica en que se movían los vuelos de récord ajenos al patrocinio institucional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Legado
 
 La figura de Sheila Scott ocupa un lugar singular entre las aviadoras del siglo XX: no fue una pionera de los primeros tiempos, sino alguien que demostró que aún quedaban primeras veces cuando ya casi todo parecía hecho.
@@ -94,6 +99,7 @@ El aparato de aquel vuelo no se conserva: pereció en la inundación de la fábr
 Su aportación de fondo, sin embargo, no está en las vitrinas. Aquella travesía demostró que una aeronave ligera de serie, pilotada por una sola persona, podía completar un recorrido polar que hasta entonces se consideraba dominio exclusivo de grandes aparatos con tripulaciones numerosas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 
 <div class="references">
@@ -115,8 +121,9 @@ Su aportación de fondo, sin embargo, no está en las vitrinas. Aquella travesí
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-07 16:32:00 CST
+- **Timestamp de verificación:** 2026-11-19 06:26:45 CST
 - **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (bitácora NASM.XXXX.0863), NASA (ficha de la imagen del vuelo y experimento IRLS con el satélite Nimbus) y registros FAI.
 - **Fuentes secundarias de contraste:** *This Day in Aviation*, Wikipedia (EN), *BBC News*.
 - **Discrepancias resueltas:** Se precisó que el Piper PA-23-250 Aztec D *Mythre* (`G-AYTO`) es bimotor («avión ligero») frente al error de varias fuentes divulgativas y pies de foto que lo llaman monomotor; se distinguió el sobrevuelo polar (28 de junio) de la culminación en Londres (4 de agosto de 1971) y se verificó que fue la primera persona en lograrlo.
