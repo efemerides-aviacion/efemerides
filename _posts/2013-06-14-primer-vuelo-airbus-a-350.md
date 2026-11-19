@@ -66,7 +66,7 @@ El primer vuelo del A350 se produjo tres días antes del Salón Aeronáutico de 
 - **14 de junio de 2013, 10:00 hora local:** el prototipo MSN1 (F-WXWB) se eleva desde la pista 32L de Blagnac con un peso de 221 toneladas. Durante 4 horas y 5 minutos sobre el suroeste de Francia y los Pirineos, la tripulación recoge el tren de aterrizaje, asciende hasta 30.000 pies de altitud, explora la envolvente inicial de velocidades hasta Mach 0,80 y verifica los modos de mando electrónico *fly-by-wire*, los sistemas hidráulicos y eléctricos y la respuesta de los dos motores Rolls-Royce Trent XWB.
 - **14 de junio de 2013, 14:05 hora local:** tras una pasada a baja altura sobre Blagnac, el MSN1 toma tierra sin incidencias. Al descender del avión, el comandante de pruebas Peter Chandler resumió la madurez del prototipo: «Después de los primeros minutos no parecía que estuviéramos haciendo un vuelo inaugural, sino volando un avión al final de su campaña de ensayos, de tan relajado y predecible que resultaba».
 - **2013–septiembre de 2014:** campaña de certificación con cinco aeronaves de ensayo que completan más de 2.600 horas de vuelo en catorce meses hasta obtener el certificado de tipo de EASA y de la FAA.
-- **15 de enero de 2015:** entrada en servicio comercial del A350-900 con Qatar Airways en la ruta Doha–Fráncfort.
+- **15 de enero de 2015:** entrada en servicio comercial del A350-900 con <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1993/11/30/fundacion-qatar-airways.html" style="color: #315fea; text-decoration: none;">Qatar Airways</a> en la ruta Doha–Fráncfort.
 - **24 de noviembre de 2016 – febrero de 2018:** primer vuelo y entrada en servicio comercial de la variante alargada de mayor capacidad **A350-1000**.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -113,7 +113,7 @@ El programa A350 demostró que Airbus podía desarrollar un avión de hoja limpi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
+- **Timestamp de verificación:** 2026-11-19 08:42:48 CST  
 - **Fuentes primarias/institucionales consultadas:** FlightGlobal, YouTube (Airbus oficial), Simple Flying, Avia Pro, Wikipedia
 - **Discrepancias resueltas:** La hora de despegue (10:00 a.m.) y aterrizaje (2:05 p.m.) están confirmadas por fuentes oficiales. Todos los enlaces han sido verificados y funcionan correctamente.
 - **Nivel de confianza:** Alto

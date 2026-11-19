@@ -65,7 +65,7 @@ La articulación de dos culturas corporativas y regulatorias distintas —la chi
 - **22 de junio de 2012:** concluida con éxito la oferta pública de canje de acciones, se perfecciona legalmente la fusión y comienza a cotizar **LATAM Airlines Group S.A.** con Enrique Cueto como consejero delegado (CEO) y Mauricio Rolim Amaro como presidente del directorio.
 - **31 de marzo de 2014:** TAM abandona *Star Alliance* y se incorpora a *oneworld*, unificando la pertenencia de todas las filiales del grupo en una sola alianza global.
 - **6 de agosto de 2015 – 5 de mayo de 2016:** presentación de la marca e identidad visual unificada **LATAM** y primeros vuelos comerciales bajo la nueva librea entre São Paulo, Santiago y Ginebra.
-- **Diciembre de 2016:** Qatar Airways suscribe una ampliación de capital por el 10 % de la compañía.
+- **Diciembre de 2016:** <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1993/11/30/fundacion-qatar-airways.html" style="color: #315fea; text-decoration: none;">Qatar Airways</a> suscribe una ampliación de capital por el 10 % de la compañía.
 - **Mayo de 2020 – noviembre de 2022:** a raíz del cierre de fronteras por la pandemia de COVID-19, el grupo se reorganiza financieramente bajo el Capítulo 11 en Nueva York, culmina su salida del proceso reduciendo su deuda en un 35 % y pone en marcha su acuerdo de operación conjunta (*Joint Venture*) con Delta Air Lines.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -112,7 +112,7 @@ El 22 de junio de 2012 marcó el inicio de una nueva era para la aviación en Am
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:53:31 CST
+- **Timestamp de verificación:** 2026-11-19 08:42:48 CST
 - **Fuentes primarias/institucionales consultadas:** LATAM Airlines Group (página oficial), El País, Arecoa
 - **Discrepancias resueltas:** Algunas fuentes mencionan el 22 de junio como la fecha en que se completó la transacción, mientras que otras se refieren al proceso de fusión iniciado en 2011. Se ha confirmado que el 22 de junio de 2012 es la fecha de finalización de la fusión y creación del holding.
 - **Nivel de confianza:** Alto
