@@ -70,7 +70,7 @@ Dentro de Lockheed, el proyecto nació en contra del criterio de su ingeniero m�
 
 - **Un patrón que no ha necesitado sustituto.** La configuración fijada en 1954 —ala alta, cuatro turbohélices, fuselaje de sección constante, rampa trasera y tren en carenados laterales para dejar libre la bodega— se convirtió en la norma internacional del transporte táctico y sigue siendo reconocible en diseños posteriores de otros fabricantes.
 - **Capacidad de carga.** El C-130A de serie transportaba 35.000 libras (15.876 kilogramos) en una bodega de 3.708 pies cúbicos (105 metros cúbicos), o bien 72 soldados o 64 paracaidistas.
-- **Una familia sin fin.** Del diseño original derivaron más de cuarenta variantes: cisterna, mando y control, reconocimiento meteorológico, búsqueda y rescate, guerra electrónica, lanzamiento de drones, apoyo antártico con esquís y las versiones artilladas AC-130.
+- **Una familia sin fin.** Del diseño original derivaron más de cuarenta variantes: cisterna, mando y control, reconocimiento meteorológico, búsqueda y rescate, guerra electrónica, lanzamiento de drones, apoyo antártico con esquís y las versiones artilladas AC-130. Entre las variantes cisterna estuvo <a href="https://efemerides-aviacion.github.io/efemerides/evento/1963/11/22/pruebas-kc-130f-uss-forrestal.html" style="color: #315fea; text-decoration: none;">el KC-130F que la Marina probó a bordo del USS <em>Forrestal</em> en 1963</a>.
 - **Difusión mundial.** En 2004, al cumplirse cincuenta años del primer vuelo, Lockheed Martin había entregado más de 2.260 Hercules a 60 países, y 67 naciones operaban el tipo contando las de segunda mano.
 - **Reconocimiento institucional.** Ese mismo año, la Asamblea General de Georgia aprobó una resolución que declaraba 2004 «Año del Hercules» y dejaba constancia de que el C-130J había batido 54 récords mundiales de aviación.
 
@@ -107,7 +107,7 @@ Del vuelo inaugural quedó también una nota amarga. Stanley Beltz, el piloto qu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-07 08:35:00 CST  
+- **Timestamp de verificación:** 2026-11-19 07:31:48 CST  
 - **Fuentes primarias/institucionales consultadas:** Lockheed Martin (Code One Magazine, nota de prensa del cincuentenario y ficha técnica del C-130)  
 - **Fuentes de contraste:** This Day in Aviation, Vintage Aviation News  
 - **Discrepancias resueltas:** se precisa según Lockheed Martin que el YC-130 53-3397 fue el segundo ejemplar fabricado pero el primero en volar (23 de agosto de 1954) y se distingue la función de Dick Stanton (ingeniero de vuelo) y Jack Real (ingeniero de ensayos).  
