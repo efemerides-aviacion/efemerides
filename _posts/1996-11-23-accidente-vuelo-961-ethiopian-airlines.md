@@ -92,12 +92,10 @@ El vuelo 961 es el amerizaje de un avión de fuselaje ancho con mayor número de
 <div class="references">
   <ul>
     <li><a href="https://www.fss.aero/accident-reports/dvdfiles/ET/1996-11-23-ET.pdf" style="color: #315fea; text-decoration: none;">Autoridad de Aviación Civil de Etiopía – Informe final del accidente del B767-260ER ET-AIZ, informe AI-3/96 (4 de mayo de 1998)</a></li>
-    <li><a href="https://www.faa.gov/ats/aat/ifim/ifimetai.htm" style="color: #315fea; text-decoration: none;">FAA – International Flight Information Manual: Ethiopian Civil Aviation Authority</a></li>
     <li><a href="https://skybrary.aero/accidents-and-incidents/boeing-767-260er-comoros-islands-23-nov-1996" style="color: #315fea; text-decoration: none;">SKYbrary (Eurocontrol) – Boeing 767-260ER, Comoros Islands, 23 November 1996</a></li>
     <li><a href="https://web.archive.org/web/20130521071136/http://flightsafety.org/aviation-awards/fsf-professionalism-award-flight-safety" style="color: #315fea; text-decoration: none;">Flight Safety Foundation – Professionalism in Flight Safety Award, relación de galardonados (1997)</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_961" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Ethiopian Airlines Flight 961</a></li>
     <li><a href="https://es.wikipedia.org/wiki/Vuelo_961_de_Ethiopian_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo 961 de Ethiopian Airlines</a></li>
-    <li><a href="https://simpleflying.com/ethiopian-airlines-flight-961-cabin-crew-perspective/" style="color: #315fea; text-decoration: none;">Simple Flying – Ethiopian Airlines Flight 961: a cabin crew perspective</a></li>
   </ul>
 </div>
 
@@ -111,8 +109,8 @@ El vuelo 961 es el amerizaje de un avión de fuselaje ancho con mayor número de
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-11-20 06:04:56 CST
-- **Fuentes primarias/institucionales consultadas:** Informe final AI-3/96 de la Autoridad de Aviación Civil de Etiopía (texto íntegro); SKYbrary; Flight Safety Foundation
-- **Fuentes secundarias de contraste:** Wikipedia (EN/ES); Simple Flying; Aviation Safety Network (ficha de la aeronave)
+- **Fuentes primarias/institucionales consultadas:** Informe final AI-3/96 de la Autoridad de Aviación Civil de Etiopía (texto íntegro); SKYbrary; Flight Safety Foundation (archivo)
+- **Fuentes secundarias de contraste:** Wikipedia (EN/ES)
 - **Discrepancias resueltas:** Algunas crónicas cifran las víctimas en 128 y atribuyen la mayoría de las muertes al inflado de los chalecos dentro de la cabina; el informe oficial fija 125 fallecidos y describe el traumatismo del impacto como causa predominante, con ahogamientos añadidos. Se sigue el expediente y se acota la versión periodística en la nota aclaratoria.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
