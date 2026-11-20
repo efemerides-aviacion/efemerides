@@ -68,7 +68,7 @@ El desenlace de las 24 horas siguientes en la pista de Luqa quedó registrado co
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Consecuencias e Impacto
-- **Secuestro aéreo más mortífero antes de 2001:** Con 60 muertos entre los 98 ocupantes (una tasa de letalidad superior al 60 % de los rehenes presentes en el asalto), el suceso de Luqa constituyó la operación de rescate aeroportuario más sangrienta de la aviación moderna.
+- **Secuestro aéreo más mortífero antes de 2001, hasta el <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/1996/11/23/accidente-vuelo-961-ethiopian-airlines.html" style="color: #315fea; text-decoration: none;">vuelo 961 de Ethiopian Airlines, con 125 muertos</a>:** Con 60 muertos entre los 98 ocupantes (una tasa de letalidad superior al 60 % de los rehenes presentes en el asalto), el suceso de Luqa constituyó la operación de rescate aeroportuario más sangrienta de la aviación moderna.
 - **Revisión integral de las tácticas de asalto a aeronaves:** Las unidades especiales de todo el mundo abandonaron el uso de cargas explosivas no calibradas en bodegas y techos de cabina (donde discurren las conducciones de oxígeno químico y el aislamiento inflamable) y reforzaron el entrenamiento en maquetas reales de fuselaje.
 - **Endurecimiento de la seguridad en Atenas-Ellinikon y jurisdicción extraterritorial:** Tras los casos sucesivos de los vuelos TWA 847 y EgyptAir 648, la OACI y las aerolíneas internacionales exigieron una remodelación completa de los controles de embarque en Atenas, mientras que Estados Unidos aplicó su legislación antiterrorista extraterritorial para juzgar y encarcelar de por vida a Rezaq en 1996.
 
