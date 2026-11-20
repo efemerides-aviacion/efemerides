@@ -1,6 +1,7 @@
 # Manual de Estilo de Efemérides
 > Edición consolidada: 2026-11-20  
-> Versión: v1.27
+> Versión: v1.27  
+> Erratas: 2026-11-20, la cifra del censo (§ 38) distingue los 759 posts del corpus de los 760 `.md` de `_posts/`
 
 ---
 
@@ -1102,7 +1103,7 @@ Alineados en la misma fecha: Plantilla Maestra v2.27, Instrucciones de Formato v
   varias aperturas de sesión: la norma no constaba en el Manual y el linter no la comprobaba,
   que es la causa de que reaparezca.
 - **Censo al adoptar la norma** — criterio: comprobación 17 del linter ejecutada post a post
-  sobre los 759 `.md` de `_posts/` en `HEAD 111105ceb117801e4eeb0778aa6849349025ba55`:
+  sobre los 759 `.md` del corpus de verificación en `HEAD 111105ceb117801e4eeb0778aa6849349025ba55`:
   **50 posts con aviso y 56 ocurrencias** (6,6 % del corpus).
 - **Alcance: no retroactivo**, como en las normas léxicas anteriores. Rige para las altas y
   correcciones desde el 20-11-2026; los 50 posts censados conservan su redacción y se ajustan
@@ -1132,9 +1133,10 @@ Instrucciones de Procesar v2.19: sin novedad.
   comparación, pareja o configuración parcial, suma de cifras, motores reutilizados de otra
   aeronave, y adjetivo de recuento aplicado a otro sujeto).
 - **Censo al adoptar la norma** — criterio: comprobación 18 ejecutada post a post sobre los 759
-  `.md` del HEAD `5ca32099`: **0 avisos**. Los seis falsos positivos que aparecieron en las
+  `.md` del corpus de verificación en el HEAD `5ca32099`, más el alta del día ejecutada por
+  separado —**760** en `_posts/`—: **0 avisos** en ambos casos. Los seis falsos positivos que aparecieron en las
   pasadas sucesivas —B-29 de 1948, El Al 1992, Boeing 777 de 1994, B-36 de 1946, 737 de 1967 y
   Stratolaunch de 2019— se resolvieron ampliando la tabla y las abstenciones, no excluyendo posts.
-- **Regresión:** 0 cambios de código de salida; los 759 posts conservan su veredicto y el único
+- **Regresión:** 0 cambios de código de salida; los 759 posts del corpus conservan su veredicto y el único
   `FALLECE` del corpus (1886-11-14) ya fallaba con el linter anterior.
 

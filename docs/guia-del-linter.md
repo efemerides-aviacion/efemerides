@@ -140,8 +140,9 @@ de Boeing 747*); y cuando un adjetivo de recuento se aplica a otro sujeto de la 
 hexamotor hacía parecer diminuto al bombardero B-29*). También neutraliza antes de medir los
 recuentos de aparatos (*tres cuatrimotores Boeing B-29*), que no son recuentos de motores.
 
-El aviso **no computa como fallo**. Fotografía del corpus en el HEAD `5ca32099` (2026-11-20; **759
-posts**): **0 avisos**. Las seis pasadas de calibración dejaron falsos positivos sucesivos —B-29 de
+El aviso **no computa como fallo**. Fotografía en el HEAD `5ca32099` (2026-11-20): **0 avisos**
+sobre los **759** posts del corpus de verificación y **0** también sobre el alta del día, ejecutada
+por separado —**760** `.md` en `_posts/`—. Las seis pasadas de calibración dejaron falsos positivos sucesivos —B-29 de
 1948, El Al 1992, Boeing 777 de 1994, B-36 de 1946, 737 de 1967 y Stratolaunch de 2019— que se
 resolvieron ampliando la tabla y las abstenciones, sin excluir ningún post. La regresión completa
 deja **0 cambios de código de salida**: el único `FALLECE` del corpus (1886-11-14) ya fallaba con
