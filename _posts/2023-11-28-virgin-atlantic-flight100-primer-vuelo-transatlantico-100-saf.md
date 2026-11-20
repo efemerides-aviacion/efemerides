@@ -19,7 +19,7 @@ image: 2023-11-28-virgin-atlantic-flight100-primer-vuelo-transatlantico-100-saf.
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 28 de noviembre de 2023, el vuelo 100 de Virgin Atlantic despegó del aeropuerto londinense de Heathrow hacia el John F. Kennedy de Nueva York con un Boeing 787-9 y cuatro motores Rolls-Royce Trent 1000 alimentados en su totalidad con combustible de aviación sostenible. Era la primera vez que una aerolínea comercial cruzaba el Atlántico sin queroseno fósil.</p>
+<p>El 28 de noviembre de 2023, el vuelo 100 de Virgin Atlantic despegó del aeropuerto londinense de Heathrow hacia el John F. Kennedy de Nueva York con un Boeing 787-9, un bimotor cuyos dos Rolls-Royce Trent 1000 se alimentaron en su totalidad con combustible de aviación sostenible. Era la primera vez que una aerolínea comercial cruzaba el Atlántico sin queroseno fósil.</p>
 <p>La operación no exigió modificar motores, célula ni infraestructura de repostaje, pero sí un permiso especial de la autoridad británica, porque la norma internacional solo admite mezclas de hasta el 50 % de SAF. A bordo no viajaron pasajeros de pago, y los resultados publicados después atribuyeron al vuelo un ahorro de 95 toneladas de dióxido de carbono en el ciclo de vida del combustible.</p>
 </div>
 
@@ -29,7 +29,7 @@ image: 2023-11-28-virgin-atlantic-flight100-primer-vuelo-transatlantico-100-saf.
 - **Fecha, hora y lugar de salida:** 28 de noviembre de 2023; despegue a las 11:30 hora local de Londres
 - **Lugar:** aeropuerto de Heathrow (LHR), Londres, y aeropuerto John F. Kennedy (JFK), Nueva York
 - **Aeronave:** Boeing 787-9 Dreamliner, matrícula G-VDIA, número de serie 37975, entregado en diciembre de 2015
-- **Motores:** cuatro Rolls-Royce Trent 1000, sin modificación alguna para el vuelo
+- **Motores:** dos Rolls-Royce Trent 1000, uno en cada semiplano, sin modificación alguna para el vuelo
 - **Combustible:** SAF al 100 % en todos los depósitos: 88 % HEFA (*Hydroprocessed Esters and Fatty Acids*, ésteres y ácidos grasos hidroprocesados) y 12 % SAK (*Synthetic Aromatic Kerosene*, queroseno aromático sintético)
 - **Materias primas:** grasas residuales para el HEFA y azúcares vegetales para el SAK
 - **Proveedores:** Air bp y Virent, filial de Marathon Petroleum
@@ -107,9 +107,9 @@ El vuelo 100 convirtió una demostración de laboratorio en una operación comer
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-11-20 09:12:18 CST
+- **Timestamp de verificación:** 2026-11-20 09:54:35 CST
 - **Fuentes primarias/institucionales consultadas:** Virgin Atlantic; Autoridad de Aviación Civil del Reino Unido; Gobierno del Reino Unido (mandato de SAF)
 - **Fuentes secundarias de contraste:** FlightGlobal; GE Aerospace; Wikimedia Commons
-- **Discrepancias resueltas:** Algunas fuentes describen el vuelo como el primero de un avión de fuselaje ancho con SAF puro y otras como el primero de una aerolínea comercial; se adopta la formulación del permiso y del comunicado oficiales, referida a la travesía atlántica completa sin queroseno.
+- **Discrepancias resueltas:** Algunas fuentes describen el vuelo como el primero de un avión de fuselaje ancho con SAF puro y otras como el primero de una aerolínea comercial; se adopta la formulación del permiso y del comunicado oficiales. El recuento de motores se ajusta a la ficha del aparato —el 787-9 es bimotor, con dos Trent 1000— y no al del A380 que sirve de antecedente en el Legado.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
