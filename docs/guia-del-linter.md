@@ -95,6 +95,58 @@ los `697` posts devuelven código `0` y ningún `FALLECE` antes y después del c
 de partida confirma el motivo de la norma: el pie mediano del corpus duplica el máximo que
 ahora se recomienda.
 
+Desde el 2026-11-20 el validador emite la **comprobación 17**, un `[AVISO]` léxico cuando
+el cuerpo del post emplea el verbo *tomar* —o el sustantivo *toma*— para el contacto de la
+aeronave con la superficie (Manual de Estilo v1.27, § 4.2 y § 13; enmienda del editor del
+20-11-2026). Lo correcto es **aterrizar** en tierra, **amerizar** en el agua y **apontar** en
+la cubierta de un buque, con sus sustantivos *aterrizaje*, *amerizaje* y *apontaje*; en la
+Antártida se conservan *anevizaje* y *anevizar*. El patrón cubre las formas del verbo
+(*toma, toman, tomaba, tomó, tomaron, tomar, tomando*) seguidas de *tierra*, de preposición
+más artículo más sustantivo de superficie (*aeropuerto, aeródromo, pista, base, campo,
+cubierta, portaaviones, plataforma, agua, mar, río, ría*), o de la combinación *pista de
+aterrizaje*.
+
+Quedan exentas las locuciones figuradas y los usos no aeronáuticos (*tomar el mando, tomar
+nota, tomar fotografías, tomar parte, toma de decisiones, toma de aire, toma de fuerza,
+tomar altura*), que el patrón descarta antes de contar. El aviso **no computa como fallo**,
+porque la voz es corriente y solo el contexto decide: es el mismo criterio de lectura humana
+que el aviso de «adolecer», y no el binario de «borrador». Las exenciones puntuales se anotan
+en `tools/efemerides-rangos-excepciones.txt` con el fragmento `verbo-contacto`.
+
+La norma **no es retroactiva**. Fotografía del corpus en el HEAD
+`111105ceb117801e4eeb0778aa6849349025ba55` (2026-11-20; **759 posts**): **50 posts con
+aviso y 56 ocurrencias** (6,6 % del corpus); los 709 restantes pasan. La regresión completa
+con la comprobación nueva deja **0 cambios de código de salida** y **0 diferencias ajenas a
+ella**: los posts siguen devolviendo código `0` y ningún `FALLECE` antes y después del
+cambio, porque el aviso se suma a la línea de `[OK]`/`[AVISO]` sin tocar el veredicto.
+
+Desde el 2026-11-20 el validador emite también la **comprobación 18**, un `[AVISO]` de coherencia
+entre el modelo de aeronave que cita el texto y el número de motores que le atribuye (Manual de
+Estilo v1.27, § 4.10 y § 13). La auditoría recorre el cuerpo por oraciones —corte en punto, punto y
+coma y dos puntos—, descuenta etiquetas y URL, y trabaja sobre una **tabla mínima de modelos
+unívocos**: bimotores (787, 777, 767, 757, 737, 727, A320, A330, A350, DC-3), cuatrimotores (747,
+707, 377, DC-4, DC-6, DC-8, B-17, B-29, RJ85/BAe 146, Concorde), trimotores (MD-11, L-1011) y
+hexamotores (B-36, B-47, Stratolaunch, An-225); el Hughes H-4 figura con ocho.
+
+Las cifras se reconocen en dos formas: el adjetivo (*bimotor, trimotor, cuatrimotor, hexamotor*) y
+el numeral seguido del sustantivo (*dos motores, cuatro turborreactores, seis turbohélices*).
+
+La comprobación **se abstiene** —para no marcar texto correcto— en seis supuestos: cuando la
+oración nombra dos modelos distintos; cuando el modelo aparece como término de comparación (*al
+B-29*, *que el 747*); cuando la cifra describe una pareja o una configuración y no el total (*dos
+motores radiales en configuración propulsora*); cuando la oración suma motores (*se agregaron
+cuatro turborreactores*); cuando los motores proceden de otra aeronave (*seis motores recuperados
+de Boeing 747*); y cuando un adjetivo de recuento se aplica a otro sujeto de la frase (*el nuevo
+hexamotor hacía parecer diminuto al bombardero B-29*). También neutraliza antes de medir los
+recuentos de aparatos (*tres cuatrimotores Boeing B-29*), que no son recuentos de motores.
+
+El aviso **no computa como fallo**. Fotografía del corpus en el HEAD `5ca32099` (2026-11-20; **759
+posts**): **0 avisos**. Las seis pasadas de calibración dejaron falsos positivos sucesivos —B-29 de
+1948, El Al 1992, Boeing 777 de 1994, B-36 de 1946, 737 de 1967 y Stratolaunch de 2019— que se
+resolvieron ampliando la tabla y las abstenciones, sin excluir ningún post. La regresión completa
+deja **0 cambios de código de salida**: el único `FALLECE` del corpus (1886-11-14) ya fallaba con
+el linter anterior.
+
 ## Normas de mantenimiento
 
 1. Todo cambio del script debe contrastarse con los seis rectores vigentes.

@@ -1,6 +1,6 @@
 # Protocolo de continuidad entre sesiones
 
-> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos (auditoría [AVISO] 12), el 21 de octubre de 2026 para registrar Plantilla Maestra v2.24, Formato v2.23, Procesar v2.18 y Manual de Estilo v1.21 sobre el reparto del trabajo con la imagen y la convención de entrega en `rectores/`, y el 22 de octubre de 2026 para registrar Plantilla Maestra v2.25, Formato v2.24 y Manual de Estilo v1.22 (Procesar v2.18 sin novedad), la auditoría [AVISO] 13 sobre títulos de realeza y nobleza en minúscula (D1-c), el paso a RECTOR del reparto de la imagen en § 5 y la ratificación de `en-proceso/` en § 7, y actualizada el 14 de noviembre de 2026 para registrar Plantilla Maestra v2.26, Formato v2.25 y Manual de Estilo v1.23 (Procesar v2.18 sin novedad) tras la fijación de la regla de fecha canónica y doble cómputo calendárico, que hasta hoy no constaba en ninguno de los once documentos de `docs/` y `tools/`, y actualizada de nuevo el 14 de noviembre de 2026 para registrar Instrucciones de Procesar v2.19 y Manual de Estilo v1.24 tras la aprobación de la regla permanente del barrido obligatorio de enlaces recíprocos, y actualizada el 15 de noviembre de 2026 para registrar Manual de Estilo v1.25 tras la aprobación de la norma del léxico de las justas aeronáuticas (§ 4.9), y actualizada el 16 de noviembre de 2026 para registrar Plantilla Maestra v2.27, Instrucciones de Formato v2.26 y Manual de Estilo v1.26 (Procesar v2.19 sin novedad) tras la enmienda presidencial de D1-a y la comprobación [AVISO] 16 de `tools/efemerides-linter.sh` junto con la quinta excepción de `tools/efemerides-rangos-excepciones.txt` y `docs/excepciones-rangos-y-tratamientos.md`. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
+> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos (auditoría [AVISO] 12), el 21 de octubre de 2026 para registrar Plantilla Maestra v2.24, Formato v2.23, Procesar v2.18 y Manual de Estilo v1.21 sobre el reparto del trabajo con la imagen y la convención de entrega en `rectores/`, y el 22 de octubre de 2026 para registrar Plantilla Maestra v2.25, Formato v2.24 y Manual de Estilo v1.22 (Procesar v2.18 sin novedad), la auditoría [AVISO] 13 sobre títulos de realeza y nobleza en minúscula (D1-c), el paso a RECTOR del reparto de la imagen en § 5 y la ratificación de `en-proceso/` en § 7, y actualizada el 14 de noviembre de 2026 para registrar Plantilla Maestra v2.26, Formato v2.25 y Manual de Estilo v1.23 (Procesar v2.18 sin novedad) tras la fijación de la regla de fecha canónica y doble cómputo calendárico, que hasta hoy no constaba en ninguno de los once documentos de `docs/` y `tools/`, y actualizada de nuevo el 14 de noviembre de 2026 para registrar Instrucciones de Procesar v2.19 y Manual de Estilo v1.24 tras la aprobación de la regla permanente del barrido obligatorio de enlaces recíprocos, y actualizada el 15 de noviembre de 2026 para registrar Manual de Estilo v1.25 tras la aprobación de la norma del léxico de las justas aeronáuticas (§ 4.9), y actualizada el 16 de noviembre de 2026 para registrar Plantilla Maestra v2.27, Instrucciones de Formato v2.26 y Manual de Estilo v1.26 (Procesar v2.19 sin novedad) tras la enmienda presidencial de D1-a y la comprobación [AVISO] 16 de `tools/efemerides-linter.sh` junto con la quinta excepción de `tools/efemerides-rangos-excepciones.txt` y `docs/excepciones-rangos-y-tratamientos.md`, y actualizada el 20 de noviembre de 2026 para registrar Manual de Estilo v1.27 (Plantilla Maestra v2.27, Formato v2.26 y Procesar v2.19 sin novedad) tras la fijación del léxico del contacto con la superficie y la coherencia entre modelo de aeronave y número de motores, con las comprobaciones [AVISO] 17 y 18 de `tools/efemerides-linter.sh`. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
 
 ## Principio
 
@@ -60,7 +60,7 @@ Debe enumerar nominalmente los seis rectores y sus versiones:
 1. `docs/plantilla-maestra-efemerides-v2.27.md`
 2. `docs/instrucciones-formato-efemerides-v2.26.md`
 3. `docs/instrucciones-procesar-efemerides-v2.19.md`
-4. `docs/manual-estilo-efemerides-v1.26.md`
+4. `docs/manual-estilo-efemerides-v1.27.md`
 5. `docs/anexo-comparacion-tratamientos-y-rangos.md`
 6. `docs/excepciones-rangos-y-tratamientos.md`
 
@@ -177,6 +177,31 @@ Rojas Paúl*, *el Presidente Francisco I. Madero*, *la Presidenta Claudia Sheinb
 minúscula el uso genérico sin nombre propio, *vicepresidente*/*vicepresidenta*,
 *expresidente*/*expresidenta* y la presidencia de empresas o asociaciones civiles (*su presidente
 Hans Thau* en IFATCA). Sin efecto retroactivo sobre cierres comunicados.
+
+#### Léxico del contacto y configuración de motores — RECTOR (decisiones del editor, 20-11-2026)
+
+Incorporado en Manual de Estilo v1.27 y en `tools/efemerides-linter.sh`, con dos normas y sus dos
+comprobaciones:
+
+1. **Léxico del contacto con la superficie** (§ 4.2, viñeta nueva; § 13; § 14; comprobación
+   `[AVISO] 17`): el contacto de la aeronave con la superficie se nombra con el verbo técnico y no
+   con el de uso general —*aterrizar* en tierra, *amerizar* (o *amarizar*) en el agua y *apontar*
+   en la cubierta de un buque—, con sus sustantivos *aterrizaje*, *amerizaje* y *apontaje*; en la
+   Antártida se conservan *anevizaje* y *anevizar*. Se proscriben *toma tierra*, *el avión toma en
+   el aeropuerto*, *toma en la pista* y *toma sobre la cubierta*. La norma anterior solo alcanzaba
+   a *tomar tierra*, de ahí que los demás usos pasaran inadvertidos. Fotografía: **50 posts con
+   aviso y 56 ocurrencias** sobre los 759 del HEAD `111105ceb1`.
+2. **Configuración de motores** (§ 4.10 nueva; § 13; § 14; comprobación `[AVISO] 18`): el recuento
+   de motores atribuido a una aeronave debe coincidir con su configuración. Se documentan los dos
+   errores observados —llamar cuatrimotor a un bimotor por contagio del modelo comparado, y
+   confundir el número de aparatos con el de motores— y tres cautelas de redacción: cifra pegada al
+   modelo, recuento explícito de cada aparato cuando el párrafo los contrasta, y no extender el
+   recuento de una versión a otra del mismo modelo. Origen: el alta 2023-11-28 se publicó con
+   «cuatro motores Rolls-Royce Trent 1000» para un Boeing 787-9, bimotor; detectado por el editor y
+   corregido en el commit `5ca32099`. Fotografía: **0 avisos** sobre los 759 posts.
+
+Ambas normas son **no retroactivas**: los posts censados conservan su redacción y solo se ajustan si
+se revisan por otro motivo o si el editor encarga una tanda.
 
 ### 6. Observaciones sin acción y asuntos reservados al editor
 

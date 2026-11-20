@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ============================================================================
 # efemerides-linter.sh — Validador estructural de posts de efemérides
-# Normas auditadas: Plantilla Maestra v2.27 · Manual de Estilo v1.26 ·
+# Normas auditadas: Plantilla Maestra v2.27 · Manual de Estilo v1.27 ·
 # Instrucciones de Procesar v2.19 · Instrucciones de Formato v2.26 ·
 # anexo y registro de excepciones de rangos/tratamientos.
 # Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
@@ -60,12 +60,19 @@
 #  (regla permanente del barrido obligatorio de enlaces recíprocos; cambio documental:
 #  sin auditorías nuevas, sin cambios de código y con 0 diferencias de veredicto en el corpus).
 #
-# alineado con Plantilla Maestra v2.27 · Manual de Estilo v1.26 · Instrucciones de Formato v2.26
+# alineado con Plantilla Maestra v2.27 · Manual de Estilo v1.27 · Instrucciones de Formato v2.26
 #  el 2026-11-16 (orden del editor: enmienda presidencial de D1-a —«Presidente» y «Presidenta»
 #  como jefes de Estado se escriben con mayúscula inicial ante nombre propio—; se retira
 #  «Presidente» de CIVIL_RE y se añade la comprobación [AVISO] 16, no retroactiva, para señalar
 #  «presidente/a» en minúscula ante nombre propio. Fotografía de corpus HEAD 5770364266e2:
 #  80 posts y 118 ocurrencias de jefe/a de Estado + 1 exención en 1961-10-20; 0 cambios de salida).
+# alineado con Manual de Estilo v1.27 el 2026-11-20 (léxico del contacto con la superficie:
+#  aterrizar, amerizar y apontar en lugar de «tomar/toma»; comprobación [AVISO] 17, no
+#  retroactiva, con exención de locuciones figuradas. Fotografía de corpus HEAD 111105ceb1:
+#  50 posts con aviso y 56 ocurrencias sobre 759; 0 cambios de salida).
+# alineado con Manual de Estilo v1.27 el 2026-11-20 (comprobación [AVISO] 18: recuento de
+#  motores coherente con la configuración del modelo; tabla mínima de modelos unívocos; orden
+#  del editor tras el error del alta 2023-11-28, que atribuyó cuatro Trent 1000 a un bimotor).
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
 # ============================================================================
@@ -882,6 +889,145 @@ if [ -n "$PRES_CANDS" ]; then
   done <<<"$PRES_CANDS"
 fi
 [ "$PRES_N" -eq 0 ] && ok "Cargo presidencial: sin «presidente/a» en minúscula ante nombre propio (D1-a, Manual v1.26 § 4.3)"
+
+# --------------------------------------------------- 17. Verbo de contacto (T1)
+# Aviso, no fallo: «tomar/toma» es voz corriente con usos legítimos (tomar el mando,
+# tomar nota, toma de decisiones). Solo el contexto decide si designa el contacto de la
+# aeronave con la superficie, que se nombra aterrizar, amerizar o apontar (Manual v1.27
+# § 4.2 y § 13; enmienda del editor del 20-11-2026). No retroactivo.
+TOMA_N=0
+TOMA_PAT='\b(toma|tomas|toma|tomamos|toman|tomaba|tomaban|tomó|tomaron|tomar|tomando)[[:space:]]+(tierra|(en|sobre|sobre[[:space:]]+la|en[[:space:]]+la|en[[:space:]]+el)?[[:space:]]*(el|la|los|las|un|una)?[[:space:]]*(aeropuerto|aeródromo|aerodromo|pista|pistas|base|bases|campo|cubierta|portaaviones|plataforma|agua|mar|río|rio|ría|pista[[:space:]]+de[[:space:]]+aterrizaje))\b'
+while IFS= read -r Row; do
+  [ -z "$Row" ] && continue
+  Rln="${Row%%:*}"; Rtxt="${Row#*:}"
+  # exenciones: locuciones figuradas y usos no aeronáuticos
+  if printf '%s' "$Rtxt" | grep -qiE 'tom(a|as|amos|an|aba|aban|ó|aron|ar|ando)[[:space:]]+(el[[:space:]]+mando|nota|notas|fotograf|una[[:space:]]+decisi|decisiones|parte|cartas|tiempo|fuerza|aire|el[[:space:]]+sol|asiento|posici|forma|el[[:space:]]+relevo|vuelo|altura|cuerpo)'; then continue; fi
+  if printf '%s' "$Rtxt" | grep -qiE '(la|una|su|esta|esa)[[:space:]]+toma[[:space:]]+(de|del)[[:space:]]+(decisi|aire|fuerza|tierra|imagen|fotograf|mando|nota|relevo|posici|vuelo)'; then continue; fi
+  if MOT=$(exc_hit "$BASENAME" "verbo-contacto"); then
+    printf '[AVISO]   Excepción de léxico del contacto: «%s» — %s\n' "$(printf '%s' "$Rtxt" | grep -oiE "$TOMA_PAT" | head -1)" "$MOT"
+    continue
+  fi
+  TOMA_N=$((TOMA_N+1))
+  printf '[AVISO]   Léxico del contacto con la superficie (línea %s): «%s» — se escribe aterrizar, amerizar o apontar, no «tomar/toma» (Manual v1.27 § 4.2 y § 13, enmienda 20-11-2026; no retroactivo)\n' "$Rln" "$(printf '%s' "$Rtxt" | grep -oiE "$TOMA_PAT" | head -1)"
+done < <(grep -nEi "$TOMA_PAT" <<<"$BODY" || true)
+[ "$TOMA_N" -eq 0 ] && ok "Léxico del contacto: sin «tomar/toma» por aterrizar, amerizar o apontar (Manual v1.27 § 4.2)"
+
+# ------------------------------------------- 18. Recuento de motores (T2, v1.27)
+# Aviso, no fallo. Comprueba que el recuento de motores que el texto atribuye a un modelo no
+# contradiga su configuración. Reglas, para no marcar lo que es correcto:
+#   · analiza por oraciones (corte en punto, punto y coma y dos puntos);
+#   · si la oración nombra más de un modelo, se abstiene (el recuento puede ser del otro);
+#   · admite la cifra en forma de adjetivo (bimotor, trimotor, cuatrimotor, hexamotor) o de
+#     numeral seguido de motores/turbofanes/reactores/turbohélices;
+#   · si la ficha declara la cifra junto a un motor con familia reconocible, la toma como del
+#     aparato del post.
+# Manual de Estilo v1.27 § 4.10. No retroactivo.
+MOT_OUT=$(python3 - "$FILE" <<'PYMOT'
+import re, sys
+try:
+    t = open(sys.argv[1], encoding='utf-8').read()
+except Exception:
+    sys.exit(0)
+parts = t.split('---')
+body = '---'.join(parts[2:]) if len(parts) > 2 else t
+body = re.sub(r'<[^>]+>', ' ', body)
+body = re.sub(r'https?://\S+', ' ', body)
+
+MODELOS = [
+    ('Boeing 787', 2, r'(?<![0-9A-Za-z])(787-?[0-9]?|Dreamliner)'),
+    ('Airbus A330', 2, r'(?<![0-9A-Za-z])A330'),
+    ('Airbus A350', 2, r'(?<![0-9A-Za-z])A350'),
+    ('Boeing 777', 2, r'(?<![0-9A-Za-z])(?<![0-9.])777(?![0-9.,])'),
+    ('Boeing 767', 2, r'(?<![0-9A-Za-z])(?<![0-9.])767(?![0-9.,])'),
+    ('Boeing 757', 2, r'(?<![0-9A-Za-z])(?<![0-9.])757(?![0-9.,])'),
+    ('Boeing 737', 2, r'(?<![0-9A-Za-z])(?<![0-9.])737(?![0-9.,])'),
+    ('Airbus A320', 2, r'(?<![0-9A-Za-z])A3(19|20|21)(?![0-9])'),
+    ('Airbus A380', 4, r'(?<![0-9A-Za-z])A380'),
+    ('Boeing 747', 4, r'(?<![0-9A-Za-z])(?<![0-9.])747(?![0-9.,])'),
+    ('Boeing B-36', 6, r'(?<![0-9A-Za-z])B-36(?![0-9])'),   # seis de pistón; las series D añaden cuatro reactores y la oración se abstiene
+    ('Boeing 707', 4, r'(?<![0-9A-Za-z])(?<![0-9.])707(?![0-9.,])'),
+    ('Boeing B-17', 4, r'(?<![0-9A-Za-z])B-17(?![0-9])'),
+    ('Boeing B-29', 4, r'(?<![0-9A-Za-z])B-29(?![0-9])'),   # cuatrimotor; en la misma oración con un hexamotor se abstiene
+    ('Avro RJ85', 4, r'(RJ-?85|(?<![0-9A-Za-z])BAe 146|Avro 146)'),
+    ('Concorde', 4, r'Concorde'),
+    ('Douglas DC-8', 4, r'(?<![0-9A-Za-z])DC-?8(?![0-9])'),
+    ('Boeing B-47', 6, r'(?<![0-9A-Za-z])B-47(?![0-9])'),
+    ('Boeing 727', 3, r'(?<![0-9A-Za-z])(?<![0-9.])727(?![0-9.,])'),
+    ('Stratolaunch Roc', 6, r'(Stratolaunch|Roc\b)'),
+    ('Antonov An-225', 6, r'(An-225|An-225 Mriya)'),
+    ('Hughes H-4', 8, r'(H-4 Hercules|Spruce Goose|Hughes H-4)'),
+    ('Boeing 377', 4, r'(?<![0-9A-Za-z])377(?![0-9.,])'),
+    ('Douglas DC-4', 4, r'(?<![0-9A-Za-z])DC-?4(?![0-9])'),
+    ('Douglas DC-6', 4, r'(?<![0-9A-Za-z])DC-?6(?![0-9])'),
+    ('Douglas DC-3', 2, r'(?<![0-9A-Za-z])DC-?3(?![0-9])'),
+    ('Lockheed L-1011', 3, r'(L-1011|Tristar|TriStar)'),
+    ('McDonnell Douglas MD-11', 3, r'(MD-11|MD-11)'),
+    ('Boeing 727', 3, r'(?<![0-9A-Za-z])727(?![0-9.,])'),
+]
+ADJ = {'monomotor':1,'bimotor':2,'trimotor':3,'cuatrimotor':4,'cuadrimotor':4,
+       'tetramotor':4,'pentamotor':5,'hexamotor':6}
+NUM = {'un':1,'una':1,'dos':2,'tres':3,'cuatro':4,'cinco':5,'seis':6,
+       '1':1,'2':2,'3':3,'4':4,'5':5,'6':6}
+SUST = r'(motores?|turbofanes?|turborreactores?|reactores?|turboh[eé]lices?|propulsores?)'
+
+# «tres Boeing B-29» o «dos 787» cuentan aparatos, no motores: se neutralizan antes de medir
+body = re.sub(r'\b(dos|tres|cuatro|cinco|seis|\d+)\s+([A-Za-zÁÉÍÓÚáéíóúñ]+\s+)?(Boeing|Airbus|Avro|Douglas)',
+              r'\1 aparatos de la familia \2', body, flags=re.I)
+oraciones = re.split(r'(?<=[.;:])\s+', body)
+vistos = []
+for o in oraciones:
+    modelos = []
+    for etq, n, rx in MODELOS:
+        if re.search(rx, o, re.I) and etq not in [m[0] for m in modelos]:
+            modelos.append((etq, n))
+    if len(modelos) != 1:
+        continue
+    # comparación explícita: el modelo es término de referencia, no sujeto del recuento
+    ult = modelos[0][0].split()[-1]
+    if re.search(r'\b(al|que el|que la|frente al|respecto al|del|como el)\b[^.;]{0,40}' + re.escape(ult), o, re.I) \
+       and re.search(r'\b(al|que el|frente al)\b[^.;]{0,40}' + re.escape(ult), o, re.I):
+        continue
+    # el modelo citado como término de comparación no es el sujeto del recuento
+    if re.search(r'\b(al|que el|que la|frente al|respecto al|en comparación con el)\s+([A-Za-zÁÉÍÓÚáéíóúñ0-9-]+\s+){0,3}$', o[:o.lower().find(modelos[0][0].split()[-1].lower()) if modelos[0][0].split()[-1].lower() in o.lower() else 0], re.I):
+        continue
+    # dos menciones del mismo modelo con cifras distintas: el texto compara dos versiones
+    menciones = len(re.findall(MODELOS[[m[0] for m in MODELOS].index(modelos[0][0])][2], o, re.I))
+    if menciones > 1:
+        continue
+    etq, esperado = modelos[0]
+    if re.search(r'\b(sus|sus propios|los|las)\s+(seis|cuatro|dos|tres|cinco)\b', o, re.I) and \
+       re.search(r'\b(recuperad|recicl|procedente|heredad|reutiliz|adaptad|modificad|originalmente|derivad)', o, re.I):
+        continue   # motores de otra aeronave reutilizados: no describen al modelo citado
+    # suma de cifras (p. ej. cuatro turborreactores añadidos a los motores de pistón): no es el total
+    if re.search(r'\b(agreg|añad|sum|incorpor|instal|adicion)', o, re.I):
+        continue
+    # adjetivo de recuento aplicado a otro sujeto de la misma oración («el nuevo hexamotor hacía
+    # parecer diminuto al bombardero B-29»): la cifra no describe al modelo de la tabla
+    if re.search(r'\b(mono|bi|tri|cuatri|cuadri|tetra|penta|hexa|octo)motors?\b', o, re.I) and \
+       not re.search(r'\b(mono|bi|tri|cuatri|cuadri|tetra|penta|hexa|octo)motors?\b[^.;]{0,30}' + re.escape(ultimos := modelos[0][0].split()[-1]), o, re.I):
+        continue
+    cifras = set()
+    for a, n in ADJ.items():
+        if re.search(r'\b'+a+r's?\b', o, re.I):
+            cifras.add(n)
+    for m in re.finditer(r'\b('+'|'.join(NUM)+r')\s+'+SUST, o, re.I):
+        cola = o[m.end():m.end()+45]
+        if re.match(r'\s+(radiales|en línea|en configuraci|de h[eé]lice|de estrella|de cilindros|de veintiocho|del ala|de cada)', cola, re.I):
+            continue      # descripción de una pareja o de una configuración, no del total
+        cifras.add(NUM[m.group(1).lower()])
+    if not cifras or esperado in cifras:
+        continue
+    vistos.append(f"{etq}: recomienda {esperado} motores y el texto dice «{sorted(cifras)[0]}»")
+if vistos:
+    print('\n'.join(dict.fromkeys(vistos)))
+PYMOT
+)
+if [ -n "$MOT_OUT" ]; then
+  printf '[AVISO]   Recuento de motores: la cifra citada no coincide con la configuración del modelo (Manual v1.27 § 4.10; no retroactivo):\n'
+  printf '%s\n' "$MOT_OUT" | sed 's/^/           · /'
+else
+  ok "Recuento de motores: coherente con la configuración del modelo citado (Manual v1.27 § 4.10)"
+fi
 
 # ------------------------------------------------------------------ Veredicto
 if [ -n "$GREP_ERR" ]; then fail "Auditoría(s) de rangos estropeadas (error de grep en: $GREP_ERR) — no se puede certificar ninguna ausencia de violaciones"; fi

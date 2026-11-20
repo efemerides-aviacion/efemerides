@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-11-16  
-> Versión: v1.26
+> Edición consolidada: 2026-11-20  
+> Versión: v1.27
 
 ---
 
@@ -70,6 +70,16 @@ Las cabeceras normativas deben mantenerse exactamente en su forma oficial.
   estructuras ni sistemas (*el Blériot XI adolecía de una estructura frágil* es
   incorrecto; se escribe *tenía*, *presentaba* o *sufría de*). Acuerdo del editor,
   recogido por escrito el 17-09-2026 con motivo del alta 1910-09-23.
+- el contacto de la aeronave con la superficie se nombra con el verbo técnico y no
+  con uno de uso general: **«aterrizar»** en tierra, **«amerizar»** (o
+  «amarizar») en el agua y **«apontar»** en la cubierta de un buque. *Toma* es voz
+  corriente y no aeronáutica: no se escribe *el avión toma en el aeropuerto*,
+  *toma tierra*, *toma en la pista*, *toma sobre la cubierta* ni sus variantes
+  pronominales. Rige igualmente para el sustantivo (*aterrizaje*, *amerizaje*,
+  *apontaje*, *anevizaje*) y para los derivados cultos ya acuñados en el corpus
+  (en la Antártida, *anevizaje* y *anevizar*). Acuerdo reiterado por el editor el
+  20-11-2026, con motivo del alta 2023-11-28 (vuelo 100 de Virgin Atlantic), tras
+  haberse repetido en varias aperturas de sesión.
 
 ### 4.3 Grados militares, jerarquías de aviación y tratamientos
 
@@ -270,6 +280,30 @@ apariciones de «reunión» en 24 posts y 8 de «meeting» en 3; las 11 aparicio
 quedan fuera del cómputo, por ser nombre propio de la operación de bombardeo de 1945. De esas 44,
 solo 9 acompañan a «aérea», «aéreo» o «aeronáutica»; el resto son usos legítimos del castellano
 («reunión en Caracas con el geólogo», «reuniones públicas»).
+
+---
+
+### 4.10 Configuración de motores
+
+El recuento de motores que el texto atribuye a una aeronave debe coincidir con su configuración
+real. Las equivocaciones más frecuentes son dos: llamar cuatrimotor a un bimotor por contagio del
+modelo que sirve de comparación en el mismo párrafo, y confundir el número de aparatos con el de
+motores (*tres cuatrimotores Boeing B-29*, no *tres motores*).
+
+Rigen tres cautelas de redacción:
+
+- la cifra se escribe pegada al modelo al que pertenece, sin intercalar otra aeronave: *el 787-9,
+  un bimotor con dos Trent 1000*, y no *el 787-9 y cuatro motores Trent 1000*;
+- cuando el párrafo contrasta dos aparatos de configuración distinta, se nombra el recuento de
+  cada uno y se asocia explícitamente: *un motor del cuatrimotor A380 frente a los dos de un
+  bimotor*;
+- el recuento de una versión no se aplica a otra del mismo modelo: las series D del B-36 añaden
+  cuatro reactores a los seis de pistón.
+
+La comprobación 18 de `tools/efemerides-linter.sh` audita la coherencia entre el modelo citado y
+la cifra, con una tabla mínima de modelos unívocos. Emite `[AVISO]` y se abstiene cuando la oración
+nombra dos modelos, cuando el modelo es término de comparación, cuando la cifra describe una
+pareja o una suma y cuando el texto habla de motores reutilizados de otra aeronave.
 
 ---
 
@@ -636,6 +670,8 @@ investigador (14 de agosto de 2026).
 - escribir en minúscula un grado, una jerarquía de aviación o un tratamiento honorífico que precede inmediatamente a un nombre propio (§ 4.3);
 - escribir en minúscula «Presidente» o «Presidenta» como jefe/a de Estado ante nombre propio, capitalizar otros cargos u oficios civiles ante nombre propio (salvo D1-b), o escribir en minúscula el plural de grado que encabeza una lista de nombres (§ 4.3, decisiones D1-a —enmendada el 16-11-2026— y D2-a);
 - aplicar el verbo *adolecer* a una máquina, aeronave o sistema (§ 4.2);
+- usar el verbo *tomar* —o el sustantivo *toma*— para el contacto de la aeronave con la superficie: se escribe *aterrizar*, *amerizar* o *apontar* según el caso, y no *toma tierra*, *toma en el aeropuerto* ni *toma sobre la cubierta* (§ 4.2);
+- atribuir a un modelo un número de motores que no es el suyo, o confundir el recuento de aparatos con el de motores (§ 4.10);
 - escribir en minúscula un cargo civil que encabeza una denominación institucional capitalizada, o en mayúscula un cargo civil fuera de ese supuesto (§ 4.3, D1-a y D1-b);
 - capitalizar títulos de realeza, nobleza o dignidades (*rey*, *reina*, *príncipe*, *conde*, *marqués*, *barón*, *lord*, *lady*, *sir*, *jeque*…) ante nombre propio o denominación nobiliaria, fuera de apodos antonomásticos, nombres propios de aeronaves, premios o instituciones y topónimos (§ 4.3, D1-c);
 - insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que corresponden a `## Referencias Verificadas` o al `<figcaption>` (§ 6.4);
@@ -651,6 +687,10 @@ investigador (14 de agosto de 2026).
 - [ ] ¿La imagen está bien atribuida?
 - [ ] ¿Los enlaces del cuerpo respetan el estilo visual?
 - [ ] ¿Cada enlace cruzado aparece una sola vez y ninguno apunta al propio post?
+- [ ] ¿El contacto de la aeronave con la superficie se nombra con *aterrizar*, *amerizar* o
+  *apontar* —y nunca con *toma* o *tomar*—, también en el sustantivo (§ 4.2)?
+- [ ] ¿El número de motores que cita el texto corresponde al modelo nombrado, sin contagio de la
+  aeronave que sirve de comparación (§ 4.10)?
 - [ ] ¿La nota aclaratoria protege contra malentendidos?
 - [ ] ¿El post está limpio de menciones al borrador, a enlaces caídos y al entorno técnico?
 - [ ] ¿El post no consigna la distancia en años con el presente, salvo que
@@ -1041,3 +1081,60 @@ Alineados en la misma fecha: Plantilla Maestra v2.27, Instrucciones de Formato v
 `docs/excepciones-rangos-y-tratamientos.md`, `docs/guia-del-linter.md` y
 `docs/protocolo-continuidad-sesiones.md`. `docs/instrucciones-procesar-efemerides-v2.19.md` y
 `docs/anexo-comparacion-tratamientos-y-rangos.md`: sin novedad.
+
+---
+
+## 38. Actualizaciones editoriales v1.27 — 2026-11-20
+
+- **§ 4.2, viñeta nueva (léxico del contacto con la superficie):** el verbo de uso general
+  *tomar* —y el sustantivo *toma*— quedan proscritos para designar el contacto de la aeronave
+  con la superficie. Se escribe **aterrizar** en tierra, **amerizar**/«amarizar» en el agua y
+  **apontar** en la cubierta de un buque, con sus sustantivos *aterrizaje*, *amerizaje* y
+  *apontaje*; en la Antártida se mantienen *anevizaje* y *anevizar*, ya acuñados en el corpus.
+  Se proscriben expresamente *toma tierra*, *toma en el aeropuerto*, *toma en la pista* y *toma
+  sobre la cubierta*, en todas sus personas y formas pronominales. La norma de § 7.4.16 del
+  Estado solo alcanzaba a *tomar tierra*, de modo que los demás usos habían pasado inadvertidos.
+- **§ 13, viñeta nueva de errores** remitiendo a § 4.2.
+- **§ 14, casilla nueva del Checklist del Editor Senior** para la lectura del léxico del contacto.
+- **Motivo y precedente:** acuerdo reiterado por el editor el 20-11-2026 al revisar el alta
+  2023-11-28 (vuelo 100 de Virgin Atlantic), donde el borrador decía *el avión toma en el
+  aeropuerto John F. Kennedy*. El editor advierte de que la corrección se le ha repetido en
+  varias aperturas de sesión: la norma no constaba en el Manual y el linter no la comprobaba,
+  que es la causa de que reaparezca.
+- **Censo al adoptar la norma** — criterio: comprobación 17 del linter ejecutada post a post
+  sobre los 759 `.md` de `_posts/` en `HEAD 111105ceb117801e4eeb0778aa6849349025ba55`:
+  **50 posts con aviso y 56 ocurrencias** (6,6 % del corpus).
+- **Alcance: no retroactivo**, como en las normas léxicas anteriores. Rige para las altas y
+  correcciones desde el 20-11-2026; los 50 posts censados conservan su redacción y se ajustan
+  solo si se revisan por otro motivo, o si el editor encarga una tanda de saneamiento.
+- **Auditoría automática:** `tools/efemerides-linter.sh` incorpora la comprobación 17, que
+  emite `[AVISO]` —no `[FALLECE]`, por tratarse de voz corriente con usos legítimos— y exime
+  las locuciones figuradas (*tomar el mando*, *tomar nota*, *tomar fotografías*, *toma de
+  decisiones*, *toma de aire*, *toma de fuerza*). El aviso es de lectura: solo el contexto
+  decide si el verbo designa el contacto con la superficie.
+
+Alineados en la misma fecha: `tools/efemerides-linter.sh` (comprobaciones 17 y 18),
+`docs/guia-del-linter.md` (fichas de ambas) y `docs/protocolo-continuidad-sesiones.md` (§ 2 y
+apartado de criterios consolidados). Plantilla Maestra v2.27, Instrucciones de Formato v2.26 e
+Instrucciones de Procesar v2.19: sin novedad.
+- **§ 4.10 nueva (configuración de motores):** el recuento de motores atribuido a una aeronave debe
+  coincidir con su configuración. Se documentan los dos errores observados —llamar cuatrimotor a un
+  bimotor por contagio del modelo comparado, y confundir el número de aparatos con el de motores— y
+  las tres cautelas de redacción: cifra pegada al modelo, recuento explícito de cada aparato cuando
+  el párrafo los contrasta, y no extender el recuento de una versión a otra del mismo modelo.
+- **§ 13 y § 14 actualizados** con la viñeta de errores y la casilla del Checklist.
+- **Motivo:** error del alta 2023-11-28 (vuelo 100 de Virgin Atlantic), publicada con «cuatro
+  motores Rolls-Royce Trent 1000» para un Boeing 787-9, que es bimotor. El contagio venía del A380
+  de 2022 enlazado en el propio `Legado`. Detectado por el editor; corregido en el commit
+  `5ca32099`. El linter no lo advertía porque no auditaba la coherencia entre modelo y recuento.
+- **Comprobación 18 de `tools/efemerides-linter.sh`:** `[AVISO]`, no retroactiva, con tabla mínima
+  de modelos unívocos y seis abstenciones para no marcar lo correcto (dos modelos en la oración,
+  comparación, pareja o configuración parcial, suma de cifras, motores reutilizados de otra
+  aeronave, y adjetivo de recuento aplicado a otro sujeto).
+- **Censo al adoptar la norma** — criterio: comprobación 18 ejecutada post a post sobre los 759
+  `.md` del HEAD `5ca32099`: **0 avisos**. Los seis falsos positivos que aparecieron en las
+  pasadas sucesivas —B-29 de 1948, El Al 1992, Boeing 777 de 1994, B-36 de 1946, 737 de 1967 y
+  Stratolaunch de 2019— se resolvieron ampliando la tabla y las abstenciones, no excluyendo posts.
+- **Regresión:** 0 cambios de código de salida; los 759 posts conservan su veredicto y el único
+  `FALLECE` del corpus (1886-11-14) ya fallaba con el linter anterior.
+
