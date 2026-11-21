@@ -24,12 +24,12 @@ title: "Índice de países"
 {%- for post in site.posts -%}
   {%- assign crudo = crudo | append: post.pais | append: "||" | downcase -%}
 {%- endfor -%}
-{%- comment -%} Frases compuestas con «y» que son un solo país: se protegen antes de separar {%- endcomment -%}
-{%- assign crudo = crudo | replace: "antigua y barbuda", "antigua·barbuda" | replace: "bosnia y herzegovina", "bosnia·herzegovina" | replace: "trinidad y tobago", "trinidad·tobago" | replace: "san cristóbal y nieves", "san cristóbal·nieves" | replace: "san vicente y las granadinas", "san vicente·las granadinas" -%}
+{%- comment -%} Frases que son un solo país y no deben partirse: la «y» se protege con · y el guion con •. Para proteger otra, añada una línea igual. {%- endcomment -%}
+{%- assign crudo = crudo | replace: "antigua y barbuda", "antigua·barbuda" | replace: "bosnia y herzegovina", "bosnia·herzegovina" | replace: "trinidad y tobago", "trinidad·tobago" | replace: "san cristóbal y nieves", "san cristóbal·nieves" | replace: "san vicente y las granadinas", "san vicente·las granadinas" | replace: "guinea-bisáu", "guinea•bisáu" | replace: "bosnia-herzegovina", "bosnia•herzegovina" -%}
 {%- assign piezas = crudo | replace: ";", "||" | replace: "/", "||" | replace: ",", "||" | replace: "-", "||" | replace: " y ", "||" | split: "||" -%}
 {%- assign limpio = "" -%}
 {%- for pieza in piezas -%}
-  {%- assign t = pieza | split: "(" | first | remove: "[" | remove: "]" | remove: '"' | remove: "'" | replace: "·", " y " | strip -%}
+  {%- assign t = pieza | split: "(" | first | remove: "[" | remove: "]" | remove: '"' | remove: "'" | replace: "•", "-" | replace: "·", " y " | strip -%}
   {%- if t != "" -%}{%- assign limpio = limpio | append: t | append: "||" -%}{%- endif -%}
 {%- endfor -%}
 {%- assign tokens = limpio | split: "||" | uniq | sort -%}
@@ -41,6 +41,7 @@ title: "Índice de países"
   {%- case t -%}
     {%- when "inglaterra" %}{% assign g = "reino unido" %}
     {%- when "república federal de alemania" %}{% assign g = "alemania occidental" %}
+    {%- when "bosnia-herzegovina" %}{% assign g = "bosnia y herzegovina" %}
   {%- endcase -%}
   {%- assign grupos = grupos | append: g | append: "||" -%}
 {%- endfor -%}
@@ -51,6 +52,7 @@ title: "Índice de países"
   {%- case g -%}
     {%- when "reino unido" %}{% assign alternas = "reino unido||inglaterra" %}
     {%- when "alemania occidental" %}{% assign alternas = "alemania occidental||república federal de alemania" %}
+    {%- when "bosnia y herzegovina" %}{% assign alternas = "bosnia y herzegovina||bosnia-herzegovina" %}
     {%- else %}{% assign alternas = g %}
   {%- endcase -%}
   {%- assign alts = alternas | split: "||" -%}
@@ -68,7 +70,28 @@ title: "Índice de países"
       {%- when "alemania occidental" %}Alemania Occidental
       {%- when "francia libre" %}Francia Libre
       {%- when "vietnam del sur" %}Vietnam del Sur
-      {%- else %}{{ g | capitalize }}
+      {%- when "guinea-bisáu" %}Guinea-Bisáu
+      {%- when "bosnia y herzegovina" %}Bosnia y Herzegovina
+      {%- else -%}
+        {%- comment -%} Titulado automático al estilo español: cada palabra en mayúscula salvo las partículas {%- endcomment -%}
+        {%- assign palabras = g | split: " " -%}
+        {%- assign titulo = "" -%}
+        {%- for w in palabras -%}
+          {%- if forloop.first -%}
+            {%- assign wc = w | capitalize -%}
+          {%- else -%}
+            {%- case w -%}
+              {%- when "de" or "del" or "la" or "las" or "los" or "y" or "e" %}{% assign wc = w %}
+              {%- else %}{% assign wc = w | capitalize %}
+            {%- endcase -%}
+          {%- endif -%}
+          {%- if forloop.first -%}
+            {%- assign titulo = wc -%}
+          {%- else -%}
+            {%- assign titulo = titulo | append: " " | append: wc -%}
+          {%- endif -%}
+        {%- endfor -%}
+        {{ titulo }}
     {%- endcase -%}
   {%- endcapture -%}
   {%- capture lista_html -%}
