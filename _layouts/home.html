@@ -49,7 +49,7 @@ layout: default
       </div>
 
       <div class="stats-badge">
-        Mostrando <span class="stats-count" id="visibleCount">{{ site.posts | size }}</span> efemérides (Orden por día cronológico)
+        Mostrando <span class="stats-count" id="visibleCount">{{ site.posts | size }}</span> efemérides (Orden por día cronológico) · <a href="{{ '/paises.html' | relative_url }}" style="color: #315fea; text-decoration: none; font-weight: 600;">Índice de países</a>
       </div>
     </div>
 
@@ -96,6 +96,28 @@ layout: default
           </span>
         </div>
         <div class="card-body">
+          {%- assign pv = post.pais | default: "" -%}
+          {%- assign pvl = pv | downcase -%}
+          {%- capture pais_alias -%}
+            {%- if pvl contains "estados unidos" %} eeuu ee. uu. ee uu usa us america americano estadounidense{%- endif -%}
+            {%- if pvl contains "reino unido" or pvl contains "inglaterra" %} uk gran bretaña britain británico inglés reino unido inglaterra{%- endif -%}
+            {%- if pvl contains "unión soviética" or pvl contains "union sovietica" %} urss ussr soviético{%- endif -%}
+            {%- if pvl contains "alemania" %} alemán rfa{%- endif -%}
+            {%- if pvl contains "francia" %} francés{%- endif -%}
+            {%- if pvl contains "españa" %} español{%- endif -%}
+            {%- if pvl contains "italia" %} italiano{%- endif -%}
+            {%- if pvl contains "japón" %} japonés{%- endif -%}
+            {%- if pvl contains "venezuela" %} venezolano{%- endif -%}
+            {%- if pvl contains "argentina" %} argentino{%- endif -%}
+            {%- if pvl contains "brasil" %} brasileño{%- endif -%}
+            {%- if pvl contains "méxico" %} mexicano{%- endif -%}
+            {%- if pvl contains "chile" %} chileno{%- endif -%}
+            {%- if pvl contains "perú" %} peruano{%- endif -%}
+            {%- if pvl contains "rusia" %} ruso{%- endif -%}
+            {%- if pvl contains "canadá" %} canadiense{%- endif -%}
+            {%- if pvl contains "países bajos" %} holanda holandés neerlandés{%- endif -%}
+          {%- endcapture -%}
+          <span hidden class="card-search">{{ pv | escape }}{{ pais_alias }}</span>
           <div class="card-meta">
             <span>📅 {{ post.date | date: "%d/%m/%Y" }}</span>
           </div>
@@ -123,17 +145,20 @@ layout: default
     let currentMonth = 'all';
     let currentQuery = '';
 
+    // Comparación sin distinción de mayúsculas ni acentos
+    const norm = (s) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+
     // Cache cards array for reordering in DOM
     const allCardNodes = Array.from(document.querySelectorAll('.cards-grid .card'));
 
     function filterAndSortCards() {
-      const q = currentQuery.toLowerCase().trim();
+      const q = norm(currentQuery.trim());
 
       // 1. Filter
       let visibleCards = allCardNodes.filter(card => {
         const cat = card.getAttribute('data-category');
         const m = card.getAttribute('data-month');
-        const text = card.textContent.toLowerCase();
+        const text = norm(card.textContent);
 
         const matchCat = (currentCat === 'all' || cat === currentCat);
         const matchMonth = (currentMonth === 'all' || m === currentMonth);
