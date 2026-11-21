@@ -20,7 +20,7 @@ image: 1960-10-21-primer-despegue-vertical-hawker-p1127-precursor-harrier.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 21 de octubre de 1960, en el aeródromo británico de Dunsfold, el piloto jefe de pruebas de Hawker, Bill Bedford, elevó por primera vez el prototipo P.1127, matrícula XP831. Lo hizo sobre una plataforma enrejada, con el aparato amarrado al suelo y él mismo con un tobillo escayolado tras un accidente de tráfico.</p>
-<p>Aquel salto de apenas unos centímetros demostró que un único motor, el Bristol Siddeley Pegasus, podía sostener un avión de reacción orientando su chorro hacia abajo mediante cuatro toberas giratorias. Del P.1127 salieron el Kestrel y, después, el Harrier, que desde 1969 sería el primer avión de combate de despegue vertical en servicio.</p>
+<p>Aquel salto de apenas unos centímetros demostró que un único motor, el Bristol Siddeley Pegasus, podía sostener un avión de reacción orientando su chorro hacia abajo mediante cuatro toberas giratorias. Del P.1127 salieron el Kestrel y, después, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1967/12/28/primer-vuelo-hawker-siddeley-harrier.html" style="color: #315fea; text-decoration: none;">Harrier</a>, que desde 1969 sería el primer avión de combate de despegue vertical en servicio.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
