@@ -29,7 +29,7 @@ title: "Índice de países"
 {%- assign piezas = crudo | replace: ";", "||" | replace: "/", "||" | replace: ",", "||" | replace: "-", "||" | replace: " y ", "||" | split: "||" -%}
 {%- assign limpio = "" -%}
 {%- for pieza in piezas -%}
-  {%- assign t = pieza | split: "(" | first | remove: "[" | remove: "]" | replace: "·", " y " | strip -%}
+  {%- assign t = pieza | split: "(" | first | remove: "[" | remove: "]" | remove: '"' | remove: "'" | replace: "·", " y " | strip -%}
   {%- if t != "" -%}{%- assign limpio = limpio | append: t | append: "||" -%}{%- endif -%}
 {%- endfor -%}
 {%- assign tokens = limpio | split: "||" | uniq | sort -%}
