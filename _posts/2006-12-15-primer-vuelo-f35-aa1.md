@@ -43,7 +43,7 @@ image: 2006-12-15-primer-vuelo-f35-aa1.webp
 
 ## Contexto Histórico
 
-El programa Joint Strike Fighter (JSF) fue concebido en la década de 1990 para reemplazar una amplia gama de aviones tácticos de la OTAN y aliados, incluyendo el F-16 Fighting Falcon, el A-10 Thunderbolt II, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1978/11/18/primer-vuelo-mcdonnell-douglas-fa18-hornet.html" style="color: #315fea; text-decoration: none;">F/A-18 Hornet</a>, el AV-8B Harrier II y el Sea Harrier británico. Lockheed Martin compitió con Boeing por el contrato; en 2001, el X-35 de Lockheed fue declarado ganador frente al X-32 de Boeing.
+El programa Joint Strike Fighter (JSF) fue concebido en la década de 1990 para reemplazar una amplia gama de aviones tácticos de la OTAN y aliados, incluyendo el F-16 Fighting Falcon, el A-10 Thunderbolt II, el <a href="https://www.efemeridesdeaviacion.com/evento/1978/11/18/primer-vuelo-mcdonnell-douglas-fa18-hornet.html" style="color: #315fea; text-decoration: none;">F/A-18 Hornet</a>, el AV-8B Harrier II y el Sea Harrier británico. Lockheed Martin compitió con Boeing por el contrato; en 2001, el X-35 de Lockheed fue declarado ganador frente al X-32 de Boeing.
 
 ### Entorno social
 El F-35 representa el mayor esfuerzo de cooperación internacional en defensa. Nueve países socios contribuyeron financieramente al desarrollo (Nivel 1: Reino Unido; Nivel 2: Italia, Países Bajos; Nivel 3: Turquía, Canadá, Australia, Dinamarca, Noruega). Posteriormente se añadieron compradores como Israel, Japón, Corea del Sur, Polonia, Bélgica, Finlandia y Alemania. La exclusión de Turquía del programa (2019) tras la compra del sistema ruso S-400 fue una crisis diplomática significativa.
@@ -88,7 +88,7 @@ El F-35 ha sido objeto de controversia por sobrecostos (el programa superó el p
 
 El prototipo AA-1, aunque ya no vuela, es una pieza histórica. Tras su retiro en 2011, fue utilizado para pruebas estructurales en la base de la Fuerza Aérea de Edwards (California). En 2021, fue trasladado al **National Museum of the United States Air Force** en Dayton, Ohio, donde se exhibe en la galería de desarrollo de aeronaves de investigación. El F-35, a pesar de las controversias iniciales, se ha convertido en el pilar de la OTAN y los aliados de EE. UU. para las próximas décadas. Su capacidad de evolución mediante actualizaciones de software (bloques 4, 5 y futuros) asegura que seguirá siendo relevante frente a amenazas emergentes.
 
-El apelativo «Lightning II» recuperaba, además, uno que ya había llevado de manera no oficial el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1990/09/29/primer-vuelo-lockheed-yf22.html" style="color: #315fea; text-decoration: none;">YF-22</a> de 1990, antes de recaer en este programa.
+El apelativo «Lightning II» recuperaba, además, uno que ya había llevado de manera no oficial el <a href="https://www.efemeridesdeaviacion.com/evento/1990/09/29/primer-vuelo-lockheed-yf22.html" style="color: #315fea; text-decoration: none;">YF-22</a> de 1990, antes de recaer en este programa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

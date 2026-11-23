@@ -21,14 +21,14 @@ image: 1966-02-03-primer-alunizaje-luna9.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de febrero de 1966, a las 18:45:30 UTC (21:45:30 hora de Moscú), la sonda automática soviética <strong>Luna 9</strong> (designación interna <strong>Ye-6M n.º 202</strong>) protagonizó el primer posado suave de la historia sobre nuestro satélite natural y sobre cualquier astro distinto de la Tierra, al descender intacta en la planicie occidental del <strong>Oceanus Procellarum</strong> (<em>Océano de las Tormentas</em>).</p>
-<p>Concebida originalmente en la oficina <strong>OKB-1</strong> de Serguéi Koroliov y perfeccionada hasta el éxito por el equipo de <strong>Gueorgui Babakin</strong> en la planta <strong>Lavochkin (OKB-301)</strong>, la cápsula esférica de 99 kilogramos amortiguó el contacto final mediante bolsas neumáticas inflables, desplegó sus cuatro pétalos estabilizadores y transmitió las primeras vistas panorámicas tomadas desde el suelo selenita, demostrando empíricamente que el regolito poseía la firmeza necesaria para soportar naves robotizadas y futuros módulos tripulados como el que tres años y medio después culminó el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/07/20/alunizaje-apolo11.html" style="color: #315fea; text-decoration: none;">alunizaje del Apolo 11</a>.</p>
+<p>Concebida originalmente en la oficina <strong>OKB-1</strong> de Serguéi Koroliov y perfeccionada hasta el éxito por el equipo de <strong>Gueorgui Babakin</strong> en la planta <strong>Lavochkin (OKB-301)</strong>, la cápsula esférica de 99 kilogramos amortiguó el contacto final mediante bolsas neumáticas inflables, desplegó sus cuatro pétalos estabilizadores y transmitió las primeras vistas panorámicas tomadas desde el suelo selenita, demostrando empíricamente que el regolito poseía la firmeza necesaria para soportar naves robotizadas y futuros módulos tripulados como el que tres años y medio después culminó el <a href="https://www.efemeridesdeaviacion.com/espacial/1969/07/20/alunizaje-apolo11.html" style="color: #315fea; text-decoration: none;">alunizaje del Apolo 11</a>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 
-- **Fecha de lanzamiento:** 31 de enero de 1966, 11:41:37 UTC, desde la Plataforma 31/6 del <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1955/06/02/fundacion-cosmodromo-baikonur.html" style="color: #315fea; text-decoration: none;">Cosmódromo de Baikonur</a>.
+- **Fecha de lanzamiento:** 31 de enero de 1966, 11:41:37 UTC, desde la Plataforma 31/6 del <a href="https://www.efemeridesdeaviacion.com/fundacion/1955/06/02/fundacion-cosmodromo-baikonur.html" style="color: #315fea; text-decoration: none;">Cosmódromo de Baikonur</a>.
 - **Cohete lanzador y designación:** cuatrietapa **Mólniya-M (`8K78M`)** con etapa superior *Blok L*; registro internacional **COSPAR 1966-006A** (`Ye-6M n.º 202`).
 - **Oficinas de proyecto:** **OKB-1** (Serguéi Koroliov) y **OKB-301 Lavochkin** (Gueorgui Babakin, diseñador jefe).
 - **Fecha y hora del contacto suave:** 3 de febrero de 1966, 18:45:30 UTC (`21:45:30` hora de Moscú).
@@ -41,7 +41,7 @@ image: 1966-02-03-primer-alunizaje-luna9.webp
 
 ## Contexto Histórico
 
-Desde que el 13 de septiembre de 1959 la sonda soviética <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1959/09/13/luna-2-primer-objeto-humano-en-tocar-la-luna.html" style="color: #315fea; text-decoration: none;">Luna 2 se convirtió en el primer objeto humano en alcanzar otro cuerpo celeste</a> mediante un impacto directo a más de tres kilómetros por segundo, el siguiente desafío fundamental de la astronáutica consistía en frenar por completo la caída libre en un astro desprovisto de atmósfera para depositar instrumentos operativos sobre su corteza.
+Desde que el 13 de septiembre de 1959 la sonda soviética <a href="https://www.efemeridesdeaviacion.com/espacial/1959/09/13/luna-2-primer-objeto-humano-en-tocar-la-luna.html" style="color: #315fea; text-decoration: none;">Luna 2 se convirtió en el primer objeto humano en alcanzar otro cuerpo celeste</a> mediante un impacto directo a más de tres kilómetros por segundo, el siguiente desafío fundamental de la astronáutica consistía en frenar por completo la caída libre en un astro desprovisto de atmósfera para depositar instrumentos operativos sobre su corteza.
 
 ### Entorno social
 
@@ -77,7 +77,7 @@ Las primeras fotografías tomadas desde el suelo de otro mundo causaron una conm
 
 ## Legado
 
-El éxito del **3 de febrero de 1966** consagró a la oficina **Lavochkin** de Gueorgui Babakin como artífice de las grandes sondas automáticas soviéticas, desde los primeros orbitadores selenitas (*Luna 10*, marzo de 1966) hasta los retornos robotizados de muestras geológicas (*Luna 16, 20 y 24*), los vehículos todoterreno <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1970/11/17/lunojod-1-primer-vehiculo-teledirigido-luna.html" style="color: #315fea; text-decoration: none;"><em>Lunojod</em></a> y las cápsulas de descenso en Venus y Marte. Cincuenta años más tarde, los investigadores que examinaban fotografías orbitales de alta resolución obtenidas por la cámara **LROC** del *Lunar Reconnaissance Orbiter* identificaron candidatos verosímiles para los restos de la etapa de frenado y de la pequeña esfera **ALS** en torno a las coordenadas `7,13° N, 64,37° O`, dejando en la llanura del Oceanus Procellarum el primer monumento intacto de la humanidad sobre otro mundo.
+El éxito del **3 de febrero de 1966** consagró a la oficina **Lavochkin** de Gueorgui Babakin como artífice de las grandes sondas automáticas soviéticas, desde los primeros orbitadores selenitas (*Luna 10*, marzo de 1966) hasta los retornos robotizados de muestras geológicas (*Luna 16, 20 y 24*), los vehículos todoterreno <a href="https://www.efemeridesdeaviacion.com/espacial/1970/11/17/lunojod-1-primer-vehiculo-teledirigido-luna.html" style="color: #315fea; text-decoration: none;"><em>Lunojod</em></a> y las cápsulas de descenso en Venus y Marte. Cincuenta años más tarde, los investigadores que examinaban fotografías orbitales de alta resolución obtenidas por la cámara **LROC** del *Lunar Reconnaissance Orbiter* identificaron candidatos verosímiles para los restos de la etapa de frenado y de la pequeña esfera **ALS** en torno a las coordenadas `7,13° N, 64,37° O`, dejando en la llanura del Oceanus Procellarum el primer monumento intacto de la humanidad sobre otro mundo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 

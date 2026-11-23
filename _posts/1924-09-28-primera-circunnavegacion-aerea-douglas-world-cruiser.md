@@ -42,7 +42,7 @@ image: 1924-09-28-primera-circunnavegacion-aerea-douglas-world-cruiser.webp
 
 ## Contexto Histórico
 
-Tras los cruces atlánticos de la NC-4 y de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/06/15/primer-vuelo-trasatlantico-sin-escala.html" style="color: #315fea; text-decoration: none;">Alcock y Brown</a>, varios países preparaban vueltas al mundo. El Ejército estadounidense aprobó su World Flight y encargó a Donald Douglas una máquina capaz de operar desde tierra y agua.
+Tras los cruces atlánticos de la NC-4 y de <a href="https://www.efemeridesdeaviacion.com/evento/1919/06/15/primer-vuelo-trasatlantico-sin-escala.html" style="color: #315fea; text-decoration: none;">Alcock y Brown</a>, varios países preparaban vueltas al mundo. El Ejército estadounidense aprobó su World Flight y encargó a Donald Douglas una máquina capaz de operar desde tierra y agua.
 
 ### Entorno social
 
@@ -83,7 +83,7 @@ La expedición validó una red mundial de permisos, depósitos, repuestos y apoy
 
 El <em>Chicago</em> se exhibe en el National Air and Space Museum y el <em>New Orleans</em> permanece preservado en Santa Mónica. Réplicas y actos en Seattle, Dayton y California recordaron el centenario en 2024.
 
-La marca de 175 días descendió a 91 horas con <a href="https://efemerides-aviacion.github.io/efemerides/evento/1938/07/14/vuelta-al-mundo-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes en 1938</a>. Sin embargo, la vuelta de 1924 sigue siendo fundacional por haber conectado continentes con biplanos abiertos, navegación elemental y una infraestructura global creada para la misión.
+La marca de 175 días descendió a 91 horas con <a href="https://www.efemeridesdeaviacion.com/evento/1938/07/14/vuelta-al-mundo-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes en 1938</a>. Sin embargo, la vuelta de 1924 sigue siendo fundacional por haber conectado continentes con biplanos abiertos, navegación elemental y una infraestructura global creada para la misión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

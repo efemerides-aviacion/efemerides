@@ -52,7 +52,7 @@ Las ascensiones en globo eran espectáculos populares en el París de la época.
 
 El diseño reunía componentes que hasta entonces rara vez habían convivido en un aparato tripulado: una envolvente sustentadora, una caldera, un motor de vapor, una hélice y un mando direccional. La máquina estaba suspendida unos seis metros por debajo de una traviesa horizontal de madera de 20 metros. El sistema de combustión y la chimenea orientada hacia abajo buscaban mantener el fuego y los gases calientes alejados de la envolvente, un desafío especialmente delicado al trabajar junto a un gas inflamable.
 
-El antecedente del proyecto puede situarse en el desarrollo de los globos de gas del siglo XVIII, incluido el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">primer vuelo tripulado en globo de hidrógeno</a> de 1783. La innovación de Giffard consistió en intentar que aquel tipo de aeróstato dejara de ser un vehículo pasivo.
+El antecedente del proyecto puede situarse en el desarrollo de los globos de gas del siglo XVIII, incluido el <a href="https://www.efemeridesdeaviacion.com/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">primer vuelo tripulado en globo de hidrógeno</a> de 1783. La innovación de Giffard consistió en intentar que aquel tipo de aeróstato dejara de ser un vehículo pasivo.
 
 ### Entorno cultural
 
@@ -70,7 +70,7 @@ El vuelo fue la culminación de un programa experimental en el que Giffard tuvo 
 - **Durante el vuelo:** La hélice tripala proporciona el empuje. Al tirar de las cuerdas del timón, Giffard observa de inmediato la desviación del aparato y consigue realizar maniobras circulares y laterales. El conjunto puede apartarse de la línea del viento, aunque su velocidad propia es modesta.
 - **Llegada a Élancourt:** El aparato aterriza en la comuna de Élancourt, cerca de Trappes, después de recorrer aproximadamente 28 kilómetros. Los habitantes ayudan a desinflar la envolvente.
 - **Después de la demostración:** El vuelo prueba que la potencia mecánica puede hacer avanzar y gobernar un aeróstato, pero también deja claro que la relación entre potencia, peso y viento todavía limita su utilidad práctica.
-- **1900:** Casi medio siglo más tarde, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1900/07/02/primer-vuelo-zeppelin-lz1.html" style="color: #315fea; text-decoration: none;">primer vuelo del Zeppelin LZ 1</a> retomó el camino de los dirigibles con una estructura rígida.
+- **1900:** Casi medio siglo más tarde, el <a href="https://www.efemeridesdeaviacion.com/evento/1900/07/02/primer-vuelo-zeppelin-lz1.html" style="color: #315fea; text-decoration: none;">primer vuelo del Zeppelin LZ 1</a> retomó el camino de los dirigibles con una estructura rígida.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

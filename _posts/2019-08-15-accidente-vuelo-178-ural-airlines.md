@@ -52,7 +52,7 @@ El A321 era un avión maduro de quince años con uno de los mejores registros de
 
 ### Entorno cultural
 
-La comparación con el amerizaje del <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2009/01/15/amerizaje-rio-hudson-vuelo-1549.html" style="color: #315fea; text-decoration: none;">vuelo 1549 de US Airways en el Hudson</a> fue inmediata: aves, fallo dual, aterrizaje fuera de aeropuerto y ni una sola víctima mortal. El Kremlin saludó a los pilotos como héroes «por salvar vidas» antes de que existiera informe alguno, y la prensa rusa los elevó a símbolo nacional.
+La comparación con el amerizaje del <a href="https://www.efemeridesdeaviacion.com/accidente/2009/01/15/amerizaje-rio-hudson-vuelo-1549.html" style="color: #315fea; text-decoration: none;">vuelo 1549 de US Airways en el Hudson</a> fue inmediata: aves, fallo dual, aterrizaje fuera de aeropuerto y ni una sola víctima mortal. El Kremlin saludó a los pilotos como héroes «por salvar vidas» antes de que existiera informe alguno, y la prensa rusa los elevó a símbolo nacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

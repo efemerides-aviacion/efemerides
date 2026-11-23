@@ -60,8 +60,8 @@ El cruce del Canal de la Mancha tenía una fuerte carga simbólica en la histori
 
 El éxito del 7 de julio de 1981 fue el resultado de varios años de trabajo en tecnologías ultraligeras, eficiencia aerodinámica y propulsión alternativa impulsadas por Paul MacCready y su equipo.
 
-- **1977:** el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1977/08/23/gossamer-condor-primera-aeronave-propulsion-humana.html" style="color: #315fea; text-decoration: none;">Gossamer Condor</a>, también diseñado por MacCready, gana el primer premio Kremer para vuelo humano sostenido.
-- **1979:** el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1979/06/12/primera-aeronave-propulsion-humana-cruzo-canal-la-mancha.html" style="color: #315fea; text-decoration: none;">Gossamer Albatross, primera aeronave de propulsión humana que cruzó el Canal de la Mancha</a>, consolidó la reputación de MacCready como innovador aeronáutico.
+- **1977:** el <a href="https://www.efemeridesdeaviacion.com/evento/1977/08/23/gossamer-condor-primera-aeronave-propulsion-humana.html" style="color: #315fea; text-decoration: none;">Gossamer Condor</a>, también diseñado por MacCready, gana el primer premio Kremer para vuelo humano sostenido.
+- **1979:** el <a href="https://www.efemeridesdeaviacion.com/evento/1979/06/12/primera-aeronave-propulsion-humana-cruzo-canal-la-mancha.html" style="color: #315fea; text-decoration: none;">Gossamer Albatross, primera aeronave de propulsión humana que cruzó el Canal de la Mancha</a>, consolidó la reputación de MacCready como innovador aeronáutico.
 - **18 de mayo de 1980:** el Gossamer Penguin realiza uno de los primeros vuelos tripulados impulsados por energía solar, antecedente directo del Solar Challenger.
 - **6 de noviembre de 1980:** el Solar Challenger efectúa su primer vuelo.
 - **Junio de 1981:** se realizan intentos preliminares y pruebas en Europa; uno de los primeros intentos sobre el Canal fracasa por condiciones meteorológicas y perturbaciones externas.

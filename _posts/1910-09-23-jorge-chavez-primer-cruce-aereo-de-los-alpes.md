@@ -43,7 +43,7 @@ El reto alpino reunió una convocatoria competitiva, una máquina ligera y la ex
 
 La demostración formaba parte del interés por unir regiones separadas por obstáculos geográficos. La convocatoria italiana ofrecía un premio para una ruta que debía continuar hasta Milán. Alcanzar la primera población de la vertiente sur era, por tanto, una parte del itinerario previsto, no su destino competitivo completo.
 
-El precedente del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">paso del canal de la Mancha por Blériot</a> había mostrado el alcance de un monoplano ligero. Aquí la dificultad añadida era mantener altura suficiente sobre el relieve y conservar el control entre valles, laderas y corrientes de montaña.
+El precedente del <a href="https://www.efemeridesdeaviacion.com/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">paso del canal de la Mancha por Blériot</a> había mostrado el alcance de un monoplano ligero. Aquí la dificultad añadida era mantener altura suficiente sobre el relieve y conservar el control entre valles, laderas y corrientes de montaña.
 
 ### Entorno tecnológico
 
@@ -55,7 +55,7 @@ El paso del Simplón alcanza unos 2.009 metros sobre el nivel del mar. La cota d
 
 ### Entorno cultural
 
-El origen parisino de Chávez convivía con una identificación pública peruana. La <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1887/06/13/nacimiento-jorge-antonio-chavez-dartnell.html" style="color: #315fea; text-decoration: none;">semblanza biográfica del aviador</a> desarrolla sus antecedentes personales. En esta efeméride interesa especialmente su preparación para una ruta que exigía reconocer el terreno y esperar condiciones aceptables. Otros participantes también exploraron la posibilidad de cruzar; el desafío no se reducía a alcanzar una cifra de altitud en un campo despejado.
+El origen parisino de Chávez convivía con una identificación pública peruana. La <a href="https://www.efemeridesdeaviacion.com/nacimiento/1887/06/13/nacimiento-jorge-antonio-chavez-dartnell.html" style="color: #315fea; text-decoration: none;">semblanza biográfica del aviador</a> desarrolla sus antecedentes personales. En esta efeméride interesa especialmente su preparación para una ruta que exigía reconocer el terreno y esperar condiciones aceptables. Otros participantes también exploraron la posibilidad de cruzar; el desafío no se reducía a alcanzar una cifra de altitud en un campo despejado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

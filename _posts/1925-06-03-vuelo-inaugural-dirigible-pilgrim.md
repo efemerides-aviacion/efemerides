@@ -20,7 +20,7 @@ image: 1925-06-03-vuelo-inaugural-dirigible-pilgrim.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 3 de junio de 1925 despegó por primera vez el **Pilgrim**, primer dirigible construido por Goodyear, con **Jack Yolton** a los mandos desde Akron, Ohio. Diseñado por el ingeniero **Karl Arnstein**, el Pilgrim fue el primer dirigible comercial no rígido concebido para operar con **helio**, aunque sus primeros vuelos utilizaron hidrógeno por disponibilidad del gas. Seis semanas más tarde, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1925/07/17/pilgrim-primer-dirigible-comercial-con-helio.html" style="color: #315fea; text-decoration: none;">17 de julio de 1925 estrenó el helio</a>, gas no inflamable que orientaría la flota posterior de Goodyear. Entre 1925 y 1931 acumuló **2.880 horas**, llevó **5.355 pasajeros** y completó **4.765 operaciones**. El Smithsonian conserva la góndola.</p>
+<p>El 3 de junio de 1925 despegó por primera vez el **Pilgrim**, primer dirigible construido por Goodyear, con **Jack Yolton** a los mandos desde Akron, Ohio. Diseñado por el ingeniero **Karl Arnstein**, el Pilgrim fue el primer dirigible comercial no rígido concebido para operar con **helio**, aunque sus primeros vuelos utilizaron hidrógeno por disponibilidad del gas. Seis semanas más tarde, el <a href="https://www.efemeridesdeaviacion.com/evento/1925/07/17/pilgrim-primer-dirigible-comercial-con-helio.html" style="color: #315fea; text-decoration: none;">17 de julio de 1925 estrenó el helio</a>, gas no inflamable que orientaría la flota posterior de Goodyear. Entre 1925 y 1931 acumuló **2.880 horas**, llevó **5.355 pasajeros** y completó **4.765 operaciones**. El Smithsonian conserva la góndola.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -73,7 +73,7 @@ El Pilgrim se convirtió en un icono de la cultura estadounidense. Aparecía en 
 - **1924:** Goodyear decide construir su propio dirigible comercial para publicidad y relaciones públicas. El diseño se encarga a Karl Arnstein.
 - **Finales de mayo de 1925:** Se completa la construcción del Pilgrim en la planta de Goodyear en Akron, Ohio.
 - **3 de junio de 1925, aproximadamente 18:00:** Primer vuelo del Pilgrim, pilotado por Jack Yolton. El vuelo dura aproximadamente 20 minutos y alcanza una altitud de 300 metros (1.000 pies).
-- **17 de julio de 1925:** El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1925/07/17/pilgrim-primer-dirigible-comercial-con-helio.html" style="color: #315fea; text-decoration: none;">Pilgrim vuela ya inflado con helio</a> y abandona el hidrógeno de la etapa inicial.
+- **17 de julio de 1925:** El <a href="https://www.efemeridesdeaviacion.com/evento/1925/07/17/pilgrim-primer-dirigible-comercial-con-helio.html" style="color: #315fea; text-decoration: none;">Pilgrim vuela ya inflado con helio</a> y abandona el hidrógeno de la etapa inicial.
 - **18 de julio de 1925:** Una ceremonia pública formaliza el bautizo al día siguiente.
 - **1925-1931:** El Pilgrim opera como embajador aéreo de Goodyear, participando en desfiles, eventos deportivos y vuelos promocionales en todo Estados Unidos.
 - **1931:** El Pilgrim es retirado del servicio, siendo reemplazado por un dirigible más grande y moderno, el "Defender".

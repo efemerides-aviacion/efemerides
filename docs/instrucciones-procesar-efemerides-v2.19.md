@@ -1,6 +1,7 @@
 # Documento de Instrucciones Editoriales para Procesar Efemérides de Aviación
 > Última actualización: 2026-11-14  
 > Versión: v2.19
+> Corrección del 23-11-2026 (errata sobre la v2.19, sin cambio de versión; §7.1.6 del Estado): la referencia al dominio del sitio pasa a `www.efemeridesdeaviacion.com`, conforme a la Fase 2 de migración (§8.4). Sin cambio de regla: la sonda de red del entorno del investigador sigue sin ser medio de verificación en producción.
 
 ---
 
@@ -327,7 +328,7 @@ documentada más abajo.
 
 ### 1) El navegador del editor es el único verificador de producción
 Las sondas de red del entorno del investigador devuelven 404 envejecidos contra
-`efemerides-aviacion.github.io` y **no son medio de verificación**. La
+`www.efemeridesdeaviacion.com` y **no son medio de verificación**. La
 comprobación en producción la realiza el editor en su navegador (captura o
 confirmación) tras cada push. El investigador verifica en local con el
 verificador del repositorio y mediante lectura de fuentes.

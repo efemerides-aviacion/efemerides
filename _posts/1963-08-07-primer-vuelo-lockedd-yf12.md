@@ -65,7 +65,7 @@ El prototipo operó desde una base cuya existencia oficial el Gobierno no recono
 
 - **Septiembre de 1959:** cancelación del programa North American XF-108 Rapier; continúan en desarrollo el radar AN/ASG-18 y el misil AIM-47.
 - **Octubre de 1960:** la Fuerza Aérea adjudica a Lockheed el contrato para tres interceptores AF-12 (posteriormente YF-12A) bajo el Proyecto *Kedlock*.
-- **30 de abril de 1962:** se eleva por primera vez <a href="https://efemerides-aviacion.github.io/efemerides/evento/1962/04/30/primer-vuelo-lockheed-a-12-arcangel.html" style="color: #315fea; text-decoration: none;">el Lockheed A-12, la aeronave de la que deriva el interceptor</a>.
+- **30 de abril de 1962:** se eleva por primera vez <a href="https://www.efemeridesdeaviacion.com/evento/1962/04/30/primer-vuelo-lockheed-a-12-arcangel.html" style="color: #315fea; text-decoration: none;">el Lockheed A-12, la aeronave de la que deriva el interceptor</a>.
 - **7 de agosto de 1963:** James D. Eastham completa en Groom Lake la salida inaugural del primer YF-12A (`60-6934`).
 - **Febrero de 1964:** el presidente Lyndon B. Johnson anuncia públicamente el aparato y dos unidades se trasladan a la Base de la Fuerza Aérea Edwards, donde se exhiben en septiembre de 1964.
 - **1 de mayo de 1965:** el YF-12A establece nueve marcas mundiales absolutas de velocidad y altitud; sus tripulantes reciben el Trofeo Thompson.
@@ -88,7 +88,7 @@ Aquel conjunto electrónico y balístico no se perdió tras la cancelación de 1
 
 La etapa científica del YF-12A con la NASA entre 1969 y 1979 aportó datos fundamentales sobre cargas aerotermodinámicas a más de 300 °C, deformación térmica de estructuras de titanio y control digital automático de las tomas de admisión de cono móvil, mejoras que incrementaron la eficiencia y el radio de acción del **SR-71 Blackbird**.
 
-Hoy el segundo prototipo, **60-6935**, permanece expuesto en el Museo Nacional de la Fuerza Aérea en Wright-Patterson, Ohio, en el mismo recinto que custodia al <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1966/06/08/colision-en-aire-f104-xb70-vuelo-formacion.html" style="color: #315fea; text-decoration: none;">North American XB-70 Valkyrie</a>. La estirpe concebida por los *Skunk Works* tras <a href="https://efemerides-aviacion.github.io/efemerides/evento/1955/08/04/primer-vuelo-lockhedd-u2-dragon-lady.html" style="color: #315fea; text-decoration: none;">el estreno del U-2 en 1955</a> y continuada con el A-12 y el SR-71 tuvo en el YF-12A su variante artillada: ningún otro caza interceptor tripulado ha igualado su combinación de peso, techo y velocidad.
+Hoy el segundo prototipo, **60-6935**, permanece expuesto en el Museo Nacional de la Fuerza Aérea en Wright-Patterson, Ohio, en el mismo recinto que custodia al <a href="https://www.efemeridesdeaviacion.com/accidente/1966/06/08/colision-en-aire-f104-xb70-vuelo-formacion.html" style="color: #315fea; text-decoration: none;">North American XB-70 Valkyrie</a>. La estirpe concebida por los *Skunk Works* tras <a href="https://www.efemeridesdeaviacion.com/evento/1955/08/04/primer-vuelo-lockhedd-u2-dragon-lady.html" style="color: #315fea; text-decoration: none;">el estreno del U-2 en 1955</a> y continuada con el A-12 y el SR-71 tuvo en el YF-12A su variante artillada: ningún otro caza interceptor tripulado ha igualado su combinación de peso, techo y velocidad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

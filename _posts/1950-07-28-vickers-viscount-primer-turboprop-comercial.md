@@ -81,7 +81,7 @@ Gracias al rediseño plasmado en las series 700 y 800, el cuatrimotor de Weybrid
 
 El Vickers Viscount inauguró la presencia de los motores de turbina en el transporte civil de pasajeros y tendió el puente tecnológico entre la era del pistón y la de los reactores comerciales. Sus 445 unidades sirvieron durante más de cuatro décadas con más de sesenta operadores de los cinco continentes, mientras su motor Rolls-Royce Dart permaneció en producción hasta 1987 como una de las plantas motrices más longevas y fiables de la historia aeronáutica. Diversos ejemplares de las series 700 y 800 se conservan hoy en museos del Reino Unido, Canadá, Estados Unidos y Australia como testimonio del primer turbohélice comercial del mundo.
 
-En Sudamérica, el Museo Aeronáutico Jaime Meregalli exhibe el Viscount 827 CX-BJA. Las <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1936/11/20/fundacion-pluna-montevideo-salto.html" style="color: #315fea; text-decoration: none;">Primeras Líneas Uruguayas de Navegación Aérea (PLUNA)</a> operaron ocho Viscount y donaron este ejemplar al museo en 1984.
+En Sudamérica, el Museo Aeronáutico Jaime Meregalli exhibe el Viscount 827 CX-BJA. Las <a href="https://www.efemeridesdeaviacion.com/fundacion/1936/11/20/fundacion-pluna-montevideo-salto.html" style="color: #315fea; text-decoration: none;">Primeras Líneas Uruguayas de Navegación Aérea (PLUNA)</a> operaron ocho Viscount y donaron este ejemplar al museo en 1984.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -75,11 +75,11 @@ El avión fue además más sencillo de reparar que el Spitfire, una característ
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-El vuelo de Bulman en el K5083 abrió el camino desde el caza biplano hacia una fuerza aérea equipada con monoplanos modernos. En 1936, otro prototipo británico realizó su primer vuelo: el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1936/03/05/primer-vuelo-supermarine-spitfire.html" style="color: #315fea; text-decoration: none;">Supermarine Spitfire</a>. La RAF emplearía ambos modelos durante la Batalla de Inglaterra, episodio en el que el Hurricane tuvo un papel central y equipó más escuadrones que su célebre compañero.
+El vuelo de Bulman en el K5083 abrió el camino desde el caza biplano hacia una fuerza aérea equipada con monoplanos modernos. En 1936, otro prototipo británico realizó su primer vuelo: el <a href="https://www.efemeridesdeaviacion.com/evento/1936/03/05/primer-vuelo-supermarine-spitfire.html" style="color: #315fea; text-decoration: none;">Supermarine Spitfire</a>. La RAF emplearía ambos modelos durante la Batalla de Inglaterra, episodio en el que el Hurricane tuvo un papel central y equipó más escuadrones que su célebre compañero.
 
 La fecha del primer vuelo también marca el comienzo de una trayectoria que no debe confundirse con la entrada en servicio: el K5083 voló en 1935; el primer avión de producción voló en 1937 y los Hurricane comenzaron a llegar a escuadrones ese mismo año. 
 
-La contribución del Hurricane se recuerda en la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1940/09/15/dia-de-la-batalla-de-inglaterra.html" style="color: #315fea; text-decoration: none;">jornada culminante de la Batalla de Inglaterra</a>, pero su historia empezó cinco años antes en la pista de Brooklands: con un primer vuelo que confirmó que el diseño de Camm podía pasar del papel al aire.
+La contribución del Hurricane se recuerda en la <a href="https://www.efemeridesdeaviacion.com/evento/1940/09/15/dia-de-la-batalla-de-inglaterra.html" style="color: #315fea; text-decoration: none;">jornada culminante de la Batalla de Inglaterra</a>, pero su historia empezó cinco años antes en la pista de Brooklands: con un primer vuelo que confirmó que el diseño de Camm podía pasar del papel al aire.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -55,7 +55,7 @@ Walker cruzó las 50 millas en tres ocasiones, pero solo en dos superó los 100 
 
 ### Entorno tecnológico
 
-El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15, que había volado por primera vez el 8 de junio de 1959</a>, no era un avión en el sentido corriente. No despegaba: lo soltaba un B-52 a trece kilómetros de altura. No tenía autonomía: su motor cohete quemaba amoníaco anhidro y oxígeno líquido durante poco más de un minuto y medio, y el resto del vuelo era una caída controlada. No aterrizaba en pista, sino sobre la costra de un lago seco del desierto de Mojave.
+El <a href="https://www.efemeridesdeaviacion.com/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15, que había volado por primera vez el 8 de junio de 1959</a>, no era un avión en el sentido corriente. No despegaba: lo soltaba un B-52 a trece kilómetros de altura. No tenía autonomía: su motor cohete quemaba amoníaco anhidro y oxígeno líquido durante poco más de un minuto y medio, y el resto del vuelo era una caída controlada. No aterrizaba en pista, sino sobre la costra de un lago seco del desierto de Mojave.
 
 Fue un programa conjunto de la NASA, la Fuerza Aérea y la Armada de Estados Unidos, con tres aparatos construidos por North American Aviation. Su misión era averiguar qué le ocurre a una máquina y a un ser humano en el vacío y a velocidades hipersónicas, un terreno que en 1959 nadie había pisado.
 
@@ -72,7 +72,7 @@ Esa condición, irrelevante en el aire, pesó mucho en tierra: los pilotos milit
 - **25 de marzo de 1960:** Walker realiza su primer vuelo en el X-15. Es el primer piloto de la NASA en volarlo, el segundo del programa tras Scott Crossfield.
 - **27 de junio de 1962:** alcanza 4.104 mph, Mach 5,92, la mayor velocidad que Walker logró en su carrera.
 - **17 de enero de 1963:** en el vuelo 77 llega a 271.000 pies (82,6 km). Supera las 50 millas de la Fuerza Aérea, pero no los 100 km de la FAI.
-- **19 de junio de 1963:** <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/06/19/valentina-tereshkova-primera-mujer-viajo-espacio.html" style="color: #315fea; text-decoration: none;">Valentina Tereshkova regresa a la Tierra tras 48 órbitas en la Vostok 6</a>, dos meses antes del vuelo de Walker.
+- **19 de junio de 1963:** <a href="https://www.efemeridesdeaviacion.com/espacial/1963/06/19/valentina-tereshkova-primera-mujer-viajo-espacio.html" style="color: #315fea; text-decoration: none;">Valentina Tereshkova regresa a la Tierra tras 48 órbitas en la Vostok 6</a>, dos meses antes del vuelo de Walker.
 - **19 de julio de 1963:** vuelo 90. Walker alcanza 106 km y cruza por primera vez la línea de Kármán con un avión.
 - **22 de agosto de 1963, 10:05:57:** el NB-52A suelta el X-15 número 3 sobre Smith Ranch Dry Lake. Walker enciende el XLR99 y asciende con 45 grados de inclinación.
 - **Segundo 85,8:** el motor se apaga al agotar el propulsante, algo más tarde de los 84,5 segundos previstos. Walker pasa por 176.000 pies a 1.707 metros por segundo.
@@ -85,15 +85,15 @@ Esa condición, irrelevante en el aire, pesó mucho en tierra: los pilotos milit
 
 ## Consecuencias e Impacto
 
-El vuelo 91 fue **el más alto de los 199 que realizó el programa X-15** entre 1959 y 1968. La marca de altitud para una aeronave alada pilotada resistió cuarenta y un años, hasta que <a href="https://efemerides-aviacion.github.io/efemerides/espacial/2004/06/21/primer-vuelo-spaceshipone-tripulado-privado.html" style="color: #315fea; text-decoration: none;">SpaceShipOne, que voló por primera vez al espacio el 21 de junio de 2004</a>, la superó en su último vuelo de aquel año.
+El vuelo 91 fue **el más alto de los 199 que realizó el programa X-15** entre 1959 y 1968. La marca de altitud para una aeronave alada pilotada resistió cuarenta y un años, hasta que <a href="https://www.efemeridesdeaviacion.com/espacial/2004/06/21/primer-vuelo-spaceshipone-tripulado-privado.html" style="color: #315fea; text-decoration: none;">SpaceShipOne, que voló por primera vez al espacio el 21 de junio de 2004</a>, la superó en su último vuelo de aquel año.
 
 Hay un detalle poco citado y de largo alcance: Walker voló al espacio **dos veces con el mismo aparato**, el número 3. El vuelo 91 fue, por tanto, el primer vuelo espacial reconocido internacionalmente de una **nave reutilizada**, un concepto que tardaría décadas en volverse cotidiano.
 
 La información recogida sobre control de actitud con toberas de reacción en el vacío, calentamiento por reentrada y comportamiento del piloto en ingravidez alimentó directamente los programas que vinieron después, del X-20 Dyna-Soar al transbordador espacial.
 
-Walker dejó el X-15 aquel mismo día. Fue destinado al **Lunar Landing Research Vehicle**, el artefacto con el que se ensayó el descenso a la Luna y que después usaría <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1930/08/05/nacimiento-neil-armstrong.html" style="color: #315fea; text-decoration: none;">Neil Armstrong, nacido el 5 de agosto de 1930</a>, para entrenarse.
+Walker dejó el X-15 aquel mismo día. Fue destinado al **Lunar Landing Research Vehicle**, el artefacto con el que se ensayó el descenso a la Luna y que después usaría <a href="https://www.efemeridesdeaviacion.com/nacimiento/1930/08/05/nacimiento-neil-armstrong.html" style="color: #315fea; text-decoration: none;">Neil Armstrong, nacido el 5 de agosto de 1930</a>, para entrenarse.
 
-**Murió el 8 de junio de 1966**, a los 45 años, cuando el F-104N que pilotaba <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1966/06/08/colision-en-aire-f104-xb70-vuelo-formacion.html" style="color: #315fea; text-decoration: none;">colisionó con el prototipo XB-70 Valkyrie durante una sesión fotográfica en formación cerrada</a>, cerca de Barstow, California.
+**Murió el 8 de junio de 1966**, a los 45 años, cuando el F-104N que pilotaba <a href="https://www.efemeridesdeaviacion.com/accidente/1966/06/08/colision-en-aire-f104-xb70-vuelo-formacion.html" style="color: #315fea; text-decoration: none;">colisionó con el prototipo XB-70 Valkyrie durante una sesión fotográfica en formación cerrada</a>, cerca de Barstow, California.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -101,7 +101,7 @@ Walker dejó el X-15 aquel mismo día. Fue destinado al **Lunar Landing Research
 
 Dentro de la investigación hipersónica, el vuelo 91 sigue siendo la cota máxima de un avión pilotado que despega y aterriza como tal.
 
-El reconocimiento oficial, en cambio, llegó tarde y de forma póstuma. Los pilotos militares del X-15 que pasaron de las 50 millas —entre ellos <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1924/07/06/nacimiento-robert-white-x15-astronauta.html" style="color: #315fea; text-decoration: none;">Robert White, nacido el 6 de julio de 1924</a>— recibieron sus alas de astronauta en su momento. Los civiles quedaron fuera durante cuatro décadas.
+El reconocimiento oficial, en cambio, llegó tarde y de forma póstuma. Los pilotos militares del X-15 que pasaron de las 50 millas —entre ellos <a href="https://www.efemeridesdeaviacion.com/nacimiento/1924/07/06/nacimiento-robert-white-x15-astronauta.html" style="color: #315fea; text-decoration: none;">Robert White, nacido el 6 de julio de 1924</a>— recibieron sus alas de astronauta en su momento. Los civiles quedaron fuera durante cuatro décadas.
 
 **El 23 de agosto de 2005**, en una ceremonia discreta en el centro Dryden de la NASA, en la misma base desde la que había despegado, se entregaron las alas de astronauta civil a Bill Dana y a las familias de John B. McKay y de **Joseph A. Walker**. Cuarenta y dos años después del vuelo, y treinta y nueve después de su muerte.
 

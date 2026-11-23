@@ -38,7 +38,7 @@ image: 1967-10-03-record-mundial-velocidad-x-15a-2-knight-mach-6-72.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-Para octubre de 1967 el X-15 llevaba ocho años volando como laboratorio hipersónico de un esfuerzo conjunto de la NASA con la Fuerza Aérea, la Armada y North American Aviation: <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">el X-15, cuyo primer vuelo —un planeo sin motor a los mandos de Scott Crossfield— había tenido lugar el 8 de junio de 1959</a>. De los tres aviones construidos, el número 2 —reconstruido como X-15A-2 tras su accidente de 1962— era la apuesta para la velocidad máxima: más largo, con tanques externos y cubierto de blanco para resistir el calor.
+Para octubre de 1967 el X-15 llevaba ocho años volando como laboratorio hipersónico de un esfuerzo conjunto de la NASA con la Fuerza Aérea, la Armada y North American Aviation: <a href="https://www.efemeridesdeaviacion.com/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">el X-15, cuyo primer vuelo —un planeo sin motor a los mandos de Scott Crossfield— había tenido lugar el 8 de junio de 1959</a>. De los tres aviones construidos, el número 2 —reconstruido como X-15A-2 tras su accidente de 1962— era la apuesta para la velocidad máxima: más largo, con tanques externos y cubierto de blanco para resistir el calor.
 
 ### Entorno social
 En 1967 la Luna era el horizonte declarado de la técnica estadounidense, y el X-15 veterano seguía aportando los datos con que se diseñaban las naves Mercury, Gemini y Apolo. Doce pilotos se turnaban en el programa —cinco de la NASA, cinco de la Fuerza Aérea, uno de la Armada y uno de North American—, y Knight, Mayor de la Fuerza Aérea, era uno de los cinco militares del grupo.
@@ -53,7 +53,7 @@ Medio siglo después, la propia NASA presenta a Knight como el auténtico «homb
 
 ## Desarrollo Cronológico
 - **9 de noviembre de 1962:** John «Jack» McKay sufre un fallo de motor y ha de aterrizar de emergencia con el avión número 2 en el lago Mud; el tren de aterrizaje se colapsa y el aparato queda gravemente dañado.
-- **22 de agosto de 1963:** <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">Joseph Walker lleva el X-15 número 3 a 354.200 pies en el vuelo 91</a>, la marca de altitud del programa.
+- **22 de agosto de 1963:** <a href="https://www.efemeridesdeaviacion.com/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">Joseph Walker lleva el X-15 número 3 a 354.200 pies en el vuelo 91</a>, la marca de altitud del programa.
 - **Febrero de 1964:** el avión reconstruido se entrega a la NASA como X-15A-2, con el fuselaje alargado y la provisión para el estatorreactor.
 - **Junio de 1967:** el X-15A-2 recibe el revestimiento ablativo integral y la capa sellante blanca, y queda configurado para el intento de velocidad máxima.
 - **3 de octubre de 1967:** tras un despegue demorado por problemas menores ya corregidos, el NB-52B Balls 8 transporta el X-15A-2 bajo su ala derecha hasta la altitud de lanzamiento.
@@ -77,7 +77,7 @@ El récord fue también el canto del cisne del 56-6671: devuelto a North America
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-- **El homenaje:** el presidente Lyndon B. Johnson entregó a Knight <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1866/07/01/nacimiento-clifford-burke-harmon-premio-aeronautico.html" style="color: #315fea; text-decoration: none;">el Trofeo Internacional Harmon</a> en la Casa Blanca.
+- **El homenaje:** el presidente Lyndon B. Johnson entregó a Knight <a href="https://www.efemeridesdeaviacion.com/nacimiento/1866/07/01/nacimiento-clifford-burke-harmon-premio-aeronautico.html" style="color: #315fea; text-decoration: none;">el Trofeo Internacional Harmon</a> en la Casa Blanca.
 - **Plusmarca invicta de velocidad tripulada:** ningún otro avión cohete pilotado ha superado Mach 6,72, y la NASA mantiene a Knight como el hombre más veloz de la aviación.
 - **La lección:** el daño térmico imprevisto —las ondas del simulador que fundieron el Inconel— aportó datos sobre interacción de ondas de choque y calentamiento turbulento que la NASA cuenta entre los hallazgos del programa.
 

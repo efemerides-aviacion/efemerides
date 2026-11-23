@@ -1,6 +1,7 @@
 # Instrucciones de formato de salida para efemérides
 > Última actualización: 2026-11-16  
 > Versión: v2.26
+> Corrección del 23-11-2026 (errata sobre la v2.26, sin cambio de versión; §7.1.6 del Estado): el patrón canónico de los enlaces internos pasa a `https://www.efemeridesdeaviacion.com/…`, conforme a la Fase 2 de migración de dominio (§8.4). Solo se sustituye el prefijo; la fecha en barras, el slug sin guion terminal y el orden de categorías del YAML no cambian.
 
 ---
 
@@ -180,7 +181,7 @@ Todo enlace insertado en párrafos narrativos debe usar HTML inline con este est
 La URL de toda efeméride publicada sigue el patrón canónico de Jekyll:
 
 ```
-https://efemerides-aviacion.github.io/efemerides/:categoria/:año/:mes/:día/:slug.html
+https://www.efemeridesdeaviacion.com/:categoria/:año/:mes/:día/:slug.html
 ```
 
 La fecha va **en barras** (`/1897/01/06/`), nunca unida por guiones
@@ -194,7 +195,7 @@ patrón, no contra el nombre del archivo.
 **una ruta que contiene un segmento por categoría, en el orden del YAML**:
 
 ```
-https://efemerides-aviacion.github.io/efemerides/espacial/accidente/1986/01/28/accidente-challenger-sts51l.html
+https://www.efemeridesdeaviacion.com/espacial/accidente/1986/01/28/accidente-challenger-sts51l.html
 ```
 
 El resto del patrón no cambia (fecha en barras, slug sin guion terminal); enlazar

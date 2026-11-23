@@ -60,10 +60,10 @@ Los relatos sobre la selección de pasajeros atribuyen a Luis XVI la propuesta d
 ## Desarrollo Cronológico
 - **4 de junio de 1783:** los Montgolfier presentan en Annonay un aparato sin pasajeros.
 - **27 de agosto:** Jacques Charles envía al aire un globo de hidrógeno sin tripulación.
-- **19 de septiembre:** en Versalles, animales viajan en una envolvente de los Montgolfier; la experiencia queda narrada en la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/09/19/primer-vuelo-globo-con-seres-vivos-versalles.html" style="color: #315fea; text-decoration: none;">Vuelo de un globo Montgolfier con animales (oveja, pato, gallo) en Versalles</a>.
+- **19 de septiembre:** en Versalles, animales viajan en una envolvente de los Montgolfier; la experiencia queda narrada en la <a href="https://www.efemeridesdeaviacion.com/evento/1783/09/19/primer-vuelo-globo-con-seres-vivos-versalles.html" style="color: #315fea; text-decoration: none;">Vuelo de un globo Montgolfier con animales (oveja, pato, gallo) en Versalles</a>.
 - **21 de noviembre:** los dos aeronautas realizan la primera travesía humana sin amarras en París.
-- **1 de diciembre:** Jacques Charles y Nicolas-Louis Robert <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">realizan el primer vuelo tripulado en globo de hidrógeno</a>.
-- **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries <a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">cruzan el Canal de la Mancha en globo</a>.
+- **1 de diciembre:** Jacques Charles y Nicolas-Louis Robert <a href="https://www.efemeridesdeaviacion.com/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">realizan el primer vuelo tripulado en globo de hidrógeno</a>.
+- **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries <a href="https://www.efemeridesdeaviacion.com/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">cruzan el Canal de la Mancha en globo</a>.
 - **15 de junio de 1785:** el físico muere durante un intento de travesía hacia Inglaterra.
 
 ### La travesía de París
@@ -80,7 +80,7 @@ La ascensión reunió a un profesor habituado a los experimentos y a un aristóc
 
 #### El físico de Metz
 
-Pilâtre de Rozier enseñaba química y física y había participado en demostraciones previas. Su formación le permitió ocuparse del calor durante el ascenso, mientras su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/10/15/pilatre-de-rozier-primera-ascension-humana-globo-cautivo.html" style="color: #315fea; text-decoration: none;">experiencia previa en un globo cautivo</a> le había familiarizado con el manejo de la envolvente.
+Pilâtre de Rozier enseñaba química y física y había participado en demostraciones previas. Su formación le permitió ocuparse del calor durante el ascenso, mientras su <a href="https://www.efemeridesdeaviacion.com/evento/1783/10/15/pilatre-de-rozier-primera-ascension-humana-globo-cautivo.html" style="color: #315fea; text-decoration: none;">experiencia previa en un globo cautivo</a> le había familiarizado con el manejo de la envolvente.
 
 #### El aristócrata viajero
 

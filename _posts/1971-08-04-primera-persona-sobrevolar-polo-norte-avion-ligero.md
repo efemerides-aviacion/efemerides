@@ -62,7 +62,7 @@ El vuelo coincidió con el auge del programa espacial estadounidense y con el in
 La secuencia siguiente detalla las etapas principales de la travesía y su encuadre en la trayectoria de la aviadora.
 
 - **1958:** Sheila Scott aprende a volar y realiza su primer vuelo en solitario en el aeródromo de Thruxton tras nueve meses de instrucción.
-- **18 de mayo a 20 de junio de 1966:** completa su primera vuelta al mundo en solitario con el Piper Comanche 260B G-ATOY *Myth Too*, monomotor, en 34 días y unas 31.000 millas. Dos años antes, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1925/11/22/nacimiento-jerrie-mock.html" style="color: #315fea; text-decoration: none;">Jerrie Mock había completado la primera circunnavegación aérea femenina en solitario</a>.
+- **18 de mayo a 20 de junio de 1966:** completa su primera vuelta al mundo en solitario con el Piper Comanche 260B G-ATOY *Myth Too*, monomotor, en 34 días y unas 31.000 millas. Dos años antes, <a href="https://www.efemeridesdeaviacion.com/nacimiento/1925/11/22/nacimiento-jerrie-mock.html" style="color: #315fea; text-decoration: none;">Jerrie Mock había completado la primera circunnavegación aérea femenina en solitario</a>.
 - **1969-1970:** participa en la carrera aérea Londres-Sídney y encadena a continuación su segunda circunnavegación.
 - **3 de marzo de 1971:** se matricula en el Reino Unido el Piper Aztec D G-AYTO, que recibirá el nombre de *Mythre*.
 - **11 de junio de 1971:** despega de Nairobi e inicia el tramo ecuador-polo-ecuador con escalas en Jartum, Bengasi y Malta.

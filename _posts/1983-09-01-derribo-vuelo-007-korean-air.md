@@ -30,7 +30,7 @@ image: 1983-09-01-derribo-vuelo-007-korean-air.webp
 - **Fecha y hora del derribo:** poco después de las 18:26 UTC del 31 de agosto de 1983 (06:26 del 1 de septiembre, hora local de Sajalín).
 - **Lugar:** mar del Japón, junto a la isla Monerón, 39 km al oeste de Sajalín (entonces RSFS de Rusia, Unión Soviética).
 - **Vuelo y ruta:** KE007 / KAL007 de Korean Air Lines, entre Nueva York (JFK) y Seúl (Gimpo) con escala en Anchorage.
-- **Aeronave:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1969/02/09/boeing-747-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Boeing 747-230B</a>, matrícula `HL7442` (n/s `20559`, entregado a Condor en 1972 como `D-ABYH` y adquirido por Korean Air en 1979), con motores Pratt &amp; Whitney JT9D-7A.
+- **Aeronave:** <a href="https://www.efemeridesdeaviacion.com/evento/1969/02/09/boeing-747-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Boeing 747-230B</a>, matrícula `HL7442` (n/s `20559`, entregado a Condor en 1972 como `D-ABYH` y adquirido por Korean Air en 1979), con motores Pratt &amp; Whitney JT9D-7A.
 - **Ocupantes y víctimas:** 269 fallecidos (246 pasajeros y 23 tripulantes), sin supervivientes; entre los pasajeros viajaban 22 menores y el representante estadounidense Larry McDonald.
 - **Tripulación de mando:** Capitán Chun Byung-in (45 años, 10.627 horas de vuelo), Primer Oficial Son Dong-hui (47) e Ingeniero de Vuelo Kim Eui-dong (31).
 - **Causa de la desviación (OACI):** permanencia del piloto automático en modo de rumbo magnético (`245°`) en lugar del modo de navegación inercial (`INS`) tras pasar Bethel, agravada por encontrarse en mantenimiento el radiofaro VOR de Anchorage.
@@ -52,7 +52,7 @@ El 747 Classic cruzaba el Pacífico Norte guiado por tres sistemas de navegació
 
 ### Entorno cultural
 
-La Guerra Fría convirtió una desviación de rumbo en una crisis diplomática mundial. Moscú negó inicialmente el incidente y luego sostuvo que el 747 cumplía una misión de espionaje; el 5 de septiembre el presidente Ronald Reagan calificó el ataque de «masacre» y «crimen contra la humanidad», mientras el 28 de septiembre Yuri Andropov lo atribuyó a una «provocación deliberada». Cuatro años después, el temor de la cadena de mando soviética a repetir un derribo civil facilitaría indirectamente que <a href="https://efemerides-aviacion.github.io/efemerides/evento/1987/05/28/mathias-rust-aterriza-avioneta-plaza-roja-moscu.html" style="color: #315fea; text-decoration: none;">el joven alemán Mathias Rust aterrizara con su Cessna 172 junto a la Plaza Roja de Moscú</a>.
+La Guerra Fría convirtió una desviación de rumbo en una crisis diplomática mundial. Moscú negó inicialmente el incidente y luego sostuvo que el 747 cumplía una misión de espionaje; el 5 de septiembre el presidente Ronald Reagan calificó el ataque de «masacre» y «crimen contra la humanidad», mientras el 28 de septiembre Yuri Andropov lo atribuyó a una «provocación deliberada». Cuatro años después, el temor de la cadena de mando soviética a repetir un derribo civil facilitaría indirectamente que <a href="https://www.efemeridesdeaviacion.com/evento/1987/05/28/mathias-rust-aterriza-avioneta-plaza-roja-moscu.html" style="color: #315fea; text-decoration: none;">el joven alemán Mathias Rust aterrizara con su Cessna 172 junto a la Plaza Roja de Moscú</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

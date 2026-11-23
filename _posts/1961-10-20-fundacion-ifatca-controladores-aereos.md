@@ -87,7 +87,7 @@ En aviación, las reglas y la tecnología solo funcionan dentro de una organizac
 
 Cada 20 de octubre, la jornada recuerda a quienes mantienen el flujo de aeronaves en funcionamiento día y noche, también cuando el público no los ve. En 2026, IFATCA vinculó la celebración a su 65.º aniversario y señaló que había crecido desde las asociaciones fundadoras hasta superar las 130 asociaciones miembro en el mundo.
 
-La importancia del factor humano se aprecia también en la historia posterior del control de superficie. La <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1991/02/01/colision-pista-los-angeles.html" style="color: #315fea; text-decoration: none;">colisión en pista de Los Ángeles de 1991</a> dejó documentados los efectos que pueden tener la carga de trabajo, la coordinación y el diseño de los sistemas en una torre. No es la misma historia que la fundación de IFATCA, pero recuerda por qué la voz profesional de los controladores y la atención a los factores humanos siguen siendo relevantes.
+La importancia del factor humano se aprecia también en la historia posterior del control de superficie. La <a href="https://www.efemeridesdeaviacion.com/accidente/1991/02/01/colision-pista-los-angeles.html" style="color: #315fea; text-decoration: none;">colisión en pista de Los Ángeles de 1991</a> dejó documentados los efectos que pueden tener la carga de trabajo, la coordinación y el diseño de los sistemas en una torre. No es la misma historia que la fundación de IFATCA, pero recuerda por qué la voz profesional de los controladores y la atención a los factores humanos siguen siendo relevantes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
 

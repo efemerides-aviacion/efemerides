@@ -90,9 +90,9 @@ La incorporación del hecho a la cronología de la Fuerza Aérea estadounidense 
 
 ## Legado
 
-El caso forma parte de una secuencia de experiencias distintas. En París, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/06/27/aida-de-acosta-primera-mujer-vuelo-solo-dirigible.html" style="color: #315fea; text-decoration: none;">Aida de Acosta había gobernado el dirigible n.º 9 de Santos-Dumont en 1903</a>. Ese antecedente impide adjudicar a Miller una primacía mundial de pilotaje.
+El caso forma parte de una secuencia de experiencias distintas. En París, <a href="https://www.efemeridesdeaviacion.com/evento/1903/06/27/aida-de-acosta-primera-mujer-vuelo-solo-dirigible.html" style="color: #315fea; text-decoration: none;">Aida de Acosta había gobernado el dirigible n.º 9 de Santos-Dumont en 1903</a>. Ese antecedente impide adjudicar a Miller una primacía mundial de pilotaje.
 
-Más adelante llegarían las licencias y las trayectorias profesionales: <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1875/05/11/nacimiento-de-harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Harriet Quimby obtuvo en 1911 el certificado estadounidense n.º 37</a>. No son versiones del mismo hito, sino pasos diferentes en la relación de las mujeres con el vuelo. El valor documental de Franklin reside precisamente en conservar su escala: una pasajera, un viaje particular y el testimonio de cómo fue recibido.
+Más adelante llegarían las licencias y las trayectorias profesionales: <a href="https://www.efemeridesdeaviacion.com/nacimiento/1875/05/11/nacimiento-de-harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Harriet Quimby obtuvo en 1911 el certificado estadounidense n.º 37</a>. No son versiones del mismo hito, sino pasos diferentes en la relación de las mujeres con el vuelo. El valor documental de Franklin reside precisamente en conservar su escala: una pasajera, un viaje particular y el testimonio de cómo fue recibido.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -68,7 +68,7 @@ La figura del as convertía los partes militares en relatos de éxito personal. 
 
 La difusión de procedimientos flexibles de combate contribuyó a la evolución de la caza, pero el rendimiento de una unidad dependía también del entrenamiento, las comunicaciones, el material y la situación operativa. Una explicación basada exclusivamente en la personalidad del jefe resulta insuficiente.
 
-La trayectoria de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1912/03/19/nacimiento-adolf-galland.html" style="color: #315fea; text-decoration: none;">Adolf Galland</a> permite estudiar otro recorrido de mando dentro de la misma organización. Comparar ambas biografías ayuda a distinguir decisiones institucionales y carreras personales, sin convertir su notoriedad en una valoración favorable del sistema político que las promovió.
+La trayectoria de <a href="https://www.efemeridesdeaviacion.com/nacimiento/1912/03/19/nacimiento-adolf-galland.html" style="color: #315fea; text-decoration: none;">Adolf Galland</a> permite estudiar otro recorrido de mando dentro de la misma organización. Comparar ambas biografías ayuda a distinguir decisiones institucionales y carreras personales, sin convertir su notoriedad en una valoración favorable del sistema político que las promovió.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

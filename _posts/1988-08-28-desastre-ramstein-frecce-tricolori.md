@@ -93,7 +93,7 @@ De las setenta víctimas mortales, treinta y una murieron en el acto y treinta y
 
 Ramstein fijó la regla cardinal de las exhibiciones aéreas modernas: ninguna maniobra puede proyectar su energía hacia el público. Los restos de los tres aparatos se conservan en el Museo de la Aviación de Rímini junto a un monolito conmemorativo, y en Ramstein dos memoriales —uno junto a la iglesia de San Nicolás y otro cerca de la base— recuerdan por su nombre a las setenta víctimas. Las Frecce Tricolori siguen volando el *cardioide*, pero ya nunca hacia las gradas.
 
-La huella cultural incluye a la banda alemana **Rammstein**, que tomó su nombre de la tragedia, y al productor musical **Boris Brejcha**, que tenía seis años y sufrió graves quemaduras entre el público. Seis años antes, en enero de 1982, los <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1982/01/18/thunderbirds-indian-springs.html" style="color: #315fea; text-decoration: none;">Thunderbirds de la USAF habían perdido cuatro aparatos y cuatro pilotos en un entrenamiento en Indian Springs</a>, un accidente sin espectadores en tierra.
+La huella cultural incluye a la banda alemana **Rammstein**, que tomó su nombre de la tragedia, y al productor musical **Boris Brejcha**, que tenía seis años y sufrió graves quemaduras entre el público. Seis años antes, en enero de 1982, los <a href="https://www.efemeridesdeaviacion.com/accidente/1982/01/18/thunderbirds-indian-springs.html" style="color: #315fea; text-decoration: none;">Thunderbirds de la USAF habían perdido cuatro aparatos y cuatro pilotos en un entrenamiento en Indian Springs</a>, un accidente sin espectadores en tierra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

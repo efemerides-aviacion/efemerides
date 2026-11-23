@@ -89,7 +89,7 @@ Con la entrada estadounidense en la Gran Guerra, el acuerdo de licencias de 1917
 
 El expediente conserva el razonamiento técnico de sus autores y permite leer qué afirmaban haber inventado, en lugar de atribuirles retrospectivamente cualquier avance aeronáutico. Su recuperación archivística dio nueva visibilidad a un documento importante para estudiar la relación entre experimentación y propiedad industrial.
 
-También obliga a separar controversias de distinta naturaleza. La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1901/08/14/presunto-vuelo-de-gustave-whitehead.html" style="color: #315fea; text-decoration: none;">reclamación de un vuelo de Gustave Whitehead en 1901</a> pertenece al debate sobre evidencias históricas de vuelo. No se confirma ni se refuta únicamente mediante una resolución de patentes. El valor duradero del expediente Wright reside en lo que permite conocer sobre el control y su protección jurídica, sin convertirlo en una certificación universal de prioridades.
+También obliga a separar controversias de distinta naturaleza. La <a href="https://www.efemeridesdeaviacion.com/evento/1901/08/14/presunto-vuelo-de-gustave-whitehead.html" style="color: #315fea; text-decoration: none;">reclamación de un vuelo de Gustave Whitehead en 1901</a> pertenece al debate sobre evidencias históricas de vuelo. No se confirma ni se refuta únicamente mediante una resolución de patentes. El valor duradero del expediente Wright reside en lo que permite conocer sobre el control y su protección jurídica, sin convertirlo en una certificación universal de prioridades.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

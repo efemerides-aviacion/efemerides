@@ -45,7 +45,7 @@ La trayectoria de Armstrong recorre en tres décadas el trayecto que va del avi�
 
 ### Entorno social
 
-Nació en el primer año de la Gran Depresión, en una pequeña localidad del Medio Oeste, hijo de un auditor del estado de Ohio que mudaba a la familia con frecuencia. Aquella América rural vibraba con la aviación, alimentada por exhibiciones aéreas y por figuras como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1902/02/04/nacimiento-charles-lindbergh.html" style="color: #315fea; text-decoration: none;">Lindbergh</a>. Armstrong se sacó su certificado de alumno piloto el día que cumplió dieciséis años y voló solo por primera vez en agosto de aquel mismo año, antes de disponer de permiso de conducir. Fue Eagle Scout, la máxima distinción del escultismo estadounidense, y llevó a la Luna una insignia scout mundial.
+Nació en el primer año de la Gran Depresión, en una pequeña localidad del Medio Oeste, hijo de un auditor del estado de Ohio que mudaba a la familia con frecuencia. Aquella América rural vibraba con la aviación, alimentada por exhibiciones aéreas y por figuras como <a href="https://www.efemeridesdeaviacion.com/nacimiento/1902/02/04/nacimiento-charles-lindbergh.html" style="color: #315fea; text-decoration: none;">Lindbergh</a>. Armstrong se sacó su certificado de alumno piloto el día que cumplió dieciséis años y voló solo por primera vez en agosto de aquel mismo año, antes de disponer de permiso de conducir. Fue Eagle Scout, la máxima distinción del escultismo estadounidense, y llevó a la Luna una insignia scout mundial.
 
 ### Entorno tecnológico
 
@@ -69,14 +69,14 @@ La secuencia recorre las etapas sucesivas de una carrera que enlaza la aviación
 - **5 de marzo de 1952:** última de sus setenta y ocho misiones de combate sobre Corea.
 - **Enero de 1955:** se gradúa en Ingeniería Aeronáutica por Purdue e ingresa poco después como piloto de pruebas en el NACA.
 - **15 de agosto de 1957:** primer vuelo en un aparato propulsado por cohete, un Bell X-1B.
-- **30 de noviembre de 1960 a 26 de julio de 1962:** completa sus siete ascensos a bordo del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15</a>, alcanzando Mach 5,74. Comparte programa con Joe Walker, entonces jefe de pilotos de investigación de la NASA, que <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">llevaría el avión cohete hasta los 108 kilómetros en agosto de 1963</a>.
+- **30 de noviembre de 1960 a 26 de julio de 1962:** completa sus siete ascensos a bordo del <a href="https://www.efemeridesdeaviacion.com/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15</a>, alcanzando Mach 5,74. Comparte programa con Joe Walker, entonces jefe de pilotos de investigación de la NASA, que <a href="https://www.efemeridesdeaviacion.com/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">llevaría el avión cohete hasta los 108 kilómetros en agosto de 1963</a>.
 - **1962:** es seleccionado en el segundo grupo de astronautas de la NASA.
 - **16 de marzo de 1966:** comanda el Gemini 8 junto a David Scott: primer acoplamiento de dos naves en órbita; un propulsor bloqueado obliga a abortar tras dominar un giro peligroso.
 - **16 de julio de 1969:** despega del Centro Espacial Kennedy con el Apolo 11, con Aldrin y Collins.
-- **20 de julio de 1969:** protagoniza <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/07/20/alunizaje-apolo11.html" style="color: #315fea; text-decoration: none;">el alunizaje del Apolo 11</a> en el Mar de la Tranquilidad y desciende a la superficie lunar.
+- **20 de julio de 1969:** protagoniza <a href="https://www.efemeridesdeaviacion.com/espacial/1969/07/20/alunizaje-apolo11.html" style="color: #315fea; text-decoration: none;">el alunizaje del Apolo 11</a> en el Mar de la Tranquilidad y desciende a la superficie lunar.
 - **1970:** obtiene su máster por la USC, en Los Ángeles, y colabora con los equipos que investigan el accidente del Apolo 13.
 - **1971:** abandona la NASA e ingresa como profesor de Ingeniería Aeroespacial en la Universidad de Cincinnati, hasta 1979.
-- **1986:** forma parte de la Comisión Rogers, que investiga <a href="https://efemerides-aviacion.github.io/efemerides/espacial/accidente/1986/01/28/accidente-challenger-sts51l.html" style="color: #315fea; text-decoration: none;">el accidente del transbordador Challenger</a>.
+- **1986:** forma parte de la Comisión Rogers, que investiga <a href="https://www.efemeridesdeaviacion.com/espacial/accidente/1986/01/28/accidente-challenger-sts51l.html" style="color: #315fea; text-decoration: none;">el accidente del transbordador Challenger</a>.
 - **25 de agosto de 2012:** fallece en Ohio a los 82 años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

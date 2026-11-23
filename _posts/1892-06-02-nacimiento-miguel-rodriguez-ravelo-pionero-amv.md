@@ -42,7 +42,7 @@ image: 1892-06-02-nacimiento-miguel-rodriguez-ravelo-pionero-amv.webp
 
 ## Contexto Histórico
 
-La aviación militar venezolana nació bajo la presidencia de Juan Vicente Gómez con <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/12/10/fundacion-fuerza-aerea-venezolana.html" style="color: #315fea; text-decoration: none;">el decreto del 10 de diciembre de 1920</a>, y creció durante los años veinte como apéndice del Ejército, con Maracay por cuna. En ese vivero se formó la primera generación de pilotos militares venezolanos, a la que perteneció Rodríguez.
+La aviación militar venezolana nació bajo la presidencia de Juan Vicente Gómez con <a href="https://www.efemeridesdeaviacion.com/fundacion/1920/12/10/fundacion-fuerza-aerea-venezolana.html" style="color: #315fea; text-decoration: none;">el decreto del 10 de diciembre de 1920</a>, y creció durante los años veinte como apéndice del Ejército, con Maracay por cuna. En ese vivero se formó la primera generación de pilotos militares venezolanos, a la que perteneció Rodríguez.
 
 ### Entorno social
 
@@ -64,7 +64,7 @@ Su vida recorre los primeros veinte años de la aviación venezolana, desde los 
 
 - **2 de junio de 1892:** nace en Villa de Cura, Estado Aragua.
 - **23 de diciembre de 1901:** con nueve años se suma en su pueblo natal a la columna del Ejército Restaurador que comandaba Juan Vicente Gómez.
-- **27 de enero de 1921:** ingresa como civil al primer grupo de alumnos de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar, fundada el 17 de abril de 1920</a>.
+- **27 de enero de 1921:** ingresa como civil al primer grupo de alumnos de la <a href="https://www.efemeridesdeaviacion.com/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar, fundada el 17 de abril de 1920</a>.
 - **1921:** realiza su primer vuelo solo en un Caudron G-3 y recibe el título definitivo de piloto el 20 de septiembre, con ascenso a Subteniente.
 - **30 de julio de 1923:** asciende a Teniente tras su vuelo sobre Caracas en un Hanriot HD-1.
 - **Hacia 1924:** ante la falta de aeronaves que casi clausura el plantel, un grupo de mecánicos recompone un Caudron G-3 con piezas de varios aparatos, bautizado «La Chiva»; Rodríguez lo vuela como piloto de prueba y demostración, y el Gobierno desiste de cerrarlo.
@@ -78,7 +78,7 @@ Su vida recorre los primeros veinte años de la aviación venezolana, desde los 
 - **1.º de octubre de 1937:** es nombrado comandante del Regimiento de Aviación N.º 1, primer oficial piloto en ocupar el cargo, y promueve la compra de aeronaves modernas en el mercado estadounidense.
 - **Diciembre de 1937:** la Aviación Militar adquiere tres North American NA-16-1GV, primeros aviones con tren retráctil del arma; Rodríguez se reserva los vuelos de prueba.
 - **9 de junio de 1938:** despega del campo de aviación de Maracay con el ingeniero John McCook; durante un ascenso, hacia los mil metros, el avión entra en pérdida y se precipita a tierra al sur de la ciudad. Ambos mueren.
-- **10 de febrero de 1940:** la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1937/12/16/creacion-escuela-aviacion-civil-venezolana.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Civil creada por decreto del 16 de diciembre de 1937</a> pasa a denominarse «Miguel Rodríguez».
+- **10 de febrero de 1940:** la <a href="https://www.efemeridesdeaviacion.com/fundacion/1937/12/16/creacion-escuela-aviacion-civil-venezolana.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Civil creada por decreto del 16 de diciembre de 1937</a> pasa a denominarse «Miguel Rodríguez».
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

@@ -48,7 +48,7 @@ El caso del vuelo 254 pasó a los manuales de factores humanos por mostrar cómo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Desarrollo Cronológico
 
-- **9 de abril de 1967:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1967/04/09/primer-vuelo-prototipo-boeing-737.html" style="color: #315fea; text-decoration: none;">vuela por primera vez el prototipo del Boeing 737</a>, modelo en cuya serie 200 operaría el PP-VMK.
+- **9 de abril de 1967:** <a href="https://www.efemeridesdeaviacion.com/evento/1967/04/09/primer-vuelo-prototipo-boeing-737.html" style="color: #315fea; text-decoration: none;">vuela por primera vez el prototipo del Boeing 737</a>, modelo en cuya serie 200 operaría el PP-VMK.
 - **3 de septiembre de 1989, 09:43:** el vuelo 254 despega de São Paulo-Guarulhos y completa sin novedad las escalas de Uberaba, Uberlândia, Goiânia, Brasilia e Imperatriz.
 - **17:20–17:45, Marabá:** mientras el Primer Oficial Zille realiza la inspección exterior, el Capitán Garcez lee el código «0270» del plan de vuelo hacia Belém y fija 270° en su HSI; al subir a cabina, Zille copia el ajuste del indicador del capitán sin contrastar su propio ejemplar del plan. El avión despega virando hacia el oeste.
 - **Primeros 40 minutos:** tras volar a nivel 290 hacia la puesta de sol, Garcez no logra sintonizar el VHF ni el VOR de Belém, utiliza a otro avión de Varig (RG266) como retransmisor para pedir descenso y baja a 4.000 pies sin reconocer el estuario amazónico ni la isla de Marajó.
@@ -61,12 +61,12 @@ El caso del vuelo 254 pasó a los manuales de factores humanos por mostrar cómo
 
 - **El factor humano y el diseño documental:** el CENIPA no halló fallo mecánico alguno y describió una secuencia de automatismos y sesgo de confirmación propiciada por el formato ambiguo del plan de vuelo informático, que Varig reformó de inmediato para imprimir explícitamente el punto decimal.
 - **Pericia en el aterrizaje forzoso:** pese al error de navegación, la decisión de mantener el avión controlado hasta el agotamiento del combustible y posarlo sobre el dosel arbóreo sin explosión salvó la vida de 41 de los 54 ocupantes.
-- **Doctrina de cabina y proceso judicial:** el siniestro reforzó en Brasil los programas de gestión de recursos de cabina (CRM) inaugurados tras la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión de Tenerife (27 de marzo de 1977)</a>, y concluyó en la vía penal con la condena de ambos pilotos a cuatro años de prisión, conmutados por trabajos comunitarios.
+- **Doctrina de cabina y proceso judicial:** el siniestro reforzó en Brasil los programas de gestión de recursos de cabina (CRM) inaugurados tras la <a href="https://www.efemeridesdeaviacion.com/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión de Tenerife (27 de marzo de 1977)</a>, y concluyó en la vía penal con la condena de ambos pilotos a cuatro años de prisión, conmutados por trabajos comunitarios.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Legado
 
-El vuelo 254 permanece en la bibliografía aeronáutica —incluida la obra *Rumo errado*, del especialista brasileño Carlos Ari Germano da Silva— como el ejemplo clásico de cómo una convención tipográfica mal comunicada puede extraviar un reactor comercial. Entre los grandes desvíos de ruta de los años ochenta, comparte primeros días de septiembre con el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1983/09/01/derribo-vuelo-007-korean-air.html" style="color: #315fea; text-decoration: none;">vuelo 007 de Korean Air</a>, derribado el 1 de septiembre de 1983 tras desviarse de su derrota sobre el Pacífico Norte.
+El vuelo 254 permanece en la bibliografía aeronáutica —incluida la obra *Rumo errado*, del especialista brasileño Carlos Ari Germano da Silva— como el ejemplo clásico de cómo una convención tipográfica mal comunicada puede extraviar un reactor comercial. Entre los grandes desvíos de ruta de los años ochenta, comparte primeros días de septiembre con el <a href="https://www.efemeridesdeaviacion.com/accidente/1983/09/01/derribo-vuelo-007-korean-air.html" style="color: #315fea; text-decoration: none;">vuelo 007 de Korean Air</a>, derribado el 1 de septiembre de 1983 tras desviarse de su derrota sobre el Pacífico Norte.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Referencias Verificadas

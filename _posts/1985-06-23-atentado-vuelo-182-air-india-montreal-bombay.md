@@ -28,7 +28,7 @@ image: 1985-06-23-atentado-vuelo-182-air-india-montreal-bombay.webp
 
 - **Fecha y hora:** 23 de junio de 1985, 07:14 GMT
 - **Lugar:** océano Atlántico Norte, unos 190 km al suroeste de Irlanda (`51°03'36"N 12°49'00"O`), sobre aguas de 1.900 metros de profundidad
-- **Aeronave:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1969/02/09/boeing-747-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Boeing 747-237B</a>, matrícula `VT-EFO` (MSN `21473/330`, entregado el 26 de junio de 1978, propulsado por cuatro Pratt & Whitney JT9D-7J), bautizado *«Emperador Kanishka»*
+- **Aeronave:** <a href="https://www.efemeridesdeaviacion.com/evento/1969/02/09/boeing-747-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Boeing 747-237B</a>, matrícula `VT-EFO` (MSN `21473/330`, entregado el 26 de junio de 1978, propulsado por cuatro Pratt & Whitney JT9D-7J), bautizado *«Emperador Kanishka»*
 - **Ruta:** Montreal (Mirabel) → Londres (Heathrow) → Nueva Delhi → Bombay
 - **Víctimas:** 329 fallecidos (307 pasajeros y 22 tripulantes), sin supervivientes; entre las víctimas había unos 268–280 ciudadanos canadienses (en su mayoría de ascendencia india), 27 británicos y 22 indios
 - **Causa técnica:** explosión de un artefacto oculto en un sintonizador de radio Sanyo dentro de una maleta Samsonite facturada en Vancouver y alojada en la bodega delantera a 9.400 metros (31.000 pies) de altitud
@@ -77,7 +77,7 @@ Con 329 fallecidos —entre ellos más de ochenta niños y familias enteras que 
 
 ## Legado
 
-La memoria de las 329 víctimas del *«Emperador Kanishka»* se honra cada 23 de junio en el jardín conmemorativo de Ahakista (condado de Cork, Irlanda), en los monumentos de Vancouver, Toronto, Ottawa y Montreal y en el archivo digital inaugurado en 2025 por la Universidad McMaster. En el ámbito de la protección aeronáutica, el caso se estudia junto al <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/1988/12/21/atentado-pan-am-103-lockerbie.html" style="color: #315fea; text-decoration: none;">atentado contra el vuelo 103 de Pan Am sobre Lockerbie en diciembre de 1988</a> —ejecutado con un mecanismo casi idéntico de explosivo oculto en un radiocasete dentro de una maleta Samsonite en tránsito—. Al cumplirse el 40.º aniversario en junio de 2025, el Ministro de Asuntos Exteriores de la India, Subrahmanyam Jaishankar, encabezó los tributos recordando la obligación internacional de tolerancia cero frente al terrorismo aéreo.
+La memoria de las 329 víctimas del *«Emperador Kanishka»* se honra cada 23 de junio en el jardín conmemorativo de Ahakista (condado de Cork, Irlanda), en los monumentos de Vancouver, Toronto, Ottawa y Montreal y en el archivo digital inaugurado en 2025 por la Universidad McMaster. En el ámbito de la protección aeronáutica, el caso se estudia junto al <a href="https://www.efemeridesdeaviacion.com/seguridad/1988/12/21/atentado-pan-am-103-lockerbie.html" style="color: #315fea; text-decoration: none;">atentado contra el vuelo 103 de Pan Am sobre Lockerbie en diciembre de 1988</a> —ejecutado con un mecanismo casi idéntico de explosivo oculto en un radiocasete dentro de una maleta Samsonite en tránsito—. Al cumplirse el 40.º aniversario en junio de 2025, el Ministro de Asuntos Exteriores de la India, Subrahmanyam Jaishankar, encabezó los tributos recordando la obligación internacional de tolerancia cero frente al terrorismo aéreo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 

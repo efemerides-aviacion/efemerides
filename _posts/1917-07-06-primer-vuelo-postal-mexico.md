@@ -56,7 +56,7 @@ Los aniversarios aeronáuticos suelen unir el nombre del piloto y la imagen del 
 
 ## Desarrollo Cronológico
 
-- **1910:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/01/08/primer-vuelo-alberto-braniff-en-mexico.html" style="color: #315fea; text-decoration: none;">el vuelo de Alberto Braniff en Balbuena</a> constituye un antecedente de la actividad aeronáutica nacional, no un transporte postal.
+- **1910:** <a href="https://www.efemeridesdeaviacion.com/evento/1910/01/08/primer-vuelo-alberto-braniff-en-mexico.html" style="color: #315fea; text-decoration: none;">el vuelo de Alberto Braniff en Balbuena</a> constituye un antecedente de la actividad aeronáutica nacional, no un transporte postal.
 - **1912:** se autorizó la formación de oficiales mexicanos como pilotos en Estados Unidos; Ruiz Gaviño estuvo entre ellos.
 - **Noviembre de 1915:** se inauguraron la escuela nacional de aviación y los talleres aeronáuticos.
 - **Abril de 1916:** se creó el Departamento de Aviación.

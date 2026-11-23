@@ -50,7 +50,7 @@ El aparato de Rozier reunía dos envolventes: una cámara inferior calentada por
 
 ### Entorno cultural
 
-El intento respondía al cruce completado meses antes por Blanchard y Jeffries (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>). Rozier quería llegar a Inglaterra desde Francia, en dirección contraria. Su experiencia en ascensiones anteriores está recogida en la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">ver efeméride</a> correspondiente.
+El intento respondía al cruce completado meses antes por Blanchard y Jeffries (<a href="https://www.efemeridesdeaviacion.com/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>). Rozier quería llegar a Inglaterra desde Francia, en dirección contraria. Su experiencia en ascensiones anteriores está recogida en la <a href="https://www.efemeridesdeaviacion.com/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">ver efeméride</a> correspondiente.
 
 La competencia entre aeronautas estaba impulsada por la atención de la prensa y por premios ofrecidos por instituciones científicas. El viaje de Blanchard y Jeffries, de Inglaterra a Francia, había demostrado que el Canal podía cruzarse en globo; Rozier planeó invertir el sentido y llegar a la costa británica desde territorio francés. La presión por lograr un nuevo hito convivía con la incertidumbre sobre cómo controlar una aeronave sin motor.
 

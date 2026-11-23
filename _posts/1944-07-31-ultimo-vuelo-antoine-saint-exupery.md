@@ -60,7 +60,7 @@ La desaparición de Saint-Exupéry alimentó durante décadas una combinación s
 
 ## Desarrollo Cronológico
 
-- **29 de junio de 1900:** Nace Antoine de Saint-Exupéry en Lyon, Francia. Para ampliar esta etapa biográfica puede consultarse la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1900/06/29/nacimiento-antoine-de-saint-exupery.html" style="color: #315fea; text-decoration: none;">efeméride de su nacimiento</a>.
+- **29 de junio de 1900:** Nace Antoine de Saint-Exupéry en Lyon, Francia. Para ampliar esta etapa biográfica puede consultarse la <a href="https://www.efemeridesdeaviacion.com/nacimiento/1900/06/29/nacimiento-antoine-de-saint-exupery.html" style="color: #315fea; text-decoration: none;">efeméride de su nacimiento</a>.
 - **1940:** Tras la derrota francesa, Saint-Exupéry abandona Francia y pasa varios años en el exilio, principalmente en Estados Unidos.
 - **1943:** Publica *El Principito* en Nueva York, en francés y en inglés.
 - **1944:** Insiste en reincorporarse a las operaciones aéreas pese a su edad y a las lesiones acumuladas en accidentes anteriores.

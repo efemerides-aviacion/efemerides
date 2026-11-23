@@ -66,7 +66,7 @@ La fecha que se conmemora es el nacimiento; la carrera que le da sentido empieza
 - **31 de agosto de 1948:** nace en Ridgefield, Connecticut.
 - **Hacia 1960:** su padre le enseña instrumentos y, después, a volar.
 - **1972:** escribe a las grandes aerolíneas estadounidenses; obtiene licencias de piloto privado, comercial, instructor, instrumentos y multimotor. Vuela como instructora, en una regional de Florida y como copiloto de chárter en Europa.
-- **29 de enero de 1973:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1973/01/29/emily-howell-primera-mujer-contratada-linea-aerea.html" style="color: #315fea; text-decoration: none;">Frontier Airlines contrata a Emily Howell Warner</a>, primera mujer piloto permanente de una aerolínea regular de Estados Unidos.
+- **29 de enero de 1973:** <a href="https://www.efemeridesdeaviacion.com/evento/1973/01/29/emily-howell-primera-mujer-contratada-linea-aerea.html" style="color: #315fea; text-decoration: none;">Frontier Airlines contrata a Emily Howell Warner</a>, primera mujer piloto permanente de una aerolínea regular de Estados Unidos.
 - **Marzo de 1973:** American Airlines ofrece plaza a Tiburzi. Ingresa en la academia de Dallas; es la única mujer de 214.
 - **1973:** primer servicio en un 727, como ingeniera de vuelo, en un LaGuardia–Albany–O’Hare–LaGuardia.
 - **1984:** publica *Takeoff! The Story of America’s First Woman Pilot for a Major Airline*.

@@ -30,7 +30,7 @@ image: 2001-11-12-accidente-vuelo-587-american-airlines.webp
 - **Ocupantes y víctimas:** 251 pasajeros y nueve tripulantes murieron a bordo; otras cinco personas fallecieron en tierra. El cuadro de lesiones del informe oficial no registra lesionados graves ni leves.
 - **Causa probable:** La separación en vuelo del estabilizador vertical tras cargas superiores a su resistencia de diseño, producidas por movimientos innecesarios y excesivos de los pedales del timón por el primer oficial.
 - **Factores contribuyentes:** El diseño de los mandos direccionales y la formación de la aerolínea influyeron en las acciones del primer oficial, según la investigación oficial.
-- **Alcance:** Fue el segundo accidente aéreo con más víctimas mortales en territorio estadounidense, después del <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1979/05/25/accidente-vuelo-191-american-airline.html" style="color: #315fea; text-decoration: none;">siniestro del vuelo 191 en Chicago</a>, ocurrido en 1979.
+- **Alcance:** Fue el segundo accidente aéreo con más víctimas mortales en territorio estadounidense, después del <a href="https://www.efemeridesdeaviacion.com/accidente/1979/05/25/accidente-vuelo-191-american-airline.html" style="color: #315fea; text-decoration: none;">siniestro del vuelo 191 en Chicago</a>, ocurrido en 1979.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -46,7 +46,7 @@ El accidente se produjo dos meses después de los atentados del 11 de septiembre
 
 ### Entorno tecnológico
 
-El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1972/10/28/primer-vuelo-airbus-a300.html" style="color: #315fea; text-decoration: none;">Airbus A300 había realizado su primer vuelo en 1972</a>. Su variante A300-600 utilizaba un estabilizador vertical, superficie fija que contribuye a la estabilidad direccional, y un timón de dirección móvil accionado mediante pedales. El estabilizador del N14053 estaba unido al fuselaje mediante puntos de fijación y fabricado con materiales compuestos.
+El <a href="https://www.efemeridesdeaviacion.com/evento/1972/10/28/primer-vuelo-airbus-a300.html" style="color: #315fea; text-decoration: none;">Airbus A300 había realizado su primer vuelo en 1972</a>. Su variante A300-600 utilizaba un estabilizador vertical, superficie fija que contribuye a la estabilidad direccional, y un timón de dirección móvil accionado mediante pedales. El estabilizador del N14053 estaba unido al fuselaje mediante puntos de fijación y fabricado con materiales compuestos.
 
 El sistema limitaba el recorrido disponible del timón según la velocidad. La NTSB observó que, a velocidades elevadas, un desplazamiento reducido del pedal podía producir el recorrido disponible del timón. Esta característica no significaba que la estructura estuviera diseñada para soportar cualquier combinación de movimientos alternos. La investigación examinó tanto el diseño certificado como la respuesta del avión a los mandos y la preparación de los pilotos para situaciones anormales.
 

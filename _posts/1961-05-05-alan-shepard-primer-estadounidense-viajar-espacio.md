@@ -38,7 +38,7 @@ image: 1961-05-05-alan-shepard-primer-estadounidense-viajar-espacio.webp
 
 ## Contexto Histórico
 
-Aprobado el 7 de octubre de 1958, apenas una semana después de la apertura operativa de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1958/07/29/fundacion-nasa.html" style="color: #315fea; text-decoration: none;">Administración Nacional de Aeronáutica y del Espacio (NASA)</a>, el **Proyecto Mercury** había nacido con tres objetivos escalonados: colocar una nave tripulada en órbita, investigar la capacidad del ser humano para desenvolverse en el espacio y recuperar de manera segura tanto al piloto como al vehículo.
+Aprobado el 7 de octubre de 1958, apenas una semana después de la apertura operativa de la <a href="https://www.efemeridesdeaviacion.com/fundacion/1958/07/29/fundacion-nasa.html" style="color: #315fea; text-decoration: none;">Administración Nacional de Aeronáutica y del Espacio (NASA)</a>, el **Proyecto Mercury** había nacido con tres objetivos escalonados: colocar una nave tripulada en órbita, investigar la capacidad del ser humano para desenvolverse en el espacio y recuperar de manera segura tanto al piloto como al vehículo.
 
 ### Entorno tecnológico
 
@@ -46,7 +46,7 @@ Para los vuelos preliminares suborbitales, el *Space Task Group* dirigido por Ro
 
 ### Entorno social
 
-El <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1961/04/12/primer-humano-orbitar-la-tierra.html" style="color: #315fea; text-decoration: none;">triunfo orbital de Yuri Gagarin a bordo de la Vostok 1 el 12 de abril de 1961</a>, sumado cinco días después al fracaso de Bahía de Cochinos, colocó a la administración del presidente **John F. Kennedy** bajo una intensa presión internacional. A diferencia del programa soviético —cuyos lanzamientos solo se anunciaban una vez en órbita—, Washington decidió retransmitir en directo por radio y televisión la cuenta atrás de Cabo Cañaveral, asumiendo el riesgo público de cualquier fallo en la rampa.
+El <a href="https://www.efemeridesdeaviacion.com/espacial/1961/04/12/primer-humano-orbitar-la-tierra.html" style="color: #315fea; text-decoration: none;">triunfo orbital de Yuri Gagarin a bordo de la Vostok 1 el 12 de abril de 1961</a>, sumado cinco días después al fracaso de Bahía de Cochinos, colocó a la administración del presidente **John F. Kennedy** bajo una intensa presión internacional. A diferencia del programa soviético —cuyos lanzamientos solo se anunciaban una vez en órbita—, Washington decidió retransmitir en directo por radio y televisión la cuenta atrás de Cabo Cañaveral, asumiendo el riesgo público de cualquier fallo en la rampa.
 
 ### Entorno cultural
 
@@ -68,7 +68,7 @@ La mañana del 5 de mayo de 1961, unos **cuarenta y cinco millones de estadounid
 
 ## Consecuencias e Impacto
 
-A diferencia del vuelo totalmente automatizado de la Vostok 1 soviética, la misión *Freedom 7* probó por primera vez en el espacio que un piloto humano podía orientar manualmente la actitud de una nave espacial en condiciones de ingravidez sin sufrir degradación visual ni motora. Aquel hallazgo técnico —refrendado en julio de 1961 por el segundo salto suborbital de Gus Grissom en la *Liberty Bell 7* (`MR-4`), en febrero de 1962 por el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1962/02/20/john-glenn-primer-astronauta-en-circundar-la-tierra.html" style="color: #315fea; text-decoration: none;">primer vuelo orbital estadounidense de John Glenn en la Friendship 7</a> y en mayo de 1963 por el reingreso manual de Gordon Cooper al cierre del programa en la <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/05/16/mision-espacial-faith-7-mercury-atlas-9.html" style="color: #315fea; text-decoration: none;">misión Faith 7 (Mercury-Atlas 9)</a>— fundamentó toda la doctrina de pilotaje de los programas Gemini y Apollo.
+A diferencia del vuelo totalmente automatizado de la Vostok 1 soviética, la misión *Freedom 7* probó por primera vez en el espacio que un piloto humano podía orientar manualmente la actitud de una nave espacial en condiciones de ingravidez sin sufrir degradación visual ni motora. Aquel hallazgo técnico —refrendado en julio de 1961 por el segundo salto suborbital de Gus Grissom en la *Liberty Bell 7* (`MR-4`), en febrero de 1962 por el <a href="https://www.efemeridesdeaviacion.com/espacial/1962/02/20/john-glenn-primer-astronauta-en-circundar-la-tierra.html" style="color: #315fea; text-decoration: none;">primer vuelo orbital estadounidense de John Glenn en la Friendship 7</a> y en mayo de 1963 por el reingreso manual de Gordon Cooper al cierre del programa en la <a href="https://www.efemeridesdeaviacion.com/espacial/1963/05/16/mision-espacial-faith-7-mercury-atlas-9.html" style="color: #315fea; text-decoration: none;">misión Faith 7 (Mercury-Atlas 9)</a>— fundamentó toda la doctrina de pilotaje de los programas Gemini y Apollo.
 
 En el orden práctico, la contingencia vivida por Shepard durante las cuatro horas de espera en la rampa llevó a la NASA a incorporar desde el vuelo siguiente un sistema colector de orina dentro del traje espacial.
 

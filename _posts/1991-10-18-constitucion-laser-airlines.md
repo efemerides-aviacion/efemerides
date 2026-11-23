@@ -38,7 +38,7 @@ image: 1991-10-18-constitucion-laser-airlines.webp
 
 ## Contexto Histórico
 
-La constitución se produjo en un sector aéreo venezolano que ya tenía una larga historia empresarial. No se trataba de abrir por primera vez el país al transporte de pasajeros: compañías como <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1943/05/13/fundacion-avensa.html" style="color: #315fea; text-decoration: none;">AVENSA, fundada en 1943</a>, habían precedido a la nueva sociedad. LASER nació dentro de ese mercado existente, no sobre un territorio carente de aerolíneas, aeropuertos o experiencia comercial.
+La constitución se produjo en un sector aéreo venezolano que ya tenía una larga historia empresarial. No se trataba de abrir por primera vez el país al transporte de pasajeros: compañías como <a href="https://www.efemeridesdeaviacion.com/fundacion/1943/05/13/fundacion-avensa.html" style="color: #315fea; text-decoration: none;">AVENSA, fundada en 1943</a>, habían precedido a la nueva sociedad. LASER nació dentro de ese mercado existente, no sobre un territorio carente de aerolíneas, aeropuertos o experiencia comercial.
 
 ### Entorno social
 
@@ -48,7 +48,7 @@ Ese contraste ayuda a situar la escala del acontecimiento. Mientras una compañ�
 
 ### Entorno tecnológico
 
-La infraestructura aeroportuaria antecedía igualmente al nuevo operador. El <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1945/01/01/inauguracion-aeropuerto-internacional-maiquetia.html" style="color: #315fea; text-decoration: none;">aeropuerto de Maiquetía, inaugurado en 1945</a>, pertenecía ya a esa historia de instalaciones y servicios sobre la que debían trabajar las empresas que aspiraban a transportar viajeros. Constituir una sociedad no significaba construir un aeropuerto ni inaugurar una ruta.
+La infraestructura aeroportuaria antecedía igualmente al nuevo operador. El <a href="https://www.efemeridesdeaviacion.com/fundacion/1945/01/01/inauguracion-aeropuerto-internacional-maiquetia.html" style="color: #315fea; text-decoration: none;">aeropuerto de Maiquetía, inaugurado en 1945</a>, pertenecía ya a esa historia de instalaciones y servicios sobre la que debían trabajar las empresas que aspiraban a transportar viajeros. Constituir una sociedad no significaba construir un aeropuerto ni inaugurar una ruta.
 
 También conviene separar el instrumento mercantil del sistema operativo. Un servicio aéreo reúne aeronaves, tripulaciones, mantenimiento y atención en tierra; su existencia no puede deducirse únicamente de una inscripción comercial. Por ello, los aviones que LASER empleó después no deben atribuirse automáticamente a su patrimonio o a una supuesta operación de 1991. La fotografía que ilustra esta efeméride documenta una etapa posterior, no una flota fundacional.
 

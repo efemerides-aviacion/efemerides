@@ -40,7 +40,7 @@ image: 1931-04-08-amelia-earhart-autogiro-record-altitud.webp
 
 ## Contexto Histórico
 
-A principios de la década de 1930, el autogiro era una tecnología revolucionaria. Inventado por el ingeniero español <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html" style="color: #315fea; text-decoration: none;">Juan de la Cierva en 1923</a>, el autogiro utilizaba un rotor no motorizado en autorrotación para generar sustentación, lo que le permitía volar a bajas velocidades y aterrizar en espacios reducidos sin necesidad de largas pistas.
+A principios de la década de 1930, el autogiro era una tecnología revolucionaria. Inventado por el ingeniero español <a href="https://www.efemeridesdeaviacion.com/evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html" style="color: #315fea; text-decoration: none;">Juan de la Cierva en 1923</a>, el autogiro utilizaba un rotor no motorizado en autorrotación para generar sustentación, lo que le permitía volar a bajas velocidades y aterrizar en espacios reducidos sin necesidad de largas pistas.
 
 ### Entorno social
 
@@ -52,7 +52,7 @@ El Pitcairn PCA-2 fue el primer autogiro en obtener la certificación de tipo en
 
 ### Entorno cultural
 
-La década de 1930 fue la era dorada de la aviación y los récords. Figuras como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1902/02/04/nacimiento-charles-lindbergh.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a>, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/07/24/nacimiento-amelia-earhart-pionera-aviacion.html" style="color: #315fea; text-decoration: none;">Amelia Earhart</a> y <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a> competían por establecer nuevas marcas de distancia, velocidad y altitud. Los autogiros, aunque hoy son poco conocidos, fueron vistos en su momento como una tecnología prometedora que podría revolucionar la aviación personal y comercial.
+La década de 1930 fue la era dorada de la aviación y los récords. Figuras como <a href="https://www.efemeridesdeaviacion.com/nacimiento/1902/02/04/nacimiento-charles-lindbergh.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a>, <a href="https://www.efemeridesdeaviacion.com/nacimiento/1897/07/24/nacimiento-amelia-earhart-pionera-aviacion.html" style="color: #315fea; text-decoration: none;">Amelia Earhart</a> y <a href="https://www.efemeridesdeaviacion.com/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a> competían por establecer nuevas marcas de distancia, velocidad y altitud. Los autogiros, aunque hoy son poco conocidos, fueron vistos en su momento como una tecnología prometedora que podría revolucionar la aviación personal y comercial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -92,7 +92,7 @@ El récord de altitud de Earhart en autogiro es un episodio menos conocido de su
 
 - **Visibilidad para el autogiro:** Aunque el autogiro nunca alcanzó la popularidad del helicóptero, el récord de Earhart ayudó a mantener vivo el interés por esta tecnología.
 
-- **Trayectoria posterior de Earhart:** Earhart continuaría batiendo récords en los años siguientes. El <strong>11 de enero de 1935</strong>, realizó el primer vuelo en solitario desde Hawái a California, a bordo de un Lockheed Vega 5B, cubriendo 2,408 millas (3,875 km) en 18 horas y 15 minutos. Para más información sobre esta travesía, consulte la efeméride dedicada: <a href="https://efemerides-aviacion.github.io/efemerides/evento/1935/01/11/amelia-earhart-primer-vuelo-en-solitario.html" style="color: #315fea; text-decoration: none;">Primer vuelo en solitario de Amelia Earhart de Hawái a California (11 de enero de 1935)</a>.
+- **Trayectoria posterior de Earhart:** Earhart continuaría batiendo récords en los años siguientes. El <strong>11 de enero de 1935</strong>, realizó el primer vuelo en solitario desde Hawái a California, a bordo de un Lockheed Vega 5B, cubriendo 2,408 millas (3,875 km) en 18 horas y 15 minutos. Para más información sobre esta travesía, consulte la efeméride dedicada: <a href="https://www.efemeridesdeaviacion.com/evento/1935/01/11/amelia-earhart-primer-vuelo-en-solitario.html" style="color: #315fea; text-decoration: none;">Primer vuelo en solitario de Amelia Earhart de Hawái a California (11 de enero de 1935)</a>.
 
 Hoy, el Pitcairn PCA-2 es recordado como el primer autogiro certificado en Estados Unidos y como la aeronave en la que Earhart añadió otro récord a su legendaria carrera.
 

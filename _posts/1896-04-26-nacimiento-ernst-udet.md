@@ -103,7 +103,7 @@ La ocultación oficial de su suicidio convirtió la muerte en un asunto de propa
 
 ## Legado
 
-Udet es una figura trágica y paradójica: el héroe popular de la Alemania de entreguerras, célebre junto a <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1902/02/04/nacimiento-charles-lindbergh.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a>, terminó atrapado en la maquinaria del régimen nazi. La obra de teatro y película *El general del diablo* (1946), de Carl Zuckmayer, se inspira libremente en su vida y su muerte.
+Udet es una figura trágica y paradójica: el héroe popular de la Alemania de entreguerras, célebre junto a <a href="https://www.efemeridesdeaviacion.com/nacimiento/1902/02/04/nacimiento-charles-lindbergh.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a>, terminó atrapado en la maquinaria del régimen nazi. La obra de teatro y película *El general del diablo* (1946), de Carl Zuckmayer, se inspira libremente en su vida y su muerte.
 
 Su tumba se encuentra junto a la de Manfred von Richthofen en el cementerio Invalidenfriedhof de Berlín.
 

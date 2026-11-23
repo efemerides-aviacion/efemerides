@@ -51,12 +51,12 @@ El Concorde simbolizó la obra cumbre de la ingeniería cooperativa europea angl
 ## Desarrollo Cronológico
 La secuencia de los hechos interconecta las etapas del programa supersónico desde el siniestro del año 2000 hasta el desmantelamiento operativo de los vuelos de pasaje.
 
-- **25 de julio de 2000:** Ocurre la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2000/07/25/accidente-concorde-air-france-vuelo-4590.html" style="color: #315fea; text-decoration: none;">tragedia del Concorde en el vuelo Air France 4590</a> en Gonesse, acelerando la crisis de rentabilidad del programa supersónico.
+- **25 de julio de 2000:** Ocurre la <a href="https://www.efemeridesdeaviacion.com/accidente/2000/07/25/accidente-concorde-air-france-vuelo-4590.html" style="color: #315fea; text-decoration: none;">tragedia del Concorde en el vuelo Air France 4590</a> en Gonesse, acelerando la crisis de rentabilidad del programa supersónico.
 - **10 de abril de 2003:** British Airways y Air France emiten un comunicado conjunto anunciando el retiro definitivo de la flota Concorde durante el año 2003.
 - **31 de mayo de 2003:** Air France realiza su último vuelo comercial de pasajeros con el Concorde F-BVFC entre Nueva York y París.
 - **24 de octubre de 2003 (07:35 EDT):** Despegue del Concorde G-BOAG desde el Aeropuerto JFK de Nueva York iniciando el vuelo transatlántico final BA002.
 - **24 de octubre de 2003 (16:01 a 16:05 BST):** Secuencia de aterrizaje en Heathrow de los tres Concordes de British Airways (G-BOAF, G-BOAE y finalmente el G-BOAG), concluyendo las operaciones con pasajeros de pago.
-- **26 de noviembre de 2003:** Se efectúa el <a href="https://efemerides-aviacion.github.io/efemerides/evento/2003/11/26/concorde-gboaf-ultimo-vuelo.html" style="color: #315fea; text-decoration: none;">último vuelo del Concorde G-BOAF</a> desde Londres-Heathrow hasta Filton (Bristol), cerrando definitivamente las operaciones de la flota en el aire.
+- **26 de noviembre de 2003:** Se efectúa el <a href="https://www.efemeridesdeaviacion.com/evento/2003/11/26/concorde-gboaf-ultimo-vuelo.html" style="color: #315fea; text-decoration: none;">último vuelo del Concorde G-BOAF</a> desde Londres-Heathrow hasta Filton (Bristol), cerrando definitivamente las operaciones de la flota en el aire.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto

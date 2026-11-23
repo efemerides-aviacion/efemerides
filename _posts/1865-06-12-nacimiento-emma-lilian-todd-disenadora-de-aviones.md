@@ -54,7 +54,7 @@ Tras los primeros vuelos propulsados, los constructores combinaban madera, tela,
 
 ### Entorno cultural
 
-Las exposiciones aeronáuticas atraían a inventores, mecánicos y patrocinadores. En ese espacio público, una exposición podía funcionar como escaparate, lugar de encuentro y oportunidad para hallar financiación. En el Madison Square Garden, Olivia Sage conoció el trabajo de Todd y respaldó la construcción de su aparato. Entre las pioneras documentadas, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">la francesa Raymonde de Laroche obtuvo el 8 de marzo de 1910 la primera licencia de piloto concedida a una mujer en el mundo</a>.
+Las exposiciones aeronáuticas atraían a inventores, mecánicos y patrocinadores. En ese espacio público, una exposición podía funcionar como escaparate, lugar de encuentro y oportunidad para hallar financiación. En el Madison Square Garden, Olivia Sage conoció el trabajo de Todd y respaldó la construcción de su aparato. Entre las pioneras documentadas, <a href="https://www.efemeridesdeaviacion.com/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">la francesa Raymonde de Laroche obtuvo el 8 de marzo de 1910 la primera licencia de piloto concedida a una mujer en el mundo</a>.
 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -92,7 +92,7 @@ El Junior Aero Club dio a los jóvenes un espacio para construir cometas y model
 
 ### Acceso al vuelo
 
-La negativa a autorizarle el manejo de su propio avión mostró que la destreza técnica no eliminaba las barreras institucionales. Décadas después, en Estados Unidos, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1875/05/11/nacimiento-de-harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Nacimiento de Harriet Quimby, primera mujer piloto de EE. UU.</a> obtuvo su licencia; Blanche Stuart Scott también voló en 1910, aunque no recibió una licencia oficial. La trayectoria de Todd permite distinguir entre diseñar una aeronave y recibir permiso para volarla.
+La negativa a autorizarle el manejo de su propio avión mostró que la destreza técnica no eliminaba las barreras institucionales. Décadas después, en Estados Unidos, <a href="https://www.efemeridesdeaviacion.com/nacimiento/1875/05/11/nacimiento-de-harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Nacimiento de Harriet Quimby, primera mujer piloto de EE. UU.</a> obtuvo su licencia; Blanche Stuart Scott también voló en 1910, aunque no recibió una licencia oficial. La trayectoria de Todd permite distinguir entre diseñar una aeronave y recibir permiso para volarla.
 
 La prueba de 1910 separó dos cuestiones que a menudo se confunden: haber ideado y encargado la construcción de una aeronave no garantizaba que su creadora pudiera pilotarla. Todd participó en las decisiones técnicas y en la promoción del aparato, pero la demostración quedó a cargo de Masson. Esa distancia entre autoría, control y reconocimiento ayuda a entender por qué su caso resulta relevante en la historia de las mujeres en la aviación.
 

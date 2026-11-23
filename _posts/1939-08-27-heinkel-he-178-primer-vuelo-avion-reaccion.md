@@ -65,9 +65,9 @@ En Gran Bretaña, Frank Whittle trabajaba en paralelo desde los años veinte y h
 
 ## Desarrollo Cronológico
 
-- **1933:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #315fea; text-decoration: none;">Hans von Ohain, nacido en 1911</a>, inicia en Gotinga los estudios que separan compresión y expansión en un proceso propulsivo.
+- **1933:** <a href="https://www.efemeridesdeaviacion.com/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #315fea; text-decoration: none;">Hans von Ohain, nacido en 1911</a>, inicia en Gotinga los estudios que separan compresión y expansión en un proceso propulsivo.
 - **1936:** Ernst Heinkel lo contrata y le da medios en Marienehe.
-- **Comienzos de 1937:** el HeS 1, alimentado con hidrógeno, funciona en banco. Ese mismo año, en Inglaterra, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1937/04/12/whittle-unit-primer-motor-jet.html" style="color: #315fea; text-decoration: none;">Frank Whittle hace funcionar su propio turborreactor el 12 de abril</a>.
+- **Comienzos de 1937:** el HeS 1, alimentado con hidrógeno, funciona en banco. Ese mismo año, en Inglaterra, <a href="https://www.efemeridesdeaviacion.com/evento/1937/04/12/whittle-unit-primer-motor-jet.html" style="color: #315fea; text-decoration: none;">Frank Whittle hace funcionar su propio turborreactor el 12 de abril</a>.
 - **1938:** evoluciona el HeS 3, que abandona el hidrógeno por combustible líquido. Se ensaya suspendido bajo el fuselaje de un Heinkel He 118.
 - **Agosto de 1938:** comienza la maqueta del He 178.
 - **Principios de 1939:** se construye en secreto el prototipo V1 en Rostock-Marienehe.
@@ -75,7 +75,7 @@ En Gran Bretaña, Frank Whittle trabajaba en paralelo desde los años veinte y h
 - **24 de agosto de 1939:** el He 178 realiza un salto corto, despegando brevemente durante las pruebas de rodaje.
 - **27 de agosto de 1939:** primer vuelo. Warsitz despega, completa un circuito sobre el aeródromo y aterriza. El tren permanece extendido durante todo el vuelo.
 - **1 de septiembre de 1939:** Alemania invade Polonia.
-- **1 de noviembre de 1939:** demostración oficial ante <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1896/04/26/nacimiento-ernst-udet.html" style="color: #315fea; text-decoration: none;">Ernst Udet, as de la Primera Guerra Mundial con 62 derribos y entonces responsable del material aéreo del Reich</a>, y ante Erhard Milch. El RLM no muestra interés.
+- **1 de noviembre de 1939:** demostración oficial ante <a href="https://www.efemeridesdeaviacion.com/nacimiento/1896/04/26/nacimiento-ernst-udet.html" style="color: #315fea; text-decoration: none;">Ernst Udet, as de la Primera Guerra Mundial con 62 derribos y entonces responsable del material aéreo del Reich</a>, y ante Erhard Milch. El RLM no muestra interés.
 - **15 de mayo de 1941:** vuela el Gloster E.28/39 británico, con motor de Whittle, veinte meses después.
 - **1943:** el He 178 V1, expuesto en el museo aeronáutico de Berlín, resulta destruido en un bombardeo aliado.
 
@@ -93,7 +93,7 @@ Solo un prototipo llegó a volar con motor. El segundo, el V2, de alas de puntas
 
 ## Legado
 
-En la evolución del avión moderno, el vuelo del He 178 señala el instante exacto en que la aviación dejó atrás la hélice como único medio de propulsión. Todo lo que vino después —el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1941/04/18/primer-vuelo-prototipo-messerschmitt-me-262.html" style="color: #315fea; text-decoration: none;">Messerschmitt Me 262, cuyo prototipo voló en abril de 1941</a>, los reactores comerciales, la aviación de transporte moderna— arranca de aquel circuito de pocos minutos sobre un aeródromo del Báltico.
+En la evolución del avión moderno, el vuelo del He 178 señala el instante exacto en que la aviación dejó atrás la hélice como único medio de propulsión. Todo lo que vino después —el <a href="https://www.efemeridesdeaviacion.com/evento/1941/04/18/primer-vuelo-prototipo-messerschmitt-me-262.html" style="color: #315fea; text-decoration: none;">Messerschmitt Me 262, cuyo prototipo voló en abril de 1941</a>, los reactores comerciales, la aviación de transporte moderna— arranca de aquel circuito de pocos minutos sobre un aeródromo del Báltico.
 
 La historiografía suele presentar a von Ohain y a Whittle como rivales, pero ellos mismos rechazaron esa lectura. Trabajaron sin conocerse, resolvieron el mismo problema por vías distintas y, tras la guerra, coincidieron en Estados Unidos y mantuvieron una relación cordial. Von Ohain desarrolló su carrera en la base aérea de Wright-Patterson; su archivo personal se conserva en el Smithsonian.
 

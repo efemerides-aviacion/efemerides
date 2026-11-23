@@ -42,7 +42,7 @@ La aviación de los primeros años había demostrado que podía franquear obstá
 
 ### Entorno social
 
-Los viajes de los pioneros se convertían en acontecimientos nacionales, seguidos por lectores que probablemente nunca habían visto un avión de cerca. <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">La travesía de Blériot sobre la Mancha</a> proporcionaba un antecedente célebre, aunque la nueva ruta imponía una duración y un recorrido muy diferentes.
+Los viajes de los pioneros se convertían en acontecimientos nacionales, seguidos por lectores que probablemente nunca habían visto un avión de cerca. <a href="https://www.efemeridesdeaviacion.com/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">La travesía de Blériot sobre la Mancha</a> proporcionaba un antecedente célebre, aunque la nueva ruta imponía una duración y un recorrido muy diferentes.
 
 ### Entorno tecnológico
 
@@ -76,7 +76,7 @@ La recepción pública amplificó el alcance de la demostración. Los mapas y re
 
 ## Legado
 
-La trayectoria militar posterior de Garros y el desarrollo del combate aéreo forman un capítulo distinto. La biografía de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1889/06/13/nacimiento-adolphe-celestin-pegoud-primer-as-aviacion.html" style="color: #315fea; text-decoration: none;">Adolphe Pégoud</a> sirve como lectura relacionada, pero no autoriza a atribuir a ambos pilotos el mismo equipo de armamento ni los mismos procedimientos.
+La trayectoria militar posterior de Garros y el desarrollo del combate aéreo forman un capítulo distinto. La biografía de <a href="https://www.efemeridesdeaviacion.com/nacimiento/1889/06/13/nacimiento-adolphe-celestin-pegoud-primer-as-aviacion.html" style="color: #315fea; text-decoration: none;">Adolphe Pégoud</a> sirve como lectura relacionada, pero no autoriza a atribuir a ambos pilotos el mismo equipo de armamento ni los mismos procedimientos.
 
 En 2013 Réplic’Air reprodujo la travesía con una reconstrucción del Morane-Saulnier, dentro de la conmemoración del centenario descrita por el Aéro-Club de France. Por su parte, el Musée de l’Air et de l’Espace conserva un aparato transformado para evocar la hazaña: es una pieza ilustrativa, no el avión original de Garros.
 

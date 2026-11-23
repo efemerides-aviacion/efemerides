@@ -54,7 +54,7 @@ El automóvil ofrecía entonces una vía de movilidad social y una vitrina para 
 
 La entrada de Estados Unidos en la Primera Guerra Mundial encontró a su aviación en plena organización. Los cazas Nieuport 28 equiparon a las primeras unidades estadounidenses en Francia, aunque su revestimiento alar podía desprenderse en maniobras exigentes. El SPAD XIII ofreció después mayor robustez, velocidad y potencia de fuego mediante dos ametralladoras sincronizadas. Rickenbacker abordó ambos aparatos como sistemas mecánicos: conocía el valor de conservar el motor, detectar vibraciones y acercarse al adversario antes de disparar.
 
-El 94th Aero Squadron, distinguido por el emblema del sombrero dentro de un aro, fue una de las primeras unidades de persecución estadounidenses que entraron en combate. Su aprendizaje se benefició de veteranos procedentes de la aviación francesa y de figuras como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1885/03/14/nacimiento-raoul-lufbery.html" style="color: #315fea; text-decoration: none;">Raoul Lufbery</a>, cuya experiencia ayudó a formar a los pilotos recién llegados.
+El 94th Aero Squadron, distinguido por el emblema del sombrero dentro de un aro, fue una de las primeras unidades de persecución estadounidenses que entraron en combate. Su aprendizaje se benefició de veteranos procedentes de la aviación francesa y de figuras como <a href="https://www.efemeridesdeaviacion.com/nacimiento/1885/03/14/nacimiento-raoul-lufbery.html" style="color: #315fea; text-decoration: none;">Raoul Lufbery</a>, cuya experiencia ayudó a formar a los pilotos recién llegados.
 
 ### Entorno cultural
 
@@ -72,7 +72,7 @@ Esa celebridad sobrevivió al armisticio. En una sociedad que asociaba el progre
 - **1918:** Se integra en el 94th Aero Squadron y logra sus primeras victorias durante la primavera. El 24 de septiembre asume el mando de la unidad; al día siguiente ataca en solitario una formación de cinco Fokker que protegían dos Halberstadt y derriba uno de cada tipo. Cierra la campaña como «as de ases» estadounidense.
 - **1921-1938:** Participa en la Rickenbacker Motor Company, compra el Indianapolis Motor Speedway en 1927 y conserva la instalación durante dos décadas. En 1935 pasa a dirigir Eastern Air Lines y, tres años después, encabeza el grupo que compra la compañía a General Motors, iniciando su etapa como principal ejecutivo de la aerolínea.
 - **1941-1942:** Sobrevive a un grave accidente de transporte cerca de Atlanta. Durante la Segunda Guerra Mundial actúa como observador civil del esfuerzo aéreo; en una misión por el Pacífico, el B-17 en el que viaja ameriza tras perderse. Siete supervivientes son rescatados después de 24 días en balsas.
-- **1949-1973:** Eastern exhibe su capacidad técnica con hitos como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1949/02/05/eastern-constellation-record.html" style="color: #315fea; text-decoration: none;">récord transcontinental del Lockheed Constellation</a>. Rickenbacker abandona el control ejecutivo en 1959 y se retira de la presidencia de la junta en 1963. Fallece una década después en Zúrich y es sepultado en Columbus.
+- **1949-1973:** Eastern exhibe su capacidad técnica con hitos como el <a href="https://www.efemeridesdeaviacion.com/evento/1949/02/05/eastern-constellation-record.html" style="color: #315fea; text-decoration: none;">récord transcontinental del Lockheed Constellation</a>. Rickenbacker abandona el control ejecutivo en 1959 y se retira de la presidencia de la junta en 1963. Fallece una década después en Zúrich y es sepultado en Columbus.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -88,7 +88,7 @@ Rickenbacker también encarnó una forma temprana de liderazgo público de la av
 
 ## Legado
 
-El récord estadounidense de Rickenbacker permaneció vigente hasta que el Mayor Richard Bong lo superó durante la Segunda Guerra Mundial; la conexión entre ambos ases quedó recordada cuando el veterano felicitó al joven piloto, cuya trayectoria se relata en la efeméride de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1920/09/24/nacimiento-richard-bong-as-de-ases-estadounidense.html" style="color: #315fea; text-decoration: none;">Richard Bong</a>.
+El récord estadounidense de Rickenbacker permaneció vigente hasta que el Mayor Richard Bong lo superó durante la Segunda Guerra Mundial; la conexión entre ambos ases quedó recordada cuando el veterano felicitó al joven piloto, cuya trayectoria se relata en la efeméride de <a href="https://www.efemeridesdeaviacion.com/nacimiento/1920/09/24/nacimiento-richard-bong-as-de-ases-estadounidense.html" style="color: #315fea; text-decoration: none;">Richard Bong</a>.
 
 Su memoria se conserva en objetos del National Air and Space Museum, en los archivos personales y empresariales custodiados por Auburn University y en su incorporación al National Aviation Hall of Fame en 1965. Su autobiografía de 1967 reforzó la imagen del «Capitán Eddie» como testigo de la transformación tecnológica estadounidense. Más que una suma de aventuras, su carrera representa el tránsito de la mecánica artesanal a la guerra aérea y de allí a la aviación comercial de escala continental.
 

@@ -19,7 +19,7 @@ image: 1929-08-29-graf-zeppelin-vuelta-mundo.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>La mañana del 29 de agosto de 1929, el dirigible rígido alemán <em>LZ 127 Graf Zeppelin</em>, al mando del doctor <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1868/08/10/nacimiento-hugo-eckener-comandante-graf-zeppelin.html" style="color: #315fea; text-decoration: none;">Hugo Eckener</a>, aterrizó en la Estación Aeronaval de Lakehurst (Nueva Jersey) y cerró la primera circunnavegación del planeta realizada por una aeronave que transportaba pasajeros. Había partido del mismo muelle de amarre el 8 de agosto rumbo al este, con escalas en Friedrichshafen (Alemania), Tokio y Los Ángeles.</p>
+<p>La mañana del 29 de agosto de 1929, el dirigible rígido alemán <em>LZ 127 Graf Zeppelin</em>, al mando del doctor <a href="https://www.efemeridesdeaviacion.com/nacimiento/1868/08/10/nacimiento-hugo-eckener-comandante-graf-zeppelin.html" style="color: #315fea; text-decoration: none;">Hugo Eckener</a>, aterrizó en la Estación Aeronaval de Lakehurst (Nueva Jersey) y cerró la primera circunnavegación del planeta realizada por una aeronave que transportaba pasajeros. Había partido del mismo muelle de amarre el 8 de agosto rumbo al este, con escalas en Friedrichshafen (Alemania), Tokio y Los Ángeles.</p>
 <p>El viaje, bautizado en alemán como <em>Weltfahrt</em> («viaje mundial»), cubrió 33.234 kilómetros en 21 días, 5 horas y 31 minutos, con un tiempo real de vuelo de 12 días, 12 horas y 13 minutos. Financiado en parte por el magnate periodístico estadounidense William Randolph Hearst, convirtió a Eckener en una celebridad internacional y demostró que el dirigible podía enlazar continentes con pasajeros y correo de pago.</p>
 </div>
 
@@ -83,9 +83,9 @@ La hazaña también tuvo un alcance simbólico de género: Lady Grace Drummond-H
 
 ## Legado
 
-El LZ 127 <em>Graf Zeppelin</em> voló hasta 1937, año en el que <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1937/05/06/desastre-lz-129-hindenburg.html" style="color: #315fea; text-decoration: none;">el desastre del <em>Hindenburg</em> en Lakehurst</a> puso fin a la era de los dirigibles comerciales de hidrógeno. A lo largo de su carrera realizó 590 vuelos, recorrió más de 1,7 millones de kilómetros y transportó a 13.110 pasajeros de pago sin un solo herido. Fue desguazado en 1940 por orden del gobierno nazi, junto con su gemelo el LZ 130.
+El LZ 127 <em>Graf Zeppelin</em> voló hasta 1937, año en el que <a href="https://www.efemeridesdeaviacion.com/accidente/1937/05/06/desastre-lz-129-hindenburg.html" style="color: #315fea; text-decoration: none;">el desastre del <em>Hindenburg</em> en Lakehurst</a> puso fin a la era de los dirigibles comerciales de hidrógeno. A lo largo de su carrera realizó 590 vuelos, recorrió más de 1,7 millones de kilómetros y transportó a 13.110 pasajeros de pago sin un solo herido. Fue desguazado en 1940 por orden del gobierno nazi, junto con su gemelo el LZ 130.
 
-La <em>Weltfahrt</em> de 1929 permanece como la primera y única circunnavegación del planeta realizada por un dirigible con pasajeros. El nombre de Hugo Eckener, su comandante, quedó asociado para siempre a la conquista del aire por los grandes dirigibles. El conde <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1838/07/08/nacimiento-ferdinand-von-zeppelin.html" style="color: #315fea; text-decoration: none;">Ferdinand von Zeppelin</a>, que no llegó a verla, había muerto en 1917.
+La <em>Weltfahrt</em> de 1929 permanece como la primera y única circunnavegación del planeta realizada por un dirigible con pasajeros. El nombre de Hugo Eckener, su comandante, quedó asociado para siempre a la conquista del aire por los grandes dirigibles. El conde <a href="https://www.efemeridesdeaviacion.com/nacimiento/1838/07/08/nacimiento-ferdinand-von-zeppelin.html" style="color: #315fea; text-decoration: none;">Ferdinand von Zeppelin</a>, que no llegó a verla, había muerto en 1917.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

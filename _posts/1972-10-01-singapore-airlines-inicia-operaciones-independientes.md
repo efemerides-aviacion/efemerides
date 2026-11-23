@@ -70,7 +70,7 @@ El nombre y la identidad visual resolvieron un problema político y comercial. L
 - **28 de enero de 1972:** se incorpora Mercury Singapore Airlines como entidad singapurense.
 - **Junio de 1972:** la empresa adopta el nombre Singapore Airlines tras el desacuerdo por el uso de las siglas MSA.
 - **1 de octubre de 1972:** comienza a operar como Singapore Airlines; el SQ 108 despega hacia Kuala Lumpur alrededor de las 6:15.
-- **15 de octubre de 2007:** SIA recibe el primer A380 entregado a una aerolínea; el programa había iniciado sus ensayos con el <a href="https://efemerides-aviacion.github.io/efemerides/evento/2005/04/27/primer-vuelo-airbus-a380.html" style="color: #315fea; text-decoration: none;">vuelo inaugural del Airbus A380</a> en abril de 2005.
+- **15 de octubre de 2007:** SIA recibe el primer A380 entregado a una aerolínea; el programa había iniciado sus ensayos con el <a href="https://www.efemeridesdeaviacion.com/evento/2005/04/27/primer-vuelo-airbus-a380.html" style="color: #315fea; text-decoration: none;">vuelo inaugural del Airbus A380</a> en abril de 2005.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

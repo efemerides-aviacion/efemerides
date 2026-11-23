@@ -62,7 +62,7 @@ La aeronáutica se vivía como un asunto de prestigio nacional comparable a la c
 
 La secuencia siguiente detalla el desarrollo del vuelo y el desenlace de la jornada.
 
-- **Noviembre de 1907:** comienza la construcción del LZ 4, concebido con mayor diámetro, longitud y capacidad de combustible que el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1900/07/02/primer-vuelo-zeppelin-lz1.html" style="color: #315fea; text-decoration: none;">linaje de dirigibles rígidos iniciado con el LZ 1 en 1900</a>, para poder afrontar la prueba de veinticuatro horas.
+- **Noviembre de 1907:** comienza la construcción del LZ 4, concebido con mayor diámetro, longitud y capacidad de combustible que el <a href="https://www.efemeridesdeaviacion.com/evento/1900/07/02/primer-vuelo-zeppelin-lz1.html" style="color: #315fea; text-decoration: none;">linaje de dirigibles rígidos iniciado con el LZ 1 en 1900</a>, para poder afrontar la prueba de veinticuatro horas.
 - **20 de junio de 1908:** primer vuelo del LZ 4, de dieciocho minutos, que revela deficiencias en el gobierno del aparato.
 - **1 de julio de 1908:** vuelo de doce horas sobre Suiza hasta Zúrich y regreso al lago de Constanza, con 386 kilómetros recorridos y una altitud máxima de 795 metros.
 - **13 de julio de 1908:** el dirigible se rellena con hidrógeno fresco para asegurar la máxima sustentación en la prueba de resistencia.
@@ -84,7 +84,7 @@ La prueba de veinticuatro horas había fracasado y con ella la compra por parte 
 
 Aquel dinero, alrededor de seis millones de marcos, no se destinó únicamente a reponer el aparato perdido. Permitió dotar al proyecto de una base empresarial estable mediante la creación de la sociedad Luftschiffbau Zeppelin y de una fundación destinada a sostener el desarrollo a largo plazo. Por primera vez, la investigación aeronáutica del conde dejó de depender de su patrimonio personal y de la benevolencia del Estado.
 
-El cambio de actitud oficial llegó después. Con una estructura industrial consolidada y el respaldo demostrado de la opinión pública, la administración militar alemana terminó incorporando dirigibles a sus fuerzas, y en 1909 nació <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1909/11/16/fundacion-delag-primera-aerolinea-del-mundo.html" style="color: #315fea; text-decoration: none;">la sociedad de transporte aéreo</a> que explotaría comercialmente los zepelines en los años previos a la Primera Guerra Mundial.
+El cambio de actitud oficial llegó después. Con una estructura industrial consolidada y el respaldo demostrado de la opinión pública, la administración militar alemana terminó incorporando dirigibles a sus fuerzas, y en 1909 nació <a href="https://www.efemeridesdeaviacion.com/fundacion/1909/11/16/fundacion-delag-primera-aerolinea-del-mundo.html" style="color: #315fea; text-decoration: none;">la sociedad de transporte aéreo</a> que explotaría comercialmente los zepelines en los años previos a la Primera Guerra Mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -92,7 +92,7 @@ El cambio de actitud oficial llegó después. Con una estructura industrial cons
 
 Pocos accidentes aeronáuticos han tenido un efecto tan contrario al esperado, hasta el punto de que la historiografía alemana lo designa con el nombre de milagro.
 
-La denominación «Milagro de Echterdingen» —*Das Wunder von Echterdingen*— no alude al incendio, del que nadie salió herido de gravedad, sino a la reacción que provocó. El episodio se considera el punto de partida real de la industria del dirigible alemán, y de la estructura creada entonces salieron las tres décadas siguientes de desarrollo: los zepelines militares de la Gran Guerra y las grandes aeronaves de transporte transatlántico de los años treinta, cuya etapa se cerraría con <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1937/05/06/desastre-lz-129-hindenburg.html" style="color: #315fea; text-decoration: none;">el desastre del LZ 129 Hindenburg en 1937</a>.
+La denominación «Milagro de Echterdingen» —*Das Wunder von Echterdingen*— no alude al incendio, del que nadie salió herido de gravedad, sino a la reacción que provocó. El episodio se considera el punto de partida real de la industria del dirigible alemán, y de la estructura creada entonces salieron las tres décadas siguientes de desarrollo: los zepelines militares de la Gran Guerra y las grandes aeronaves de transporte transatlántico de los años treinta, cuya etapa se cerraría con <a href="https://www.efemeridesdeaviacion.com/accidente/1937/05/06/desastre-lz-129-hindenburg.html" style="color: #315fea; text-decoration: none;">el desastre del LZ 129 Hindenburg en 1937</a>.
 
 El propio conde interpretó la jornada en esos términos y se refirió a ella como la hora del nacimiento de la aeronáutica nacional. En el lugar del suceso, en el actual municipio de Leinfelden-Echterdingen, se conserva un monumento conmemorativo, el *Zeppelinstein*, que recuerda el aterrizaje forzoso y la destrucción del aparato.
 

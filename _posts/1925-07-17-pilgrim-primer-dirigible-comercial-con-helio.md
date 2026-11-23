@@ -20,7 +20,7 @@ image: 1925-07-17-pilgrim-primer-dirigible-comercial-con-helio.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de julio de 1925, el dirigible <em>Pilgrim</em> realizó en Akron, Ohio, su primer vuelo utilizando helio como gas de sustentación. El hecho convirtió a esta aeronave de Goodyear en una referencia pionera para la navegación no rígida más ligera que el aire, al demostrar en servicio la viabilidad práctica de un gas no inflamable en lugar del hidrógeno.</p>
-<p>El hito fue especialmente relevante porque el <em>Pilgrim</em> ya había realizado su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1925/06/03/vuelo-inaugural-dirigible-pilgrim.html" style="color: #315fea; text-decoration: none;">vuelo inaugural el 3 de junio de 1925</a>, pero todavía inflado con hidrógeno. Su salida del 17 de julio marcó, por tanto, no el nacimiento absoluto de la aeronave, sino el comienzo de la etapa que definiría el futuro de los Goodyear Blimps y de la aviación comercial ligera con mayores estándares de seguridad.</p>
+<p>El hito fue especialmente relevante porque el <em>Pilgrim</em> ya había realizado su <a href="https://www.efemeridesdeaviacion.com/evento/1925/06/03/vuelo-inaugural-dirigible-pilgrim.html" style="color: #315fea; text-decoration: none;">vuelo inaugural el 3 de junio de 1925</a>, pero todavía inflado con hidrógeno. Su salida del 17 de julio marcó, por tanto, no el nacimiento absoluto de la aeronave, sino el comienzo de la etapa que definiría el futuro de los Goodyear Blimps y de la aviación comercial ligera con mayores estándares de seguridad.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -61,7 +61,7 @@ El <em>Pilgrim</em> no fue pensado solo como máquina de transporte. También fu
 
 El hito del 17 de julio de 1925 no ocurrió de manera aislada, sino como parte de una rápida secuencia de pruebas y decisiones que transformaron al <em>Pilgrim</em> en una aeronave pionera. En pocas semanas, el dirigible pasó de un vuelo inicial con hidrógeno a convertirse en la referencia fundacional del programa civil de blimps de Goodyear.
 
-- **3 de junio de 1925:** el <em>Pilgrim</em> realiza su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1925/06/03/vuelo-inaugural-dirigible-pilgrim.html" style="color: #315fea; text-decoration: none;">vuelo inaugural en Akron</a>, todavía inflado con hidrógeno.
+- **3 de junio de 1925:** el <em>Pilgrim</em> realiza su <a href="https://www.efemeridesdeaviacion.com/evento/1925/06/03/vuelo-inaugural-dirigible-pilgrim.html" style="color: #315fea; text-decoration: none;">vuelo inaugural en Akron</a>, todavía inflado con hidrógeno.
 - **Finales de junio de 1925:** Goodyear recibe el suministro de helio necesario para iniciar la nueva fase de pruebas.
 - **17 de julio de 1925:** el dirigible vuela por primera vez con helio.
 - **18 de julio de 1925:** Florence Litchfield, esposa de P. W. Litchfield, bautiza formalmente la aeronave con el nombre <em>Pilgrim</em> durante las celebraciones del centenario de Akron.

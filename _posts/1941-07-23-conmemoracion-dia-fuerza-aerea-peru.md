@@ -62,7 +62,7 @@ La construcción de una efeméride convierte un episodio bélico en rito cívico
 
 La conmemoración reúne la historia institucional de la aviación peruana y la trayectoria del piloto que la FAP reconoce como su patrono.
 
-- **28 de enero de 1919:** se organiza <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1919/01/28/creacion-servicio-aviacion-militar-peru.html" style="color: #315fea; text-decoration: none;">el Servicio de Aviación Militar del Ejército</a>, antecedente institucional del arma aérea peruana.
+- **28 de enero de 1919:** se organiza <a href="https://www.efemeridesdeaviacion.com/fundacion/1919/01/28/creacion-servicio-aviacion-militar-peru.html" style="color: #315fea; text-decoration: none;">el Servicio de Aviación Militar del Ejército</a>, antecedente institucional del arma aérea peruana.
 - **22 de abril de 1914:** nace José Abelardo Quiñones Gonzales en Pimentel, en la región de Lambayeque.
 - **12 de marzo de 1935:** inicia su formación como aviador militar en la escuela de Las Palmas.
 - **21 de enero de 1939:** se gradúa en la promoción «Comandante Raguz» y obtiene el primer puesto de su especialidad de caza, según las reseñas institucionales.

@@ -110,11 +110,11 @@ El vuelo también es recordado como un paso crucial en la carrera de Earhart hac
 
 Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviación:
 
-- **8 de abril de 1931:** Estableció un  <a href="https://efemerides-aviacion.github.io/efemerides/evento/1931/04/08/amelia-earhart-autogiro-record-altitud.html" style="color: #315fea; text-decoration: none;">se alzó con el récord femenino de altitud en autogiro, con el Pitcairn PCA-2</a>.
+- **8 de abril de 1931:** Estableció un  <a href="https://www.efemeridesdeaviacion.com/evento/1931/04/08/amelia-earhart-autogiro-record-altitud.html" style="color: #315fea; text-decoration: none;">se alzó con el récord femenino de altitud en autogiro, con el Pitcairn PCA-2</a>.
 
-- **20 de mayo – 21 de mayo de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/05/21/amelia-earhart-primera-mujer-cruza-atlantico.html" style="color: #315fea; text-decoration: none;">Primer vuelo en solitario de una mujer a través del Atlántico (Newfoundland → Irlanda)</a>, por el que recibió la Distinguished Flying Cross del Congreso de EE.UU.
+- **20 de mayo – 21 de mayo de 1932:** <a href="https://www.efemeridesdeaviacion.com/evento/1932/05/21/amelia-earhart-primera-mujer-cruza-atlantico.html" style="color: #315fea; text-decoration: none;">Primer vuelo en solitario de una mujer a través del Atlántico (Newfoundland → Irlanda)</a>, por el que recibió la Distinguished Flying Cross del Congreso de EE.UU.
 
-- **24-25 de agosto de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/08/25/amelia-earhart-vuelo-transcontinental-la-nj.html" style="color: #315fea; text-decoration: none;">primer cruce en solitario de costa a costa</a> (Los Ángeles → Newark), 19 horas y 5 minutos, en el Vega NR7952.
+- **24-25 de agosto de 1932:** <a href="https://www.efemeridesdeaviacion.com/evento/1932/08/25/amelia-earhart-vuelo-transcontinental-la-nj.html" style="color: #315fea; text-decoration: none;">primer cruce en solitario de costa a costa</a> (Los Ángeles → Newark), 19 horas y 5 minutos, en el Vega NR7952.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -40,7 +40,7 @@ image: 1988-04-16-primer-vuelo-prototipo-t45-goshawk.webp
 
 ## Contexto Histórico
 
-A mediados de la década de 1970, la Armada de los Estados Unidos enfrentaba un problema creciente: sus entrenadores a reacción T-2 Buckeye y TA-4 Skyhawk estaban envejeciendo rápidamente. Ambos aviones, diseñados en la década de 1950, habían superado su vida útil prevista y sus costos de mantenimiento se disparaban. La Armada necesitaba un único avión que pudiera cubrir tanto las fases intermedias como avanzadas del entrenamiento de pilotos para aviones de combate embarcados como el F-14 Tomcat y el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1978/11/18/primer-vuelo-mcdonnell-douglas-fa18-hornet.html" style="color: #315fea; text-decoration: none;">F/A-18 Hornet</a>.
+A mediados de la década de 1970, la Armada de los Estados Unidos enfrentaba un problema creciente: sus entrenadores a reacción T-2 Buckeye y TA-4 Skyhawk estaban envejeciendo rápidamente. Ambos aviones, diseñados en la década de 1950, habían superado su vida útil prevista y sus costos de mantenimiento se disparaban. La Armada necesitaba un único avión que pudiera cubrir tanto las fases intermedias como avanzadas del entrenamiento de pilotos para aviones de combate embarcados como el F-14 Tomcat y el <a href="https://www.efemeridesdeaviacion.com/evento/1978/11/18/primer-vuelo-mcdonnell-douglas-fa18-hornet.html" style="color: #315fea; text-decoration: none;">F/A-18 Hornet</a>.
 
 ### Entorno social
 
@@ -60,7 +60,7 @@ La colaboración anglo-estadounidense en el programa T-45 representó un modelo 
 
 El programa recorrió una década larga desde el requerimiento inicial de la Armada hasta el vuelo del primer prototipo.
 
-- **21 de agosto de 1974:** vuela en Dunsfold el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1974/08/21/primer-vuelo-bae-hawk-entrenador-avanzado.html" style="color: #315fea; text-decoration: none;">Hawker Siddeley Hawk</a>, el entrenador terrestre del que catorce años después derivará el Goshawk. Superará las 1.000 unidades entregadas a dieciocho operadores, y es esa madurez comercial la que lo convierte en candidato solvente cuando la Armada estadounidense busca un entrenador ya probado en lugar de un diseño nuevo.
+- **21 de agosto de 1974:** vuela en Dunsfold el <a href="https://www.efemeridesdeaviacion.com/evento/1974/08/21/primer-vuelo-bae-hawk-entrenador-avanzado.html" style="color: #315fea; text-decoration: none;">Hawker Siddeley Hawk</a>, el entrenador terrestre del que catorce años después derivará el Goshawk. Superará las 1.000 unidades entregadas a dieciocho operadores, y es esa madurez comercial la que lo convierte en candidato solvente cuando la Armada estadounidense busca un entrenador ya probado en lugar de un diseño nuevo.
 - **1978:** La Armada de los Estados Unidos lanza formalmente el programa VTX-TS para un nuevo entrenador avanzado.
 - **18 de noviembre de 1981:** El equipo formado por British Aerospace y McDonnell Douglas es seleccionado, frente a otras cinco candidaturas, con una versión navalizada del Hawk.
 - **1984:** Se elimina la variante T-45B, versión terrestre sin capacidad embarcada, y se opta por una flota íntegramente de T-45A.

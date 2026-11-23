@@ -40,12 +40,12 @@ En el Reich alemán, la guerra se extendía en dos frentes, y la población civi
 La *Luftwaffe* había desarrollado una eficaz red de caza nocturna (*Nachtjagd*) con radares aerotransportados como el *Lichtenstein* y el sistema *Schräge Musik* (cañones oblicuos montados en Bf 110 y Ju 88). Los bombarderos británicos carecían aún de contramedidas electrónicas suficientes para contrarrestar estos sistemas.
 
 ### Entorno cultural
-La incursión se planificó en medio de un clima de confianza en el Bomber Command, tras la exitosa campaña de 1943 (Hamburgo, Berlín). El mariscal <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/04/13/nacimiento-arthur-harris.html" style="color: #315fea; text-decoration: none;">Arthur Harris</a> apostó por continuar los ataques a las ciudades alemanas, a menudo sobreestimando la protección que brindaría el mal tiempo.
+La incursión se planificó en medio de un clima de confianza en el Bomber Command, tras la exitosa campaña de 1943 (Hamburgo, Berlín). El mariscal <a href="https://www.efemeridesdeaviacion.com/nacimiento/1892/04/13/nacimiento-arthur-harris.html" style="color: #315fea; text-decoration: none;">Arthur Harris</a> apostó por continuar los ataques a las ciudades alemanas, a menudo sobreestimando la protección que brindaría el mal tiempo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
-- **30 de mayo de 1942:** La RAF lanza la **Operación Millennium (Milenio)** , el primer bombardeo de 1.000 bombarderos contra Colonia, demostrando la viabilidad del bombardeo de área masivo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/05/30/operacion-milenium.html" style="color: #315fea; text-decoration: none;">efeméride de la Operación Millennium (Milenio)</a> para más detalles.
+- **30 de mayo de 1942:** La RAF lanza la **Operación Millennium (Milenio)** , el primer bombardeo de 1.000 bombarderos contra Colonia, demostrando la viabilidad del bombardeo de área masivo. Consulte la <a href="https://www.efemeridesdeaviacion.com/evento/1942/05/30/operacion-milenium.html" style="color: #315fea; text-decoration: none;">efeméride de la Operación Millennium (Milenio)</a> para más detalles.
 
 - **Agosto 1943 – febrero 1944:** Ataques previos a Núremberg. El bombardeo del 27/28 de agosto de 1943 con 674 aparatos causó 56 bajas civiles; el de febrero de 1944 con 337 bombarderos dañó suburbios.
 - **30 de marzo de 1944, tarde:** Los bombarderos comienzan a despegar de sus bases en Inglaterra. El plan prevé una ruta directa de 600 km sobre territorio enemigo, con nubes altas que se esperaba protegieran a la formación.

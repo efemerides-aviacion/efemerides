@@ -56,7 +56,7 @@ Las historias empresariales tienden a reunir en una sola fecha el origen de una 
 
 ## Desarrollo Cronológico
 
-- **1910:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1881/10/01/nacimiento-william-boeing-fundador-boeing.html" style="color: #315fea; text-decoration: none;">el empresario William E. Boeing</a> compró el astillero de Edward Heath en el Duwamish.
+- **1910:** <a href="https://www.efemeridesdeaviacion.com/nacimiento/1881/10/01/nacimiento-william-boeing-fundador-boeing.html" style="color: #315fea; text-decoration: none;">el empresario William E. Boeing</a> compró el astillero de Edward Heath en el Duwamish.
 - **1915:** mandó construir un hangar a orillas del lago Union.
 - **15 de junio de 1916:** llevó el Bluebill, primer B & W, a su vuelo inicial.
 - **Noviembre:** comenzaron las pruebas del Model C. Las modificaciones de sus superficies de cola precedieron a nuevas evaluaciones.

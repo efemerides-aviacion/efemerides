@@ -29,7 +29,7 @@ image: 1956-10-17-nacimiento-mae-carol-jemison.webp
 - **Rol en la misión:** especialista de misión y especialista de ciencia  
 - **Tiempo en el espacio:** 190 horas, 30 minutos y 23 segundos; 127 órbitas alrededor de la Tierra  
 - **Logro histórico:** primera mujer afroamericana en viajar al espacio  
-- **Homenaje a bordo:** llevó consigo una fotografía de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/01/26/nacimiento-bessie-coleman.html" style="color: #315fea; text-decoration: none;">Bessie Coleman</a>, la primera mujer afroamericana en pilotar una aeronave.  
+- **Homenaje a bordo:** llevó consigo una fotografía de <a href="https://www.efemeridesdeaviacion.com/nacimiento/1892/01/26/nacimiento-bessie-coleman.html" style="color: #315fea; text-decoration: none;">Bessie Coleman</a>, la primera mujer afroamericana en pilotar una aeronave.  
 - **Experimentos:** 44 experimentos de ciencias de la vida y procesamiento de materiales  
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -37,7 +37,7 @@ image: 1956-10-17-nacimiento-mae-carol-jemison.webp
 Jemison creció en Chicago fascinada por la ciencia y el espacio. Después de obtener su título en ingeniería química y estudios afroamericanos en Stanford y su doctorado en medicina en Cornell, sirvió como oficial médica del Cuerpo de Paz en África Occidental antes de postularse al programa de astronautas de la NASA. Fue seleccionada en 1987, entre unas 2.000 candidatos para 15 plazas, convirtiéndose en la primera mujer afroamericana admitida en el entrenamiento de astronautas de la NASA.
 
 ### Entorno social
-La selección de Jemison por la NASA en 1987 se produjo en el marco del primer grupo de astronautas elegido después del <a href="https://efemerides-aviacion.github.io/efemerides/espacial/accidente/1986/01/28/accidente-challenger-sts51l.html" style="color: #315fea; text-decoration: none;">accidente del Challenger STS‑51‑L</a>, un momento de profunda reflexión dentro de la agencia sobre seguridad y diversidad en la exploración espacial.
+La selección de Jemison por la NASA en 1987 se produjo en el marco del primer grupo de astronautas elegido después del <a href="https://www.efemeridesdeaviacion.com/espacial/accidente/1986/01/28/accidente-challenger-sts51l.html" style="color: #315fea; text-decoration: none;">accidente del Challenger STS‑51‑L</a>, un momento de profunda reflexión dentro de la agencia sobre seguridad y diversidad en la exploración espacial.
 
 ### Entorno tecnológico
 El transbordador Endeavour, orbiter construido para reemplazar al Challenger, incorporaba mejoras estructurales y de aviónica que permitían misiones de mayor duración y complejidad. La STS-47 voló con el módulo Spacelab-J, un laboratorio presurizado desarrollado en cooperación entre la NASA y la Agencia Espacial Nacional de Japón (NASDA), diseñado para albergar experimentos de ciencias de la vida y procesamiento de materiales en microgravedad.

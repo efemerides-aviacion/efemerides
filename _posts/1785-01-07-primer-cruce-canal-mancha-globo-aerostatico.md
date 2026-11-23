@@ -43,7 +43,7 @@ image: 1785-01-07-primer-cruce-canal-mancha-globo-aerostatico.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-Tras los vuelos de demostración, el Canal de la Mancha planteó una prueba distinta: mantener una aeronave sobre el agua y alcanzar una costa sin poder elegir el viento. Los antecedentes parisinos pueden consultarse en la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">el ensayo de los Montgolfier</a> y en la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">la experiencia francesa con hidrógeno</a>. Blanchard y Jeffries trasladaron esa experiencia a una ruta marítima.
+Tras los vuelos de demostración, el Canal de la Mancha planteó una prueba distinta: mantener una aeronave sobre el agua y alcanzar una costa sin poder elegir el viento. Los antecedentes parisinos pueden consultarse en la <a href="https://www.efemeridesdeaviacion.com/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">el ensayo de los Montgolfier</a> y en la <a href="https://www.efemeridesdeaviacion.com/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">la experiencia francesa con hidrógeno</a>. Blanchard y Jeffries trasladaron esa experiencia a una ruta marítima.
 
 ### Entorno social
 

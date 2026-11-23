@@ -70,7 +70,7 @@ La competición por la F.9/35 atrajo siete propuestas; el Ministerio situó en c
 
 ## Desarrollo Cronológico
 
-- **26 de junio de 1935:** el Ministerio del Aire publica la especificación F.9/35, que pide un caza biplaza de torreta motorizada con prestaciones equiparables a las de los cazas monoplaza entonces en desarrollo, como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1936/03/05/primer-vuelo-supermarine-spitfire.html" style="color: #315fea; text-decoration: none;">Supermarine Spitfire</a>.
+- **26 de junio de 1935:** el Ministerio del Aire publica la especificación F.9/35, que pide un caza biplaza de torreta motorizada con prestaciones equiparables a las de los cazas monoplaza entonces en desarrollo, como el <a href="https://www.efemeridesdeaviacion.com/evento/1936/03/05/primer-vuelo-supermarine-spitfire.html" style="color: #315fea; text-decoration: none;">Supermarine Spitfire</a>.
 - **Otoño de 1935:** el Tesoro financia siete prototipos, pero solo se encargan los dos mejor valorados —Hotspur y P.82—; el contrato de los dos P.82 se firma el 4 de diciembre.
 - **1936:** Boulton Paul inicia el montaje del primer prototipo, K8310, en su nueva planta de Wolverhampton.
 - **28 de abril de 1937:** se asigna al proyecto el nombre Defiant.
@@ -79,8 +79,8 @@ La competición por la F.9/35 atrajo siete propuestas; el Ministerio situó en c
 - **Febrero de 1938:** se instala la torreta en el K8310. Las prestaciones caen respecto a la configuración inicial.
 - **30 de julio de 1939:** vuelan el segundo prototipo, K8620, con motor Merlin II y torreta completa, y el primer aparato de serie, L6950.
 - **Diciembre de 1939:** el Defiant entra en servicio con el Escuadrón 264 de la RAF. Al estallar la guerra solo tres aparatos habían llegado a la fuerza aérea.
-- **12 de mayo de 1940:** primera salida operativa, sobre las playas de Dunkerque, durante los combates que precedieron a la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1940/06/04/participacion-aerea-operacion-dynamo-dunkerke.html" style="color: #315fea; text-decoration: none;">evacuación de la Operación Dynamo</a>. El Escuadrón 264 reclama 37 derribos en un día (65 al mes), cifras que la investigación posterior rebajó.
-- **19 de julio de 1940:** el Escuadrón 141 pierde seis de los nueve Defiant enviados a una misión diurna. los pilotos de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1935/02/26/fundacion-luftwaffe.html" style="color: #315fea; text-decoration: none;">Luftwaffe</a> ya atacaban de frente y desde abajo.
+- **12 de mayo de 1940:** primera salida operativa, sobre las playas de Dunkerque, durante los combates que precedieron a la <a href="https://www.efemeridesdeaviacion.com/evento/1940/06/04/participacion-aerea-operacion-dynamo-dunkerke.html" style="color: #315fea; text-decoration: none;">evacuación de la Operación Dynamo</a>. El Escuadrón 264 reclama 37 derribos en un día (65 al mes), cifras que la investigación posterior rebajó.
+- **19 de julio de 1940:** el Escuadrón 141 pierde seis de los nueve Defiant enviados a una misión diurna. los pilotos de la <a href="https://www.efemeridesdeaviacion.com/fundacion/1935/02/26/fundacion-luftwaffe.html" style="color: #315fea; text-decoration: none;">Luftwaffe</a> ya atacaban de frente y desde abajo.
 - **20 de julio de 1940:** primer vuelo del prototipo del Defiant Mk II, con motor Merlin XX.
 - **Otoño de 1940-1941:** retirado del combate diurno, se reconvierte en caza nocturno con radar de interceptación; sirve en trece escuadrones.
 - **1942-1943:** los aparatos supervivientes pasan a remolque de blancos, salvamento marítimo y contramedidas electrónicas. La producción cesa en 1943.

@@ -48,7 +48,7 @@ A principios de la década de 2010, la aviación comercial enfrentaba un entorno
 
 ### Entorno tecnológico
 
-La integración permitió al nuevo grupo unificar sus sistemas informáticos de reservas y mantenimiento y planificar una de las flotas de largo y corto radio más modernas del continente, incorporando bimotores de nueva generación como el Boeing 787 Dreamliner y el <a href="https://efemerides-aviacion.github.io/efemerides/evento/2014/09/25/primer-vuelo-airbus-a320neo.html" style="color: #315fea; text-decoration: none;">Airbus A320neo</a>, que aportaron reducciones sustanciales en el consumo específico de combustible y en la huella acústica.
+La integración permitió al nuevo grupo unificar sus sistemas informáticos de reservas y mantenimiento y planificar una de las flotas de largo y corto radio más modernas del continente, incorporando bimotores de nueva generación como el Boeing 787 Dreamliner y el <a href="https://www.efemeridesdeaviacion.com/evento/2014/09/25/primer-vuelo-airbus-a320neo.html" style="color: #315fea; text-decoration: none;">Airbus A320neo</a>, que aportaron reducciones sustanciales en el consumo específico de combustible y en la huella acústica.
 
 ### Entorno cultural
 
@@ -65,7 +65,7 @@ La articulación de dos culturas corporativas y regulatorias distintas —la chi
 - **22 de junio de 2012:** concluida con éxito la oferta pública de canje de acciones, se perfecciona legalmente la fusión y comienza a cotizar **LATAM Airlines Group S.A.** con Enrique Cueto como consejero delegado (CEO) y Mauricio Rolim Amaro como presidente del directorio.
 - **31 de marzo de 2014:** TAM abandona *Star Alliance* y se incorpora a *oneworld*, unificando la pertenencia de todas las filiales del grupo en una sola alianza global.
 - **6 de agosto de 2015 – 5 de mayo de 2016:** presentación de la marca e identidad visual unificada **LATAM** y primeros vuelos comerciales bajo la nueva librea entre São Paulo, Santiago y Ginebra.
-- **Diciembre de 2016:** <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1993/11/30/fundacion-qatar-airways.html" style="color: #315fea; text-decoration: none;">Qatar Airways</a> suscribe una ampliación de capital por el 10 % de la compañía.
+- **Diciembre de 2016:** <a href="https://www.efemeridesdeaviacion.com/fundacion/1993/11/30/fundacion-qatar-airways.html" style="color: #315fea; text-decoration: none;">Qatar Airways</a> suscribe una ampliación de capital por el 10 % de la compañía.
 - **Mayo de 2020 – noviembre de 2022:** a raíz del cierre de fronteras por la pandemia de COVID-19, el grupo se reorganiza financieramente bajo el Capítulo 11 en Nueva York, culmina su salida del proceso reduciendo su deuda en un 35 % y pone en marcha su acuerdo de operación conjunta (*Joint Venture*) con Delta Air Lines.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

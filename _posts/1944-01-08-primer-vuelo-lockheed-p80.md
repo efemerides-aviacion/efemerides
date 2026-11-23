@@ -45,7 +45,7 @@ El vuelo fue símbolo del avance tecnológico estadounidense y del inicio de una
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
-- 1 de octubre de 1942: el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/10/01/primer-vuelo-bell-xp59a-airacomet.html" style="color: #315fea; text-decoration: none;">Bell XP-59A Airacomet</a> realiza el primer vuelo de un reactor estadounidense y proporciona la experiencia que precede al desarrollo del XP‑80.  
+- 1 de octubre de 1942: el <a href="https://www.efemeridesdeaviacion.com/evento/1942/10/01/primer-vuelo-bell-xp59a-airacomet.html" style="color: #315fea; text-decoration: none;">Bell XP-59A Airacomet</a> realiza el primer vuelo de un reactor estadounidense y proporciona la experiencia que precede al desarrollo del XP‑80.  
 - 1943: inicio del proyecto XP‑80 en Lockheed.  
 - Noviembre 1943: entrega del primer fuselaje.  
 - 8 de enero de 1944: primer vuelo en California.  

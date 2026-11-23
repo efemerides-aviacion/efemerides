@@ -47,7 +47,7 @@ La invasión alemana iniciada el 22 de junio de 1941 impuso a la Unión Soviéti
 
 ### Entorno social
 
-La Unión Soviética había extendido la enseñanza aeronáutica mediante Osoaviakhim y una red de clubes donde muchas jóvenes aprendieron pilotaje, navegación, mecánica o paracaidismo. Esa cantera coexistía con mandos reacios a emplear mujeres en primera línea. Tras el ataque alemán, numerosas aspirantes escribieron a <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1912/03/28/nacimiento-marina-mijailovna-raskova.html" style="color: #315fea; text-decoration: none;">Marina Raskova, navegante de récord y figura pública soviética</a>, para pedir una oportunidad de servir en el aire.
+La Unión Soviética había extendido la enseñanza aeronáutica mediante Osoaviakhim y una red de clubes donde muchas jóvenes aprendieron pilotaje, navegación, mecánica o paracaidismo. Esa cantera coexistía con mandos reacios a emplear mujeres en primera línea. Tras el ataque alemán, numerosas aspirantes escribieron a <a href="https://www.efemeridesdeaviacion.com/nacimiento/1912/03/28/nacimiento-marina-mijailovna-raskova.html" style="color: #315fea; text-decoration: none;">Marina Raskova, navegante de récord y figura pública soviética</a>, para pedir una oportunidad de servir en el aire.
 
 Raskova empleó su prestigio ante el gobierno, reunió candidatas y dirigió el Grupo de Aviación n.º 122. Pilotos, navegantes, mecánicas, armeras y personal de apoyo llegaron a Engels desde lugares y experiencias muy distintos. Bershanskaya aportó práctica como instructora y organizadora; su autoridad mantendría unido al 588.º durante toda la guerra.
 
@@ -61,7 +61,7 @@ Es frecuente que las fuentes modernas llamen Po-2 al aparato durante toda la gue
 
 La aviación era una vitrina de modernidad soviética. Los récords de distancia y las escuelas de vuelo habían presentado a las aviadoras como símbolos de igualdad, aunque la práctica militar siguiera reservando el combate a los hombres. Las nuevas unidades conciliaron propaganda y necesidad bélica: demostraban un ideal político, pero también respondían a pérdidas enormes y a la urgencia de movilizar todas las capacidades disponibles.
 
-La decisión produjo tres ramas diferentes. El 586.º recibió cazas Yak-1; el 587.º fue concebido para bombardeo diurno; y el 588.º asumió la misión nocturna. De la primera rama saldrían combatientes como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1921/08/18/nacimiento-lidia-litviak-as-combate-union-sovietica.html" style="color: #315fea; text-decoration: none;">Lidia Litviak, futura as de caza</a>. La unidad de Bershanskaya, en cambio, construiría su identidad alrededor de tripulaciones de dos mujeres y aeródromos avanzados.
+La decisión produjo tres ramas diferentes. El 586.º recibió cazas Yak-1; el 587.º fue concebido para bombardeo diurno; y el 588.º asumió la misión nocturna. De la primera rama saldrían combatientes como <a href="https://www.efemeridesdeaviacion.com/nacimiento/1921/08/18/nacimiento-lidia-litviak-as-combate-union-sovietica.html" style="color: #315fea; text-decoration: none;">Lidia Litviak, futura as de caza</a>. La unidad de Bershanskaya, en cambio, construiría su identidad alrededor de tripulaciones de dos mujeres y aeródromos avanzados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

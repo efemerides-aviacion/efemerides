@@ -84,7 +84,7 @@ Llevaron pequeños gatos de juguete como amuletos: “Lucky Jim” pertenecía a
 ## Consecuencias e Impacto
 El premio y el nombramiento real dieron reconocimiento inmediato a los dos tripulantes. Multitudes los recibieron durante el viaje por Irlanda y Gran Bretaña, y unas 250.000 personas acudieron a su llegada a Londres.
 
-La travesía probó la viabilidad de un enlace oceánico directo, aunque no produjo de inmediato una línea regular. El transporte de casi doscientas cartas añadió una dimensión postal a la demostración, y los fallos de generación eléctrica, escape y protección contra hielo ofrecieron lecciones concretas para máquinas posteriores. Su experiencia orientó nuevos proyectos de gran alcance y antecedió al vuelo solitario de Charles Lindbergh entre Nueva York y París en 1927 (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>).
+La travesía probó la viabilidad de un enlace oceánico directo, aunque no produjo de inmediato una línea regular. El transporte de casi doscientas cartas añadió una dimensión postal a la demostración, y los fallos de generación eléctrica, escape y protección contra hielo ofrecieron lecciones concretas para máquinas posteriores. Su experiencia orientó nuevos proyectos de gran alcance y antecedió al vuelo solitario de Charles Lindbergh entre Nueva York y París en 1927 (<a href="https://www.efemeridesdeaviacion.com/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

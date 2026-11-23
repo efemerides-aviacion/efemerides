@@ -58,7 +58,7 @@ Rossy resumió su proyecto con una frase que repitió ante la prensa: quería de
 
 Del primer prototipo al Canal pasaron años de ensayos, con vuelos cada vez más largos y un ala cada vez más refinada. La semana del cruce añadió dos aplazamientos por mal tiempo antes del viernes definitivo.
 
-- **25 de julio de 1909:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">Blériot une Les Baraques con Dover en 36 minutos y medio</a>, primera travesía aérea del estrecho; la ruta que Rossy emularía 99 años después.
+- **25 de julio de 1909:** <a href="https://www.efemeridesdeaviacion.com/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">Blériot une Les Baraques con Dover en 36 minutos y medio</a>, primera travesía aérea del estrecho; la ruta que Rossy emularía 99 años después.
 - **2003:** Rossy vuela 12 kilómetros con unas alas de carbono de tres metros, su primera marca de relieve con el ala individual.
 - **2004:** lanzado desde un avión, planea hasta los 2.500 metros, enciende los reactores del ala y sostiene el vuelo horizontal durante más de cuatro minutos a unos 160 kilómetros por hora.
 - **Diciembre de 2006:** en Bex (Suiza) logra el primer vuelo horizontal de seis minutos con el ala de cuatro reactores sujeta a la espalda.

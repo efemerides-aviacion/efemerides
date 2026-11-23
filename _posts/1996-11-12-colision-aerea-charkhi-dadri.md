@@ -29,7 +29,7 @@ image: 1996-11-12-colision-aerea-charkhi-dadri.webp
 - **Vuelo 1907:** Ilyushin Il-76TD, matrícula UN-76435, de Kazakhstan Airlines; procedía de Shymkent y se dirigía a Delhi. A bordo viajaban 27 pasajeros y diez tripulantes.
 - **Víctimas:** murieron las 312 personas del Boeing y las 37 del Ilyushin: 349 en total. El informe oficial no registra víctimas ni lesionados en tierra.
 - **Causa principal:** según el tribunal de investigación, el Il-76 descendió sin autorización desde el nivel de vuelo 150 y no mantuvo la separación vertical prevista con el Boeing.
-- **Alcance:** es la colisión en vuelo más mortífera de la aviación civil. El accidente con más víctimas en general fue la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión en pista de Los Rodeos</a>, en Tenerife, con 583 fallecidos.
+- **Alcance:** es la colisión en vuelo más mortífera de la aviación civil. El accidente con más víctimas en general fue la <a href="https://www.efemeridesdeaviacion.com/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión en pista de Los Rodeos</a>, en Tenerife, con 583 fallecidos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -45,7 +45,7 @@ Charkhi Dadri se encontraba en una región agrícola de Haryana. Después de la 
 
 ### Entorno tecnológico
 
-El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1969/02/09/boeing-747-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Boeing 747 realizó su vuelo inaugural</a> en 1969. El HZ-AIH era un avión comercial de fuselaje ancho con cuatro motores. El Il-76TD, también de cuatro motores, había sido concebido como transporte y operaba el vuelo kazajo hacia Delhi.
+El <a href="https://www.efemeridesdeaviacion.com/evento/1969/02/09/boeing-747-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Boeing 747 realizó su vuelo inaugural</a> en 1969. El HZ-AIH era un avión comercial de fuselaje ancho con cuatro motores. El Il-76TD, también de cuatro motores, había sido concebido como transporte y operaba el vuelo kazajo hacia Delhi.
 
 El control de aproximación disponía de radar primario, que permitía observar la posición horizontal, pero no proporcionaba por sí mismo la altitud transmitida por un avión. Para la separación vertical, el controlador dependía de las autorizaciones y de los informes de las tripulaciones. Ninguna de las aeronaves contaba con un sistema a bordo de alerta y resolución de conflictos de tráfico; tales sistemas no eran obligatorios en aquel momento para esos vuelos, según la investigación.
 

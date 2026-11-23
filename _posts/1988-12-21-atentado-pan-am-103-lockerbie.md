@@ -43,7 +43,7 @@ Diciembre de 1988 era un mes de regresos navideños. El pasaje del vuelo 103 est
 
 ### Entorno tecnológico
 
-En 1988 no existía la obligación universal de inspeccionar por completo el equipaje de bodega ni de garantizar en todos los enlaces que cada bulto viajara acompañado de su pasajero. Tres años antes, <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/1985/06/23/atentado-vuelo-182-air-india-montreal-bombay.html" style="color: #315fea; text-decoration: none;">otro Boeing 747, el del vuelo 182 de Air India, había sido destruido</a> por una maleta bomba facturada sin que su titular embarcara. Dos meses antes de Lockerbie, la policía de Alemania Occidental había incautado a una célula armada un artefacto oculto en un radiocasete Toshiba, indicio que resultó clave en la investigación forense posterior.
+En 1988 no existía la obligación universal de inspeccionar por completo el equipaje de bodega ni de garantizar en todos los enlaces que cada bulto viajara acompañado de su pasajero. Tres años antes, <a href="https://www.efemeridesdeaviacion.com/seguridad/1985/06/23/atentado-vuelo-182-air-india-montreal-bombay.html" style="color: #315fea; text-decoration: none;">otro Boeing 747, el del vuelo 182 de Air India, había sido destruido</a> por una maleta bomba facturada sin que su titular embarcara. Dos meses antes de Lockerbie, la policía de Alemania Occidental había incautado a una célula armada un artefacto oculto en un radiocasete Toshiba, indicio que resultó clave en la investigación forense posterior.
 
 ### Entorno cultural
 
@@ -69,7 +69,7 @@ Las horas se indican en tiempo universal coordinado (UTC), criterio del informe 
 
 En el plano técnico, el informe de la AAIB demostró cómo una carga explosiva de entre 340 y 450 gramos bastó para destruir un reactor de más de trescientas toneladas al propagarse la onda de choque por los conductos entre cuadernas y vigas bajo el suelo de cabina. En el ámbito forense, más de cinco mil investigadores peinaron 2.200 kilómetros cuadrados y recuperaron 319 toneladas de restos hasta aislar el fragmento del circuito del temporizador incrustado en un trozo de camisa.
 
-Para Pan American World Airways, ya debilitada financieramente, el atentado supuso una pérdida irreparable de confianza y de ingresos en el Atlántico Norte; la histórica compañía <a href="https://efemerides-aviacion.github.io/efemerides/evento/1991/12/04/ultimo-vuelo-pan-am.html" style="color: #315fea; text-decoration: none;">cesó sus operaciones el 4 de diciembre de 1991</a>, menos de tres años después.
+Para Pan American World Airways, ya debilitada financieramente, el atentado supuso una pérdida irreparable de confianza y de ingresos en el Atlántico Norte; la histórica compañía <a href="https://www.efemeridesdeaviacion.com/evento/1991/12/04/ultimo-vuelo-pan-am.html" style="color: #315fea; text-decoration: none;">cesó sus operaciones el 4 de diciembre de 1991</a>, menos de tres años después.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 ## Legado

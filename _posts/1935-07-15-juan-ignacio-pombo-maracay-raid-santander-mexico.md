@@ -44,7 +44,7 @@ La llegada a Maracay se entiende como un eslabón de los grandes vuelos español
 
 ### Entorno social
 
-Venezuela recibía aviadores extranjeros en Maracay como acontecimiento de Estado. Siete años antes, el mismo campo había visto aterrizar a <a href="https://efemerides-aviacion.github.io/efemerides/evento/1928/01/29/charles-lindbergh-maracay.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh, el 29 de enero de 1928</a>. En 1935, la comitiva que esperó a Pombo mezcló al ministro de la Guerra, a la embajada española y a la familia Gómez. El piloto fue conducido a la residencia de Las Delicias y, más tarde, a Caracas.
+Venezuela recibía aviadores extranjeros en Maracay como acontecimiento de Estado. Siete años antes, el mismo campo había visto aterrizar a <a href="https://www.efemeridesdeaviacion.com/evento/1928/01/29/charles-lindbergh-maracay.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh, el 29 de enero de 1928</a>. En 1935, la comitiva que esperó a Pombo mezcló al ministro de la Guerra, a la embajada española y a la familia Gómez. El piloto fue conducido a la residencia de Las Delicias y, más tarde, a Caracas.
 
 ### Entorno tecnológico
 
@@ -52,7 +52,7 @@ La «Santander» era una avioneta deportiva de ala baja y tren retráctil, modif
 
 ### Entorno cultural
 
-Pombo presentaba el vuelo como un lazo entre Cantabria y los pueblos iberoamericanos, no como un récord. En España, el raid se leía como continuación civil de los grandes vuelos militares de 1926 y como respuesta al destino del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1933/06/11/cuatro-vientos-brequet-xix.html" style="color: #315fea; text-decoration: none;">Cuatro Vientos, desaparecido en 1933 rumbo a México</a>. La Diputación de Santander, una suscripción popular y una subvención del Gobierno de Alejandro Lerroux sufragaron el aparato.
+Pombo presentaba el vuelo como un lazo entre Cantabria y los pueblos iberoamericanos, no como un récord. En España, el raid se leía como continuación civil de los grandes vuelos militares de 1926 y como respuesta al destino del <a href="https://www.efemeridesdeaviacion.com/evento/1933/06/11/cuatro-vientos-brequet-xix.html" style="color: #315fea; text-decoration: none;">Cuatro Vientos, desaparecido en 1933 rumbo a México</a>. La Diputación de Santander, una suscripción popular y una subvención del Gobierno de Alejandro Lerroux sufragaron el aparato.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

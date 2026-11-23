@@ -63,7 +63,7 @@ La medición del tiempo era una manera accesible de explicar el progreso a lecto
 La cronología de la U.S. Centennial of Flight Commission permite seguir la preparación y la rápida mejora de las marcas.
 
 - **Febrero de 1908:** el Signal Corps contrata con los hermanos el suministro de una máquina por 25.000 dólares, sujeto al cumplimiento de las condiciones técnicas.
-- **Mayo:** los ensayos con <a href="https://efemerides-aviacion.github.io/efemerides/evento/1908/05/14/primer-pasajero-volar-aeronave-mas-pesada-aire.html" style="color: #315fea; text-decoration: none;">Charles Furnas como acompañante</a> aportan experiencia previa en el transporte de otra persona.
+- **Mayo:** los ensayos con <a href="https://www.efemeridesdeaviacion.com/evento/1908/05/14/primer-pasajero-volar-aeronave-mas-pesada-aire.html" style="color: #315fea; text-decoration: none;">Charles Furnas como acompañante</a> aportan experiencia previa en el transporte de otra persona.
 - **Agosto:** el material llega al destino de las pruebas; se montan el avión, el refugio y el dispositivo de lanzamiento.
 - **3 y 8 de septiembre:** las primeras salidas de la campaña alcanzan, respectivamente, 1 minuto 11 segundos y 11 minutos 10 segundos.
 - **Mañana de la jornada central:** el primer recorrido dura **57 minutos 31 segundos**, con 57 vueltas y unos 110 pies de altura máxima, aproximadamente 33,5 metros.
@@ -80,13 +80,13 @@ El éxito tuvo un efecto demostrativo inmediato, pero su traducción administrat
 
 - **Confianza pública:** mantener circuitos sucesivos hizo visible la diferencia entre una elevación fugaz y el dominio sostenido de un aeroplano.
 - **Evaluación contractual:** los resultados alentaron la continuación del programa, sin sustituir las pruebas pendientes ni eliminar la necesidad de revisar el diseño después del accidente.
-- **Compra posterior:** la reanudación de los ensayos desembocó en <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/08/02/primera-compra-gubernamental-avion.html" style="color: #315fea; text-decoration: none;">la adquisición del avión militar en 1909</a>. Ese proceso debe distinguirse de las compras anteriores de dirigibles: «avión» y «aeronave» no son categorías intercambiables.
+- **Compra posterior:** la reanudación de los ensayos desembocó en <a href="https://www.efemeridesdeaviacion.com/evento/1909/08/02/primera-compra-gubernamental-avion.html" style="color: #315fea; text-decoration: none;">la adquisición del avión militar en 1909</a>. Ese proceso debe distinguirse de las compras anteriores de dirigibles: «avión» y «aeronave» no son categorías intercambiables.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-Para valorar esta jornada resulta más útil la sucesión de prestaciones que una imagen de triunfo instantáneo. El registro conserva intentos, mejoras y límites de una máquina todavía experimental. La <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1871/08/19/nacimiento-orville-wright.html" style="color: #315fea; text-decoration: none;">trayectoria de Orville, desde Dayton hasta las demostraciones públicas</a> aporta el marco biográfico; aquí el centro es el paso del resultado privado a la observación documentada por terceros.
+Para valorar esta jornada resulta más útil la sucesión de prestaciones que una imagen de triunfo instantáneo. El registro conserva intentos, mejoras y límites de una máquina todavía experimental. La <a href="https://www.efemeridesdeaviacion.com/nacimiento/1871/08/19/nacimiento-orville-wright.html" style="color: #315fea; text-decoration: none;">trayectoria de Orville, desde Dayton hasta las demostraciones públicas</a> aporta el marco biográfico; aquí el centro es el paso del resultado privado a la observación documentada por terceros.
 
 La memoria de Fort Myer reúne así dos historias que no conviene fundir: el avance del control y la resistencia, y la construcción de un procedimiento de aceptación militar.
 

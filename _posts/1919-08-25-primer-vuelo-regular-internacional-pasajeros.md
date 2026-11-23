@@ -41,7 +41,7 @@ image: 1919-08-25-primer-vuelo-regular-internacional-pasajeros.webp
 
 ## Contexto Histórico
 
-Diez años después de que <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">Louis Blériot cruzara el Canal</a>, el mismo estrecho pasó a ser una línea comercial. El DH.4 había sido bombardero; el DH.4A y el DH.16 eran conversiones civiles: el piloto seguía al aire libre; los pasajeros, en una cabina acristalada detrás.
+Diez años después de que <a href="https://www.efemeridesdeaviacion.com/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">Louis Blériot cruzara el Canal</a>, el mismo estrecho pasó a ser una línea comercial. El DH.4 había sido bombardero; el DH.4A y el DH.16 eran conversiones civiles: el piloto seguía al aire libre; los pasajeros, en una cabina acristalada detrás.
 
 ### Entorno social
 
@@ -75,7 +75,7 @@ El 25 de agosto no fue un vuelo aislado: fue el primer día de un horario.
 
 La línea demostró que un horario diario sobre el Canal era posible sin esperar a aviones nuevos: bastaba convertir bombarderos. Compitió de inmediato con Handley Page y, al poco, con compañías francesas subvencionadas. La falta de ayuda estatal británica acabó con AT&amp;T en dieciséis meses, pero la ruta Londres–París no se apagó: pasó a Daimler, Imperial Airways y, en última instancia, a British Airways.
 
-Dos días después, el 27 de agosto, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/08/27/lawson-c-2-vuelo-demostracion-costa-este.html" style="color: #315fea; text-decoration: none;">Lawson C-2</a> partía desde Milwaukee; era un avión de transporte concebido desde cero en Estados Unidos para llevar pasajeros: el camino opuesto —diseño nuevo frente a conversión—, aunque con igual fracaso comercial.
+Dos días después, el 27 de agosto, el <a href="https://www.efemeridesdeaviacion.com/evento/1919/08/27/lawson-c-2-vuelo-demostracion-costa-este.html" style="color: #315fea; text-decoration: none;">Lawson C-2</a> partía desde Milwaukee; era un avión de transporte concebido desde cero en Estados Unidos para llevar pasajeros: el camino opuesto —diseño nuevo frente a conversión—, aunque con igual fracaso comercial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

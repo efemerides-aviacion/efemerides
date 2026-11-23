@@ -83,7 +83,7 @@ Tras perder el respaldo oficial, Ader abandonó la investigación aeronáutica e
 
 ## Legado
 
-Ader ocupa un lugar destacado entre los pioneros franceses, aunque su nombre no resuelve por sí solo la disputa sobre quién realizó el primer vuelo en avión. La distinción resulta más clara al compararlo con el hito posterior de los Wright: su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">vuelo sostenido y controlado de 1903</a> estableció un criterio más verificable que un salto de corta duración.
+Ader ocupa un lugar destacado entre los pioneros franceses, aunque su nombre no resuelve por sí solo la disputa sobre quién realizó el primer vuelo en avión. La distinción resulta más clara al compararlo con el hito posterior de los Wright: su <a href="https://www.efemeridesdeaviacion.com/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">vuelo sostenido y controlado de 1903</a> estableció un criterio más verificable que un salto de corta duración.
 
 Su legado material permanece en los documentos, dibujos y objetos conservados por instituciones aeronáuticas y técnicas, así como en el Avion n.º 3 expuesto en París. La memoria de Ader reúne dos dimensiones: la del inventor que anticipó posibilidades de la aviación y la del experimentador cuya prueba más célebre sigue sometida a examen crítico. Esa combinación de imaginación, prototipos y controversia lo convierte en una figura útil para entender que la aviación nació mediante muchos ensayos, no en un único instante indiscutido.
 

@@ -61,7 +61,7 @@ El C-123 Provider tiene un nombre de producción distinto del de sus prototipos.
 - **1953:** Chase Aircraft comienza la fabricación del C-123B, pero el contrato pasa a Fairchild, que construye unos 300 ejemplares.
 - **1955:** entra en servicio con el 309.º Grupo de Transporte de Tropas (Asalto) de la USAF.
 - **Entre 1966 y 1969:** 184 C-123B se convierten en C-123K con dos turborreactores J85 bajo las alas, que aumentan la carga útil, acortan el despegue y mejoran la subida.
-- **Paralelamente**, la aviación de transporte evolucionaba hacia otras soluciones, como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">primer vuelo del C-130 Hercules</a> en 1954.
+- **Paralelamente**, la aviación de transporte evolucionaba hacia otras soluciones, como el <a href="https://www.efemeridesdeaviacion.com/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">primer vuelo del C-130 Hercules</a> en 1954.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

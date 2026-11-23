@@ -39,7 +39,7 @@ image: 1947-07-08-primer-vuelo-boeing-377-stratocruiser.webp
 
 ## Contexto Histórico
 
-El Boeing 377 vio la luz cuando los grandes fabricantes norteamericanos pugnaban por trasladar los avances aerodinámicos y metalúrgicos de la Segunda Guerra Mundial a las rutas transoceánicas civiles. Frente al Douglas DC-6 y al <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/01/09/primer-vuelo-lockheed-constellation.html" style="color: #315fea; text-decoration: none;">Lockheed Constellation</a>, la casa de Seattle apostó por una aeronave de volumen interior sin precedentes que trasladara a los vuelos sobre el Atlántico y el Pacífico las comodidades de los transatlánticos marítimos y de los trenes expresos de lujo.
+El Boeing 377 vio la luz cuando los grandes fabricantes norteamericanos pugnaban por trasladar los avances aerodinámicos y metalúrgicos de la Segunda Guerra Mundial a las rutas transoceánicas civiles. Frente al Douglas DC-6 y al <a href="https://www.efemeridesdeaviacion.com/evento/1943/01/09/primer-vuelo-lockheed-constellation.html" style="color: #315fea; text-decoration: none;">Lockheed Constellation</a>, la casa de Seattle apostó por una aeronave de volumen interior sin precedentes que trasladara a los vuelos sobre el Atlántico y el Pacífico las comodidades de los transatlánticos marítimos y de los trenes expresos de lujo.
 
 ### Entorno social
 
@@ -59,7 +59,7 @@ Dentro del imaginario comercial de finales de los años cuarenta y principios de
 
 El programa del Model 377 se extendió desde los estudios militares de guerra hasta su relevo por la primera generación de reactores intercontinentales:
 
-- **1942–noviembre de 1944:** Boeing proyecta para las Fuerzas Aéreas del Ejército el transporte pesado XC-97 a partir del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/09/21/primer-vuelo-boeing-b-29-superfortress.html" style="color: #315fea; text-decoration: none;">Boeing B-29 Superfortress</a> y realiza su vuelo inaugural el 9 de noviembre de 1944.
+- **1942–noviembre de 1944:** Boeing proyecta para las Fuerzas Aéreas del Ejército el transporte pesado XC-97 a partir del <a href="https://www.efemeridesdeaviacion.com/evento/1942/09/21/primer-vuelo-boeing-b-29-superfortress.html" style="color: #315fea; text-decoration: none;">Boeing B-29 Superfortress</a> y realiza su vuelo inaugural el 9 de noviembre de 1944.
 - **28 de noviembre de 1945:** Pan American encarga veinte unidades de la versión comercial Model 377 por un importe de veinticuatro millones de dólares, convirtiéndose en el cliente de lanzamiento.
 - **2 y 8 de julio de 1947:** tras su presentación en la planta n.º 2 de Seattle el 2 de julio, el prototipo NX90700 despega por primera vez el 8 de julio con John Bernard Fornasero a los mandos y aterriza tras ochenta y cuatro minutos en Moses Lake para iniciar la campaña de certificación.
 - **Septiembre de 1948–enero de 1949:** la Administración de Aeronáutica Civil (CAA) otorga el certificado de tipo tras más de veinte meses de pruebas con tres células, y el 31 de enero de 1949 se entrega el primer ejemplar de serie (*Clipper America*).
@@ -79,7 +79,7 @@ Al mismo tiempo, la complejidad mecánica de los cuatro motores R-4360 de veinti
 
 ## Legado
 
-El Boeing 377 Stratocruiser pasó a la historia como la expresión más fastuosa del avión comercial de pistón antes de la era del jet. Aunque ningún ejemplar comercial original se conservó íntegro en su configuración de pasaje, sus células encontraron una segunda vida decisiva en la carrera espacial: a partir de 1962, la firma Aero Spacelines ensanchó radicalmente el fuselaje de varios ejemplares para crear el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1962/09/19/primer-vuelo-pregnant-guppy.html" style="color: #315fea; text-decoration: none;">Pregnant Guppy</a> y los posteriores Super Guppy y Mini Guppy, encargados de transportar por vía aérea las etapas de los cohetes Saturn del programa Apolo y, décadas más tarde, grandes secciones estructurales de Airbus y de la Estación Espacial Internacional.
+El Boeing 377 Stratocruiser pasó a la historia como la expresión más fastuosa del avión comercial de pistón antes de la era del jet. Aunque ningún ejemplar comercial original se conservó íntegro en su configuración de pasaje, sus células encontraron una segunda vida decisiva en la carrera espacial: a partir de 1962, la firma Aero Spacelines ensanchó radicalmente el fuselaje de varios ejemplares para crear el <a href="https://www.efemeridesdeaviacion.com/evento/1962/09/19/primer-vuelo-pregnant-guppy.html" style="color: #315fea; text-decoration: none;">Pregnant Guppy</a> y los posteriores Super Guppy y Mini Guppy, encargados de transportar por vía aérea las etapas de los cohetes Saturn del programa Apolo y, décadas más tarde, grandes secciones estructurales de Airbus y de la Estación Espacial Internacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

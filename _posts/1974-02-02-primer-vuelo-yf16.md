@@ -80,7 +80,7 @@ Entre el pliego del LWF y el vuelo oficial mediaron dos años; entre ese vuelo y
 
 ## Consecuencias e Impacto
 
-El vuelo del 2 de febrero convirtió un demostrador en candidato creíble. En un año, la USAF cerró el concurso a favor del YF-16 y Europa ató su relevo del F-104 al mismo tipo. El YF-17 no desapareció: la Armada lo tomó como base del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1978/11/18/primer-vuelo-mcdonnell-douglas-fa18-hornet.html" style="color: #315fea; text-decoration: none;">F/A-18 Hornet</a>.
+El vuelo del 2 de febrero convirtió un demostrador en candidato creíble. En un año, la USAF cerró el concurso a favor del YF-16 y Europa ató su relevo del F-104 al mismo tipo. El YF-17 no desapareció: la Armada lo tomó como base del <a href="https://www.efemeridesdeaviacion.com/evento/1978/11/18/primer-vuelo-mcdonnell-douglas-fa18-hornet.html" style="color: #315fea; text-decoration: none;">F/A-18 Hornet</a>.
 
 En lo técnico, el primer vuelo oficial confirmó que un caza de producción podía prescindir del mando mecánico. La NASA recuerda que el F-16 fue el primer avión de serie con fly-by-wire; el sistema nació analógico y pasó después a digital. La palanca lateral, el asiento reclinado y la cubierta de burbuja se volvieron marca de la casa.
 
@@ -94,7 +94,7 @@ Con miles de ejemplares fabricados, el F-16 se ha mantenido en producción y en 
 
 Aquella hora y media no fue el primer instante en que las ruedas dejaron el suelo —eso había ocurrido el 20 de enero—, pero sí el vuelo con el que el programa se presentó al mundo. De un caza ligero pensado para el combate diurno salió el Fighting Falcon.
 
-General Dynamics, la casa que construyó este demostrador, integraría después, junto a Lockheed y Boeing, el equipo industrial del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1990/09/29/primer-vuelo-lockheed-yf22.html" style="color: #315fea; text-decoration: none;">YF-22</a>.
+General Dynamics, la casa que construyó este demostrador, integraría después, junto a Lockheed y Boeing, el equipo industrial del <a href="https://www.efemeridesdeaviacion.com/evento/1990/09/29/primer-vuelo-lockheed-yf22.html" style="color: #315fea; text-decoration: none;">YF-22</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

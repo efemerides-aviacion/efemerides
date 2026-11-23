@@ -43,7 +43,7 @@ La iniciativa combinó un concurso periodístico, un patrocinador comercial y lo
 
 William Randolph Hearst había ofrecido 50.000 dólares a quien atravesara el país por aire dentro de treinta días. La convocatoria estimulaba la exploración de itinerarios que todavía carecían de infraestructura aeronáutica continua. Otros competidores, como Robert Fowler y James Ward, emprendieron tentativas propias.
 
-Rodgers había aprendido a volar pocos meses antes y obtenido su certificado en agosto. Su <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1879/01/12/nacimiento-calbraith-perry-rodgers.html" style="color: #315fea; text-decoration: none;">biografía</a> aborda el recorrido personal del aviador. Aquí importa la rapidez con que pasó de los concursos locales a una empresa que exigía coordinar etapas, combustible, mantenimiento y recepción pública.
+Rodgers había aprendido a volar pocos meses antes y obtenido su certificado en agosto. Su <a href="https://www.efemeridesdeaviacion.com/nacimiento/1879/01/12/nacimiento-calbraith-perry-rodgers.html" style="color: #315fea; text-decoration: none;">biografía</a> aborda el recorrido personal del aviador. Aquí importa la rapidez con que pasó de los concursos locales a una empresa que exigía coordinar etapas, combustible, mantenimiento y recepción pública.
 
 El patrocinador puso a disposición un tren con alojamiento y taller. La familia y los mecánicos podían acompañar el avance por una red terrestre ya existente, mientras un automóvil facilitaba llegar hasta los lugares de aterrizaje alejados de la vía.
 
@@ -79,13 +79,13 @@ La empresa probó que una persona podía enlazar ambos extremos del territorio e
 
 El patrocinio convirtió cada recepción en una oportunidad publicitaria. Esa relación entre financiación y exposición pública no debe confundirse con la explotación de una línea de pasajeros ni con la rentabilidad demostrada del transporte aéreo.
 
-El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1918/05/15/servicio-regular-correo-aereo-usa.html" style="color: #315fea; text-decoration: none;">correo regular estadounidense de 1918</a> pertenece a otra fase organizativa. Comparar ambos episodios permite distinguir una demostración individual de la obligación de operar con horarios, mantenimiento planificado y continuidad del servicio.
+El <a href="https://www.efemeridesdeaviacion.com/evento/1918/05/15/servicio-regular-correo-aereo-usa.html" style="color: #315fea; text-decoration: none;">correo regular estadounidense de 1918</a> pertenece a otra fase organizativa. Comparar ambos episodios permite distinguir una demostración individual de la obligación de operar con horarios, mantenimiento planificado y continuidad del servicio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/05/03/primer-vuelo-transcontinental-new-york-san-diego.html" style="color: #315fea; text-decoration: none;">cruce sin escalas de 1923</a> planteó una exigencia diferente: eliminar las interrupciones. No invalida el resultado anterior; muestra que «transcontinental» necesita acompañarse de una definición de modalidad.
+El <a href="https://www.efemeridesdeaviacion.com/evento/1923/05/03/primer-vuelo-transcontinental-new-york-san-diego.html" style="color: #315fea; text-decoration: none;">cruce sin escalas de 1923</a> planteó una exigencia diferente: eliminar las interrupciones. No invalida el resultado anterior; muestra que «transcontinental» necesita acompañarse de una definición de modalidad.
 
 El Smithsonian incorporó el Vin Fiz a sus fondos en 1934. Su ficha advierte que el ejemplar conservado probablemente fue reconstruido con componentes utilizados en distintos momentos del viaje. La autenticidad del conjunto no implica que cada pieza hubiera recorrido toda la ruta.
 

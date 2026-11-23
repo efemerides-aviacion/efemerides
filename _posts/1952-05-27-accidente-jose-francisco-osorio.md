@@ -44,7 +44,7 @@ La colisión de Los Guayos se produjo en los primeros años de transición de la
 
 ### Entorno social
 
-A finales de la década de 1940 y comienzos de la de 1950, el incremento de los ingresos fiscales petroleros impulsó un programa de renovación de las Fuerzas Armadas venezolanas. La Fuerza Aérea Venezolana buscaba formar una primera generación de pilotos de caza a reacción y presentar ante el país una patrulla acrobática propia capaz de exhibir la destreza de los jóvenes oficiales egresados de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar de Maracay</a>.
+A finales de la década de 1940 y comienzos de la de 1950, el incremento de los ingresos fiscales petroleros impulsó un programa de renovación de las Fuerzas Armadas venezolanas. La Fuerza Aérea Venezolana buscaba formar una primera generación de pilotos de caza a reacción y presentar ante el país una patrulla acrobática propia capaz de exhibir la destreza de los jóvenes oficiales egresados de la <a href="https://www.efemeridesdeaviacion.com/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar de Maracay</a>.
 
 ### Entorno tecnológico
 
@@ -74,7 +74,7 @@ La jornada del 27 de mayo de 1952 y sus antecedentes inmediatos siguieron una se
 
 En el plano operativo inmediato, la pérdida del Subteniente Osorio y de las dos aeronaves determinó la suspensión temporal de las prácticas acrobáticas y la revisión de las normas de vuelo en Boca de Río. El mando emitió un boletín técnico obligatorio que imponía mantener un mínimo de 5.000 RPM durante toda la aproximación final para asegurar la respuesta inmediata de la turbina Goblin en caso de motor y al aire, además de exigir un descanso mínimo de cuarenta y ocho horas al alternar vuelos entre cazas de pistón P-47D y reactores Vampire.
 
-Asimismo, la experiencia acumulada sobre el riesgo de abandonar a gran velocidad una cabina desprovista de expulsión asistida impulsó en los años siguientes la incorporación de entrenadores biplaza de Havilland Vampire T.Mk.55 y cazabombarderos Venom FB.Mk.54 equipados ya con asientos eyectables Martin-Baker, precursores de la reorganización que culminaría en 1961 con la creación del <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1961/07/27/creacion-grupo-aereo-caza-12-grifos.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Caza N.º 12</a>.
+Asimismo, la experiencia acumulada sobre el riesgo de abandonar a gran velocidad una cabina desprovista de expulsión asistida impulsó en los años siguientes la incorporación de entrenadores biplaza de Havilland Vampire T.Mk.55 y cazabombarderos Venom FB.Mk.54 equipados ya con asientos eyectables Martin-Baker, precursores de la reorganización que culminaría en 1961 con la creación del <a href="https://www.efemeridesdeaviacion.com/fundacion/1961/07/27/creacion-grupo-aereo-caza-12-grifos.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Caza N.º 12</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

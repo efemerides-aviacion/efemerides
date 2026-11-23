@@ -38,7 +38,7 @@ image: 1921-05-09-sobrevuelo-plaza-toros-caracas-caudron-g3.webp
 
 ## Contexto Histórico
 
-Venezuela instituyó su aviación militar el 17 de abril de 1920 y estableció en Maracay el centro de formación. Los primeros aparatos fueron Caudron G.3 franceses, tras las demostraciones del aviador italiano <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1890/02/15/nacimiento-cosme-rennella-barbatto.html" style="color: #315fea; text-decoration: none;">Cosme Rennella</a>.
+Venezuela instituyó su aviación militar el 17 de abril de 1920 y estableció en Maracay el centro de formación. Los primeros aparatos fueron Caudron G.3 franceses, tras las demostraciones del aviador italiano <a href="https://www.efemeridesdeaviacion.com/nacimiento/1890/02/15/nacimiento-cosme-rennella-barbatto.html" style="color: #315fea; text-decoration: none;">Cosme Rennella</a>.
 
 ### Entorno social
 

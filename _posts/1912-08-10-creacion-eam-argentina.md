@@ -55,11 +55,11 @@ Jorge Newbery pertenecía al movimiento aeronáutico anterior a la institución,
 
 ## Desarrollo Cronológico
 
-Los antecedentes del proceso pueden seguirse en dos episodios distintos: <a href="https://efemerides-aviacion.github.io/efemerides/evento/1907/12/25/globo-pampero.html" style="color: #315fea; text-decoration: none;">la experiencia aerostática del Pampero</a> y <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/02/06/primer-vuelo-oficial-argentina-sudamerica.html" style="color: #315fea; text-decoration: none;">las demostraciones de Henri Brégi en Argentina</a>. Esos relatos explican el ambiente previo, sin convertir cada exhibición en el nacimiento de una escuela.
+Los antecedentes del proceso pueden seguirse en dos episodios distintos: <a href="https://www.efemeridesdeaviacion.com/evento/1907/12/25/globo-pampero.html" style="color: #315fea; text-decoration: none;">la experiencia aerostática del Pampero</a> y <a href="https://www.efemeridesdeaviacion.com/evento/1910/02/06/primer-vuelo-oficial-argentina-sudamerica.html" style="color: #315fea; text-decoration: none;">las demostraciones de Henri Brégi en Argentina</a>. Esos relatos explican el ambiente previo, sin convertir cada exhibición en el nacimiento de una escuela.
 
 Tras la creación legal se reunieron aviones, personal e instalaciones para desarrollar los cursos. El Arcón de la Historia identifica entre los primeros alumnos a Pedro Zanni, Melchor Zacarías Escola y Manuel Félix Origone; sus licencias y trayectorias no deben atribuirse indistintamente a un único curso o aparato.
 
-En 1915 se autorizó la admisión de oficiales extranjeros. Los uruguayos <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1913/03/17/fundacion-escuela-aviacion-militar-uruguay.html" style="color: #315fea; text-decoration: none;">Cesáreo Berisso</a> y Esteban Cristi se formaron en ese marco y obtuvieron sus acreditaciones al año siguiente.
+En 1915 se autorizó la admisión de oficiales extranjeros. Los uruguayos <a href="https://www.efemeridesdeaviacion.com/fundacion/1913/03/17/fundacion-escuela-aviacion-militar-uruguay.html" style="color: #315fea; text-decoration: none;">Cesáreo Berisso</a> y Esteban Cristi se formaron en ese marco y obtuvieron sus acreditaciones al año siguiente.
 
 La etapa cordobesa se preparó durante la década de 1930. La historia oficial sitúa el comienzo de las obras en 1934 y la habilitación del edificio a finales de 1936; otras síntesis reservan 1937 para el traslado o la inauguración. Son fases que conviene distinguir, no fechas intercambiables de un mismo acto.
 
@@ -77,7 +77,7 @@ La separación de la aeronáutica respecto del Ministerio de Guerra culminó con
 
 La fecha fundacional ocupa un lugar central en el calendario conmemorativo de la aviación argentina. Su valor reside en recordar el paso de una práctica de pioneros a la formación organizada, sin borrar las aportaciones civiles que lo hicieron posible.
 
-La relación entre capacitación e industria alcanzó expresiones muy posteriores, como <a href="https://efemerides-aviacion.github.io/efemerides/evento/1947/08/09/primer-vuelo-iae27-pulqui-i.html" style="color: #315fea; text-decoration: none;">el programa del Pulqui I</a>. Ese enlace permite explorar otra etapa del desarrollo aeronáutico nacional, pero no supone una consecuencia inmediata ni exclusiva de la apertura del centro docente.
+La relación entre capacitación e industria alcanzó expresiones muy posteriores, como <a href="https://www.efemeridesdeaviacion.com/evento/1947/08/09/primer-vuelo-iae27-pulqui-i.html" style="color: #315fea; text-decoration: none;">el programa del Pulqui I</a>. Ese enlace permite explorar otra etapa del desarrollo aeronáutico nacional, pero no supone una consecuencia inmediata ni exclusiva de la apertura del centro docente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

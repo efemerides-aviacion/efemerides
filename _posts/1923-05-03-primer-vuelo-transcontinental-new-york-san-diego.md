@@ -41,7 +41,7 @@ image: 1923-05-03-primer-vuelo-transcontinental-new-york-san-diego.webp
 ### Especificaciones del Fokker T-2 (Fokker F.IV)
 
 - **Fabricante:** Fokker (Países Bajos), ensamblado en EE. UU.
-- **Diseñadores:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1890/04/06/nacimiento-anthony-herman-gerard-fokker.html" style="color: #315fea; text-decoration: none;">Anthony Fokker</a> y Rheinhold Platz
+- **Diseñadores:** <a href="https://www.efemeridesdeaviacion.com/nacimiento/1890/04/06/nacimiento-anthony-herman-gerard-fokker.html" style="color: #315fea; text-decoration: none;">Anthony Fokker</a> y Rheinhold Platz
 - **Tipo:** Monoplano de transporte/pasajeros (cabina cerrada)
 - **Longitud:** 15,2 m (49 ft 10 in)
 - **Envergadura:** 24,5 m (80 ft 5 in)
@@ -58,7 +58,7 @@ Dos décadas después de los primeros vuelos controlados, cruzar Estados Unidos 
 
 ### Entorno social
 
-Estados Unidos salía de la Primera Guerra Mundial como potencia industrial y el público seguía los récords aéreos como demostraciones de progreso. El Servicio Aéreo respaldó el proyecto para exhibir utilidad militar y comercial; el cruce de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Lindbergh</a> aún quedaba cuatro años adelante.
+Estados Unidos salía de la Primera Guerra Mundial como potencia industrial y el público seguía los récords aéreos como demostraciones de progreso. El Servicio Aéreo respaldó el proyecto para exhibir utilidad militar y comercial; el cruce de <a href="https://www.efemeridesdeaviacion.com/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Lindbergh</a> aún quedaba cuatro años adelante.
 
 ### Entorno tecnológico
 
@@ -72,7 +72,7 @@ Los avistamientos sobre Pensilvania, Virginia Occidental, Indiana y Misuri alime
 
 ## Desarrollo Cronológico
 
-- **1911:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1879/01/12/nacimiento-calbraith-perry-rodgers.html" style="color: #315fea; text-decoration: none;">Calbraith Perry Rodgers</a> completa el primer cruce transcontinental con escalas, en 49 días.
+- **1911:** <a href="https://www.efemeridesdeaviacion.com/nacimiento/1879/01/12/nacimiento-calbraith-perry-rodgers.html" style="color: #315fea; text-decoration: none;">Calbraith Perry Rodgers</a> completa el primer cruce transcontinental con escalas, en 49 días.
 - **1922:** Macready y Kelly abortan un intento oeste-este por niebla; otro termina sobre Indianápolis al fallar la camisa de agua del motor.
 - **22-23 de abril de 1923:** establecen 36 horas de resistencia sobre McCook Field.
 - **2 de mayo, 12:30-12:36:** salen de Roosevelt Field. El T-2 utiliza toda la pista y se sostiene apenas sobre el terreno hasta consumir combustible.

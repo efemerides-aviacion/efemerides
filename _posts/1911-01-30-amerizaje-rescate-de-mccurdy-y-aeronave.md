@@ -42,7 +42,7 @@ El apoyo desde la superficie era una parte esencial de la preparación del recor
 
 Las demostraciones sobre el mar planteaban dificultades distintas a las exhibiciones sobre un campo. Una avería podía dejar al piloto sin terreno donde aterrizar. En este caso se dispusieron destructores a lo largo de la ruta, tanto como referencias visibles como para prestar auxilio.
 
-McCurdy formaba parte del entorno de la aviación Curtiss. El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/05/29/vuelo-historico-albany-flyer.html" style="color: #315fea; text-decoration: none;">recorrido Albany–Nueva York de 1910</a> permite situar el interés por las distancias largas sin confundir aquella operación sobre el Hudson con esta tentativa internacional.
+McCurdy formaba parte del entorno de la aviación Curtiss. El <a href="https://www.efemeridesdeaviacion.com/evento/1910/05/29/vuelo-historico-albany-flyer.html" style="color: #315fea; text-decoration: none;">recorrido Albany–Nueva York de 1910</a> permite situar el interés por las distancias largas sin confundir aquella operación sobre el Hudson con esta tentativa internacional.
 
 ### Entorno tecnológico
 

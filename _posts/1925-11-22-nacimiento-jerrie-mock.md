@@ -39,7 +39,7 @@ image: 1925-11-22-nacimiento-jerrie-mock.webp
 
 ## Contexto Histórico
 
-Mock nació en 1925, al año siguiente de que aviadores del Servicio Aéreo del Ejército de Estados Unidos completaran la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1924/09/28/primera-circunnavegacion-aerea-douglas-world-cruiser.html" style="color: #315fea; text-decoration: none;">primera vuelta al mundo por aire</a>. En aquella expedición cada avión llevaba un piloto y un mecánico. La proeza de la que ella sería protagonista cuatro décadas después planteaba otra exigencia: una sola persona tendría que pilotar, navegar y comunicarse por radio durante todo el trayecto.
+Mock nació en 1925, al año siguiente de que aviadores del Servicio Aéreo del Ejército de Estados Unidos completaran la <a href="https://www.efemeridesdeaviacion.com/evento/1924/09/28/primera-circunnavegacion-aerea-douglas-world-cruiser.html" style="color: #315fea; text-decoration: none;">primera vuelta al mundo por aire</a>. En aquella expedición cada avión llevaba un piloto y un mecánico. La proeza de la que ella sería protagonista cuatro décadas después planteaba otra exigencia: una sola persona tendría que pilotar, navegar y comunicarse por radio durante todo el trayecto.
 
 ### Entorno social
 
@@ -69,7 +69,7 @@ Cuando Mock nació, la vuelta al mundo por aire era todavía una novedad que se 
 
 ## Consecuencias e Impacto
 
-La precedencia de Mock no consistió en realizar el primer intento femenino. En 1937, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1937/07/02/desaparicion-amelia-earhart.html" style="color: #315fea; text-decoration: none;">Amelia Earhart había desaparecido con su navegante Fred Noonan en el Pacífico</a> durante su intento de circunnavegación. En 1964, Joan Merriam Smith despegó dos días antes que Mock y siguió una ruta distinta, inspirada en la de Earhart. Aunque no participaban en una competición organizada entre sí, la prensa siguió a las dos. El orden de llegada, no el de partida, es lo que distingue el logro de Mock.
+La precedencia de Mock no consistió en realizar el primer intento femenino. En 1937, <a href="https://www.efemeridesdeaviacion.com/evento/1937/07/02/desaparicion-amelia-earhart.html" style="color: #315fea; text-decoration: none;">Amelia Earhart había desaparecido con su navegante Fred Noonan en el Pacífico</a> durante su intento de circunnavegación. En 1964, Joan Merriam Smith despegó dos días antes que Mock y siguió una ruta distinta, inspirada en la de Earhart. Aunque no participaban en una competición organizada entre sí, la prensa siguió a las dos. El orden de llegada, no el de partida, es lo que distingue el logro de Mock.
 
 Representantes en las escalas previstas certificaron el avance del avión. Con esa documentación, la *National Aeronautic Association* (Asociación Aeronáutica Nacional de Estados Unidos) y la *Fédération Aéronautique Internationale* (Federación Aeronáutica Internacional) homologaron la marca de velocidad alrededor del mundo hacia el este en la clase del Cessna. El récord y la condición de primera mujer son afirmaciones distintas: una corresponde a una marca deportiva en una clase de aeronaves; la otra, a haber cerrado el itinerario sin tripulación adicional.
 
@@ -77,7 +77,7 @@ Representantes en las escalas previstas certificaron el avance del avión. Con e
 
 ## Legado
 
-La circunnavegación no puso fin a los vuelos de Mock. En los años siguientes estableció marcas de velocidad en rutas entre islas del Pacífico y entre Columbus y San Juan de Puerto Rico. Otras aviadoras continuaron esa línea de vuelos de larga distancia: la británica <a href="https://efemerides-aviacion.github.io/efemerides/evento/1971/08/04/primera-persona-sobrevolar-polo-norte-avion-ligero.html" style="color: #315fea; text-decoration: none;">Sheila Scott, que circunnavegó el globo en 1966, sobrevoló el Polo Norte en avión ligero en 1971</a> en una travesía distinta.
+La circunnavegación no puso fin a los vuelos de Mock. En los años siguientes estableció marcas de velocidad en rutas entre islas del Pacífico y entre Columbus y San Juan de Puerto Rico. Otras aviadoras continuaron esa línea de vuelos de larga distancia: la británica <a href="https://www.efemeridesdeaviacion.com/evento/1971/08/04/primera-persona-sobrevolar-polo-norte-avion-ligero.html" style="color: #315fea; text-decoration: none;">Sheila Scott, que circunnavegó el globo en 1966, sobrevoló el Polo Norte en avión ligero en 1971</a> en una travesía distinta.
 
 En 1970, Mock publicó *Three Eight Charlie* («Tres ocho Charlie»), título que remite a los dos últimos números y a la letra final de la matrícula del Cessna. El libro dejó su versión de lo ocurrido entre despegues y aterrizajes, no solo el resultado inscrito en el registro deportivo. El Smithsonian conserva el avión y lo exhibe en Washington, en la galería *Thomas W. Haas We All Fly* del Museo Nacional del Aire y el Espacio.
 

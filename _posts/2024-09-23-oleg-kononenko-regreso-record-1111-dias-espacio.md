@@ -68,7 +68,7 @@ La jornada del 23 de septiembre de 2024 fue el desenlace de una secuencia inicia
 - **4 de febrero de 2024:** Kononenko supera los 878 días acumulados de Guennadi Padalka y pasa a ser la persona con más tiempo en el espacio.
 - **23-25 de marzo de 2024:** la Soyuz MS-25 despega con Novitski, Vasilévskaya y Dyson y se acopla al módulo Prichal.
 - **6 de abril de 2024:** Novitski, Vasilévskaya y O'Hara regresan en la MS-24; Kononenko y Chub prolongan su estancia.
-- **5 de junio de 2024:** Kononenko alcanza los <a href="https://efemerides-aviacion.github.io/efemerides/espacial/2024/06/05/oleg-kononenko-1000-dias-espacio.html" style="color: #315fea; text-decoration: none;">mil días acumulados en el espacio</a>, primer ser humano en lograrlo.
+- **5 de junio de 2024:** Kononenko alcanza los <a href="https://www.efemeridesdeaviacion.com/espacial/2024/06/05/oleg-kononenko-1000-dias-espacio.html" style="color: #315fea; text-decoration: none;">mil días acumulados en el espacio</a>, primer ser humano en lograrlo.
 - **22 de septiembre de 2024:** ceremonia de traspaso del mando de la estación de Kononenko a Sunita Williams.
 - **23 de septiembre de 2024, 08:36 UTC:** la Soyuz MS-25 se separa del módulo Prichal; termina la Expedición 71 y comienza la 72.
 - **23 de septiembre de 2024, 11:05 UTC:** encendido de frenado de 4 minutos y 39 segundos, que reduce la velocidad de la nave en 128 m/s.

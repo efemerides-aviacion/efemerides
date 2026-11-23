@@ -38,7 +38,7 @@ image: 1932-08-18-auguste-piccard-primero-en-observar-curvatura-tierra-desde-glo
 
 ## Contexto Histórico
 
-Desde el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">primer vuelo tripulado en globo de 1783</a>, el hombre subía al cielo respirando el cielo mismo; por encima de 5.000 metros, el aire enrarecido era una muralla absoluta. Piccard, físico de los rayos cósmicos y amigo de Einstein, no bajó la muralla: inventó la habitación hermética que la atraviesa, y con ella abrió el camino de la estratosfera al hombre.
+Desde el <a href="https://www.efemeridesdeaviacion.com/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">primer vuelo tripulado en globo de 1783</a>, el hombre subía al cielo respirando el cielo mismo; por encima de 5.000 metros, el aire enrarecido era una muralla absoluta. Piccard, físico de los rayos cósmicos y amigo de Einstein, no bajó la muralla: inventó la habitación hermética que la atraviesa, y con ella abrió el camino de la estratosfera al hombre.
 
 ### Entorno social
 

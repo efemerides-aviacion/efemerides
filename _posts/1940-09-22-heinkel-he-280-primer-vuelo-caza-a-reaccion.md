@@ -68,7 +68,7 @@ El recorrido del He 280 separa tres hitos que a menudo se confunden: la concepci
 - **Verano de 1940:** la estructura del V1 está disponible, pero las turbinas no. La preparación del prototipo se adapta para permitir pruebas remolcadas.
 - **22 de septiembre de 1940:** el V1 se separa del He 111 y completa el ensayo inaugural. Las fuentes discrepan sobre el piloto y el aeródromo; la nota conserva ambas versiones documentadas.
 - **30 de marzo o 2 de abril de 1941:** el segundo prototipo realiza el primer vuelo con propulsión propia, según la cronología adoptada por distintas publicaciones. También difieren las fuentes sobre la fecha exacta; no se zanja aquí la discrepancia.
-- **13 de enero de 1942 o 1943:** durante un ensayo del programa <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/01/13/primera-eyeccion-desde-avion.html" style="color: #315fea; text-decoration: none;">se prueba un asiento eyectable</a>; las referencias consultadas no coinciden en el año del episodio.
+- **13 de enero de 1942 o 1943:** durante un ensayo del programa <a href="https://www.efemeridesdeaviacion.com/evento/1942/01/13/primera-eyeccion-desde-avion.html" style="color: #315fea; text-decoration: none;">se prueba un asiento eyectable</a>; las referencias consultadas no coinciden en el año del episodio.
 - **27 de marzo de 1943:** el RLM cancela el desarrollo del He 280 y concentra los recursos en el Me 262, que ya había avanzado hacia una combinación de motores más favorable a la producción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

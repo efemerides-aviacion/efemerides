@@ -40,11 +40,11 @@ El espectáculo público y las propuestas de empleo militar coincidían en unos 
 
 ### Entorno social
 
-La cita milanesa se celebró bajo la impresión causada por el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/09/23/jorge-chavez-primer-cruce-aereo-de-los-alpes.html" style="color: #315fea; text-decoration: none;">accidente al terminar la travesía alpina de Chávez</a>. El programa incluía pruebas de distancia, velocidad, altura y planeo. Los participantes no realizaban necesariamente la misma evolución ni conservaban una separación vertical estable.
+La cita milanesa se celebró bajo la impresión causada por el <a href="https://www.efemeridesdeaviacion.com/evento/1910/09/23/jorge-chavez-primer-cruce-aereo-de-los-alpes.html" style="color: #315fea; text-decoration: none;">accidente al terminar la travesía alpina de Chávez</a>. El programa incluía pruebas de distancia, velocidad, altura y planeo. Los participantes no realizaban necesariamente la misma evolución ni conservaban una separación vertical estable.
 
 El público acudía a observar demostraciones que también servían de escaparate para fabricantes y pilotos. La coexistencia de vuelos de ensayo, competición y exhibición multiplicaba las situaciones en que un aparato podía atravesar el recorrido de otro.
 
-Thomas competía con un monoplano del constructor Antoinette. La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/06/05/hubert-latham-record-monoplano.html" style="color: #315fea; text-decoration: none;">experiencia de Hubert Latham con ese tipo de aeronaves</a> ofrece un antecedente técnico, sin convertir a ambos aviadores en integrantes de una misma tripulación ni atribuirles idénticos procedimientos.
+Thomas competía con un monoplano del constructor Antoinette. La <a href="https://www.efemeridesdeaviacion.com/evento/1909/06/05/hubert-latham-record-monoplano.html" style="color: #315fea; text-decoration: none;">experiencia de Hubert Latham con ese tipo de aeronaves</a> ofrece un antecedente técnico, sin convertir a ambos aviadores en integrantes de una misma tripulación ni atribuirles idénticos procedimientos.
 
 ### Entorno tecnológico
 

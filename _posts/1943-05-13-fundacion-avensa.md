@@ -72,7 +72,7 @@ La aerolínea se volvió emblema de la Venezuela petrolera que se modernizaba. E
 - **Diciembre de 1943:** Se realiza el vuelo inaugural con un Ford Trimotor en la ruta Caracas - Ciudad Bolívar.
 - **1944:** Inicia los vuelos regulares de pasajeros.
 - **1955:** Introduce los primeros aviones presurizados (Convair 340) en sus rutas internacionales a Miami.
-- **1961:** AVENSA transfiere sus rutas internacionales a <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1960/11/21/fundacion-viasa.html" style="color: #315fea; text-decoration: none;">la recién creada VIASA</a>, de la cual se convierte en accionista.
+- **1961:** AVENSA transfiere sus rutas internacionales a <a href="https://www.efemeridesdeaviacion.com/fundacion/1960/11/21/fundacion-viasa.html" style="color: #315fea; text-decoration: none;">la recién creada VIASA</a>, de la cual se convierte en accionista.
 - **1964:** Incorpora su primer reactor, el Sud Aviation Caravelle, iniciando la era del jet en Venezuela.
 - **1976:** El Estado venezolano adquiere las acciones de Pan Am, nacionalizando completamente la aerolínea.
 - **1990/1991:** Moderniza su flota con la introducción de los Boeing 757-200 y 737-300.
@@ -96,7 +96,7 @@ En 1978, AVENSA crea Servivensa, inicialmente concebida para prestar servicios d
 
 ## Consecuencias e Impacto
 
-El nacimiento de AVENSA en mayo de 1943 impulsó la integración aérea de Venezuela en un año de intenso tráfico regional —incluida la operación civil de modelos Stinson Reliant— compartido sobre el eje hacia Trinidad con escuelas aliadas de vuelo naval marcadas seis meses después por la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1943/11/16/accidente-stinson-reliant-fk825-peninsula-paria.html" style="color: #315fea; text-decoration: none;">caída del Stinson británico FK825 en Paria</a>.
+El nacimiento de AVENSA en mayo de 1943 impulsó la integración aérea de Venezuela en un año de intenso tráfico regional —incluida la operación civil de modelos Stinson Reliant— compartido sobre el eje hacia Trinidad con escuelas aliadas de vuelo naval marcadas seis meses después por la <a href="https://www.efemeridesdeaviacion.com/accidente/1943/11/16/accidente-stinson-reliant-fk825-peninsula-paria.html" style="color: #315fea; text-decoration: none;">caída del Stinson británico FK825 en Paria</a>.
 
 - **Pionera de la aviación venezolana:** AVENSA fue la primera aerolínea privada en modernizar la aviación comercial en el país.
 - **Formación de profesionales:** Su escuela técnica formó a generaciones de mecánicos, pilotos y personal de tierra.

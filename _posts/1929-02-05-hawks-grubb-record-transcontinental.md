@@ -61,7 +61,7 @@ Las marcas transcontinentales se seguían a finales de los años veinte como un 
 
 ## Consecuencias e Impacto
 - Superó el tiempo de Arthur Goebel en 36 minutos.  
-- Consolidó la reputación de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/03/28/nacimiento-frank-hawks-record-velocidad.html" style="color: #315fea; text-decoration: none;">Frank Hawks</a> como piloto de récords y de Lockheed como fabricante innovador.  
+- Consolidó la reputación de <a href="https://www.efemeridesdeaviacion.com/nacimiento/1897/03/28/nacimiento-frank-hawks-record-velocidad.html" style="color: #315fea; text-decoration: none;">Frank Hawks</a> como piloto de récords y de Lockheed como fabricante innovador.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

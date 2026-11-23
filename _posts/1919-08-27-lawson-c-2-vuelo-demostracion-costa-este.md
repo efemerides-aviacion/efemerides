@@ -50,7 +50,7 @@ Alfred W. Lawson encarnó el entusiasmo de aquella transición. Antiguo jugador 
 
 ### Entorno tecnológico
 
-El C-2 era un biplano grande de madera y tela, con cabina cerrada y ventanas, propulsado por dos motores Liberty L-12 de 400 hp. Frente a él, la práctica habitual de 1919 era adaptar aviones militares excedentes al transporte civil. Lawson invirtió el planteamiento: un avión concebido desde el inicio para el viajero. El contexto mundial ya se movía en la misma dirección: dos días antes, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/08/25/primer-vuelo-regular-internacional-pasajeros.html" style="color: #315fea; text-decoration: none;">25 de agosto de 1919, había comenzado el primer servicio aéreo regular internacional de pasajeros</a>, entre Londres y París.
+El C-2 era un biplano grande de madera y tela, con cabina cerrada y ventanas, propulsado por dos motores Liberty L-12 de 400 hp. Frente a él, la práctica habitual de 1919 era adaptar aviones militares excedentes al transporte civil. Lawson invirtió el planteamiento: un avión concebido desde el inicio para el viajero. El contexto mundial ya se movía en la misma dirección: dos días antes, el <a href="https://www.efemeridesdeaviacion.com/evento/1919/08/25/primer-vuelo-regular-internacional-pasajeros.html" style="color: #315fea; text-decoration: none;">25 de agosto de 1919, había comenzado el primer servicio aéreo regular internacional de pasajeros</a>, entre Londres y París.
 
 ### Entorno cultural
 
@@ -60,7 +60,7 @@ Lawson era tanto ingeniero como vendedor. Se proclamaba «creador de aeronaves m
 
 ## Desarrollo Cronológico
 
-- **1 de enero de 1914:** había comenzado a operar la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1914/01/01/primera-aerolinea-st-petersburg-tampa.html" style="color: #315fea; text-decoration: none;">primera aerolínea regular del mundo, la St. Petersburg–Tampa Airboat Line</a>, con un hidroavión de un solo pasajero. El C-2 aspiraba a otra escala: un avión de línea de gran capacidad.
+- **1 de enero de 1914:** había comenzado a operar la <a href="https://www.efemeridesdeaviacion.com/evento/1914/01/01/primera-aerolinea-st-petersburg-tampa.html" style="color: #315fea; text-decoration: none;">primera aerolínea regular del mundo, la St. Petersburg–Tampa Airboat Line</a>, con un hidroavión de un solo pasajero. El C-2 aspiraba a otra escala: un avión de línea de gran capacidad.
 - **Comienzos de 1919:** Lawson constituye en Wisconsin su empresa de transporte aéreo.
 - **Agosto de 1919:** se completa el C-2, que Lawson llama «airliner» («avión de línea»).
 - **27 de agosto de 1919:** el C-2 despega del aeropuerto Butler de Milwaukee en su vuelo de demostración a la costa este, con 16 pasajeros a bordo. Milwaukee registra con ello su primer vuelo comercial.

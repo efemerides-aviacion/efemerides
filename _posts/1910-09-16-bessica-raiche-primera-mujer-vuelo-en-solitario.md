@@ -48,7 +48,7 @@ François, abogado y aficionado a la aeronáutica, colaboró con Bessica en el p
 
 ### Entorno tecnológico
 
-La máquina seguía la configuración general de los biplanos Wright, aunque empleaba materiales ligeros como bambú y seda. Los tensores mantenían la geometría de una estructura expuesta, de fabricación artesanal. La familia de diseños puede situarse a partir del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">vuelo del Flyer en Kitty Hawk</a>, sin identificar ambos aparatos como un único modelo.
+La máquina seguía la configuración general de los biplanos Wright, aunque empleaba materiales ligeros como bambú y seda. Los tensores mantenían la geometría de una estructura expuesta, de fabricación artesanal. La familia de diseños puede situarse a partir del <a href="https://www.efemeridesdeaviacion.com/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">vuelo del Flyer en Kitty Hawk</a>, sin identificar ambos aparatos como un único modelo.
 
 El arranque requería ayuda desde tierra. Tufts recoge el recuerdo de hombres que sujetaban el avión mientras un mecánico ponía el motor en marcha. Los ensayos dependían de esa colaboración, aun cuando el tramo aéreo fuese individual.
 
@@ -74,7 +74,7 @@ La actividad del matrimonio pasó después a la construcción y venta de otros a
 
 Su presencia en el puesto de pilotaje amplió la visibilidad de las mujeres en un ambiente que apenas comenzaba a admitirlas como participantes. En este caso coincidían capacidades técnicas, estudios universitarios y experiencia profesional previa: la historia no se limita a una aventura aislada.
 
-La notoriedad tampoco debe convertirse en una supuesta equiparación inmediata de oportunidades. El reconocimiento público de una pionera y el acceso general a la instrucción eran cuestiones diferentes. La <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">trayectoria de Raymonde de Laroche</a> permite comparar el contexto francés, mientras la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1875/05/11/nacimiento-de-harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">biografía de Harriet Quimby</a> aborda la vía de la certificación estadounidense.
+La notoriedad tampoco debe convertirse en una supuesta equiparación inmediata de oportunidades. El reconocimiento público de una pionera y el acceso general a la instrucción eran cuestiones diferentes. La <a href="https://www.efemeridesdeaviacion.com/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">trayectoria de Raymonde de Laroche</a> permite comparar el contexto francés, mientras la <a href="https://www.efemeridesdeaviacion.com/nacimiento/1875/05/11/nacimiento-de-harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">biografía de Harriet Quimby</a> aborda la vía de la certificación estadounidense.
 
 Raiche volvió a concentrarse en la atención médica, especialmente en obstetricia, ginecología y salud pública. El expediente del museo documenta su elección al frente de la Orange County Medical Association en 1923.
 

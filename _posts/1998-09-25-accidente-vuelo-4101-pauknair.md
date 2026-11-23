@@ -91,7 +91,7 @@ El valor inmediato del informe no estuvo en atribuir una causa técnica al BAe 1
 
 ## Legado
 
-El vuelo 4101 conserva un valor pedagógico específico porque reúne, en una sola aproximación, varias barreras esenciales contra el CFIT, y comparte familia con el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2016/11/28/accidente-vuelo-2933-lamia-cerro-gordo.html" style="color: #315fea; text-decoration: none;">Avro RJ85 del vuelo 2933 de LAMIA, estrellado en Cerro Gordo en 2016</a>: respetar la altitud mínima publicada, preparar la llegada para la meteorología real, mantener conciencia del relieve y responder de inmediato a un aviso de proximidad al terreno.
+El vuelo 4101 conserva un valor pedagógico específico porque reúne, en una sola aproximación, varias barreras esenciales contra el CFIT, y comparte familia con el <a href="https://www.efemeridesdeaviacion.com/accidente/2016/11/28/accidente-vuelo-2933-lamia-cerro-gordo.html" style="color: #315fea; text-decoration: none;">Avro RJ85 del vuelo 2933 de LAMIA, estrellado en Cerro Gordo en 2016</a>: respetar la altitud mínima publicada, preparar la llegada para la meteorología real, mantener conciencia del relieve y responder de inmediato a un aviso de proximidad al terreno.
 
 La categoría CFIT no describe una pérdida previa de control, sino el impacto contra terreno de una aeronave que todavía puede ser gobernada. Por eso el caso de Melilla sigue siendo útil para leer la relación entre procedimientos, automatización, alertas y coordinación humana. La alarma no sustituye a la conciencia situacional ni a la separación reglamentaria: es una última barrera que requiere una respuesta entrenada.
 

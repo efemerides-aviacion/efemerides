@@ -66,11 +66,11 @@ Cuando el N.1 voló, Italia llevaba dos meses en guerra. El vuelo se anunció co
 
 ## Desarrollo Cronológico
 
-- **Octubre de 1910:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1886/06/07/nacimiento-henry-coanda-pionero-aerodinamica.html" style="color: #315fea; text-decoration: none;">Henri Coandă, nacido en 1886</a>, presenta en el Salón de París su sistema *turbo-propulseur* y un aparato de demostración sin hélice. Las fuentes discuten si el prototipo llegó a despegar; la nota conserva esa diferencia.
+- **Octubre de 1910:** <a href="https://www.efemeridesdeaviacion.com/nacimiento/1886/06/07/nacimiento-henry-coanda-pionero-aerodinamica.html" style="color: #315fea; text-decoration: none;">Henri Coandă, nacido en 1886</a>, presenta en el Salón de París su sistema *turbo-propulseur* y un aparato de demostración sin hélice. Las fuentes discuten si el prototipo llegó a despegar; la nota conserva esa diferencia.
 - **1931:** Campini presenta a la Regia Aeronautica su informe sobre el *termojet*.
 - **Abril de 1932:** demostración en Venecia de una embarcación propulsada por chorro.
 - **1934:** la Regia Aeronautica aprueba dos prototipos y un fuselaje de ensayos.
-- **27 de agosto de 1939:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1939/08/27/heinkel-he-178-primer-vuelo-avion-reaccion.html" style="color: #315fea; text-decoration: none;">el Heinkel He 178 realiza el primer vuelo de un avión con turborreactor</a>, en secreto y sin difusión pública.
+- **27 de agosto de 1939:** <a href="https://www.efemeridesdeaviacion.com/evento/1939/08/27/heinkel-he-178-primer-vuelo-avion-reaccion.html" style="color: #315fea; text-decoration: none;">el Heinkel He 178 realiza el primer vuelo de un avión con turborreactor</a>, en secreto y sin difusión pública.
 - **27 de agosto de 1940:** primer vuelo del Caproni Campini N.1 en Taliedo, pilotado por Mario de Bernardi. Unos diez minutos, con la velocidad contenida por debajo de 362 km/h y a menos de medio gas.
 - **16 de septiembre de 1940:** segundo vuelo de ensayo, de unos cinco minutos.
 - **11 de abril de 1941:** primer vuelo del segundo prototipo.

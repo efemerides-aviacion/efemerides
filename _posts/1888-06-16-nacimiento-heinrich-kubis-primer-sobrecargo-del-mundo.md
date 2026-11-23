@@ -66,7 +66,7 @@ Antes de Kubis, las tareas de atender a los pasajeros recaían en los copilotos.
 
 - **16 de junio de 1888:** Nace Heinrich Kubis en Alemania 
 - **Primera década del siglo XX (antes de 1912):** Trabaja como camarero en el Hôtel Ritz (París) y el Carlton Hotel (Londres), adquiriendo experiencia en el servicio a pasajeros de alto nivel. Esta trayectoria sería determinante para su posterior contratación por DELAG
-- **Marzo de 1912:** Es contratado por <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1909/11/16/fundacion-delag-primera-aerolinea-del-mundo.html" style="color: #315fea; text-decoration: none;">DELAG</a> como primer asistente de vuelo de la historia, a bordo del dirigible LZ-10 Schwaben 
+- **Marzo de 1912:** Es contratado por <a href="https://www.efemeridesdeaviacion.com/fundacion/1909/11/16/fundacion-delag-primera-aerolinea-del-mundo.html" style="color: #315fea; text-decoration: none;">DELAG</a> como primer asistente de vuelo de la historia, a bordo del dirigible LZ-10 Schwaben 
 - **28 de junio de 1912:** El LZ-10 Schwaben se incendia en su hangar; Kubis sobrevive sin heridas graves 
 - **1912-1914:** Continúa su carrera en otros dirigibles de DELAG 
 - **1914-1918:** Primera Guerra Mundial; la aviación comercial se paraliza 
@@ -85,7 +85,7 @@ El Schwaben fue el primer dirigible de DELAG concebido para llevar pasajeros. El
 
 ### El desastre del Hindenburg (6 de mayo de 1937)
 
-Kubis era el jefe de sobrecargos del Hindenburg en su fatídico vuelo del 6 de mayo de 1937. Puede leer más sobre este trágico evento en la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1937/05/06/desastre-lz-129-hindenburg.html" style="color: #315fea; text-decoration: none;">efeméride dedicada al desastre del LZ 129 Hindenburg</a>. Cuando la aeronave se incendió al aterrizar en Lakehurst, Nueva Jersey, Kubis se encontraba en el comedor. En lugar de huir inmediatamente, ayudó a los pasajeros a saltar hacia el exterior. Luego, él mismo escapó saltando por una ventana. Sobrevivió al desastre que mató a 35 de las 97 personas a bordo (13 pasajeros, 22 tripulantes).
+Kubis era el jefe de sobrecargos del Hindenburg en su fatídico vuelo del 6 de mayo de 1937. Puede leer más sobre este trágico evento en la <a href="https://www.efemeridesdeaviacion.com/accidente/1937/05/06/desastre-lz-129-hindenburg.html" style="color: #315fea; text-decoration: none;">efeméride dedicada al desastre del LZ 129 Hindenburg</a>. Cuando la aeronave se incendió al aterrizar en Lakehurst, Nueva Jersey, Kubis se encontraba en el comedor. En lugar de huir inmediatamente, ayudó a los pasajeros a saltar hacia el exterior. Luego, él mismo escapó saltando por una ventana. Sobrevivió al desastre que mató a 35 de las 97 personas a bordo (13 pasajeros, 22 tripulantes).
 
 Tras el accidente, Kubis declaró ante las autoridades estadounidenses, proporcionando un testimonio clave sobre los últimos momentos del Hindenburg y las condiciones a bordo.
 

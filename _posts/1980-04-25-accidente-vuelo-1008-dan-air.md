@@ -46,7 +46,7 @@ image: 1980-04-25-accidente-vuelo-1008-dan-air.webp
 
 ## Contexto Histórico
 
-El siniestro del vuelo 1008 ocurrió apenas tres años después de la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión de dos Boeing 747 en la pista de Los Rodeos</a> (583 fallecidos) y ocho años después del accidente del Convair 990 de Spantax en el mismo recinto. La repetición de una gran catástrofe en el aeropuerto del norte tinerfeño volvió a situar en primer plano las complejas condiciones orográficas y meteorológicas del valle de Aguere, donde la niebla orográfica y los estratocúmulos bajos envuelven con frecuencia las cumbres que flanquean la aproximación.
+El siniestro del vuelo 1008 ocurrió apenas tres años después de la <a href="https://www.efemeridesdeaviacion.com/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión de dos Boeing 747 en la pista de Los Rodeos</a> (583 fallecidos) y ocho años después del accidente del Convair 990 de Spantax en el mismo recinto. La repetición de una gran catástrofe en el aeropuerto del norte tinerfeño volvió a situar en primer plano las complejas condiciones orográficas y meteorológicas del valle de Aguere, donde la niebla orográfica y los estratocúmulos bajos envuelven con frecuencia las cumbres que flanquean la aproximación.
 
 ### Entorno social
 
@@ -54,7 +54,7 @@ En 1980 el turismo británico constituía uno de los pilares económicos del arc
 
 ### Entorno tecnológico
 
-El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1963/02/09/primer-vuelo-boeing-727.html" style="color: #315fea; text-decoration: none;">Boeing 727</a> de la serie 100 (`727-46`, construido originalmente para Japan Air Lines en 1966 y adquirido por Dan-Air en 1973) era un trirreactor fiable y ampliamente difundido en el mercado chárter europeo. Su navegación descansaba en radioayudas convencionales (VOR/DME y radiobalizas no direccionales NDB) e instrumentos electromecánicos sin pantalla de mapa horizontal. El aparato contaba con sistema de alerta de proximidad al terreno (GPWS), que llegó a activarse en los segundos finales, pero en una zona de pendientes abruptas donde el margen de maniobra era ya insuficiente.
+El <a href="https://www.efemeridesdeaviacion.com/evento/1962/11/27/boeing-727-rollout.html" style="color: #315fea; text-decoration: none;">Boeing 727</a> de la serie 100 (`727-46`, construido originalmente para Japan Air Lines en 1966 y adquirido por Dan-Air en 1973) era un trirreactor fiable y ampliamente difundido en el mercado chárter europeo. Su navegación descansaba en radioayudas convencionales (VOR/DME y radiobalizas no direccionales NDB) e instrumentos electromecánicos sin pantalla de mapa horizontal. El aparato contaba con sistema de alerta de proximidad al terreno (GPWS), que llegó a activarse en los segundos finales, pero en una zona de pendientes abruptas donde el margen de maniobra era ya insuficiente.
 
 ### Entorno cultural
 

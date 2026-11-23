@@ -70,7 +70,7 @@ La trayectoria de Delagrange enlazó la escultura académica con las primeras ex
 - **Pionero integral:** Fue de los primeros europeos en pilotar aviones con regularidad y en realizar exhibiciones públicas, contribuyendo a popularizar el vuelo.
 - **Tercer piloto titulado de Francia:** Su brevet Nº 3 lo sitúa entre los aviadores oficialmente reconocidos por el Aéro-Club de France, junto a figuras como Louis Blériot (Nº 1) o Glenn Curtiss (Nº 2 en Francia).
 - **Vínculo arte-aviación:** Simboliza el tránsito de una generación de artistas que vieron en la tecnología el nuevo horizonte de la modernidad.
-- **Impulsor de aviadoras:** Su relación con Thérèse Peltier y su trato con <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">Raymonde de Laroche, primera mujer del mundo con licencia de piloto el 8 de marzo de 1910</a>, contribuyeron a la incorporación de la mujer a la aviación desde sus inicios.
+- **Impulsor de aviadoras:** Su relación con Thérèse Peltier y su trato con <a href="https://www.efemeridesdeaviacion.com/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">Raymonde de Laroche, primera mujer del mundo con licencia de piloto el 8 de marzo de 1910</a>, contribuyeron a la incorporación de la mujer a la aviación desde sus inicios.
 - **Memorial:** En Croix d'Hins, lugar del accidente, existe un monumento en su memoria. Una calle de Orléans lleva su nombre.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

@@ -61,7 +61,7 @@ El Model A y, en particular, el AW llevaron esa idea a un monoplano de cuatro pl
 
 En los años veinte, el avión empezaba a presentarse como una herramienta de movilidad y no solo como una máquina de récords. La visión de Cessna conectó con esa transformación: diseñar aeronaves que permitieran a más personas aprender a volar, viajar por cuenta propia o utilizar el avión en sus negocios.
 
-Esa identidad sobrevivió a cambios de propietario y de tecnología: los Cessna 150 y 152 se volvieron entrenadores de referencia, el 172 amplió la tradición y la familia Citation llevó el mismo nombre hasta el transporte ejecutivo. Un ejemplo es la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/02/07/timm-cook-record-cessna172.html" style="color: #315fea; text-decoration: none;">Cessna 172 que permaneció en vuelo 64 días</a> entre 1958 y 1959.
+Esa identidad sobrevivió a cambios de propietario y de tecnología: los Cessna 150 y 152 se volvieron entrenadores de referencia, el 172 amplió la tradición y la familia Citation llevó el mismo nombre hasta el transporte ejecutivo. Un ejemplo es la <a href="https://www.efemeridesdeaviacion.com/evento/1959/02/07/timm-cook-record-cessna172.html" style="color: #315fea; text-decoration: none;">Cessna 172 que permaneció en vuelo 64 días</a> entre 1958 y 1959.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

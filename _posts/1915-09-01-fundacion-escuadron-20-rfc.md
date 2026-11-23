@@ -57,7 +57,7 @@ Los recuentos de victorias y las condecoraciones ocuparon un lugar importante en
 
 - **Enero de 1916:** traslado a Francia y asignación al sector del Segundo Ejército, en torno a Ypres. La dotación pasó del F.E.2b al F.E.2d durante aquel año.
 - **7 de enero de 1917:** Thomas Mottershead consiguió aterrizar un aparato incendiado y salvar a su observador. Murió por las quemaduras cinco días después; recibió póstumamente la Cruz Victoria.
-- **6 de julio siguiente:** una patrulla participó en el combate en que resultó herido <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/05/02/nacimiento-manfred-von-ritchtofen.html" style="color: #315fea; text-decoration: none;">el aviador alemán conocido como Barón Rojo</a>. La reseña de la RAF atribuye el disparo al observador Woodbridge; se trata de una atribución histórica de la unidad.
+- **6 de julio siguiente:** una patrulla participó en el combate en que resultó herido <a href="https://www.efemeridesdeaviacion.com/nacimiento/1892/05/02/nacimiento-manfred-von-ritchtofen.html" style="color: #315fea; text-decoration: none;">el aviador alemán conocido como Barón Rojo</a>. La reseña de la RAF atribuye el disparo al observador Woodbridge; se trata de una atribución histórica de la unidad.
 - **Última etapa de la guerra:** el Bristol F.2B sustituyó a los F.E.2, manteniendo una tripulación de dos hombres con otra disposición de motor y armamento.
 - **1992–2010:** el numeral identificó a la unidad de conversión al Harrier en Wittering.
 - **1 de junio de 2021:** se hizo efectiva su asignación a la escuela operativa del sistema ASACS en Boulmer.

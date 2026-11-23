@@ -72,12 +72,12 @@ La creación del 31 de agosto organiza la unidad; los aviones llegan después.
 - **Enero de 1983:** el primer grupo de pilotos y técnicos parte a Arizona.
 - **31 de agosto de 1983:** el Resuelto N.º FAV.5435 crea el Grupo Aéreo de Caza N.º 16.
 - **16 de noviembre de 1983:** arriban a Venezuela los primeros seis F-16.
-- **17 de noviembre de 1983:** recepción oficial en la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1955/12/09/inauguracion-base-aerea-el-libertador.html" style="color: #315fea; text-decoration: none;">Base Aérea El Libertador</a>, con el presidente Herrera Campíns. Un Caudron G.3 abre el desfile; el Teniente Coronel Maglio Montiel demuestra el F-16A en vuelo.
+- **17 de noviembre de 1983:** recepción oficial en la <a href="https://www.efemeridesdeaviacion.com/fundacion/1955/12/09/inauguracion-base-aerea-el-libertador.html" style="color: #315fea; text-decoration: none;">Base Aérea El Libertador</a>, con el presidente Herrera Campíns. Un Caudron G.3 abre el desfile; el Teniente Coronel Maglio Montiel demuestra el F-16A en vuelo.
 - **20 de noviembre de 1985:** llegan los últimos aparatos; la flota queda en 24.
 - **1991:** ejercicios conjuntos en El Libertador con F-15E de la USAF.
-- **18 de junio de 1992:** cinco F-16 del Grupo 16 parten a Nellis para el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1992/07/11/fav-red-flag.html" style="color: #315fea; text-decoration: none;">ejercicio aéreo Red Flag</a>; es la primera participación latinoamericana en ese ejercicio.
+- **18 de junio de 1992:** cinco F-16 del Grupo 16 parten a Nellis para el <a href="https://www.efemeridesdeaviacion.com/evento/1992/07/11/fav-red-flag.html" style="color: #315fea; text-decoration: none;">ejercicio aéreo Red Flag</a>; es la primera participación latinoamericana en ese ejercicio.
 
-El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1974/02/02/primer-vuelo-yf16.html" style="color: #315fea; text-decoration: none;">YF-16 había volado por primera vez en febrero de 1974</a>. Nueve años después, Venezuela organizaba la primera unidad de la región para operarlo. El <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1973/07/26/creacion-grupo-aereo-caza-11-los-diablos.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Caza N.º 11 «Diablos»</a>, creado en 1973 para los Mirage, permanecía como la otra gran agrupación de caza de El Libertador.
+El <a href="https://www.efemeridesdeaviacion.com/evento/1974/02/02/primer-vuelo-yf16.html" style="color: #315fea; text-decoration: none;">YF-16 había volado por primera vez en febrero de 1974</a>. Nueve años después, Venezuela organizaba la primera unidad de la región para operarlo. El <a href="https://www.efemeridesdeaviacion.com/fundacion/1973/07/26/creacion-grupo-aereo-caza-11-los-diablos.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Caza N.º 11 «Diablos»</a>, creado en 1973 para los Mirage, permanecía como la otra gran agrupación de caza de El Libertador.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

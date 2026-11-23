@@ -59,7 +59,7 @@ La denominación americana generó una objeción diplomática alemana por su apa
 - **Preparación:** voluntarios y promotores, entre ellos el Doctor Edmund Gros, defendieron ante las autoridades francesas la agrupación de pilotos americanos.
 - **Mayo de 1916:** la primera misión se sitúa el día 13. Cinco días después, Kiffin Rockwell obtuvo la primera victoria atribuida a la formación, contra un avión de reconocimiento alemán.
 - **23 de junio:** Victor Chapman murió durante una acción aérea, convirtiéndose en su primer piloto perdido en combate.
-- **Incorporaciones posteriores:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1885/03/14/nacimiento-raoul-lufbery.html" style="color: #315fea; text-decoration: none;">Raoul Lufbery</a> destacó entre quienes se sumaron a la unidad después de sus primeros integrantes.
+- **Incorporaciones posteriores:** <a href="https://www.efemeridesdeaviacion.com/nacimiento/1885/03/14/nacimiento-raoul-lufbery.html" style="color: #315fea; text-decoration: none;">Raoul Lufbery</a> destacó entre quienes se sumaron a la unidad después de sus primeros integrantes.
 - **Diciembre:** se adoptó la designación Lafayette.
 - **1917:** la entrada de Estados Unidos en la guerra abrió el camino a la incorporación de los voluntarios a su propio servicio aéreo.
 - **Febrero de 1918:** aviones, equipo y buena parte de los pilotos pasaron a la estructura estadounidense asociada al 103rd Aero Squadron.

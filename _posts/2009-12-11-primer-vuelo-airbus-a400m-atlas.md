@@ -46,7 +46,7 @@ image: 2009-12-11-primer-vuelo-airbus-a400m-atlas.webp
 
 ## Contexto Histórico
 
-El A400M nació de la necesidad de Europa de un avión de transporte militar propio, independiente de los diseños estadounidenses como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">C-130 Hercules</a>, en producción ininterrumpida desde su primer vuelo en 1954. El programa enfrentó numerosos obstáculos, incluyendo disputas políticas, fallos técnicos y sobrecostos millonarios.
+El A400M nació de la necesidad de Europa de un avión de transporte militar propio, independiente de los diseños estadounidenses como el <a href="https://www.efemeridesdeaviacion.com/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">C-130 Hercules</a>, en producción ininterrumpida desde su primer vuelo en 1954. El programa enfrentó numerosos obstáculos, incluyendo disputas políticas, fallos técnicos y sobrecostos millonarios.
 
 ### Entorno social
 Siete naciones europeas (Bélgica, Francia, Alemania, Luxemburgo, España, Turquía y Reino Unido) se comprometieron inicialmente a comprar 180 unidades. El programa fue gestionado por OCCAR (Organización para la Cooperación en materia de Armamento), una entidad europea de defensa. En 2009, cuando el A400M finalmente voló, algunos países (como Alemania) habían amenazado con cancelar sus pedidos debido a los retrasos y sobrecostos. España, sede de la línea de ensamblaje final en Sevilla, mantuvo un firme respaldo.

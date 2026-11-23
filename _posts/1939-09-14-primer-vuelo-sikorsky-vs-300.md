@@ -19,7 +19,7 @@ image: 1939-09-14-primer-vuelo-sikorsky-vs-300.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 14 de septiembre de 1939, junto a la fábrica de Vought-Sikorsky en South Main Street, Stratford (Connecticut), el ingeniero <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1889/06/06/nacimiento-igor-sikorsky.html" style="color: #315fea; text-decoration: none;">Igor Sikorsky</a> —ya célebre por sus hidroaviones transoceánicos— elevó por primera vez el prototipo VS-300, un helicóptero experimental de rotor principal único tripala y rotor de cola monopala contrapesada. El vuelo, sujeto con cables cortos, duró unos diez segundos y apenas se alzó unos centímetros del suelo, pero demostró que la máquina era controlable.</p>
+<p>El 14 de septiembre de 1939, junto a la fábrica de Vought-Sikorsky en South Main Street, Stratford (Connecticut), el ingeniero <a href="https://www.efemeridesdeaviacion.com/nacimiento/1889/06/06/nacimiento-igor-sikorsky.html" style="color: #315fea; text-decoration: none;">Igor Sikorsky</a> —ya célebre por sus hidroaviones transoceánicos— elevó por primera vez el prototipo VS-300, un helicóptero experimental de rotor principal único tripala y rotor de cola monopala contrapesada. El vuelo, sujeto con cables cortos, duró unos diez segundos y apenas se alzó unos centímetros del suelo, pero demostró que la máquina era controlable.</p>
 <p>Aquel salto abrió una campaña de ensayos de cuatro años que condujo al primer vuelo libre (13 de mayo de 1940), al récord internacional de resistencia (6 de mayo de 1941) y a la configuración definitiva de ciclo completo en el rotor principal con un único rotor de cola (8 de diciembre de 1941). Del VS-300 descendió directamente el R-4, el primer helicóptero producido en serie del mundo, y con él la industria global del ala giratoria: la fórmula del rotor único con rotor de cola sigue siendo hoy la configuración dominante del vuelo vertical.</p>
 </div>
 
@@ -57,7 +57,7 @@ Sikorsky, llegado a Estados Unidos en 1919, era una figura pública por sus hidr
 La carrera del VS-300 condensó tres décadas de ideas de su creador y cuatro configuraciones principales en apenas cuatro años de vuelos.
 
 - **Primavera de 1909 y febrero de 1910:** en Kiev, el joven Sikorsky construye sus dos primeros helicópteros, de rotores coaxiales y motor Anzani de 25 hp; el segundo apenas se levanta sin piloto, y el inventor abandona el ala giratoria.
-- **31 de enero de 1923:** el autogiro Cierva C.4 completa en España el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html" style="color: #315fea; text-decoration: none;">primer circuito cerrado del ala giratoria</a>, hito de la línea técnica de la que descendería el helicóptero moderno.
+- **31 de enero de 1923:** el autogiro Cierva C.4 completa en España el <a href="https://www.efemeridesdeaviacion.com/evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html" style="color: #315fea; text-decoration: none;">primer circuito cerrado del ala giratoria</a>, hito de la línea técnica de la que descendería el helicóptero moderno.
 - **1928:** Sikorsky retoma el estudio del vuelo vertical y concluye que la técnica ya puede construirlo.
 - **1929:** la compañía se instala en South Main Street, Stratford (Connecticut); allí se diseñarán y ensayarán el S-46 (VS-300) y el S-47 (R-4).
 - **1931-1935:** solicita y obtiene una patente de helicóptero que incorpora casi todos los rasgos mayores del futuro VS-300.
@@ -69,7 +69,7 @@ La carrera del VS-300 condensó tres décadas de ideas de su creador y cuatro co
 - **6 de marzo de 1940:** primer vuelo, aún atado, de la segunda configuración, con dos rotores auxiliares horizontales de paso diferencial para alabeo y cabeceo.
 - **13 de mayo de 1940:** primer vuelo libre, sin ataduras.
 - **20 de mayo de 1940:** primera demostración pública del aparato.
-- **29 de mayo de 1940:** la misma división Vought-Sikorsky hace volar el prototipo <a href="https://efemerides-aviacion.github.io/efemerides/evento/1940/05/29/primer-vuelo-vought-sikorsky-f4u1-corsair.html" style="color: #315fea; text-decoration: none;">XF4U-1 Corsair</a>, el caza que dominaría el Pacífico, mientras su equipo de ala giratoria perfeccionaba el helicóptero.
+- **29 de mayo de 1940:** la misma división Vought-Sikorsky hace volar el prototipo <a href="https://www.efemeridesdeaviacion.com/evento/1940/05/29/primer-vuelo-vought-sikorsky-f4u1-corsair.html" style="color: #315fea; text-decoration: none;">XF4U-1 Corsair</a>, el caza que dominaría el Pacífico, mientras su equipo de ala giratoria perfeccionaba el helicóptero.
 - **Octubre de 1940:** cierra la campaña intensiva iniciada en marzo: centenares de vuelos —estacionario bajo vientos de hasta 40 km/h, desplazamientos en todas las direcciones y despegues desde aparcamientos—.
 - **17 de abril de 1941:** con pontones de goma, el VS-300 ejecuta los primeros amerizajes de un helicóptero en la historia, sobre el río Housatonic.
 - **6 de mayo de 1941:** Sikorsky establece el récord internacional de resistencia para helicópteros: 1 hora, 32 minutos y 26 segundos, marca que arrebata el primado al Fw 61 alemán.

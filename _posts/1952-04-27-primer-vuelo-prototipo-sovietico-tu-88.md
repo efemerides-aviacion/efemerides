@@ -52,7 +52,7 @@ Dos avances técnicos desarrollados en Moscú entre 1949 y 1951 hicieron viable 
 
 ### Entorno cultural
 
-El programa avanzó en paralelo con los grandes reactores estratégicos de ambos bloques durante 1952: el primer despegue del Tu-88 en Zhukovski se produjo apenas doce días después del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/04/15/primer-vuelo-yb-52-stratofortress.html" style="color: #315fea; text-decoration: none;">vuelo inaugural del Boeing YB-52 Stratofortress</a> en Seattle y cuatro meses antes del estreno del bombardero británico <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/08/30/primer-vuelo-avro-vulcan.html" style="color: #315fea; text-decoration: none;">Avro Vulcan</a>.
+El programa avanzó en paralelo con los grandes reactores estratégicos de ambos bloques durante 1952: el primer despegue del Tu-88 en Zhukovski se produjo apenas doce días después del <a href="https://www.efemeridesdeaviacion.com/evento/1952/04/15/primer-vuelo-yb-52-stratofortress.html" style="color: #315fea; text-decoration: none;">vuelo inaugural del Boeing YB-52 Stratofortress</a> en Seattle y cuatro meses antes del estreno del bombardero británico <a href="https://www.efemeridesdeaviacion.com/evento/1952/08/30/primer-vuelo-avro-vulcan.html" style="color: #315fea; text-decoration: none;">Avro Vulcan</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -71,7 +71,7 @@ El programa avanzó en paralelo con los grandes reactores estratégicos de ambos
 
 La entrada en servicio del Tu-16 en 1954 dotó tanto a la Aviación de Largo Alcance (ADD) como a la Aviación Naval Soviética (AV-MF) de su primera plataforma birreactora polivalente de gran radio de acción. Además de lanzar bombas nucleares y convencionales —un Tu-16A ejecutó el ensayo de la primera bomba termonuclear soviética de dos etapas RDS-37 en noviembre de 1955—, el modelo se transformó en el vector principal de los primeros misiles de crucero antibuque de largo alcance (series KS-1 *Komet*, KSR-2 y K-10S), así como en avión cisterna de reabastecimiento por punta de plano, plataforma de reconocimiento electrónico y perturbador de radares.
 
-En el terreno civil, Andréi Túpolev aprovechó las alas, la cola, las góndolas de tren y los motores del Tu-16 acoplados a un nuevo fuselaje presurizado de mayor diámetro para crear en tiempo récord el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1955/06/17/primer-vuelo-tupolev-tu-104-primer-avion-jet-exitoso.html" style="color: #315fea; text-decoration: none;">Tupolev Tu-104</a> (estrenado en el aire el 17 de junio de 1955), que durante el bienio 1956–1958 operó como el único avión comercial a reacción en servicio regular en el mundo tras la suspensión de los primeros Comet británicos.
+En el terreno civil, Andréi Túpolev aprovechó las alas, la cola, las góndolas de tren y los motores del Tu-16 acoplados a un nuevo fuselaje presurizado de mayor diámetro para crear en tiempo récord el <a href="https://www.efemeridesdeaviacion.com/evento/1955/06/17/primer-vuelo-tupolev-tu-104-primer-avion-jet-exitoso.html" style="color: #315fea; text-decoration: none;">Tupolev Tu-104</a> (estrenado en el aire el 17 de junio de 1955), que durante el bienio 1956–1958 operó como el único avión comercial a reacción en servicio regular en el mundo tras la suspensión de los primeros Comet británicos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

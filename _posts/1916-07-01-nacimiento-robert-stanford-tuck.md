@@ -64,7 +64,7 @@ La publicidad bélica buscaba figuras reconocibles y Tuck reunía las condicione
 - **1941–1942:** intervino en operaciones ofensivas sobre Francia. En enero del último año, el fuego antiaéreo lo obligó a tomar tierra en territorio ocupado y cayó prisionero.
 - **Cautiverio:** estuvo en Stalag Luft III y colaboró en preparativos de fuga. Su traslado a Belaria precedió a la evasión colectiva de marzo de 1944, en la que no participó.
 - **1945:** escapó durante la evacuación de los prisioneros y llegó a las líneas soviéticas antes de regresar a su país.
-- **Posguerra:** mantuvo amistad con <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1912/03/19/nacimiento-adolf-galland.html" style="color: #315fea; text-decoration: none;">Adolf Galland</a>; ambos asesoraron la película Battle of Britain, estrenada en 1969.
+- **Posguerra:** mantuvo amistad con <a href="https://www.efemeridesdeaviacion.com/nacimiento/1912/03/19/nacimiento-adolf-galland.html" style="color: #315fea; text-decoration: none;">Adolf Galland</a>; ambos asesoraron la película Battle of Britain, estrenada en 1969.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

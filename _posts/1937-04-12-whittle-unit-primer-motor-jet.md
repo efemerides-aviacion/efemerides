@@ -73,7 +73,7 @@ El desarrollo del motor a reacción por parte de Frank Whittle fue un proceso la
 - **Junio de 1937:** Segunda prueba del WU, que funciona de manera estable durante 20 minutos.
 - **1938:** Se construye y prueba el segundo motor (WU Mk II).
 - **1941:** El motor Whittle W.1X impulsa el primer vuelo del Gloster E.28/39, el primer avión a reacción británico.
-- **1 de octubre de 1942:** la tecnología de Whittle llega al vuelo estadounidense: dos turborreactores General Electric I-A derivados de sus diseños impulsan el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/10/01/primer-vuelo-bell-xp59a-airacomet.html" style="color: #315fea; text-decoration: none;">Bell XP-59A Airacomet, primer reactor estadounidense en volar</a>.
+- **1 de octubre de 1942:** la tecnología de Whittle llega al vuelo estadounidense: dos turborreactores General Electric I-A derivados de sus diseños impulsan el <a href="https://www.efemeridesdeaviacion.com/evento/1942/10/01/primer-vuelo-bell-xp59a-airacomet.html" style="color: #315fea; text-decoration: none;">Bell XP-59A Airacomet, primer reactor estadounidense en volar</a>.
 - **1944:** Entra en servicio el Gloster Meteor, primer caza a reacción aliado de la historia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -96,7 +96,7 @@ El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugb
 - **Reconocimiento oficial:** En 1948, el gobierno británico le otorgó un pago de £100.000 como gratificación (ex gratia), sin admitir responsabilidad legal, en reconocimiento a su contribución a la aviación y fue nombrado Comandante de la Orden del Imperio Británico (CBE).
 - **Inclusiones en museos:** El motor WU original se conserva en el Science Museum de Londres.
 - **Honores internacionales:** En 1976, ya retirado en Estados Unidos, fue incluido en el International Air & Space Hall of Fame.
-- **Relación con otros pioneros:** Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1907/06/01/nacimiento-frank-whittle.html" style="color: #315fea; text-decoration: none;">efeméride de nacimiento de Frank Whittle</a> y la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #315fea; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles sobre los pioneros del motor a reacción.
+- **Relación con otros pioneros:** Consulte la <a href="https://www.efemeridesdeaviacion.com/nacimiento/1907/06/01/nacimiento-frank-whittle.html" style="color: #315fea; text-decoration: none;">efeméride de nacimiento de Frank Whittle</a> y la <a href="https://www.efemeridesdeaviacion.com/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #315fea; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles sobre los pioneros del motor a reacción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

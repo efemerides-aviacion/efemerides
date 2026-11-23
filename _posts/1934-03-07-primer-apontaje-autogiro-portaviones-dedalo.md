@@ -45,7 +45,7 @@ La demostración reforzó la reputación internacional de Juan de la Cierva como
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
-- **31 de enero de 1923:** el Teniente Alejandro Gómez Spencer completa en Cuatro Vientos el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html" style="color: #315fea; text-decoration: none;">primer vuelo en circuito cerrado del autogiro C.4</a>, hito fundacional del ala rotatoria.
+- **31 de enero de 1923:** el Teniente Alejandro Gómez Spencer completa en Cuatro Vientos el <a href="https://www.efemeridesdeaviacion.com/evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html" style="color: #315fea; text-decoration: none;">primer vuelo en circuito cerrado del autogiro C.4</a>, hito fundacional del ala rotatoria.
 - **1928:** De la Cierva comienza a pilotar sus máquinas en exhibiciones internacionales.  
 - **1934, 7 mar:** Primer apontaje y despegue de un autogiro desde el Dédalo.  
 - **1934:** Baja definitiva del portahidroaviones Dédalo.  

@@ -42,7 +42,7 @@ image: 1973-07-26-creacion-grupo-aereo-caza-11-los-diablos.webp
 
 ## Contexto Histórico
 
-La creación del Grupo Aéreo de Caza N.º 11 el 26 de julio de 1973 representó el ingreso pleno de la Fuerza Aérea Venezolana (FAV) en la era del vuelo supersónico Mach 2. Asentada originalmente en la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1955/12/09/inauguracion-base-aerea-el-libertador.html" style="color: #315fea; text-decoration: none;">Base Aérea El Libertador</a>, en Palo Negro, la nueva unidad concentró la flota de reactores de ala en delta adquiridos a Francia y reorganizó la estructura de caza que desde 1961 había girado en torno al <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1961/07/27/creacion-grupo-aereo-caza-12-grifos.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Caza N.º 12 «Grifos»</a>.
+La creación del Grupo Aéreo de Caza N.º 11 el 26 de julio de 1973 representó el ingreso pleno de la Fuerza Aérea Venezolana (FAV) en la era del vuelo supersónico Mach 2. Asentada originalmente en la <a href="https://www.efemeridesdeaviacion.com/fundacion/1955/12/09/inauguracion-base-aerea-el-libertador.html" style="color: #315fea; text-decoration: none;">Base Aérea El Libertador</a>, en Palo Negro, la nueva unidad concentró la flota de reactores de ala en delta adquiridos a Francia y reorganizó la estructura de caza que desde 1961 había girado en torno al <a href="https://www.efemeridesdeaviacion.com/fundacion/1961/07/27/creacion-grupo-aereo-caza-12-grifos.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Caza N.º 12 «Grifos»</a>.
 
 ### Entorno social
 

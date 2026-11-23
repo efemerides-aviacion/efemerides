@@ -64,7 +64,7 @@ Napier insistió en un matiz que hoy resulta revelador: el vuelo **no fue una ex
 
 ## Desarrollo Cronológico
 
-- **13 de mayo de 1949:** vuela por primera vez el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1949/05/13/primer-vuelo-english-electric-canberra.html" style="color: #315fea; text-decoration: none;">English Electric Canberra, primer bombardero a reacción británico</a>, concebido desde el principio para operar a gran altura.
+- **13 de mayo de 1949:** vuela por primera vez el <a href="https://www.efemeridesdeaviacion.com/evento/1949/05/13/primer-vuelo-english-electric-canberra.html" style="color: #315fea; text-decoration: none;">English Electric Canberra, primer bombardero a reacción británico</a>, concebido desde el principio para operar a gran altura.
 - **4 de mayo de 1953:** Walter Gibb lleva el Canberra WD952, con motores Bristol Olympus, a 19.406 m: primer récord mundial de altitud de la familia.
 - **29 de agosto de 1955:** Gibb repite con el mismo aparato y alcanza 20.083 m. Es la marca que habrá que batir.
 - **2 de diciembre de 1955:** el WK163 es transferido a Napier, en Luton, como banco de pruebas volante del nuevo motor cohete.
@@ -72,7 +72,7 @@ Napier insistió en un matiz que hoy resulta revelador: el vuelo **no fue una ex
 - **28 de agosto de 1957, 17:26:** despegue de Luton. El avión pone rumbo a Portland Bill, en la costa sur.
 - **28 de agosto de 1957:** a 13.400 m, unas millas al sur de la isla de Wight, Randrup vira al noreste y enciende el Double Scorpion. Tres minutos después ha ganado casi 8.000 metros y captura el récord, a unos treinta kilómetros al sur de Shoreham-on-Sea.
 - **28 de agosto de 1957, 18:12:** aterrizaje en Luton tras cuarenta y seis minutos de vuelo.
-- **7 de mayo de 1958:** el Mayor Howard C. Johnson arrebata la marca al Canberra con un <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/16/f104-starfighter-aeronave-historica-en-records.html" style="color: #315fea; text-decoration: none;">Lockheed F-104 Starfighter, que alcanza los 27.811 metros</a>.
+- **7 de mayo de 1958:** el Mayor Howard C. Johnson arrebata la marca al Canberra con un <a href="https://www.efemeridesdeaviacion.com/evento/1958/05/16/f104-starfighter-aeronave-historica-en-records.html" style="color: #315fea; text-decoration: none;">Lockheed F-104 Starfighter, que alcanza los 27.811 metros</a>.
 - **1959:** cancelado el programa Scorpion. Los turborreactores habían mejorado lo suficiente como para hacer innecesario el cohete auxiliar.
 
 En torno a los 21.000 metros, la baja densidad atmosférica colocó al Canberra en el llamado «rincón del ataúd» (*coffin corner*), donde la velocidad de entrada en pérdida y el límite de compresibilidad supersónica del ala recta estaban separados por un margen de apenas **quince nudos** (unos 28 km/h). Aunque al rebasar los 70.000 pies el avión seguía ascendiendo a razón de 2.400 metros por minuto, fue ese estrechísimo pasillo aerodinámico —y no el agotamiento del propulsor— lo que llevó a Randrup a nivelar, cortar el cohete e iniciar el descenso, protegidos ambos tripulantes por cascos parcialmente presurizados y chalecos inflables diseñados con el Instituto de Medicina Aeronáutica de la RAF en Farnborough.

@@ -60,11 +60,11 @@ El Concorde era un icono global. Su silueta delta y su nariz abatible ("droop-sn
 - **1976, 21 de enero:** Entrada en servicio comercial simultánea de British Airways y Air France (Londres-Bahrein y París-Río de Janeiro).
 - **1979:** Entrega del G-BOAF ("Alpha Foxtrot") a British Airways, el último Concorde producido (número de serie 216).
 - **1996, 7 de febrero:** El G-BOAF establece un récord de vuelo alrededor del mundo en 31 horas y 27 minutos.
-- **2000, 25 de julio:** Ocurre el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2000/07/25/accidente-concorde-air-france-vuelo-4590.html" style="color: #315fea; text-decoration: none;">accidente del Concorde F-BTSC de Air France</a> en Gonesse (Francia), con 113 víctimas. La flota se retira temporalmente.
+- **2000, 25 de julio:** Ocurre el <a href="https://www.efemeridesdeaviacion.com/accidente/2000/07/25/accidente-concorde-air-france-vuelo-4590.html" style="color: #315fea; text-decoration: none;">accidente del Concorde F-BTSC de Air France</a> en Gonesse (Francia), con 113 víctimas. La flota se retira temporalmente.
 - **2001, noviembre:** El Concorde vuelve al servicio comercial tras modificaciones de seguridad.
 - **2003, abril:** British Airways y Air France anuncian el retiro definitivo de la flota por razones económicas.
 - **2003, 24 de octubre:** Últimos vuelos comerciales de British Airways: tres Concorde (G-BOAG, G-BOAE, G-BOAF) aterrizan simultáneamente en Heathrow procedentes de Nueva York (JFK), Edimburgo y la Bahía de Cardigan (vuelo chárter). El G-BOAF operó el vuelo chárter.
-- **24 de octubre de 2003:** Celebración del <a href="https://efemerides-aviacion.github.io/efemerides/evento/2003/10/24/ultimo-vuelo-concorde-british-airways.html" style="color: #315fea; text-decoration: none;">último vuelo comercial del Concorde</a> con pasajeros de pago (vuelo BA002 de Nueva York a Londres).
+- **24 de octubre de 2003:** Celebración del <a href="https://www.efemeridesdeaviacion.com/evento/2003/10/24/ultimo-vuelo-concorde-british-airways.html" style="color: #315fea; text-decoration: none;">último vuelo comercial del Concorde</a> con pasajeros de pago (vuelo BA002 de Nueva York a Londres).
 - **2003, 26 de noviembre, 11:30 UTC:** El G-BOAF despega de Heathrow por última vez. Realiza un vuelo subsónico de baja altitud (aproximadamente 3.000 pies) sobrevolando Bristol y el puente colgante de Clifton.
 - **2003, 26 de noviembre, 12:13 UTC:** Aterrizaje en el aeródromo de Filton, Bristol, ante una multitud de trabajadores, ex trabajadores y entusiastas.
 - **2017:** El G-BOAF se exhibe permanentemente en el museo Aerospace Bristol, situado junto a la pista de Filton.

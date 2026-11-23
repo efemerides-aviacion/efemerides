@@ -38,7 +38,7 @@ image: 1921-08-18-nacimiento-lidia-litviak-as-combate-union-sovietica.webp
 
 ## Contexto Histórico
 
-Litviak nació en la URSS que enseñaba a volar a sus hijas en aeroclubes gratuitos y que, cuando la guerra lo exigió, dejó a <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1909/05/10/nacimiento-valentina-stepanova-grizodubova.html" style="color: #315fea; text-decoration: none;">pioneras como Valentina Grizodúbova</a> abrir el cielo militar a las mujeres. Pequeña, rubia y terca, la muchacha que necesitaba cojines para ver sobre la cabina y bloques de madera para alcanzar los pedales se volvió la cazadora más letal de su sexo.
+Litviak nació en la URSS que enseñaba a volar a sus hijas en aeroclubes gratuitos y que, cuando la guerra lo exigió, dejó a <a href="https://www.efemeridesdeaviacion.com/nacimiento/1909/05/10/nacimiento-valentina-stepanova-grizodubova.html" style="color: #315fea; text-decoration: none;">pioneras como Valentina Grizodúbova</a> abrir el cielo militar a las mujeres. Pequeña, rubia y terca, la muchacha que necesitaba cojines para ver sobre la cabina y bloques de madera para alcanzar los pedales se volvió la cazadora más letal de su sexo.
 
 ### Entorno social
 
@@ -50,7 +50,7 @@ Su guerra se libró en el Yak-1 y el Yak-1b, cazas de madera y tela que exigían
 
 ### Entorno cultural
 
-El grupo que la llevó al frente fue obra de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1912/03/28/nacimiento-marina-mijailovna-raskova.html" style="color: #315fea; text-decoration: none;">Marina Raskova, la navegante que obtuvo de Stalin los tres regimientos íntegramente femeninos</a>; en Engels, el Grupo 122 comprimía tres años de instrucción militar en seis meses de jornadas de 14 horas. De esa cantera salieron Litviak y Budanova, de quienes el as Vladímir Lavrinenkov diría: «desmintieron la opinión errónea de que el combate aéreo es inaceptable para las mujeres; fueron para nosotros compañeras de armas fiables en el cielo del frente».
+El grupo que la llevó al frente fue obra de <a href="https://www.efemeridesdeaviacion.com/nacimiento/1912/03/28/nacimiento-marina-mijailovna-raskova.html" style="color: #315fea; text-decoration: none;">Marina Raskova, la navegante que obtuvo de Stalin los tres regimientos íntegramente femeninos</a>; en Engels, el Grupo 122 comprimía tres años de instrucción militar en seis meses de jornadas de 14 horas. De esa cantera salieron Litviak y Budanova, de quienes el as Vladímir Lavrinenkov diría: «desmintieron la opinión errónea de que el combate aéreo es inaceptable para las mujeres; fueron para nosotros compañeras de armas fiables en el cielo del frente».
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

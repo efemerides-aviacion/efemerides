@@ -42,7 +42,7 @@ El Apolo 15 marcó el momento en que el programa dejó de perseguir la proeza pa
 
 ### Entorno social
 
-En el verano de 1971, el interés público por las misiones lunares había decaído de manera acusada. <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/07/20/alunizaje-apolo11.html" style="color: #315fea; text-decoration: none;">El alunizaje del Apolo 11</a>, dos años antes, había concentrado una audiencia sin precedentes, pero la repetición del logro fue restando espectacularidad a cada misión sucesiva. El Congreso recortaba presupuestos y ya se habían cancelado vuelos previstos. En ese clima, la NASA necesitaba demostrar que las misiones restantes producían conocimiento y no solo imágenes, y el vehículo lunar ofrecía además un elemento visualmente atractivo: por primera vez se veía a un ser humano conducir sobre otro mundo.
+En el verano de 1971, el interés público por las misiones lunares había decaído de manera acusada. <a href="https://www.efemeridesdeaviacion.com/espacial/1969/07/20/alunizaje-apolo11.html" style="color: #315fea; text-decoration: none;">El alunizaje del Apolo 11</a>, dos años antes, había concentrado una audiencia sin precedentes, pero la repetición del logro fue restando espectacularidad a cada misión sucesiva. El Congreso recortaba presupuestos y ya se habían cancelado vuelos previstos. En ese clima, la NASA necesitaba demostrar que las misiones restantes producían conocimiento y no solo imágenes, y el vehículo lunar ofrecía además un elemento visualmente atractivo: por primera vez se veía a un ser humano conducir sobre otro mundo.
 
 ### Entorno tecnológico
 
@@ -78,7 +78,7 @@ El rendimiento científico de la misión superó con holgura al de todas las ant
 
 Los 77 kilogramos de muestras casi duplicaron lo recogido en misiones previas, pero el dato relevante no es el peso sino la procedencia: el vehículo permitió muestrear el frente de los Montes Apeninos y el borde de la Rima Hadley, formaciones separadas por kilómetros y de origen geológico distinto. Entre el material figuraba la anortosita bautizada como Roca Génesis, que los primeros análisis atribuyeron a la corteza lunar primitiva y que contribuyó a sostener la hipótesis del océano de magma en la formación de la Luna.
 
-Scott recreó el experimento atribuido a Galileo: martillo y pluma tocaron el suelo simultáneamente. A diferencia de la <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/11/24/apolo-12-regreso-television-color-lunar.html" style="color: #315fea; text-decoration: none;">cámara que llevó el color al suelo lunar en el Apolo 12</a>, la del vehículo podía orientarse desde Houston.
+Scott recreó el experimento atribuido a Galileo: martillo y pluma tocaron el suelo simultáneamente. A diferencia de la <a href="https://www.efemeridesdeaviacion.com/espacial/1969/11/24/apolo-12-regreso-television-color-lunar.html" style="color: #315fea; text-decoration: none;">cámara que llevó el color al suelo lunar en el Apolo 12</a>, la del vehículo podía orientarse desde Houston.
 
 En el plano operativo, el vehículo validó un concepto que se repetiría en los Apolo 16 y 17, cuyos ejemplares ampliaron el radio de exploración y quedaron igualmente en la superficie lunar. El fallo de la dirección delantera en la primera salida y la apertura parcial de uno de los tres paracaídas en el amerizaje se resolvieron sin consecuencias para la tripulación.
 
@@ -88,7 +88,7 @@ En el plano operativo, el vehículo validó un concepto que se repetiría en los
 
 El vehículo lunar del Apolo 15 inauguró la conducción tripulada fuera de la Tierra, una línea que no se ha interrumpido desde entonces.
 
-Su descendencia directa no es tripulada, pero comparte el mismo principio: extender el alcance de la exploración más allá del punto de llegada. Los vehículos automáticos que recorren Marte desde hace décadas resuelven, con otra tecnología y sin tripulación, el problema que el Lunar Roving Vehicle planteó por primera vez. La <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1976/07/20/viking1-sonda-espacial-en-marte.html" style="color: #315fea; text-decoration: none;">sonda Viking 1, que se posó en Marte cinco años después</a>, todavía era estática; la movilidad superficial en otro planeta tardaría dos décadas más en llegar.
+Su descendencia directa no es tripulada, pero comparte el mismo principio: extender el alcance de la exploración más allá del punto de llegada. Los vehículos automáticos que recorren Marte desde hace décadas resuelven, con otra tecnología y sin tripulación, el problema que el Lunar Roving Vehicle planteó por primera vez. La <a href="https://www.efemeridesdeaviacion.com/espacial/1976/07/20/viking1-sonda-espacial-en-marte.html" style="color: #315fea; text-decoration: none;">sonda Viking 1, que se posó en Marte cinco años después</a>, todavía era estática; la movilidad superficial en otro planeta tardaría dos décadas más en llegar.
 
 De los cuatro vehículos construidos para vuelo, tres quedaron en la Luna. El cuarto, destinado a una misión cancelada, se conserva en tierra y se exhibe en museos como testimonio de un programa que terminó antes de agotar su material.
 

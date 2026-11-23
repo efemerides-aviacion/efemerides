@@ -44,7 +44,7 @@ El Sistema de Posicionamiento Global (GPS) fue desarrollado originalmente por el
 
 ### Entorno social
 
-El 1 de septiembre de 1983, el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1983/09/01/derribo-vuelo-007-korean-air.html" style="color: #315fea; text-decoration: none;">vuelo KAL 007 de Korean Air Lines, un Boeing 747, fue derribado por cazas soviéticos</a> tras desviarse de su ruta e infringir el espacio aéreo soviético. Las 269 personas a bordo fallecieron. Este trágico incidente conmocionó al mundo y puso de relieve la necesidad de un sistema de navegación global preciso y fiable para la aviación civil. En respuesta, el presidente Ronald Reagan anunció que el GPS estaría disponible para uso civil una vez que el sistema estuviera operativo.
+El 1 de septiembre de 1983, el <a href="https://www.efemeridesdeaviacion.com/accidente/1983/09/01/derribo-vuelo-007-korean-air.html" style="color: #315fea; text-decoration: none;">vuelo KAL 007 de Korean Air Lines, un Boeing 747, fue derribado por cazas soviéticos</a> tras desviarse de su ruta e infringir el espacio aéreo soviético. Las 269 personas a bordo fallecieron. Este trágico incidente conmocionó al mundo y puso de relieve la necesidad de un sistema de navegación global preciso y fiable para la aviación civil. En respuesta, el presidente Ronald Reagan anunció que el GPS estaría disponible para uso civil una vez que el sistema estuviera operativo.
 
 ### Entorno tecnológico
 

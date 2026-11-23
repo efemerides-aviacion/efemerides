@@ -71,7 +71,7 @@ Los escuadrones de caza alemanes desarrollaron una fuerte identidad visual y de 
 - **Diciembre de 1917:** Pasa posteriormente al Jasta 4, otra unidad asociada con el Jagdgeschwader 1 y el «Circo Volante».
 - **21 de abril de 1918:** La muerte de Manfred von Richthofen marca profundamente a la unidad y a sus antiguos compañeros.
 - **1918:** Meyer Baldó acumula nuevas victorias confirmadas y no confirmadas, y más tarde se desempeña como instructor de pilotos de caza.
-- **Para ampliar su trayectoria biográfica:** puede consultarse la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1895/04/21/nacimiento-carlos-meyer-baldo.html" style="color: #315fea; text-decoration: none;">efeméride del nacimiento de Carlos Meyer Baldó</a>.
+- **Para ampliar su trayectoria biográfica:** puede consultarse la <a href="https://www.efemeridesdeaviacion.com/nacimiento/1895/04/21/nacimiento-carlos-meyer-baldo.html" style="color: #315fea; text-decoration: none;">efeméride del nacimiento de Carlos Meyer Baldó</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

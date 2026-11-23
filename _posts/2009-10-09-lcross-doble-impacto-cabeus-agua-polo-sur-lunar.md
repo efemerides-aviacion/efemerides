@@ -43,7 +43,7 @@ image: 2009-10-09-lcross-doble-impacto-cabeus-agua-polo-sur-lunar.webp
 
 ## Contexto Histórico
 
-La Luna que dejó el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/07/20/alunizaje-apolo11.html" style="color: #315fea; text-decoration: none;">programa Apolo</a> era un mundo árido. Las muestras traídas por las misiones tripuladas no contenían agua y el consenso de la época describía un satélite sin reservas de volátiles. Desde los años sesenta existía, sin embargo, una hipótesis distinta: en los fondos de cráteres cercanos a los polos, donde el Sol nunca asciende, el hielo llegado con los impactos de cometas podría haberse conservado durante eones. Comprobarlo exigía medir el suelo de esas zonas, algo que ningún instrumento había logrado.
+La Luna que dejó el <a href="https://www.efemeridesdeaviacion.com/espacial/1969/07/20/alunizaje-apolo11.html" style="color: #315fea; text-decoration: none;">programa Apolo</a> era un mundo árido. Las muestras traídas por las misiones tripuladas no contenían agua y el consenso de la época describía un satélite sin reservas de volátiles. Desde los años sesenta existía, sin embargo, una hipótesis distinta: en los fondos de cráteres cercanos a los polos, donde el Sol nunca asciende, el hielo llegado con los impactos de cometas podría haberse conservado durante eones. Comprobarlo exigía medir el suelo de esas zonas, algo que ningún instrumento había logrado.
 
 ### Entorno social
 

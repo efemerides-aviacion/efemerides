@@ -37,7 +37,7 @@ image: 2014-12-28-accidente-vuelo-8501-indonesia-airasia.webp
 
 ## Contexto Histórico
 
-El siniestro del vuelo QZ8501 cerró un año luctuoso para las aerolíneas del sudeste asiático tras la desaparición del vuelo MH370 en marzo y el derribo del vuelo MH17 en julio de 2014, y constituyó la mayor catástrofe aérea en territorio indonesio desde el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2005/09/05/accidente-vuelo-091-mandala-airlines-medan.html" style="color: #315fea; text-decoration: none;">accidente del vuelo 091 de Mandala Airlines en Medán en septiembre de 2005</a>.
+El siniestro del vuelo QZ8501 cerró un año luctuoso para las aerolíneas del sudeste asiático tras la desaparición del vuelo MH370 en marzo y el derribo del vuelo MH17 en julio de 2014, y constituyó la mayor catástrofe aérea en territorio indonesio desde el <a href="https://www.efemeridesdeaviacion.com/accidente/2005/09/05/accidente-vuelo-091-mandala-airlines-medan.html" style="color: #315fea; text-decoration: none;">accidente del vuelo 091 de Mandala Airlines en Medán en septiembre de 2005</a>.
 
 ### Entorno social
 

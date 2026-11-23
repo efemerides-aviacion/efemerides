@@ -56,7 +56,7 @@ Las tarjetas y las noticias transformaron el vuelo en una imagen de modernidad. 
 
 ## Desarrollo Cronológico
 
-El antecedente inmediato más conocido es <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/01/30/amerizaje-rescate-de-mccurdy-y-aeronave.html" style="color: #315fea; text-decoration: none;">la tentativa de McCurdy</a>, que terminó con un descenso al agua antes de llegar a La Habana. Ese desenlace explica por qué la llegada completa adquirió un valor especial.
+El antecedente inmediato más conocido es <a href="https://www.efemeridesdeaviacion.com/evento/1911/01/30/amerizaje-rescate-de-mccurdy-y-aeronave.html" style="color: #315fea; text-decoration: none;">la tentativa de McCurdy</a>, que terminó con un descenso al agua antes de llegar a La Habana. Ese desenlace explica por qué la llegada completa adquirió un valor especial.
 
 Rosillo salió de madrugada. La noticia difundida al día siguiente por el periódico de Salt Lake City informa de vientos ligeros y poca bruma durante su recorrido. No respalda presentar toda la travesía como una lucha continuada contra un temporal. Al aproximarse a la ciudad, el piloto viró hacia el oeste y tomó tierra.
 

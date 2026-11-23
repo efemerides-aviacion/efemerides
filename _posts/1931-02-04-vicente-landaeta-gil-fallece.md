@@ -38,7 +38,7 @@ image: 1931-02-04-vicente-landaeta-gil-fallece.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
-El accidente de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/05/15/nacimiento-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Vicente Landaeta Gil</a> marcó un hito para la aviación militar del país, al ser el primer siniestro fatal registrado en sus filas.
+El accidente de <a href="https://www.efemeridesdeaviacion.com/nacimiento/1897/05/15/nacimiento-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Vicente Landaeta Gil</a> marcó un hito para la aviación militar del país, al ser el primer siniestro fatal registrado en sus filas.
 
 ### Entorno social
 El vuelo formaba parte de las maniobras de la Aviación Militar Venezolana en el campo de aviación de Barquisimeto. A bordo del aparato iban cuatro militares: el Teniente Vicente Landaeta Gil como piloto, el Teniente Julio Fortoul, mecánico electricista, y dos subtenientes, García y Stoppello.
@@ -69,7 +69,7 @@ Del accidente salió con vida la mayor parte de la tripulación: el Teniente Jul
 - Su nombre está ligado a la consolidación de la aviación militar en el país.  
 
 ### Homenajes
-- La <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Base Aérea Teniente Vicente Landaeta Gil (Balanda)</a> en Barquisimeto lleva su nombre desde 1964.  
+- La <a href="https://www.efemeridesdeaviacion.com/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Base Aérea Teniente Vicente Landaeta Gil (Balanda)</a> en Barquisimeto lleva su nombre desde 1964.  
 - Integró la primera promoción de aviadores del cuerpo.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

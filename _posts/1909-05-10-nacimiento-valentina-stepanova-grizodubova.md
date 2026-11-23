@@ -33,7 +33,7 @@ La identificación distingue los hechos biográficos firmes de la fecha controve
 - **Nacimiento:** Járkov, entonces Imperio Ruso y hoy Ucrania; datación discutida, desarrollada en la nota final.
 - **Ámbitos de actividad:** aviación soviética civil, militar y de pruebas.
 - **Grado alcanzado:** coronel.
-- **Compañeras del Rodina:** Polina Osipenko, copiloto; <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1912/03/28/nacimiento-marina-mijailovna-raskova.html" style="color: #315fea; text-decoration: none;">Marina Raskova, encargada de la navegación</a>.
+- **Compañeras del Rodina:** Polina Osipenko, copiloto; <a href="https://www.efemeridesdeaviacion.com/nacimiento/1912/03/28/nacimiento-marina-mijailovna-raskova.html" style="color: #315fea; text-decoration: none;">Marina Raskova, encargada de la navegación</a>.
 - **Fallecimiento:** Moscú, 28 de abril de 1993; sepultura en Novodévichi. No se fija una edad exacta mientras subsista la discrepancia natal.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

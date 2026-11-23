@@ -47,7 +47,7 @@ Pequet aportó la experiencia de pilotaje. El museo atribuye la organización a 
 
 ### Entorno tecnológico
 
-El aparato pertenecía a la generación de biplanos ligeros relacionados con los diseños de Sommer. Puede consultarse la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1877/08/04/nacimiento-roger-sommer.html" style="color: #315fea; text-decoration: none;">biografía del constructor y aviador Roger Sommer</a>. La capacidad de carga imponía una selección del peso transportado, muy diferente de la de los cargueros posteriores.
+El aparato pertenecía a la generación de biplanos ligeros relacionados con los diseños de Sommer. Puede consultarse la <a href="https://www.efemeridesdeaviacion.com/nacimiento/1877/08/04/nacimiento-roger-sommer.html" style="color: #315fea; text-decoration: none;">biografía del constructor y aviador Roger Sommer</a>. La capacidad de carga imponía una selección del peso transportado, muy diferente de la de los cargueros posteriores.
 
 ### Entorno cultural
 

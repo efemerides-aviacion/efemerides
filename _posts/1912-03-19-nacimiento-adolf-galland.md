@@ -81,7 +81,7 @@ La bibliografía le atribuye tradicionalmente 104 victorias aéreas. Es un recue
 
 Como dirigente participó en decisiones relativas al empleo de las unidades de caza. Sus críticas a Göring reflejan conflictos dentro de la conducción militar, pero no bastan para construir una biografía de resistencia al nazismo ni para atribuirle una conducta moral uniforme a partir de anécdotas de camaradería.
 
-Su trabajo en Argentina puede situarse junto a la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1898/02/24/nacimiento-kurt-tank.html" style="color: #315fea; text-decoration: none;">trayectoria del diseñador Kurt Tank</a>, sin confundir la función de un asesor operativo con la autoría de los proyectos de ingeniería. Las migraciones de especialistas de posguerra reunieron perfiles y responsabilidades diferentes.
+Su trabajo en Argentina puede situarse junto a la <a href="https://www.efemeridesdeaviacion.com/nacimiento/1898/02/24/nacimiento-kurt-tank.html" style="color: #315fea; text-decoration: none;">trayectoria del diseñador Kurt Tank</a>, sin confundir la función de un asesor operativo con la autoría de los proyectos de ingeniería. Las migraciones de especialistas de posguerra reunieron perfiles y responsabilidades diferentes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

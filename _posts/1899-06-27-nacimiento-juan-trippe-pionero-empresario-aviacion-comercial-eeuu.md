@@ -40,7 +40,7 @@ image: 1899-06-27-nacimiento-juan-trippe-pionero-empresario-aviacion-comercial-e
 
 ## Contexto Histórico
 
-En los albores del siglo XX, volar seguía siendo cosa de pioneros y aventureros. El vuelo de los hermanos Wright en 1903 era apenas un recuerdo, y el cruce del Atlántico por <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> en 1927 aún estaba por ocurrir. Los aviones eran frágiles, el transporte aéreo era un lujo para unos pocos, y las aerolíneas apenas comenzaban a esbozarse.
+En los albores del siglo XX, volar seguía siendo cosa de pioneros y aventureros. El vuelo de los hermanos Wright en 1903 era apenas un recuerdo, y el cruce del Atlántico por <a href="https://www.efemeridesdeaviacion.com/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> en 1927 aún estaba por ocurrir. Los aviones eran frágiles, el transporte aéreo era un lujo para unos pocos, y las aerolíneas apenas comenzaban a esbozarse.
 
 ### Entorno social
 
@@ -64,7 +64,7 @@ Trippe fue un visionario que supo leer la demanda del público. Su apuesta por l
 - **1921/1922:** Se gradúa de Yale y funda el Yale Flying Club 
 - **1922:** Funda Long Island Airways, su primera aerolínea, con aviones de la Marina comprados como chatarra 
 - **1925:** Cofunda Colonial Air Transport, que obtiene el primer contrato de correo aéreo entre Nueva York y Boston 
-- **1927:** La <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1927/03/14/fundacion-pan-american-airways.html" style="color: #315fea; text-decoration: none;">constitución de Pan American Airways en marzo</a> corresponde a un grupo distinto del de Trippe. En junio, él y sus socios crean la Aviation Corporation of America para ofrecer vuelos en el Caribe. En octubre, al asociarse los promotores, Trippe asume la presidencia y la gerencia general de Pan American.
+- **1927:** La <a href="https://www.efemeridesdeaviacion.com/fundacion/1927/03/14/fundacion-pan-american-airways.html" style="color: #315fea; text-decoration: none;">constitución de Pan American Airways en marzo</a> corresponde a un grupo distinto del de Trippe. En junio, él y sus socios crean la Aviation Corporation of America para ofrecer vuelos en el Caribe. En octubre, al asociarse los promotores, Trippe asume la presidencia y la gerencia general de Pan American.
 - **1935:** Pan Am se convierte en la primera aerolínea en cruzar el Pacífico con el «China Clipper» 
 - **1939:** Pan Am inaugura el primer servicio regular transatlántico con el «Yankee Clipper» 
 - **1945:** Crea la clase turista, abaratando los viajes aéreos 
@@ -93,7 +93,7 @@ En el ámbito geopolítico, Pan Am fue una herramienta de la política exterior 
 
 ## Legado
 
-Trippe figura entre los empresarios que transformaron la aviación comercial estadounidense, junto con <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a>, Eddie Rickenbacker y C.R. Smith. Su legado no es solo una aerolínea, sino la transformación de los viajes aéreos en un bien de consumo masivo.
+Trippe figura entre los empresarios que transformaron la aviación comercial estadounidense, junto con <a href="https://www.efemeridesdeaviacion.com/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a>, Eddie Rickenbacker y C.R. Smith. Su legado no es solo una aerolínea, sino la transformación de los viajes aéreos en un bien de consumo masivo.
 
 Pan American World Airways, que en su apogeo fue la aerolínea más famosa del mundo, desapareció en 1991, pero su nombre y su imagen perduran en la cultura popular. El logotipo azul de Pan Am sigue siendo reconocible, y la aerolínea ha aparecido en innumerables películas y series.
 

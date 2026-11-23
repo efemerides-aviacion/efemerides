@@ -47,7 +47,7 @@ Swissair gozaba de una reputación intachable de solvencia técnica y financiera
 
 ### Entorno tecnológico
 
-El McDonnell Douglas MD-11 era la evolución de cabina digital (*glass cockpit*) para dos pilotos del clásico <a href="https://efemerides-aviacion.github.io/efemerides/evento/1970/08/29/primer-vuelo-dc10.html" style="color: #315fea; text-decoration: none;">trirreactor DC-10</a>. Su fuselaje empleaba mantas de aislamiento recubiertas con película de tereftalato de polietileno metalizado (MPET), un material que superaba las pruebas de laboratorio de llama vertical de la norma FAR 25 pero ardía con gran rapidez ante un arco eléctrico real alimentado por las corrientes de ventilación.
+El McDonnell Douglas MD-11 era la evolución de cabina digital (*glass cockpit*) para dos pilotos del clásico <a href="https://www.efemeridesdeaviacion.com/evento/1970/08/29/primer-vuelo-dc10.html" style="color: #315fea; text-decoration: none;">trirreactor DC-10</a>. Su fuselaje empleaba mantas de aislamiento recubiertas con película de tereftalato de polietileno metalizado (MPET), un material que superaba las pruebas de laboratorio de llama vertical de la norma FAR 25 pero ardía con gran rapidez ante un arco eléctrico real alimentado por las corrientes de ventilación.
 
 ### Entorno cultural
 

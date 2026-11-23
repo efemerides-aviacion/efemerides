@@ -43,7 +43,7 @@ El ingeniero Ernesto Ried estudió la ruta y propuso dos máquinas de El Bosque 
 
 ### Entorno social
 
-Río de Janeiro concentraba las celebraciones de 1922 y acababa de recibir a Gago Coutinho y Sacadura Cabral tras su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1922/06/17/primera-travesia-aerea-atlantico-sur.html" style="color: #315fea; text-decoration: none;">cruce aéreo del Atlántico meridional</a>. Chile quiso presentar su joven aviación en esa escena; las despedidas y recepciones en Santiago, Buenos Aires, Montevideo y Porto Alegre, seguidas por la prensa ilustrada, convirtieron el raid en espectáculo público.
+Río de Janeiro concentraba las celebraciones de 1922 y acababa de recibir a Gago Coutinho y Sacadura Cabral tras su <a href="https://www.efemeridesdeaviacion.com/evento/1922/06/17/primera-travesia-aerea-atlantico-sur.html" style="color: #315fea; text-decoration: none;">cruce aéreo del Atlántico meridional</a>. Chile quiso presentar su joven aviación en esa escena; las despedidas y recepciones en Santiago, Buenos Aires, Montevideo y Porto Alegre, seguidas por la prensa ilustrada, convirtieron el raid en espectáculo público.
 
 ### Entorno tecnológico
 
@@ -51,7 +51,7 @@ Los DH-9 eran biplanos abiertos de madera y tela, sin protección contra el frí
 
 ### Entorno cultural
 
-La misión prolongaba los cruces andinos de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/04/05/primera-doble-travesia-cordillera-andes.html" style="color: #315fea; text-decoration: none;">Armando Cortínez</a> y <a href="https://efemerides-aviacion.github.io/efemerides/evento/1921/04/01/adrienne-bolland-cruza-los-andes.html" style="color: #315fea; text-decoration: none;">Adrienne Bolland</a>, posteriores al vuelo de Dagoberto Godoy de 1918. Postales autografiadas, los reportajes de Los Sports y el documental de Esteban Artuffo, filmado durante el trayecto, fijaron de inmediato su imagen pública.
+La misión prolongaba los cruces andinos de <a href="https://www.efemeridesdeaviacion.com/evento/1919/04/05/primera-doble-travesia-cordillera-andes.html" style="color: #315fea; text-decoration: none;">Armando Cortínez</a> y <a href="https://www.efemeridesdeaviacion.com/evento/1921/04/01/adrienne-bolland-cruza-los-andes.html" style="color: #315fea; text-decoration: none;">Adrienne Bolland</a>, posteriores al vuelo de Dagoberto Godoy de 1918. Postales autografiadas, los reportajes de Los Sports y el documental de Esteban Artuffo, filmado durante el trayecto, fijaron de inmediato su imagen pública.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -62,7 +62,7 @@ La misión prolongaba los cruces andinos de <a href="https://efemerides-aviacion
 - **3-8 de septiembre:** el «Ferroviario» alcanza El Palomar con Aracena todavía de muletas. Seabrook y Ried lo reparan; escoltas argentinas y uruguayas acompañan después el avance por Montevideo, Vergara y Pelotas hasta la recepción de Porto Alegre.
 - **9-13 de septiembre:** temporales y fallos imponen escalas en Domingo das Torres y Florianópolis. El día 13, una avería en la bomba de gasolina obliga a tomar tierra en Iguape y la falta de combustible provoca otra parada en el fuerte Duque de Caxias; llegan a Santos a las 17:20.
 - **14 de septiembre:** el viento frena el avance hacia Río. Aracena regresa, localiza la playa de Ubatuba y capota al hundirse una rueda. El «Ferroviario» queda fuera de servicio.
-- **16 de septiembre:** el «Amazonas» lleva a la tripulación a Río, donde entrega la carta y es recibida por Epitácio Pessoa y <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1873/07/20/nacimiento-alberto-santos-dumont.html" style="color: #315fea; text-decoration: none;">Alberto Santos-Dumont</a>.
+- **16 de septiembre:** el «Amazonas» lleva a la tripulación a Río, donde entrega la carta y es recibida por Epitácio Pessoa y <a href="https://www.efemeridesdeaviacion.com/nacimiento/1873/07/20/nacimiento-alberto-santos-dumont.html" style="color: #315fea; text-decoration: none;">Alberto Santos-Dumont</a>.
 - **25 de septiembre:** una tripulación brasileña conduce el Curtiss HS-2L hasta Ubatuba; Aracena toma allí los mandos y ameriza en Río a las 17:56, 28 días después de salir de Chile.
 - **7 de noviembre:** se estrena en la Sala Imperio de Santiago el documental mudo de sesenta minutos dirigido por Esteban Artuffo; hoy se considera perdido y solo subsiste en crónicas y avisos.
 
@@ -80,7 +80,7 @@ En Chile, la travesía dio prestigio al servicio aéreo militar, convirtió a Ar
 
 La FACh registra la travesía como su primer raid internacional de largo alcance; el museo aeronáutico chileno la presenta como la primera misión internacional de sus aviadores militares. Ubatuba recuerda cada 14 de septiembre la llegada del primer avión a la localidad.
 
-Aracena pasó a la Subsecretaría de Aviación en 1930, fue Comandante en Jefe de la Fuerza Aérea de Chile entre 1932 y 1938 y primer General del Aire; murió en 1972. El edificio principal de El Bosque lleva su nombre. Postales conservadas por la Biblioteca Nacional, «28 Días», de José Núñez Rosseau, y los reportajes de época preservan una gesta vinculada a los grandes raids iberoamericanos, entre ellos el posterior <a href="https://efemerides-aviacion.github.io/efemerides/evento/1926/02/10/vuelo-historico-plus-ultra.html" style="color: #315fea; text-decoration: none;">vuelo del Plus Ultra</a>.
+Aracena pasó a la Subsecretaría de Aviación en 1930, fue Comandante en Jefe de la Fuerza Aérea de Chile entre 1932 y 1938 y primer General del Aire; murió en 1972. El edificio principal de El Bosque lleva su nombre. Postales conservadas por la Biblioteca Nacional, «28 Días», de José Núñez Rosseau, y los reportajes de época preservan una gesta vinculada a los grandes raids iberoamericanos, entre ellos el posterior <a href="https://www.efemeridesdeaviacion.com/evento/1926/02/10/vuelo-historico-plus-ultra.html" style="color: #315fea; text-decoration: none;">vuelo del Plus Ultra</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

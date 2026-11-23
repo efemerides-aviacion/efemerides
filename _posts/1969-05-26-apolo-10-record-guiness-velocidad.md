@@ -54,7 +54,7 @@ El año 1969 fue el clímax de la carrera espacial entre Estados Unidos y la Uni
 
 Apolo 10 fue la primera misión en volar el conjunto completo de la nave espacial Apolo (módulo de mando, servicio y lunar) en el entorno lunar. El módulo lunar "Snoopy" descendió hasta 14,4 kilómetros (7,8 millas náuticas) de la superficie lunar, el punto en el que comenzaría el descenso motorizado en una misión de alunizaje. La maniobra de retorno a la Tierra (Transearth Injection) requirió encender el motor del módulo de servicio en la cara oculta de la Luna para impulsar la nave de vuelta a casa, alcanzando velocidades sin precedentes debido a la aceleración gravitacional lunar.
 
-El módulo de mando llevaba una cámara Westinghouse que estrenó la televisión en color desde el espacio. La NASA adaptó esa misma unidad para <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/11/24/apolo-12-regreso-television-color-lunar.html" style="color: #315fea; text-decoration: none;">la emisión en color del Apolo 12 desde el suelo lunar</a>.
+El módulo de mando llevaba una cámara Westinghouse que estrenó la televisión en color desde el espacio. La NASA adaptó esa misma unidad para <a href="https://www.efemeridesdeaviacion.com/espacial/1969/11/24/apolo-12-regreso-television-color-lunar.html" style="color: #315fea; text-decoration: none;">la emisión en color del Apolo 12 desde el suelo lunar</a>.
 
 ### Entorno cultural
 

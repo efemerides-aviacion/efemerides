@@ -39,7 +39,7 @@ image: 1916-07-02-nacimiento-hans-ulrich-rudel.webp
 
 ## Contexto Histórico
 
-La formación militar de Rudel transcurrió durante el rearme alemán. El desarrollo de la fuerza aérea que se recuerda en <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1935/02/26/fundacion-luftwaffe.html" style="color: #315fea; text-decoration: none;">la entrada dedicada a la Luftwaffe de 1935</a> quedó ligado a la política expansionista del régimen, no a una modernización técnica políticamente neutral.
+La formación militar de Rudel transcurrió durante el rearme alemán. El desarrollo de la fuerza aérea que se recuerda en <a href="https://www.efemeridesdeaviacion.com/fundacion/1935/02/26/fundacion-luftwaffe.html" style="color: #315fea; text-decoration: none;">la entrada dedicada a la Luftwaffe de 1935</a> quedó ligado a la política expansionista del régimen, no a una modernización técnica políticamente neutral.
 
 ### Entorno social
 

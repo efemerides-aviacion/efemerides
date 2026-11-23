@@ -44,9 +44,9 @@ El encuentro de un militar interesado en la técnica y un constructor civil ayud
 
 ### Entorno social
 
-Graduado en West Point en 1903, Selfridge había pasado de la artillería a tareas relacionadas con el vuelo. Fue representante gubernamental y Secretario de la Aerial Experiment Association, el grupo de Bell, Curtiss y sus colaboradores. Participó en el desarrollo del Red Wing, cuyo <a href="https://efemerides-aviacion.github.io/efemerides/evento/1908/03/12/primer-vuelo-red-wing.html" style="color: #315fea; text-decoration: none;">ensayo de marzo sobre el lago Keuka</a> pertenece a esa etapa de colaboración. Su experiencia explica el interés por examinar una solución distinta de las máquinas de la asociación.
+Graduado en West Point en 1903, Selfridge había pasado de la artillería a tareas relacionadas con el vuelo. Fue representante gubernamental y Secretario de la Aerial Experiment Association, el grupo de Bell, Curtiss y sus colaboradores. Participó en el desarrollo del Red Wing, cuyo <a href="https://www.efemeridesdeaviacion.com/evento/1908/03/12/primer-vuelo-red-wing.html" style="color: #315fea; text-decoration: none;">ensayo de marzo sobre el lago Keuka</a> pertenece a esa etapa de colaboración. Su experiencia explica el interés por examinar una solución distinta de las máquinas de la asociación.
 
-También colaboró en el programa del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1908/08/12/primer-vuelo-dirigible-propulsado-signal-corps-1.html" style="color: #315fea; text-decoration: none;">dirigible Baldwin adquirido por el Signal Corps</a>. Los militares estudiaban entonces varias familias de aeronaves, sin una organización de aviación equivalente a las fuerzas aéreas posteriores.
+También colaboró en el programa del <a href="https://www.efemeridesdeaviacion.com/evento/1908/08/12/primer-vuelo-dirigible-propulsado-signal-corps-1.html" style="color: #315fea; text-decoration: none;">dirigible Baldwin adquirido por el Signal Corps</a>. Los militares estudiaban entonces varias familias de aeronaves, sin una organización de aviación equivalente a las fuerzas aéreas posteriores.
 
 ### Entorno tecnológico
 
@@ -56,7 +56,7 @@ Los ocupantes iban sentados en una estructura abierta. No corresponde describir 
 
 ### Entorno cultural
 
-La prensa seguía con atención los <a href="https://efemerides-aviacion.github.io/efemerides/evento/1908/09/09/tres-records-mundiales-duracion-orville-wright-fort-myer.html" style="color: #315fea; text-decoration: none;">récords obtenidos durante aquella semana de pruebas</a>. Ese entusiasmo amplificó el impacto de la caída: el mismo aparato que simbolizaba progreso se convirtió en una demostración pública de vulnerabilidad. Las noticias mezclaron observaciones directas, declaraciones médicas y explicaciones técnicas provisionales; leerlas exige conservar esas diferencias.
+La prensa seguía con atención los <a href="https://www.efemeridesdeaviacion.com/evento/1908/09/09/tres-records-mundiales-duracion-orville-wright-fort-myer.html" style="color: #315fea; text-decoration: none;">récords obtenidos durante aquella semana de pruebas</a>. Ese entusiasmo amplificó el impacto de la caída: el mismo aparato que simbolizaba progreso se convirtió en una demostración pública de vulnerabilidad. Las noticias mezclaron observaciones directas, declaraciones médicas y explicaciones técnicas provisionales; leerlas exige conservar esas diferencias.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -81,7 +81,7 @@ Las repercusiones inmediatas afectaron al programa, a las personas y al examen d
 
 - **Suspensión de las pruebas:** la destrucción del aparato impidió completar la serie de ese año. No anuló definitivamente la relación entre los fabricantes y el comprador.
 - **Revisión del material:** el Teniente Frank P. Lahm recogió mediciones y nombres de testigos. Eso acredita una indagación sobre lo ocurrido, no necesariamente la primera investigación militar formal de accidentes de toda la historia.
-- **Continuidad:** los Wright volvieron con otra máquina y el proceso condujo a <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/08/02/primera-compra-gubernamental-avion.html" style="color: #315fea; text-decoration: none;">la aceptación y compra del aeroplano en la campaña siguiente</a>. No fue una aprobación retroactiva del ejemplar siniestrado.
+- **Continuidad:** los Wright volvieron con otra máquina y el proceso condujo a <a href="https://www.efemeridesdeaviacion.com/evento/1909/08/02/primera-compra-gubernamental-avion.html" style="color: #315fea; text-decoration: none;">la aceptación y compra del aeroplano en la campaña siguiente</a>. No fue una aprobación retroactiva del ejemplar siniestrado.
 - **Riesgo personal:** el caso mostró que la resistencia alcanzada durante un ensayo no garantizaba la integridad de todos los componentes en las salidas posteriores.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -90,7 +90,7 @@ Las repercusiones inmediatas afectaron al programa, a las personas y al examen d
 
 La evocación de Selfridge debe incluir su actividad como técnico y experimentador. Presentarlo únicamente como víctima borra su intervención en proyectos muy diferentes durante los comienzos del vuelo estadounidense.
 
-La primacía trágica también necesita una categoría precisa. <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1848/05/23/nacimiento-otto-lilienthal.html" style="color: #315fea; text-decoration: none;">Otto Lilienthal y sus investigaciones con planeadores</a> recuerdan que los accidentes mortales de máquinas sin motor precedieron al episodio de Virginia. La distinción histórica no minimiza aquellas pérdidas: evita convertir la expresión «primer accidente de avión mortal» en «primera muerte de toda la aeronáutica».
+La primacía trágica también necesita una categoría precisa. <a href="https://www.efemeridesdeaviacion.com/nacimiento/1848/05/23/nacimiento-otto-lilienthal.html" style="color: #315fea; text-decoration: none;">Otto Lilienthal y sus investigaciones con planeadores</a> recuerdan que los accidentes mortales de máquinas sin motor precedieron al episodio de Virginia. La distinción histórica no minimiza aquellas pérdidas: evita convertir la expresión «primer accidente de avión mortal» en «primera muerte de toda la aeronáutica».
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

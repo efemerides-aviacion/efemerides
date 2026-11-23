@@ -335,12 +335,12 @@ grep -qE '\[citation:[0-9]+\]|\[VERIFICADO\]' <<<"$BODY" && fail "Marcadores aut
 grep -qiE "pendiente de revisi[oó]n|mayor resoluci[oó]n disponible" <<<"$BODY" && fail "Hay líneas de estado del documento o notas de resolución (prohibidas)" || ok "Sin líneas de estado ni notas de resolución"
 
 # ------------------------------------------ Enlaces internos canónicos (11)
-INTERNAL=$(grep -oE 'https://efemerides-aviacion\.github\.io/efemerides/[^")]*' <<<"$BODY" | sort -u)
+INTERNAL=$(grep -oE 'https://www.efemeridesdeaviacion.com/[^")]*' <<<"$BODY" | sort -u)
 LINK_FAIL=0
 if [ -n "$INTERNAL" ]; then
   SELF_PATH="/$(printf '%04d' "$((10#$YEAR))")/$(printf '%02d' "$((10#$MON))")/$(printf '%02d' "$((10#$DAY))")/${SLUG}.html"
   while IFS= read -r u; do
-    [[ "$u" =~ /efemerides/[a-z]+(/[a-z]+)?/[0-9]{4}/[0-9]{2}/[0-9]{2}/[^/-][^/]*\.html$ ]] \
+    [[ "$u" =~ ^https://www\.efemeridesdeaviacion\.com/[a-z]+(/[a-z]+)?/[0-9]{4}/[0-9]{2}/[0-9]{2}/[^/-][^/]*\.html$ ]] \
       || { fail "Enlace interno fuera del patrón canónico (fecha en barras, slug sin guion terminal): $u"; LINK_FAIL=1; }
     [[ "$u" == *"$SELF_PATH"* ]] && { fail "El post se enlaza a sí mismo: $u"; LINK_FAIL=1; }
     [[ "$u" == *"${DATE_LINE}-"* ]] && { fail "Enlace interno con fecha unida por guiones: $u"; LINK_FAIL=1; }
@@ -353,8 +353,8 @@ fi
 # ------------------------------------------ Reserva de enlaces externos (Manual v1.17 § 6.4)
 # Aviso, no fallo: los enlaces externos institucionales/documentales solo van en
 # «## Referencias Verificadas» y en <figcaption>; excepción: el externo que sea objeto del relato.
-# El canónico absoluto https://efemerides-aviacion.github.io/efemerides/... es interno (regla 18).
-SITE_INTERNAL='https://efemerides-aviacion.github.io/efemerides/'
+# El canónico absoluto https://www.efemeridesdeaviacion.com/... es interno (regla 18).
+SITE_INTERNAL='https://www.efemeridesdeaviacion.com/'
 EXT_RAW=$(grep -noE '<a href="[^"]+"' <<<"$BODY" || true)
 if [ -n "$EXT_RAW" ]; then
   REFS_LN=$(grep -nxF '## Referencias Verificadas' <<<"$BODY" | head -1 | cut -d: -f1)

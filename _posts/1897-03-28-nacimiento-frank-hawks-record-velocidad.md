@@ -65,7 +65,7 @@ En la edad dorada de la aviación, el piloto de récords era una estrella: los v
 - **1921:** con el Gates Flying Circus participa en la primera demostración pública de reabastecimiento en vuelo, con Wesley May caminando por el ala para verter gasolina de un avión a otro.
 - **1924-1925:** piloto de la Compañía Mexicana de Aviación, vuela rutas chárter en México y administra una hacienda cerca de Tampico.
 - **1927-1928:** se asocia con Texaco, que patrocina una serie de aeronaves para sus vuelos de récord.
-- **4-5 de febrero de 1929:** con el ingeniero Oscar Grubb establece el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1929/02/05/hawks-grubb-record-transcontinental.html" style="color: #315fea; text-decoration: none;">récord transcontinental Los Ángeles–Nueva York</a> en un Lockheed Air Express, en 18 horas y 21 minutos.
+- **4-5 de febrero de 1929:** con el ingeniero Oscar Grubb establece el <a href="https://www.efemeridesdeaviacion.com/evento/1929/02/05/hawks-grubb-record-transcontinental.html" style="color: #315fea; text-decoration: none;">récord transcontinental Los Ángeles–Nueva York</a> en un Lockheed Air Express, en 18 horas y 21 minutos.
 - **13 de agosto de 1930:** a bordo del Travel Air Type R «Texaco 13», cruza el continente de oeste a este en 12 horas, 25 minutos y 3 segundos, superando la marca de Charles Lindbergh en más de dos horas.
 - **2 de junio de 1933:** con el «Texaco Sky Chief» establece un nuevo récord oeste-este, de Los Ángeles a Brooklyn, en 13 horas y 26 minutos a 291 km/h de promedio.
 - **3 de mayo de 1935:** con Gage Irving a bordo de un Northrop Gamma, suma diez récords interurbanos en un solo vuelo hacia Los Ángeles; la publicidad impulsa pedidos del avión de ataque Gamma 2E.

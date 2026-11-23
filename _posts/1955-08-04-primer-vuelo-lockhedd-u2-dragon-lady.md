@@ -73,8 +73,8 @@ La secuencia siguiente recorre desde la aprobación del programa hasta la consol
 - **8 de septiembre de 1955:** alcanza los 65.000 pies (unos 19.800 metros).
 - **1956:** comienzan los sobrevuelos operativos sobre territorio del bloque oriental.
 - **4 de abril de 1957:** «Article 341» se pierde en un accidente con resultado de muerte para el piloto de pruebas Robert Sieker, tras un apagado de motor y un fallo de presurización a 72.000 pies.
-- **1 de mayo de 1960:** el derribo sobre la Unión Soviética del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1960/05/01/lockheed-u2-derribado-por-misil-de-urss.html" style="color: #315fea; text-decoration: none;">U-2 pilotado por Francis Gary Powers</a> revela públicamente la existencia del programa y provoca una crisis diplomática de primer orden.
-- **30 de abril de 1962:** vuela por primera vez el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1962/04/30/primer-vuelo-lockheed-a-12-arcangel.html" style="color: #315fea; text-decoration: none;">Lockheed A-12</a>, concebido como sucesor del U-2 ante la creciente vulnerabilidad de este frente a los misiles antiaéreos.
+- **1 de mayo de 1960:** el derribo sobre la Unión Soviética del <a href="https://www.efemeridesdeaviacion.com/evento/1960/05/01/lockheed-u2-derribado-por-misil-de-urss.html" style="color: #315fea; text-decoration: none;">U-2 pilotado por Francis Gary Powers</a> revela públicamente la existencia del programa y provoca una crisis diplomática de primer orden.
+- **30 de abril de 1962:** vuela por primera vez el <a href="https://www.efemeridesdeaviacion.com/evento/1962/04/30/primer-vuelo-lockheed-a-12-arcangel.html" style="color: #315fea; text-decoration: none;">Lockheed A-12</a>, concebido como sucesor del U-2 ante la creciente vulnerabilidad de este frente a los misiles antiaéreos.
 - **Octubre de 1962:** las fotografías obtenidas por un U-2 sobre Cuba documentan el despliegue de misiles soviéticos y desencadenan la crisis.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

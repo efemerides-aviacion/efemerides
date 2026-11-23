@@ -38,7 +38,7 @@ image: 1981-11-12-creacion-base-aerea-luis-apolinar-mendez.webp
 
 ## Contexto Histórico
 
-La aviación militar venezolana tenía una trayectoria institucional anterior a su expansión hacia Guayana. La <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">creación de la Escuela de Aviación Militar en 1920</a> había establecido en Maracay un centro de formación del que procedía esa tradición aeronáutica. Extender la presencia del componente aéreo a otras regiones planteaba una cuestión diferente de la enseñanza de pilotos: disponer de instalaciones desde las cuales sostener su actividad fuera de los centros tradicionales. En ese marco se sitúa el interés por un establecimiento en el territorio guayanés.
+La aviación militar venezolana tenía una trayectoria institucional anterior a su expansión hacia Guayana. La <a href="https://www.efemeridesdeaviacion.com/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">creación de la Escuela de Aviación Militar en 1920</a> había establecido en Maracay un centro de formación del que procedía esa tradición aeronáutica. Extender la presencia del componente aéreo a otras regiones planteaba una cuestión diferente de la enseñanza de pilotos: disponer de instalaciones desde las cuales sostener su actividad fuera de los centros tradicionales. En ese marco se sitúa el interés por un establecimiento en el territorio guayanés.
 
 ### Entorno social
 

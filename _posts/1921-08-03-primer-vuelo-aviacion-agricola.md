@@ -25,7 +25,7 @@ image: 1921-08-03-primer-vuelo-aviacion-agricola.webp
 
 - **Fecha:** 3 de agosto de 1921.
 - **Lugar:** plantación de catalpas próxima a Troy, condado de Miami, estado de Ohio (Estados Unidos).
-- **Piloto:** Teniente John A. Macready (1887-1979), United States Army Air Service. Piloto de pruebas de McCook Field, único triple ganador del Mackay Trophy y protagonista, dos años después, del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/05/03/primer-vuelo-transcontinental-new-york-san-diego.html" style="color: #315fea; text-decoration: none;">primer vuelo transcontinental sin escalas entre Nueva York y San Diego</a>.
+- **Piloto:** Teniente John A. Macready (1887-1979), United States Army Air Service. Piloto de pruebas de McCook Field, único triple ganador del Mackay Trophy y protagonista, dos años después, del <a href="https://www.efemeridesdeaviacion.com/evento/1923/05/03/primer-vuelo-transcontinental-new-york-san-diego.html" style="color: #315fea; text-decoration: none;">primer vuelo transcontinental sin escalas entre Nueva York y San Diego</a>.
 - **Operador del dispositivo:** Etienne Dormoy, ingeniero de McCook Field, a bordo en el puesto trasero.
 - **Aeronave:** biplano Curtiss Jenny modificado en McCook Field, en Dayton, Ohio.
 - **Dispositivo:** tolva metálica de 32 galones (unos 121 litros) acoplada al costado del fuselaje, accionada mediante manivela manual.

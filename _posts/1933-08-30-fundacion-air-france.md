@@ -47,7 +47,7 @@ A comienzos de los años treinta, Francia disponía de una red aérea mundial co
 
 ### Entorno social
 
-Las cinco compañías fundadoras habían creado culturas muy distintas. La SGTA, sucesora de las Lignes Aériennes Farman creadas en 1919, era la decana y transportaba correo y pasajeros por Europa. Air Union, resultado de la fusión de varias empresas en 1923, dominaba la ruta París-Londres y los enlaces con el norte de Europa. La CIDNA, heredera de la Compagnie Franco-Roumaine, cubría Europa central y los Balcanes. Air Orient, nacida en 1930, reunía las rutas hacia Extremo Oriente y el Índico y aportó el logotipo del hipocampo alado. La Aéropostale, por su parte, mantenía la legendaria ruta del correo hacia Dakar, Natal, Río de Janeiro y Santiago de Chile, con pilotos como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1900/06/29/nacimiento-antoine-de-saint-exupery.html" style="color: #315fea; text-decoration: none;">Antoine de Saint-Exupéry</a>, Jean Mermoz y Henri Guillaumet.
+Las cinco compañías fundadoras habían creado culturas muy distintas. La SGTA, sucesora de las Lignes Aériennes Farman creadas en 1919, era la decana y transportaba correo y pasajeros por Europa. Air Union, resultado de la fusión de varias empresas en 1923, dominaba la ruta París-Londres y los enlaces con el norte de Europa. La CIDNA, heredera de la Compagnie Franco-Roumaine, cubría Europa central y los Balcanes. Air Orient, nacida en 1930, reunía las rutas hacia Extremo Oriente y el Índico y aportó el logotipo del hipocampo alado. La Aéropostale, por su parte, mantenía la legendaria ruta del correo hacia Dakar, Natal, Río de Janeiro y Santiago de Chile, con pilotos como <a href="https://www.efemeridesdeaviacion.com/nacimiento/1900/06/29/nacimiento-antoine-de-saint-exupery.html" style="color: #315fea; text-decoration: none;">Antoine de Saint-Exupéry</a>, Jean Mermoz y Henri Guillaumet.
 
 ### Entorno tecnológico
 
@@ -73,7 +73,7 @@ Air France adoptó desde el primer día el código de elegancia que asociaría p
 - **26 de junio de 1945:** decreto del Gobierno provisional de la República que nacionaliza Air France, junto con Air Bleu y la SATI, sobre las cenizas de la guerra.
 - **1946:** se crea la Réseau des Lignes Aériennes Internationales (RAI), embrión de la futura red transatlántica de Air France.
 - **23 de febrero de 1960:** Air France estrena el Boeing 707 en la ruta París-Nueva York, entrando en la era del reactor de largo recorrido.
-- **21 de enero de 1976:** Air France inaugura, junto con British Airways, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1976/01/21/concorde-primeros-vuelos-comerciales.html" style="color: #315fea; text-decoration: none;">los primeros vuelos comerciales del Concorde</a>, con la ruta París-Dakar-Río de Janeiro.
+- **21 de enero de 1976:** Air France inaugura, junto con British Airways, <a href="https://www.efemeridesdeaviacion.com/evento/1976/01/21/concorde-primeros-vuelos-comerciales.html" style="color: #315fea; text-decoration: none;">los primeros vuelos comerciales del Concorde</a>, con la ruta París-Dakar-Río de Janeiro.
 - **25 de septiembre de 2003:** último vuelo comercial del Concorde de Air France.
 - **30 de septiembre de 2003:** Air France y KLM Royal Dutch Airlines anuncian su combinación en un holding común.
 - **5 de mayo de 2004:** primera cotización de Air France-KLM, el mayor grupo aéreo europeo por facturación, que mantiene separadas las marcas, los centros de operaciones y las identidades nacionales de ambas compañías.

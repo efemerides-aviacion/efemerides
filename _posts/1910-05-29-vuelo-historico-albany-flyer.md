@@ -90,7 +90,7 @@ La hazaña no demostró una superioridad universal de los alerones ni inauguró 
 
 La exhibición dedicada al Albany Flyer en Hammondsport conserva el episodio dentro de la trayectoria del constructor. Las fotografías y la prensa permiten examinar decisiones prácticas, como prever un amerizaje, sin atribuir al aparato capacidades que no poseía.
 
-La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/01/30/amerizaje-rescate-de-mccurdy-y-aeronave.html" style="color: #315fea; text-decoration: none;">tentativa de McCurdy entre Florida y Cuba y su rescate</a> ofrece otro episodio para estudiar ese problema. La semejanza entre biplanos y dispositivos de flotación no demuestra que se tratara del mismo ejemplar ni permite reconstruir el destino final del original sin documentación adicional.
+La <a href="https://www.efemeridesdeaviacion.com/evento/1911/01/30/amerizaje-rescate-de-mccurdy-y-aeronave.html" style="color: #315fea; text-decoration: none;">tentativa de McCurdy entre Florida y Cuba y su rescate</a> ofrece otro episodio para estudiar ese problema. La semejanza entre biplanos y dispositivos de flotación no demuestra que se tratara del mismo ejemplar ni permite reconstruir el destino final del original sin documentación adicional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

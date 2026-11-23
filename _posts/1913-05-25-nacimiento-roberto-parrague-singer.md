@@ -21,7 +21,7 @@ redirect_from:
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>La vida de Roberto Parragué Singer quedó ligada al proyecto de unir por aire el continente chileno con Rapa Nui. Su participación como primer piloto en <a href="https://efemerides-aviacion.github.io/efemerides/evento/1951/01/20/vuelo-manutara-isla-de-pascua.html" style="color: #315fea; text-decoration: none;">la misión del Manutara</a> fue el resultado de preparación náutica, aprendizaje aeronáutico y gestiones prolongadas. No fue una empresa exclusivamente individual: intervinieron una tripulación, autoridades y habitantes de la isla que prepararon el terreno de llegada. Su carrera posterior permite distinguir la exploración militar de una ruta de su apertura comercial, procesos separados por años y por cambios institucionales.</p>
+<p>La vida de Roberto Parragué Singer quedó ligada al proyecto de unir por aire el continente chileno con Rapa Nui. Su participación como primer piloto en <a href="https://www.efemeridesdeaviacion.com/evento/1951/01/20/vuelo-manutara-isla-de-pascua.html" style="color: #315fea; text-decoration: none;">la misión del Manutara</a> fue el resultado de preparación náutica, aprendizaje aeronáutico y gestiones prolongadas. No fue una empresa exclusivamente individual: intervinieron una tripulación, autoridades y habitantes de la isla que prepararon el terreno de llegada. Su carrera posterior permite distinguir la exploración militar de una ruta de su apertura comercial, procesos separados por años y por cambios institucionales.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -76,7 +76,7 @@ El paso de Parragué a la actividad privada también modificó la naturaleza de 
 
 ## Legado
 
-La memoria del piloto forma parte del patrimonio aeronáutico chileno y de la historia contemporánea de la isla. El relato detallado de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1951/01/20/vuelo-manutara-isla-de-pascua.html" style="color: #315fea; text-decoration: none;">la travesía inaugural</a> permite estudiar sus aspectos operativos; esta biografía sitúa aquella misión dentro de un itinerario profesional más largo.
+La memoria del piloto forma parte del patrimonio aeronáutico chileno y de la historia contemporánea de la isla. El relato detallado de <a href="https://www.efemeridesdeaviacion.com/evento/1951/01/20/vuelo-manutara-isla-de-pascua.html" style="color: #315fea; text-decoration: none;">la travesía inaugural</a> permite estudiar sus aspectos operativos; esta biografía sitúa aquella misión dentro de un itinerario profesional más largo.
 
 El nombre de Mataveri debe vincularse a la infraestructura aeroportuaria, no a una declaración patrimonial que corresponde al Parque Nacional Rapa Nui. Del mismo modo, la memoria de una hazaña no sustituye el análisis de sus consecuencias para la comunidad que recibió las nuevas conexiones.
 

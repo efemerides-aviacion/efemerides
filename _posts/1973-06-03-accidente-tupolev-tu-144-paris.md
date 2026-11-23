@@ -63,7 +63,7 @@ El accidente fue uno de los primeros desastres aéreos captados en video en tiem
 
 ## Desarrollo Cronológico
 
-- **31 de diciembre de 1968:** Primer vuelo del prototipo del Tu-144, adelantándose al Concorde. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1968/12/31/primer-vuelo-tupolev-tu-144.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Tupolev Tu-144</a> para más detalles.
+- **31 de diciembre de 1968:** Primer vuelo del prototipo del Tu-144, adelantándose al Concorde. Consulte la <a href="https://www.efemeridesdeaviacion.com/evento/1968/12/31/primer-vuelo-tupolev-tu-144.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Tupolev Tu-144</a> para más detalles.
 - **5 de junio de 1969:** El Tu-144 supera por primera vez la barrera del sonido.
 - **26 de mayo de 1970:** El Tu-144 alcanza Mach 2 por primera vez.
 - **Junio de 1971:** El Tu-144 realiza su primera aparición internacional en el Salón de París (vuelo estático, sin demostración en vuelo).

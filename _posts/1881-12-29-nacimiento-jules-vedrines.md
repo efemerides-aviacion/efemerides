@@ -39,7 +39,7 @@ redirect_from:
 
 
 ## Contexto Histórico
-La expansión de los vuelos a motor convirtió las exhibiciones en carreras de distancia y velocidad. Después del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">cruce del canal de la Mancha por Louis Blériot</a>, pilotos y fabricantes buscaron demostrar que el aeroplano podía ir más lejos y más rápido sin dejar de ser controlable.
+La expansión de los vuelos a motor convirtió las exhibiciones en carreras de distancia y velocidad. Después del <a href="https://www.efemeridesdeaviacion.com/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">cruce del canal de la Mancha por Louis Blériot</a>, pilotos y fabricantes buscaron demostrar que el aeroplano podía ir más lejos y más rápido sin dejar de ser controlable.
 
 ### Entorno social
 Védrines creció en Saint-Denis, en las afueras de París, y se formó como mecánico de motores. Ese oficio, lejos de ser accesorio, lo familiarizó con la maquinaria que impulsaría su carrera: antes de ser piloto trabajó como ajustador en una fábrica de motores Gnome. Su trayectoria unió el trabajo manual, la pericia técnica y el gusto por la competición.
@@ -48,7 +48,7 @@ Védrines creció en Saint-Denis, en las afueras de París, y se formó como mec
 Los primeros aeroplanos de carrera exigían mantenimiento continuo y ofrecían poca protección al piloto. El desarrollo de motores rotativos más potentes y fuselajes ligeros permitió a constructores como Deperdussin ensayar monoplanos veloces; la fiabilidad, sin embargo, seguía siendo incierta. Una avería podía convertir una prueba deportiva o un traslado de larga distancia en una emergencia.
 
 ### Entorno cultural
-Las carreras y los grandes premios atraían a multitudes y daban a los pilotos una presencia pública desconocida para los mecánicos de taller. Un antecedente de ese circuito internacional fue la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1906/09/30/primera-copa-aeronautica-gordon-bennett-paris.html" style="color: #315fea; text-decoration: none;">primera Copa Gordon Bennett de 1906</a>. La prensa celebraba sus récords, pero también seguía los accidentes y las exhibiciones arriesgadas. Durante la guerra, esa misma habilidad pasó del espectáculo a tareas militares: reconocimiento, instrucción y vuelos especiales tras las líneas enemigas. Védrines atravesó ambas etapas, de la competición internacional a las misiones de guerra.
+Las carreras y los grandes premios atraían a multitudes y daban a los pilotos una presencia pública desconocida para los mecánicos de taller. Un antecedente de ese circuito internacional fue la <a href="https://www.efemeridesdeaviacion.com/evento/1906/09/30/primera-copa-aeronautica-gordon-bennett-paris.html" style="color: #315fea; text-decoration: none;">primera Copa Gordon Bennett de 1906</a>. La prensa celebraba sus récords, pero también seguía los accidentes y las exhibiciones arriesgadas. Durante la guerra, esa misma habilidad pasó del espectáculo a tareas militares: reconocimiento, instrucción y vuelos especiales tras las líneas enemigas. Védrines atravesó ambas etapas, de la competición internacional a las misiones de guerra.
 
 
 

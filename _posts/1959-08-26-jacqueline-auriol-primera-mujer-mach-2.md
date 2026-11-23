@@ -19,7 +19,7 @@ image: 1959-08-26-jacqueline-auriol-primera-mujer-mach-2.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 26 de agosto de 1959, la piloto de pruebas francesa Jacqueline Auriol (1917-2000) voló a los mandos del prototipo <a href="https://efemerides-aviacion.github.io/efemerides/evento/1956/11/17/primer-vuelo-dassault-mirage-iii.html" style="color: #315fea; text-decoration: none;">Dassault Mirage III 001</a> sobre las instalaciones del CEV en Istres, pasando a ser la primera aviadora en alcanzar Mach 2, el doble de la velocidad del sonido. La casa fabricante registra una punta de 2.150 km/h en aquel vuelo.</p>
+  <p>El 26 de agosto de 1959, la piloto de pruebas francesa Jacqueline Auriol (1917-2000) voló a los mandos del prototipo <a href="https://www.efemeridesdeaviacion.com/evento/1956/11/17/primer-vuelo-dassault-mirage-iii.html" style="color: #315fea; text-decoration: none;">Dassault Mirage III 001</a> sobre las instalaciones del CEV en Istres, pasando a ser la primera aviadora en alcanzar Mach 2, el doble de la velocidad del sonido. La casa fabricante registra una punta de 2.150 km/h en aquel vuelo.</p>
   <p>Cuatro días después, el 30 de agosto de 1959, Auriol llevó el mismo aparato en un circuito cerrado de 100 kilómetros a una media de 1.789 km/h y arrebató el récord femenino de velocidad en esa distancia a su gran rival, la estadounidense Jacqueline Cochran. El doble vuelo consolidó la reputación internacional del caza de ala en delta de Marcel Dassault y confirmó a Auriol en la élite mundial de las aviadoras de ensayo militar.</p>
 </div>
 
@@ -50,7 +50,7 @@ El avión con el que Auriol iba a cruzar el umbral de Mach 2 era el Dassault Mir
 
 ### Entorno cultural
 
-Los vuelos de Auriol tenían una dimensión pública que rebasaba los ensayos técnicos: desde 1951 mantenía un duelo a distancia con la aviadora estadounidense <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1906/05/11/nacimiento-jacqueline-cochran-barrera-sonido.html" style="color: #315fea; text-decoration: none;">Jacqueline Cochran, que el 18 de mayo de 1953 había sido la primera mujer en romper la barrera del sonido</a>, por el título de «la mujer más rápida del mundo». Cada marca establecida a un lado del Atlántico encontraba respuesta al otro lado con un Vampire, un Mystère o un Mirage francés, en una competición seguida de cerca por París y Washington.
+Los vuelos de Auriol tenían una dimensión pública que rebasaba los ensayos técnicos: desde 1951 mantenía un duelo a distancia con la aviadora estadounidense <a href="https://www.efemeridesdeaviacion.com/nacimiento/1906/05/11/nacimiento-jacqueline-cochran-barrera-sonido.html" style="color: #315fea; text-decoration: none;">Jacqueline Cochran, que el 18 de mayo de 1953 había sido la primera mujer en romper la barrera del sonido</a>, por el título de «la mujer más rápida del mundo». Cada marca establecida a un lado del Atlántico encontraba respuesta al otro lado con un Vampire, un Mystère o un Mirage francés, en una competición seguida de cerca por París y Washington.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -69,7 +69,7 @@ Los vuelos de Auriol tenían una dimensión pública que rebasaba los ensayos t�
 
 La marca de agosto de 1959 tuvo consecuencias inmediatas para la industria aeronáutica francesa y para el estatuto profesional de su protagonista:
 
-- **Escaparate para la familia Mirage.** Que una piloto del CEV llevara el primer prototipo del Mirage III a Mach 2 y batiera a continuación el récord en circuito de 100 kilómetros demostró la madurez de la fórmula de ala en delta de Dassault cuando entraban en producción los cazas Mirage III C y se gestaba una estirpe que llegaría hasta <a href="https://efemerides-aviacion.github.io/efemerides/evento/1967/05/19/primer-vuelo-mirage-v.html" style="color: #315fea; text-decoration: none;">el primer vuelo del caza de ataque Dassault Mirage 5 en mayo de 1967</a>.
+- **Escaparate para la familia Mirage.** Que una piloto del CEV llevara el primer prototipo del Mirage III a Mach 2 y batiera a continuación el récord en circuito de 100 kilómetros demostró la madurez de la fórmula de ala en delta de Dassault cuando entraban en producción los cazas Mirage III C y se gestaba una estirpe que llegaría hasta <a href="https://www.efemeridesdeaviacion.com/evento/1967/05/19/primer-vuelo-mirage-v.html" style="color: #315fea; text-decoration: none;">el primer vuelo del caza de ataque Dassault Mirage 5 en mayo de 1967</a>.
 - **Del reactor militar al ejecutivo.** A mediados de los años sesenta, Auriol trasladó su experiencia a los birreactores de negocios Mystère-Falcon 20 y Mystère 10, con los que estableció tres últimos récords femeninos en circuitos de 1.000 y 2.000 kilómetros entre 1966 y 1968.
 - **Reconocimiento internacional.** Recibió en cuatro ocasiones (1951, 1952, 1955 y 1956) el Harmon International Trophy de manos de los Presidentes de Estados Unidos, además de la Gran Cruz de la Orden Nacional del Mérito y la dignidad de Gran Oficial de la Legión de Honor.
 

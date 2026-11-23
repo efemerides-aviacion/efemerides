@@ -53,7 +53,7 @@ El P-35 reunió las tres características que definirían al caza moderno: estru
 
 ### Entorno cultural
 
-El caza nació también como producto comercial y deportivo: versiones civiles compitieron por el trofeo Bendix —Frank Fuller lo ganó en 1939 con el S-2 y <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1906/05/11/nacimiento-jacqueline-cochran-barrera-sonido.html" style="color: #315fea; text-decoration: none;">Jacqueline Cochran</a> en 1938 con el AP-7, con récord femenino de velocidad—, y James Doolittle empleó un ejemplar especial en sus demostraciones para Shell. El caza de Kartveli fue, a la vez, máquina de guerra, mercancía de exportación y máquina de récords.
+El caza nació también como producto comercial y deportivo: versiones civiles compitieron por el trofeo Bendix —Frank Fuller lo ganó en 1939 con el S-2 y <a href="https://www.efemeridesdeaviacion.com/nacimiento/1906/05/11/nacimiento-jacqueline-cochran-barrera-sonido.html" style="color: #315fea; text-decoration: none;">Jacqueline Cochran</a> en 1938 con el AP-7, con récord femenino de velocidad—, y James Doolittle empleó un ejemplar especial en sus demostraciones para Shell. El caza de Kartveli fue, a la vez, máquina de guerra, mercancía de exportación y máquina de récords.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

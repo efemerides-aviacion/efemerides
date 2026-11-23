@@ -54,7 +54,7 @@ El nombre remitía a la nave de guerra klingon de *Star Trek*, cuya silueta pare
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-- **1981, 18 de junio:** el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1981/06/18/primer-vuelo-f-117-nighthawk.html" style="color: #315fea; text-decoration: none;">primer vuelo del F-117 Nighthawk</a> abre la etapa operacional de la furtividad estadounidense; once años después, el Bird of Prey abordará el problema desde la escala de un demostrador corporativo de tecnologías y procesos.
+- **1981, 18 de junio:** el <a href="https://www.efemeridesdeaviacion.com/evento/1981/06/18/primer-vuelo-f-117-nighthawk.html" style="color: #315fea; text-decoration: none;">primer vuelo del F-117 Nighthawk</a> abre la etapa operacional de la furtividad estadounidense; once años después, el Bird of Prey abordará el problema desde la escala de un demostrador corporativo de tecnologías y procesos.
 - **1992:** McDonnell Douglas inicia en Phantom Works el proyecto clasificado Bird of Prey para investigar baja observabilidad y nuevos procesos de diseño y fabricación.
 - **1996, 11 de septiembre:** el único ejemplar realiza su primer vuelo en Groom Lake. La fecha exacta quedó fuera de los comunicados oficiales iniciales, que se limitaron a situarlo en el otoño de aquel año.
 - **1996-1999:** el programa completa 38 vuelos. Las pruebas exploran la observabilidad visual y radar, además de validar la configuración y los procesos con los que fue construida.

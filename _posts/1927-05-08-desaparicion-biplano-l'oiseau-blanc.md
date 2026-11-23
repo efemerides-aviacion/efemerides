@@ -19,7 +19,7 @@ image: 1927-05-08-desaparicion-biplano-l'oiseau-blanc.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 8 de mayo de 1927, el biplano L’Oiseau Blanc (Levasseur PL.8), pilotado por los aviadores franceses Charles Nungesser y François Coli, despegó de París con destino a Nueva York en un intento de primer vuelo transatlántico sin escalas, pero nunca llegó a su destino y pasó a uno de los enigmas célebres de la aviación. Menos de dos semanas después, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> sin escalas desde Nueva York hasta París, llevándose el Orteig Prize.</p>
+<p>El 8 de mayo de 1927, el biplano L’Oiseau Blanc (Levasseur PL.8), pilotado por los aviadores franceses Charles Nungesser y François Coli, despegó de París con destino a Nueva York en un intento de primer vuelo transatlántico sin escalas, pero nunca llegó a su destino y pasó a uno de los enigmas célebres de la aviación. Menos de dos semanas después, <a href="https://www.efemeridesdeaviacion.com/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> sin escalas desde Nueva York hasta París, llevándose el Orteig Prize.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

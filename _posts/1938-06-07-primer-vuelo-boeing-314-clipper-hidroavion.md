@@ -149,7 +149,7 @@ Requisados por EE. UU. en diciembre de 1941:
 - **Revolución en los viajes transoceánicos:** El 314 demostró que el vuelo regular de pasajeros a través del Atlántico y el Pacífico era viable, reduciendo los tiempos de viaje de días a horas.
 - **Estándar de lujo:** Estableció un estándar de lujo en la aviación comercial que no se volvería a ver hasta la era de los jets (Boeing 707, Douglas DC-8).
 - **Precedente para la aviación militar:** Los Clippers demostraron la utilidad de los hidroaviones de largo alcance para el transporte militar, influyendo en el desarrollo de aviones como el Martin JRM Mars.
-- **Obsolescencia tecnológica:** La llegada de aviones terrestres como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/01/09/primer-vuelo-lockheed-constellation.html" style="color: #315fea; text-decoration: none;">Lockheed Constellation</a> o el Douglas DC-4 tras la guerra, combinada con el desarrollo de aeropuertos internacionales, hizo obsoletos a los hidroaviones.
+- **Obsolescencia tecnológica:** La llegada de aviones terrestres como el <a href="https://www.efemeridesdeaviacion.com/evento/1943/01/09/primer-vuelo-lockheed-constellation.html" style="color: #315fea; text-decoration: none;">Lockheed Constellation</a> o el Douglas DC-4 tras la guerra, combinada con el desarrollo de aeropuertos internacionales, hizo obsoletos a los hidroaviones.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -184,7 +184,7 @@ El Boeing 314 Clipper es recordado como un icono de la "Edad de Oro de la Aviaci
   <p><strong>2. El mismo día (7 de junio de 1938):</strong> El mismo día que el Clipper voló por primera vez en Seattle, el prototipo del <strong>Douglas DC-4E</strong> también realizó su primer vuelo en California. Aunque el DC-4E no entró en producción, sus innovaciones influyeron en el DC-4, el avión que eventualmente reemplazó al Clipper en la posguerra.</p>
   <p><strong>3. La muerte de Eddie Allen:</strong> Eddie Allen, el piloto del primer vuelo del Clipper, falleció trágicamente el 18 de febrero de 1943 mientras pilotaba el segundo prototipo del Boeing B-29 Superfortress, que se estrelló cerca de Seattle. Fue uno de los pilotos de pruebas más respetados de la historia de Boeing.</p>
   <p><strong>4. Por qué no sobrevive ningún Clipper:</strong> Tras la guerra, los Clippers se volvieron obsoletos rápidamente debido a la llegada de aviones terrestres más rápidos y eficientes (Lockheed Constellation, Douglas DC-4). La mayoría fueron desguazados entre 1946 y 1951. El último Clipper superviviente, el "California Clipper", fue desguazado en 1951 en Baltimore. El "Honolulu Clipper" (prototipo) se hundió frente a Samoa en 1945.</p>
-  <p><strong>5. Relación con otras efemérides:</strong> la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1934/12/30/primer-vuelo-martin-m130.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Martin M-130</a> amplía el contexto del predecesor del Clipper en la flota de Pan Am.</p>
+  <p><strong>5. Relación con otras efemérides:</strong> la <a href="https://www.efemeridesdeaviacion.com/evento/1934/12/30/primer-vuelo-martin-m130.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Martin M-130</a> amplía el contexto del predecesor del Clipper en la flota de Pan Am.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

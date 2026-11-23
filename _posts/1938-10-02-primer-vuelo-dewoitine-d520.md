@@ -49,7 +49,7 @@ Francia vivía bajo la sombra del rearme alemán y la memoria de la Gran Guerra.
 
 ### Entorno tecnológico
 
-El D.520 competía en el mismo segmento que sus contemporáneos europeos: el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1936/03/05/primer-vuelo-supermarine-spitfire.html" style="color: #315fea; text-decoration: none;">Supermarine Spitfire británico</a> y el Messerschmitt Bf 109 alemán. Su fórmula —monoplano de ala baja, estructura metálica, tren retráctil y cabina cerrada— era la de la caza moderna, pero el motor disponible en Francia, el Hispano-Suiza 12Y, era menos potente que el Merlin o el DB 601, a cambio de ser más ligero.
+El D.520 competía en el mismo segmento que sus contemporáneos europeos: el <a href="https://www.efemeridesdeaviacion.com/evento/1936/03/05/primer-vuelo-supermarine-spitfire.html" style="color: #315fea; text-decoration: none;">Supermarine Spitfire británico</a> y el Messerschmitt Bf 109 alemán. Su fórmula —monoplano de ala baja, estructura metálica, tren retráctil y cabina cerrada— era la de la caza moderna, pero el motor disponible en Francia, el Hispano-Suiza 12Y, era menos potente que el Merlin o el DB 601, a cambio de ser más ligero.
 
 ### Entorno cultural
 
@@ -67,7 +67,7 @@ La figura del as de caza, heredada de 1914-1918, seguía dominando la memoria co
 - **5 de mayo de 1939:** Primer vuelo del D.520-03, equipado con el motor 12Y-31.
 - **31 de octubre de 1939:** Vuela el primer avión de serie en Toulouse.
 - **Febrero-mayo de 1940:** El GC I/3 es el primer grupo en recibir el aparato; el 13 de mayo sus D.520 logran las primeras victorias sin pérdidas.
-- **5 de junio de 1940:** Un D.520 del GC II/7 derriba al as alemán <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1913/03/18/nacimiento-werner-molders.html" style="color: #315fea; text-decoration: none;">Werner Mölders</a>, que resulta herido y capturado.
+- **5 de junio de 1940:** Un D.520 del GC II/7 derriba al as alemán <a href="https://www.efemeridesdeaviacion.com/nacimiento/1913/03/18/nacimiento-werner-molders.html" style="color: #315fea; text-decoration: none;">Werner Mölders</a>, que resulta herido y capturado.
 - **10-15 de junio de 1940:** En plena batalla de Francia, el GC III/6 entra en combate y el Adjudant Pierre Le Gloan derriba cinco aviones italianos en una sola salida el día 15.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

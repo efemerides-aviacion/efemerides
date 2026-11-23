@@ -64,10 +64,10 @@ La trayectoria de Zeppelin muestra cómo una carrera militar tradicional derivó
 - **1870-1871:** sirve en la guerra franco-prusiana.
 - **1874:** formula con mayor claridad la idea de un dirigible rígido de gran tamaño.
 - **1890:** se retira del servicio militar para concentrarse en el desarrollo de aeronaves más ligeras que el aire.
-- **2 de julio de 1900:** despega el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1900/07/02/primer-vuelo-zeppelin-lz1.html" style="color: #315fea; text-decoration: none;">LZ 1 sobre el lago de Constanza</a>, primer gran ensayo práctico de su concepto de dirigible rígido.
+- **2 de julio de 1900:** despega el <a href="https://www.efemeridesdeaviacion.com/evento/1900/07/02/primer-vuelo-zeppelin-lz1.html" style="color: #315fea; text-decoration: none;">LZ 1 sobre el lago de Constanza</a>, primer gran ensayo práctico de su concepto de dirigible rígido.
 - **1906:** un Zeppelin logra un vuelo de 24 horas, consolidando la viabilidad operativa del sistema.
 - **1908:** funda Luftschiffbau Zeppelin, base industrial de sus futuros desarrollos.
-- **1910:** <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1909/11/16/fundacion-delag-primera-aerolinea-del-mundo.html" style="color: #315fea; text-decoration: none;">DELAG</a> inicia servicios comerciales con dirigibles Zeppelin, abriendo la era del transporte regular de pasajeros en este tipo de aeronaves.
+- **1910:** <a href="https://www.efemeridesdeaviacion.com/fundacion/1909/11/16/fundacion-delag-primera-aerolinea-del-mundo.html" style="color: #315fea; text-decoration: none;">DELAG</a> inicia servicios comerciales con dirigibles Zeppelin, abriendo la era del transporte regular de pasajeros en este tipo de aeronaves.
 - **8 de marzo de 1917:** muere en Charlottenburg, cerca de Berlín.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

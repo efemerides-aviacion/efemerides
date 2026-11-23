@@ -48,7 +48,7 @@ En 1922, cruzar Estados Unidos por aire seguía siendo una empresa de navegació
 
 ### Entorno social
 
-La referencia inevitable era el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/11/05/vin-fiz-primer-vuelo-transcontinental-estados-unidos.html" style="color: #315fea; text-decoration: none;">vuelo del Vin Fiz de Calbraith Perry Rodgers</a>, que había completado en 1911 el primer cruce aéreo de Estados Unidos tras cuarenta y nueve días, decenas de aterrizajes y repetidas reparaciones. Once años después, Doolittle afrontó el mismo desafío con una meta distinta: no solo llegar, sino hacerlo dentro de las veinticuatro horas.
+La referencia inevitable era el <a href="https://www.efemeridesdeaviacion.com/evento/1911/11/05/vin-fiz-primer-vuelo-transcontinental-estados-unidos.html" style="color: #315fea; text-decoration: none;">vuelo del Vin Fiz de Calbraith Perry Rodgers</a>, que había completado en 1911 el primer cruce aéreo de Estados Unidos tras cuarenta y nueve días, decenas de aterrizajes y repetidas reparaciones. Once años después, Doolittle afrontó el mismo desafío con una meta distinta: no solo llegar, sino hacerlo dentro de las veinticuatro horas.
 
 ### Entorno tecnológico
 
@@ -72,8 +72,8 @@ La cronología muestra una sucesión de avances en alcance y autonomía: de la t
 - **4 de septiembre de 1922, 21:52 EST:** Doolittle despega de Pablo Beach con rumbo oeste, guiado en la carrera inicial por faroles.
 - **5 de septiembre de 1922, 06:57 CST:** aterriza en Kelly Field tras 10 horas y 5 minutos de vuelo; después de repostar y efectuar labores de mantenimiento reanuda el trayecto a las 08:07.
 - **5 de septiembre de 1922:** sobre Yuma, Arizona, se reúne con dos aviones de Rockwell Field, que lo acompañan en una llegada en formación; el recorrido termina en 22 horas y 30 minutos transcurridos.
-- **3 de mayo de 1923:** John A. Macready y Oakley G. Kelly unen Long Island y San Diego en el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/05/03/primer-vuelo-transcontinental-new-york-san-diego.html" style="color: #315fea; text-decoration: none;">primer vuelo transcontinental estadounidense sin escalas</a>, realizado en 26 horas y 50 minutos.
-- **27 de junio de 1923:** dos DH-4B logran sobre Rockwell Field el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/06/27/primer-reabastecimiento-en-vuelo.html" style="color: #315fea; text-decoration: none;">primer reabastecimiento en vuelo exitoso</a>; la técnica abrirá una nueva vía para ampliar el alcance sin recurrir a escalas terrestres.
+- **3 de mayo de 1923:** John A. Macready y Oakley G. Kelly unen Long Island y San Diego en el <a href="https://www.efemeridesdeaviacion.com/evento/1923/05/03/primer-vuelo-transcontinental-new-york-san-diego.html" style="color: #315fea; text-decoration: none;">primer vuelo transcontinental estadounidense sin escalas</a>, realizado en 26 horas y 50 minutos.
+- **27 de junio de 1923:** dos DH-4B logran sobre Rockwell Field el <a href="https://www.efemeridesdeaviacion.com/evento/1923/06/27/primer-reabastecimiento-en-vuelo.html" style="color: #315fea; text-decoration: none;">primer reabastecimiento en vuelo exitoso</a>; la técnica abrirá una nueva vía para ampliar el alcance sin recurrir a escalas terrestres.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -89,7 +89,7 @@ La hazaña le valió la Distinguished Flying Cross y consolidó la notoriedad de
 
 La importancia del vuelo está en el contraste que creó. El continente ya había sido cruzado por aire, pero Doolittle transformó aquella expedición de semanas en una operación medida en horas. Menos de un año después, Macready y Kelly probarían que también podía cruzarse sin escalas; ese mismo 1923, los ensayos con DH-4B en Rockwell Field demostrarían que el reabastecimiento en vuelo podía prolongar aún más la autonomía.
 
-La proeza fue además una temprana muestra del perfil que definiría a Doolittle: piloto, ingeniero y organizador de misiones complejas. Dos décadas más tarde, ya como Teniente Coronel, encabezaría la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/04/18/incursion-doolittle.html" style="color: #315fea; text-decoration: none;">incursión Doolittle sobre Japón</a>, otra misión en la que alcance, combustible y planificación determinaron el resultado. El vuelo de 1922 permanece como uno de los primeros grandes récords de velocidad transcontinental de la aviación estadounidense.
+La proeza fue además una temprana muestra del perfil que definiría a Doolittle: piloto, ingeniero y organizador de misiones complejas. Dos décadas más tarde, ya como Teniente Coronel, encabezaría la <a href="https://www.efemeridesdeaviacion.com/evento/1942/04/18/incursion-doolittle.html" style="color: #315fea; text-decoration: none;">incursión Doolittle sobre Japón</a>, otra misión en la que alcance, combustible y planificación determinaron el resultado. El vuelo de 1922 permanece como uno de los primeros grandes récords de velocidad transcontinental de la aviación estadounidense.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

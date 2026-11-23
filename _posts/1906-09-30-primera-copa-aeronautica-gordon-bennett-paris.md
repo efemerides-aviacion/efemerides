@@ -56,7 +56,7 @@ Bennett había apoyado otras competiciones y expediciones. Su iniciativa vincula
 
 Los aeróstatos libres no dirigían su rumbo mediante alas o timones. Sus tripulantes podían variar la altura con lastre y escape de gas para buscar corrientes diferentes, pero no ordenar una ruta independiente de la atmósfera. La decisión de cruzar una costa requería valorar la autonomía y las posibilidades de encontrar tierra después.
 
-La tradición iniciada por <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">Jacques Charles con su globo de hidrógeno</a> había evolucionado en paralelo a la búsqueda de propulsión y gobierno, representada por el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1852/09/24/henri-giffard-primer-dirigible-propulsado-gobernable.html" style="color: #315fea; text-decoration: none;">dirigible de Henri Giffard</a>. Eran soluciones diferentes, no etapas intercambiables de un mismo aparato.
+La tradición iniciada por <a href="https://www.efemeridesdeaviacion.com/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">Jacques Charles con su globo de hidrógeno</a> había evolucionado en paralelo a la búsqueda de propulsión y gobierno, representada por el <a href="https://www.efemeridesdeaviacion.com/evento/1852/09/24/henri-giffard-primer-dirigible-propulsado-gobernable.html" style="color: #315fea; text-decoration: none;">dirigible de Henri Giffard</a>. Eran soluciones diferentes, no etapas intercambiables de un mismo aparato.
 
 Para la competición de 1906 se emplearon grandes envolturas de gas. La del equipo vencedor tenía una capacidad de 2.080 metros cúbicos. Ese volumen proporcionaba sustentación, pero no eliminaba la necesidad de gestionar la carga durante una travesía que podía extenderse muchas horas.
 
@@ -64,7 +64,7 @@ Para la competición de 1906 se emplearon grandes envolturas de gas. La del equi
 
 La FAI, creada en 1905, contribuía a establecer un marco internacional para actividades que hasta entonces habían dependido en gran medida de iniciativas locales. Reglas compartidas y comunicaciones de los aterrizajes permitían comparar actuaciones desarrolladas lejos de la vista del público.
 
-La carrera convivía con una aeronáutica en transformación. Tras los vuelos del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Flyer de los Wright</a>, el avión comenzaba a disputar atención a los vehículos de flotación. La prueba parisina mostraba, sin embargo, que el globo seguía siendo un escenario central de la competición aérea.
+La carrera convivía con una aeronáutica en transformación. Tras los vuelos del <a href="https://www.efemeridesdeaviacion.com/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Flyer de los Wright</a>, el avión comenzaba a disputar atención a los vehículos de flotación. La prueba parisina mostraba, sin embargo, que el globo seguía siendo un escenario central de la competición aérea.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -76,7 +76,7 @@ Las anotaciones reproducidas por la FAI permiten seguir la partida y el recorrid
 - **16:55:** despega el equipo de Lahm y Hersey. La hora corresponde a su cuaderno de vuelo, no al inicio general de la prueba.
 - **Durante la noche:** el viento del sureste conduce a las tripulaciones hacia el canal de la Mancha. Cada equipo debe escoger entre descender en Francia o arriesgar la travesía marítima. Siete globos llegarán a suelo inglés.
 - **23:17–03:30:** los estadounidenses alcanzan el mar cerca de Caen y después avistan luces de la costa británica. El registro sitúa su llegada a la costa inglesa de madrugada; a media mañana sobrevuelan Nottingham.
-- **Durante la competición:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1873/07/20/nacimiento-alberto-santos-dumont.html" style="color: #315fea; text-decoration: none;">Alberto Santos-Dumont</a>, inscrito por Estados Unidos, intenta aprovechar un motor auxiliar en <em>Deux Amériques</em>. Un percance con el mecanismo le lesiona un brazo y pone fin a su participación después de recorrer 134 kilómetros.
+- **Durante la competición:** <a href="https://www.efemeridesdeaviacion.com/nacimiento/1873/07/20/nacimiento-alberto-santos-dumont.html" style="color: #315fea; text-decoration: none;">Alberto Santos-Dumont</a>, inscrito por Estados Unidos, intenta aprovechar un motor auxiliar en <em>Deux Amériques</em>. Un percance con el mecanismo le lesiona un brazo y pone fin a su participación después de recorrer 134 kilómetros.
 - **1 de octubre, 15:10:** el globo estadounidense aterriza cerca de Whitby, próximo al mar del Norte. La clasificación coloca después al equipo italiano de Alfred Vonwiller y Ettore Cianetti, con 593 kilómetros, y al británico de Charles Rolls y John Capper, con 461.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -95,7 +95,7 @@ La participación española también dejó resultados concretos. El equipo de Al
 
 La Gordon Bennett conserva su lugar como competición histórica del vuelo en globo de gas. Su continuidad no debe confundirse con la afirmación de que antes de 1906 no hubiera existido ninguna carrera o demostración competitiva de globos. Lo conmemorado es el nacimiento de esta copa y de su tradición internacional.
 
-El patrocinador extendió después su nombre a una prueba de velocidad para aeroplanos. Ese trofeo, instituido en 1909 y ganado por <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1881/12/29/nacimiento-jules-vedrines.html" style="color: #315fea; text-decoration: none;">Jules Védrines en 1912</a>, tenía una lógica diferente de la competición aerostática. La distinción permite apreciar dos formas de habilidad: administrar el vuelo con las corrientes o recorrer un circuito con la potencia y el control de una máquina propulsada.
+El patrocinador extendió después su nombre a una prueba de velocidad para aeroplanos. Ese trofeo, instituido en 1909 y ganado por <a href="https://www.efemeridesdeaviacion.com/nacimiento/1881/12/29/nacimiento-jules-vedrines.html" style="color: #315fea; text-decoration: none;">Jules Védrines en 1912</a>, tenía una lógica diferente de la competición aerostática. La distinción permite apreciar dos formas de habilidad: administrar el vuelo con las corrientes o recorrer un circuito con la potencia y el control de una máquina propulsada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

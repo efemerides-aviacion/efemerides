@@ -54,7 +54,7 @@ En las plataformas de mantenimiento de los años noventa, tapar con cinta de enm
 
 ## Desarrollo Cronológico
 
-- **19 de febrero de 1982:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1982/02/19/primer-vuelo-boeing-757.html" style="color: #315fea; text-decoration: none;">Primer vuelo del Boeing 757</a>, modelo al que pertenecía el ejemplar N52AW entregado en noviembre de 1992.
+- **19 de febrero de 1982:** <a href="https://www.efemeridesdeaviacion.com/evento/1982/02/19/primer-vuelo-boeing-757.html" style="color: #315fea; text-decoration: none;">Primer vuelo del Boeing 757</a>, modelo al que pertenecía el ejemplar N52AW entregado en noviembre de 1992.
 - **1 de octubre de 1996, noche:** en el hangar de Aeroperú en Lima se limpia y pule la sección inferior delantera del fuselaje del N52AW y el operario Eleuterio Chacaliaza cubre con cinta adhesiva los tres puertos estáticos izquierdos; la cinta no es retirada ni advertida durante la liberación técnica ni en la inspección exterior nocturna del comandante.
 - **2 de octubre, 00:42:** el vuelo 603 despega de la pista 15 de Jorge Chávez con el Primer Oficial a los mandos; al cruzar entre 200 y 300 pies los altímetros dejan de avanzar y se activa tres veces una falsa alarma de cortante de viento (*windshear*).
 - **00:44:32:** la tripulación declara emergencia («No tenemos instrumentos básicos, ni altímetro, ni velocímetro, ¡declaramos emergencia!») mientras aparecen avisos contradictorios de relación de timón (*rudder ratio*), exceso de velocidad (*overspeed*) y vibración de columna (*stick shaker*) por baja velocidad.

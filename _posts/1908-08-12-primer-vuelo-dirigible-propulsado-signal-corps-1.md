@@ -63,7 +63,7 @@ Una superficie delantera permitía controlar el cabeceo, mientras la disposició
 
 ### Entorno cultural
 
-Las exhibiciones civiles habían mostrado la posibilidad de transportar personas antes de que existiera un programa militar consolidado. El viaje de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1906/08/11/primera-pasajera-en-dirigible.html" style="color: #315fea; text-decoration: none;">Mary Prentice Miller en Franklin</a> pertenece a ese ambiente de iniciativas privadas, aunque no a la historia contractual del SC-1.
+Las exhibiciones civiles habían mostrado la posibilidad de transportar personas antes de que existiera un programa militar consolidado. El viaje de <a href="https://www.efemeridesdeaviacion.com/evento/1906/08/11/primera-pasajera-en-dirigible.html" style="color: #315fea; text-decoration: none;">Mary Prentice Miller en Franklin</a> pertenece a ese ambiente de iniciativas privadas, aunque no a la historia contractual del SC-1.
 
 El interés castrense modificaba el criterio de éxito. Ya no bastaba con atraer espectadores: había que verificar prestaciones, formar operadores y sostener el aparato después de la demostración. Ese cambio explica la importancia de los ensayos aun cuando sus cifras parecieran modestas.
 
@@ -94,7 +94,7 @@ La experiencia de los oficiales tampoco debe presentarse como ausencia de peligr
 
 ## Legado
 
-La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/08/02/primera-compra-gubernamental-avion.html" style="color: #315fea; text-decoration: none;">adquisición del avión de los Wright en 1909</a> eclipsó en la memoria pública a su predecesor de flotación. Mantener ambas historias separadas permite comprender que el desarrollo militar no siguió desde el principio una sola tecnología.
+La <a href="https://www.efemeridesdeaviacion.com/evento/1909/08/02/primera-compra-gubernamental-avion.html" style="color: #315fea; text-decoration: none;">adquisición del avión de los Wright en 1909</a> eclipsó en la memoria pública a su predecesor de flotación. Mantener ambas historias separadas permite comprender que el desarrollo militar no siguió desde el principio una sola tecnología.
 
 El SC-1 permaneció como el único dirigible del Cuerpo de Señales durante su periodo de servicio; el Ejército no compró otro hasta después de la Gran Guerra, según el museo de la Fuerza Aérea. Las fotografías de su barquilla abierta y de las operaciones en tierra conservan una etapa en la que la infraestructura y los procedimientos eran tan experimentales como la aeronave.
 

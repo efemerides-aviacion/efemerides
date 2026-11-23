@@ -1,6 +1,7 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
 > Última actualización: 2026-11-16  
 > Versión: v2.27
+> Corrección del 23-11-2026 (errata sobre la v2.27, sin cambio de versión; §7.1.6 del Estado): el patrón canónico de los enlaces internos pasa a `https://www.efemeridesdeaviacion.com/…`, conforme a la Fase 2 de migración de dominio (§8.4). Solo se sustituye el prefijo; la fecha en barras, el slug sin guion terminal y el orden de categorías del YAML no cambian.
 
 ---
 
@@ -488,7 +489,7 @@ Todo enlace interno a otra efeméride del proyecto se construye con el patrón
 canónico de Jekyll:
 
 ```
-https://efemerides-aviacion.github.io/efemerides/:categoria/:año/:mes/:día/:slug.html
+https://www.efemeridesdeaviacion.com/:categoria/:año/:mes/:día/:slug.html
 ```
 
 Es decir, la fecha del post va **en barras** (`/1897/01/06/`), nunca unida por

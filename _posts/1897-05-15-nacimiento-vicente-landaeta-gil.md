@@ -37,7 +37,7 @@ image: 1897-05-15-nacimiento-vicente-landaeta-gil.webp
 
 ## Contexto Histórico
 
-La Escuela de Aviación Militar de Venezuela, donde Vicente Landaeta Gil se formaría como piloto, fue creada por decreto el 17 de abril de 1920 e instalada en Maracay ese mismo diciembre (puede consultar la efeméride completa sobre la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;"><strong>Fundación de la Escuela de Aviación Militar de Venezuela</strong></a>). La Primera Promoción de Aviadores Militares, de la cual Landaeta Gil fue un miembro distinguido, egresó de esta escuela.
+La Escuela de Aviación Militar de Venezuela, donde Vicente Landaeta Gil se formaría como piloto, fue creada por decreto el 17 de abril de 1920 e instalada en Maracay ese mismo diciembre (puede consultar la efeméride completa sobre la <a href="https://www.efemeridesdeaviacion.com/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;"><strong>Fundación de la Escuela de Aviación Militar de Venezuela</strong></a>). La Primera Promoción de Aviadores Militares, de la cual Landaeta Gil fue un miembro distinguido, egresó de esta escuela.
 
 ### Entorno social
 
@@ -57,7 +57,7 @@ El nombre del pionero quedó inmortalizado en la base de Barquisimeto que lleva 
 
 Aunque los registros históricos no han preservado detalles extensos sobre su vida temprana ni su carrera militar, se sabe que Landaeta Gil fue uno de los primeros oficiales en abrazar la nueva arma aérea, en tiempos en que cada despegue era un acto de fe.
 
-Su trágica muerte en servicio el 4 de febrero de 1931 lo convirtió en el primer mártir del arma aérea venezolana. Los detalles del suceso pueden consultarse en la efeméride dedicada a <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;"><strong>la muerte de Landaeta Gil en 1931</strong></a>.
+Su trágica muerte en servicio el 4 de febrero de 1931 lo convirtió en el primer mártir del arma aérea venezolana. Los detalles del suceso pueden consultarse en la efeméride dedicada a <a href="https://www.efemeridesdeaviacion.com/accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;"><strong>la muerte de Landaeta Gil en 1931</strong></a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -73,7 +73,7 @@ El nombre de Vicente Landaeta Gil fue inmortalizado el 14 de febrero de 1964, cu
 
 El primer comandante de la unidad fue el Mayor (Av) Juan Ignacio Leyzeaga. La base ha sido sede de importantes unidades aéreas, entre ellas el Grupo Aéreo de Bombardeo N.º 13 (con aviones B-25 Mitchell), el Grupo Aéreo de Caza N.º 12 (con aviones F-86K, F-86F y posteriormente CF-5/VF-5), y el Escuadrón de Policía Aérea. El 27 de abril de 2026, la base celebró su 62 aniversario, consolidándose como un símbolo vivo de la unión y la formación de aviadores en el país.
 
-Para conocer más detalles sobre la creación de esta base, puede consultar la efeméride de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;"><strong>Fundación de la Base Aérea Teniente Vicente Landaeta Gil, Barquisimeto</strong></a> (14 de febrero de 1964).
+Para conocer más detalles sobre la creación de esta base, puede consultar la efeméride de la <a href="https://www.efemeridesdeaviacion.com/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;"><strong>Fundación de la Base Aérea Teniente Vicente Landaeta Gil, Barquisimeto</strong></a> (14 de febrero de 1964).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

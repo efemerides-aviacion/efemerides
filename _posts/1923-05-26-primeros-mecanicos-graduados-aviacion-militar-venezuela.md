@@ -43,7 +43,7 @@ image: 1923-05-26-primeros-mecanicos-graduados-aviacion-militar-venezuela.webp
 
 ## Contexto Histórico
 
-La <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">institución militar de vuelo creada en 1920</a> dependía del Ministerio de Guerra y Marina y operaba en Maracay bajo dirección del Coronel David López Henríquez. La supervisión recaía en la estructura del Ejército vinculada a José Vicente Gómez.
+La <a href="https://www.efemeridesdeaviacion.com/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">institución militar de vuelo creada en 1920</a> dependía del Ministerio de Guerra y Marina y operaba en Maracay bajo dirección del Coronel David López Henríquez. La supervisión recaía en la estructura del Ejército vinculada a José Vicente Gómez.
 
 ### Entorno social
 
@@ -51,7 +51,7 @@ El plantel debía formar pilotos para el Ejército, pero la aviación era vista 
 
 ### Entorno tecnológico
 
-Seis Caudron G.3 franceses componían la flota inicial. Eran aparatos de madera y tela que exigían reparación constante. Robert Petit, Ludovit Pouget y Luis Rollin, integrantes de la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html" style="color: #315fea; text-decoration: none;">misión contratada en Francia</a>, transmitieron los primeros conocimientos especializados.
+Seis Caudron G.3 franceses componían la flota inicial. Eran aparatos de madera y tela que exigían reparación constante. Robert Petit, Ludovit Pouget y Luis Rollin, integrantes de la <a href="https://www.efemeridesdeaviacion.com/evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html" style="color: #315fea; text-decoration: none;">misión contratada en Francia</a>, transmitieron los primeros conocimientos especializados.
 
 ### Entorno cultural
 
@@ -61,7 +61,7 @@ La promoción convirtió el mantenimiento en una profesión aeronáutica venezol
 
 ## Desarrollo Cronológico
 
-- **1912:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1912/09/29/primer-vuelo-frank-boland-venezuela.html" style="color: #315fea; text-decoration: none;">Frank Boland</a> realiza exhibiciones en Venezuela, sin continuidad institucional.
+- **1912:** <a href="https://www.efemeridesdeaviacion.com/evento/1912/09/29/primer-vuelo-frank-boland-venezuela.html" style="color: #315fea; text-decoration: none;">Frank Boland</a> realiza exhibiciones en Venezuela, sin continuidad institucional.
 - **17 de abril de 1920:** se decreta el centro de formación de Maracay con 350.000 bolívares; ese año llegan seis Caudron G.3 y se contrata la misión francesa.
 - **16 de febrero de 1921:** Ernesto Salas Agelvis ingresa como alumno mecánico.
 - **26 de mayo de 1923:** Salas, con 99/100 puntos, y Amador Nieto reciben diplomas de suficiencia técnica. La promoción incluye a los pilotos Francisco Leonardi, Miguel Rodríguez, Manuel Ríos y Prisco Heuer.

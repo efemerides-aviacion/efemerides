@@ -39,7 +39,7 @@ image: 2005-04-27-primer-vuelo-airbus-a380.webp
 
 ## Contexto Histórico
 
-En los últimos años ochenta, el consorcio europeo nacido de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1970/12/18/fundacion-airbus-industrie.html" style="color: #315fea; text-decoration: none;">fundación de Airbus Industrie en diciembre de 1970</a> estudió cómo responder a la creciente congestión de los grandes centros de conexión internacionales (*hubs*). Mientras Boeing apostaba por el enlace punto a punto con bimotores de largo radio como el 777, Airbus concibió un cuatrimotor de dos cubiertas a lo largo de todo el fuselaje, capaz de transportar más de 500 pasajeros en tres clases y hasta 853 en configuración de clase única.
+En los últimos años ochenta, el consorcio europeo nacido de la <a href="https://www.efemeridesdeaviacion.com/fundacion/1970/12/18/fundacion-airbus-industrie.html" style="color: #315fea; text-decoration: none;">fundación de Airbus Industrie en diciembre de 1970</a> estudió cómo responder a la creciente congestión de los grandes centros de conexión internacionales (*hubs*). Mientras Boeing apostaba por el enlace punto a punto con bimotores de largo radio como el 777, Airbus concibió un cuatrimotor de dos cubiertas a lo largo de todo el fuselaje, capaz de transportar más de 500 pasajeros en tres clases y hasta 853 en configuración de clase única.
 
 ### Entorno social
 
@@ -51,7 +51,7 @@ El A380 introdujo avances que pasaron a ser norma en la construcción aeronáuti
 
 ### Entorno cultural
 
-El vuelo inaugural convocó a unas 50.000 personas en el perímetro de Toulouse-Blagnac y en las pantallas gigantes instaladas en la Place du Capitole. La salida desde la pista 32L evocó inevitablemente el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1969/03/02/primer-vuelo-concorde-001-toulouse.html" style="color: #315fea; text-decoration: none;">primer vuelo del Concorde 001 en Toulouse el 2 de marzo de 1969</a>, realizado treinta y seis años antes en el mismo aeródromo.
+El vuelo inaugural convocó a unas 50.000 personas en el perímetro de Toulouse-Blagnac y en las pantallas gigantes instaladas en la Place du Capitole. La salida desde la pista 32L evocó inevitablemente el <a href="https://www.efemeridesdeaviacion.com/evento/1969/03/02/primer-vuelo-concorde-001-toulouse.html" style="color: #315fea; text-decoration: none;">primer vuelo del Concorde 001 en Toulouse el 2 de marzo de 1969</a>, realizado treinta y seis años antes en el mismo aeródromo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

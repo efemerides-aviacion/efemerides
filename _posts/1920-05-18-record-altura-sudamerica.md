@@ -106,7 +106,7 @@ La imagen del pequeño triplano Wasp desafiando las cumbres más altas de los An
 Hoy, la Fuerza Aérea Boliviana (FAB) conmemora cada 17 de abril el primer vuelo en Bolivia, y el 18 de mayo como el día en que un avión boliviano (aunque pilotado por un estadounidense) alcanzó un récord sudamericano de altura, demostrando al mundo que la aviación era posible en el corazón de Sudamérica.
 
 ### Donald Hudson: el piloto récord
-<a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1895/12/21/nacimiento-donald-hudson.html" style="color: #315fea; text-decoration: none;">Donald Hudson nació el 21 de diciembre de 1895 en Topeka, Kansas</a>. Durante la Primera Guerra Mundial sirvió en el 27º Escuadrón Aéreo, pilotando Nieuport 28 y posteriormente Spad XIII. Se le acreditan seis victorias aéreas, alcanzando el estatus de "as". Por su valor en combate, recibió la Distinguished Service Cross.
+<a href="https://www.efemeridesdeaviacion.com/nacimiento/1895/12/21/nacimiento-donald-hudson.html" style="color: #315fea; text-decoration: none;">Donald Hudson nació el 21 de diciembre de 1895 en Topeka, Kansas</a>. Durante la Primera Guerra Mundial sirvió en el 27º Escuadrón Aéreo, pilotando Nieuport 28 y posteriormente Spad XIII. Se le acreditan seis victorias aéreas, alcanzando el estatus de "as". Por su valor en combate, recibió la Distinguished Service Cross.
 
 Terminada la guerra, el gobierno boliviano lo contrató como instructor para su proyectada escuela militar de vuelo. Se le otorgó el rango de Teniente Coronel.
 

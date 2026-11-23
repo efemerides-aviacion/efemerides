@@ -43,7 +43,7 @@ image: 1980-11-04-accidente-c130h-fav-3556-maiquetia.webp
 
 ## Contexto Histórico
 
-El accidente ocurrió junto al <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1945/01/01/inauguracion-aeropuerto-internacional-maiquetia.html" style="color: #315fea; text-decoration: none;">aeropuerto inaugurado en Maiquetía en 1945</a>, principal puerta aérea de Caracas, y alcanzó viviendas cercanas.
+El accidente ocurrió junto al <a href="https://www.efemeridesdeaviacion.com/fundacion/1945/01/01/inauguracion-aeropuerto-internacional-maiquetia.html" style="color: #315fea; text-decoration: none;">aeropuerto inaugurado en Maiquetía en 1945</a>, principal puerta aérea de Caracas, y alcanzó viviendas cercanas.
 
 La FAV empleaba entonces el Hercules como transporte militar. ASN consigna Maracay como destino y Paredes la ruta El Libertador–Maiquetía–Maracaibo, sin publicar la secuencia completa de la misión.
 
@@ -57,13 +57,13 @@ Esa información conserva la prudencia de las primeras horas: no adjudicaba un c
 
 ### Entorno tecnológico
 
-El C-130H pertenecía a la familia cuyo <a href="https://efemerides-aviacion.github.io/efemerides/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">primer vuelo del Lockheed YC-130 Hercules</a> tuvo lugar en 1954. Era un transporte táctico de cuatro motores turbohélice Allison T56-A-15; Lockheed documentó para la variante H cuatro grupos motopropulsores, hélices Hamilton Standard de cuatro palas, rampa trasera y una amplia bodega de carga. Son rasgos generales del modelo, no datos específicos del vuelo accidentado ni de la condición técnica concreta del FAV-3556.
+El C-130H pertenecía a la familia cuyo <a href="https://www.efemeridesdeaviacion.com/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">primer vuelo del Lockheed YC-130 Hercules</a> tuvo lugar en 1954. Era un transporte táctico de cuatro motores turbohélice Allison T56-A-15; Lockheed documentó para la variante H cuatro grupos motopropulsores, hélices Hamilton Standard de cuatro palas, rampa trasera y una amplia bodega de carga. Son rasgos generales del modelo, no datos específicos del vuelo accidentado ni de la condición técnica concreta del FAV-3556.
 
 Esa arquitectura no permite reconstruir este caso como una operación de tres motores. El diseño general de un modelo no sustituye la condición de una aeronave concreta, su carga, sus procedimientos ni la naturaleza de una avería. Para el FAV-3556, las fuentes publicadas no identifican el motor n.º 1 ni documentan un despegue intencional con ese propulsor apagado; los testimonios posteriores que lo afirman se conservan como tales. La documentación de Lockheed describe características del modelo, no el estado de mantenimiento ni la configuración del aparato venezolano aquella mañana.
 
 ### Entorno cultural
 
-Los Hercules de la FAV quedaron ligados a misiones de transporte y a pérdidas de gran impacto. Cuatro años antes, <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1976/09/03/accidente-c130-hercules-fav-orfeon-universitario-azores.html" style="color: #315fea; text-decoration: none;">otro C-130H venezolano, el FAV-7772, se había perdido en Lajes, Azores</a>, durante una aproximación nocturna bajo condiciones meteorológicas adversas. Aquel accidente, asociado al Orfeón Universitario, tuvo una ruta y circunstancias diferentes.
+Los Hercules de la FAV quedaron ligados a misiones de transporte y a pérdidas de gran impacto. Cuatro años antes, <a href="https://www.efemeridesdeaviacion.com/accidente/1976/09/03/accidente-c130-hercules-fav-orfeon-universitario-azores.html" style="color: #315fea; text-decoration: none;">otro C-130H venezolano, el FAV-7772, se había perdido en Lajes, Azores</a>, durante una aproximación nocturna bajo condiciones meteorológicas adversas. Aquel accidente, asociado al Orfeón Universitario, tuvo una ruta y circunstancias diferentes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

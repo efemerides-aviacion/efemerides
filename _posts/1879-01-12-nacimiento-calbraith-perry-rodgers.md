@@ -68,7 +68,7 @@ El editor William Randolph Hearst ofreció 50.000 dólares al primer aviador que
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
-La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/11/05/vin-fiz-primer-vuelo-transcontinental-estados-unidos.html" style="color: #315fea; text-decoration: none;">primera travesía aérea de Norteamérica</a> probó que un avión podía recorrer el continente, pero también mostró la distancia entre un vuelo de exhibición y una ruta sostenida: cada avance dependía de inspecciones, reparaciones y coordinación en tierra. La red del tren de apoyo formó parte de la expedición tanto como el piloto y el aparato.
+La <a href="https://www.efemeridesdeaviacion.com/evento/1911/11/05/vin-fiz-primer-vuelo-transcontinental-estados-unidos.html" style="color: #315fea; text-decoration: none;">primera travesía aérea de Norteamérica</a> probó que un avión podía recorrer el continente, pero también mostró la distancia entre un vuelo de exhibición y una ruta sostenida: cada avance dependía de inspecciones, reparaciones y coordinación en tierra. La red del tren de apoyo formó parte de la expedición tanto como el piloto y el aparato.
 
 Rodgers no cumplió la condición de treinta días y perdió el premio, pero la prensa siguió la aventura hasta el Pacífico. La llegada de multitudes a Pasadena convirtió el vuelo en un espectáculo nacional y afianzó la idea del avión como medio capaz de conectar costas, aun cuando la infraestructura de transporte aéreo regular todavía no existía.
 

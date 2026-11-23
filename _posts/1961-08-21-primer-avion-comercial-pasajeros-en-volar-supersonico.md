@@ -45,7 +45,7 @@ El vuelo fue una jugada de prestigio industrial en plena Guerra Fría: Douglas c
 
 ### Entorno tecnológico
 
-El DC-8 venía de la estirpe del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/30/primer-vuelo-mc-donell-douglas-dc8.html" style="color: #315fea; text-decoration: none;">primer reactor comercial de Douglas, volado por primera vez el 30 de mayo de 1958</a>. Para el picado, el departamento de aerodinámica preparó tablas de velocidad indicada por altitud: Edwards le cantaba a Magruder la velocidad objetivo cada mil pies, porque a 500 pies por segundo de descenso cada dos segundos estaban mil pies más abajo. Despegaron con los flaps arriba, con los slots dañados por un remolcador la noche anterior, sabiendo que con un motor menos no habrían controlado el avión.
+El DC-8 venía de la estirpe del <a href="https://www.efemeridesdeaviacion.com/evento/1958/05/30/primer-vuelo-mc-donell-douglas-dc8.html" style="color: #315fea; text-decoration: none;">primer reactor comercial de Douglas, volado por primera vez el 30 de mayo de 1958</a>. Para el picado, el departamento de aerodinámica preparó tablas de velocidad indicada por altitud: Edwards le cantaba a Magruder la velocidad objetivo cada mil pies, porque a 500 pies por segundo de descenso cada dos segundos estaban mil pies más abajo. Despegaron con los flaps arriba, con los slots dañados por un remolcador la noche anterior, sabiendo que con un motor menos no habrían controlado el avión.
 
 ### Entorno cultural
 

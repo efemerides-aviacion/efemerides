@@ -54,7 +54,7 @@ La guía didáctica del Ayuntamiento de Madrid atribuye el diseño a Brunet. Esa
 
 ### Entorno cultural
 
-El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">cruce de Blériot entre Francia e Inglaterra</a> había dado una dimensión internacional a los desafíos aeronáuticos de aquel verano. En Valencia, la imagen del aficionado que comprometía recursos propios se incorporó a una memoria local del progreso. El apodo «el Volaoret» expresa esa asociación del personaje con su aspiración a volar.
+El <a href="https://www.efemeridesdeaviacion.com/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">cruce de Blériot entre Francia e Inglaterra</a> había dado una dimensión internacional a los desafíos aeronáuticos de aquel verano. En Valencia, la imagen del aficionado que comprometía recursos propios se incorporó a una memoria local del progreso. El apodo «el Volaoret» expresa esa asociación del personaje con su aspiración a volar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -65,8 +65,8 @@ La secuencia distingue la preparación, el ensayo y su recuperación conmemorati
 - **Preparación del proyecto:** durante sus estudios en Barcelona, Olivert colabora con su profesor y financia la construcción del aparato.
 - **Exhibición valenciana:** la máquina se presenta al público antes de disponer del conjunto propulsor definitivo; el Ayuntamiento de Valencia participa en la financiación de motor y hélice.
 - **Prueba en Paterna:** el biplano se eleva brevemente y termina en una zanja o acequia, con desperfectos. Los relatos permiten hablar de algunas decenas de metros, no de una distancia medida con precisión uniforme.
-- **1910:** la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1885/09/04/nacimiento-benito-loygorri-primer-espanol-licencia-piloto.html" style="color: #315fea; text-decoration: none;">licencia obtenida por Benito Loygorri</a> corresponde a otra cuestión: la acreditación de un piloto, distinta de la prioridad de un ensayo anterior.
-- **Etapa posterior:** el empleo de aeroplanos por el Ejército abre un desarrollo operativo propio; el episodio tratado en <a href="https://efemerides-aviacion.github.io/efemerides/evento/1913/12/17/primer-bombardeo-aereo-espana-marruecos.html" style="color: #315fea; text-decoration: none;">la entrada sobre bombardeos en Marruecos</a> pertenece a ese marco, no a una prolongación demostrada del proyecto de Olivert.
+- **1910:** la <a href="https://www.efemeridesdeaviacion.com/nacimiento/1885/09/04/nacimiento-benito-loygorri-primer-espanol-licencia-piloto.html" style="color: #315fea; text-decoration: none;">licencia obtenida por Benito Loygorri</a> corresponde a otra cuestión: la acreditación de un piloto, distinta de la prioridad de un ensayo anterior.
+- **Etapa posterior:** el empleo de aeroplanos por el Ejército abre un desarrollo operativo propio; el episodio tratado en <a href="https://www.efemeridesdeaviacion.com/evento/1913/12/17/primer-bombardeo-aereo-espana-marruecos.html" style="color: #315fea; text-decoration: none;">la entrada sobre bombardeos en Marruecos</a> pertenece a ese marco, no a una prolongación demostrada del proyecto de Olivert.
 - **4 de septiembre de 2009:** los entonces Príncipes de Asturias participan en Paterna en la apertura de los actos del centenario, recogida por EFE.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

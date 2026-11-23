@@ -68,7 +68,7 @@ La figura del as nació durante la Gran Guerra: pilotos como Oswald Boelcke, Man
 - **1916:** solicita su ingreso en la aviación del ejército (Luftstreitkräfte).
 - **Enero de 1917:** culmina el entrenamiento de piloto y pasa al escuadrón de reconocimiento Flieger Abteilung 201, en el frente occidental.
 - **1 de julio de 1917:** pasa al escuadrón de élite de Manfred von Richthofen, el Jagdstaffel 11 (Jasta 11).
-- **31 de julio de 1917:** logra su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1917/07/31/carlos-meyer-baldo-primer-derribo.html" style="color: #315fea; text-decoration: none;">primer derribo confirmado: un R.E.8 británico sobre Flandes, Bélgica</a>.
+- **31 de julio de 1917:** logra su <a href="https://www.efemeridesdeaviacion.com/evento/1917/07/31/carlos-meyer-baldo-primer-derribo.html" style="color: #315fea; text-decoration: none;">primer derribo confirmado: un R.E.8 británico sobre Flandes, Bélgica</a>.
 - **Diciembre de 1917:** transferido al Jagdstaffel 4, también parte del «Circo Volante».
 - **28 de junio de 1918:** derriba el SPAD S.XIII del as francés René Montrion.
 - **15-18 de julio de 1918:** derriba otro SPAD S.XIII y un Sopwith Camel; con este último alcanza su cuarta victoria confirmada.
@@ -106,7 +106,7 @@ Su memoria perdura en la Fuerza Aérea Venezolana a través de varios reconocimi
 
 - La **Orden al Mérito Aeronáutico «Teniente Carlos Meyer Baldó»**, creada el 7 de octubre de 1968, lleva ese grado porque fue el rango con que sirvió en la aviación nacional.
 - La primera promoción de pilotos, egresada el 28 de diciembre de 1947, recibió su nombre.
-- Un teatro de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1974/01/02/creacion-baru.html" style="color: #315fea; text-decoration: none;">Base Aérea General Rafael Urdaneta</a> de Maracaibo lleva su nombre.
+- Un teatro de la <a href="https://www.efemeridesdeaviacion.com/fundacion/1974/01/02/creacion-baru.html" style="color: #315fea; text-decoration: none;">Base Aérea General Rafael Urdaneta</a> de Maracaibo lleva su nombre.
 - El Museo Aeronáutico de Maracay conserva un busto en su memoria.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

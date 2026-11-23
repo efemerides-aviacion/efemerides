@@ -44,7 +44,7 @@ redirect_from: /evento/1930/05/24/primer-vuelo-solitario-amy-johson-inglaterra-a
 
 ## Contexto Histórico
 
-Amy Johnson emprendió su vuelo en una época de grandes desafíos para la aviación. Tres años antes, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">el cruce del Atlántico de Charles Lindbergh</a> había abierto el camino de la aviación comercial, pero las rutas intercontinentales seguían siendo territorio casi exclusivo de hombres, y las mujeres pilotos enfrentaban un escepticismo generalizado.
+Amy Johnson emprendió su vuelo en una época de grandes desafíos para la aviación. Tres años antes, <a href="https://www.efemeridesdeaviacion.com/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">el cruce del Atlántico de Charles Lindbergh</a> había abierto el camino de la aviación comercial, pero las rutas intercontinentales seguían siendo territorio casi exclusivo de hombres, y las mujeres pilotos enfrentaban un escepticismo generalizado.
 
 ### Entorno social
 En la Inglaterra de entreguerras las mujeres ya votaban desde 1918 si superaban los 30 años, pero la aviación seguía considerándose un oficio peligroso y técnicamente exigente, reservado a los varones. Las pocas pilotos que había luchaban por ganarse el respeto. Johnson, hija de un comerciante de pescado de Hull, estudió economía en la Universidad de Sheffield y trabajó de secretaria en Londres antes de decidirse a aprender a volar. Su determinación contrastaba con la visión de la época, que veía en el vuelo una actividad excéntrica o imprudente en una mujer.
@@ -68,7 +68,7 @@ El vuelo de Johnson capturó la imaginación del público británico y mundial. 
 - **Timor:** Al intentar alcanzar Atamboea, la noche la sorprende y aterriza en un claro del pueblo de Haliloelik, a 160 kilómetros de su destino. Un sacerdote la ayuda a llegar a Atamboea al día siguiente.
 - **1930, 24 de mayo, aproximadamente 15:55:** El «Jason» aparece sobre Darwin. Un avión australiano sale a su encuentro y la escolta hasta el aeródromo. A su llegada, la espera una multitud entusiasta. El secretario de salud la interroga brevemente antes de permitirle salir del avión. El residente del gobierno australiano, Coronel Weddell, la recibe en nombre de la Commonwealth y del pueblo australiano.
 - **Después del aterrizaje:** Johnson es invitada al Ayuntamiento de Darwin, donde el alcalde Adams le ofrece una cálida bienvenida. Se canta por primera vez una canción titulada «Amy» en su honor. Posteriormente, Johnson declara que emprendió el vuelo para demostrar la seguridad de los aviones modernos y que no esperaba ninguna recompensa económica, aunque aceptó ofertas para narrar su historia.
-- **1934, 23 de mayo:** La aviadora neozelandesa <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1909/09/15/nacimiento-jean-batten.html" style="color: #315fea; text-decoration: none;">Jean Batten</a> rebaja la marca femenina de la ruta: aterriza en Darwin tras 14 días, 22 horas y 30 minutos con un De Havilland Gipsy Moth —el mismo tipo de Johnson—, más de cuatro días por debajo de los 19 días y medio de 1930.
+- **1934, 23 de mayo:** La aviadora neozelandesa <a href="https://www.efemeridesdeaviacion.com/nacimiento/1909/09/15/nacimiento-jean-batten.html" style="color: #315fea; text-decoration: none;">Jean Batten</a> rebaja la marca femenina de la ruta: aterriza en Darwin tras 14 días, 22 horas y 30 minutos con un De Havilland Gipsy Moth —el mismo tipo de Johnson—, más de cuatro días por debajo de los 19 días y medio de 1930.
 
 ### El De Havilland Gipsy Moth «Jason»
 
@@ -91,7 +91,7 @@ El mapa original del vuelo se conserva en Hull, en el East Riding Museums. Fabri
 ## Consecuencias e Impacto
 
 - **Reconocimiento internacional:** Amy Johnson se convirtió en una celebridad mundial. Fue recibida por el rey Jorge V, recibió la Orden del Imperio Británico por su hazaña y el Daily Mail le entregó el premio de 10.000 libras.
-- **Inspiración para mujeres:** Johnson probó que las aviadoras igualaban a sus colegas varones en condiciones extremas. Su éxito inspiró a una generación de aviadoras, como Amelia Earhart (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/05/21/amelia-earhart-primera-mujer-cruza-atlantico.html" style="color: #315fea; text-decoration: none;">que cruzó el Atlántico en solitario dos años después, en 1932</a>).
+- **Inspiración para mujeres:** Johnson probó que las aviadoras igualaban a sus colegas varones en condiciones extremas. Su éxito inspiró a una generación de aviadoras, como Amelia Earhart (<a href="https://www.efemeridesdeaviacion.com/evento/1932/05/21/amelia-earhart-primera-mujer-cruza-atlantico.html" style="color: #315fea; text-decoration: none;">que cruzó el Atlántico en solitario dos años después, en 1932</a>).
 - **Impulso a la aviación comercial:** Al demostrar la fiabilidad de los aviones ligeros en rutas de larga distancia, Johnson aceleró el interés de las compañías por rutas regulares entre Europa y Australia.
 - **Consolidación de la aviación femenina:** Johnson presidió la Sección Femenina de la Real Sociedad Aeronáutica y siguió batiendo récords: Londres–Moscú en 21 horas (1931) y, más tarde, Tokio.
 
