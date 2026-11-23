@@ -11,7 +11,7 @@ image: 1963-08-22-joseph-walker-x-15-vuelo-91.webp
 ---
 
 <figure>
-  <img class="post-image" src="/efemerides/assets/img/1963-08-22-joseph-walker-x-15-vuelo-91.webp" alt="El X-15 número 3, matrícula 56-6672, sobre el lecho seco del lago Rogers en la Base Aérea Edwards" style="width: 100%; height: auto;">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1963-08-22-joseph-walker-x-15-vuelo-91.webp" alt="El X-15 número 3, matrícula 56-6672, sobre el lecho seco del lago Rogers en la Base Aérea Edwards" style="width: 100%; height: auto;">
   <figcaption class="post-caption">El X-15 número 3, con el número de serie 66672 rotulado en la deriva, sobre el lecho seco del lago en la Base Aérea Edwards, California. Es el aparato que Joe Walker llevó a 354.200 pies el 22 de agosto de 1963, la mayor altitud alcanzada en todo el programa. Fuente: NASA Dryden Flight Research Center. Imagen de dominio público.</figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ El reconocimiento oficial, en cambio, llegó tarde y de forma póstuma. Los pilo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 20:44:45 CST  
+- **Timestamp de verificación:** 2026-11-22 18:16:16 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA (nota de prensa de 2005, ficha histórica del centro Dryden y monografía de historia del programa), Smithsonian National Air and Space Museum  
 - **Fuentes secundarias de contraste:** This Day in Aviation, White Eagle Aerospace, Wikipedia (inglés)  
 - **Discrepancias resueltas:** condición civil o militar de Valentina Tereshkova en junio de 1963 y su efecto sobre la primacía atribuida a Walker; carácter no homologado de la marca de altitud; número de vuelos de Walker en el X-15, 24 o 25 según la fuente; duración de la ingravidez, entre tres y cinco minutos según el criterio de medida  
