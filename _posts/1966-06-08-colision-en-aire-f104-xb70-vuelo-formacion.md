@@ -112,7 +112,7 @@ La investigación de la USAF concluyó que Walker, desde su posición, probablem
 - **Pérdida del XB-70 AV-2:** El segundo prototipo del Valkyrie quedó destruido tras completar apenas 46 salidas de ensayo, dejando al primer ejemplar (AV-1, 62-0001) como única célula existente del programa.
 - **Consecuencias administrativas:** El photo shoot no fue autorizado por la Fuerza Aérea. El Coronel Albert W. Cate fue destituido; otros oficiales fueron amonestados.
 - **Conocimiento sobre vórtices de estela:** El accidente puso de manifiesto el peligro de los vórtices de estela, lo que llevó a cambios en los procedimientos de separación entre aeronaves en vuelo y en aproximación a aeropuertos.
-- **Legado del programa XB-70:** Los datos de las pruebas del XB-70 fueron utilizados en el programa del bombardero B-1, en el programa estadounidense de transporte supersónico (SST) y, a través de espionaje, en el programa soviético Tu-144.
+- **Legado del programa XB-70:** Los datos de las pruebas del XB-70 fueron utilizados en el programa del bombardero <a href="https://www.efemeridesdeaviacion.com/evento/1974/12/23/primer-vuelo-rockwell-b1a.html" style="color: #315fea; text-decoration: none;">B-1</a>, en el programa estadounidense de transporte supersónico (SST) y, a través de espionaje, en el programa soviético Tu-144.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -153,7 +153,7 @@ El siniestro del 8 de junio de 1966 constituye uno de los sucesos más luctuosos
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 16:05:00 CST
+- **Timestamp de verificación:** 2026-11-24 09:37:26 CST
 - **Fuentes primarias/institucionales consultadas:** CLUI, Wikipedia, Aviation Safety Network, MiGFlug, Military.com
 - **Discrepancias resueltas:** Confirmación de la fecha del accidente (8 de junio de 1966). Verificación de la altitud de vuelo (30.000 pies) y la secuencia del accidente. Aclaración de la causa (vórtice de estela del XB-70). Identificación de los tres protagonistas y sus destinos.
 - **Nivel de confianza:** Alto
