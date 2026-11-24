@@ -87,7 +87,7 @@ El reparto del trabajo entre Grumman y Eastern Aircraft de General Motors distri
 
 ## Legado
 
-El Avenger siguió prestando servicio después de la guerra. Su fuselaje amplio admitió equipos de búsqueda y detección, y distintas armadas lo adaptaron para la guerra antisubmarina y la alerta temprana. En algunos países permaneció en uso durante décadas; ejemplares retirados encontraron luego tareas civiles, entre ellas la lucha contra incendios forestales.
+El Avenger siguió prestando servicio después de la guerra. Su fuselaje amplio admitió equipos de búsqueda y detección, y distintas armadas lo adaptaron para la guerra antisubmarina y la alerta temprana. En la Armada estadounidense, algunas versiones especializadas del Avenger operaron en parejas de búsqueda y ataque; el posterior <a href="https://www.efemeridesdeaviacion.com/evento/1952/12/04/primer-vuelo-grumman-s2-tracker.html" style="color: #315fea; text-decoration: none;">Grumman S-2 Tracker</a> reunió ambas funciones en un solo avión embarcado. En algunos países permaneció en uso durante décadas; ejemplares retirados encontraron luego tareas civiles, entre ellas la lucha contra incendios forestales.
 
 El diseño también recuerda que la maduración de un avión comienza con pruebas capaces de descubrir defectos. Las correcciones al XTBF no fueron un apéndice menor: permitieron transformar un prototipo inestable en un aparato adecuado a las rutinas de un portaaviones. El ejemplar que inició el programa se perdió en un vuelo de pruebas de 1942, pero la familia TBF/TBM dejó una huella duradera en la aviación naval.
 
@@ -113,7 +113,7 @@ El diseño también recuerda que la maduración de un avión comienza con prueba
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-05 12:13:57 CST
+- **Timestamp de verificación:** 2026-11-24 06:16:15 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum; Air & Space Forces Magazine.
 - **Fuentes secundarias de contraste:** This Day in Aviation; Wikipedia (EN/ES).
 - **Discrepancias:** la nota distingue la configuración inicial de la de serie, la denominación Avenger y la fabricación TBF/TBM.
