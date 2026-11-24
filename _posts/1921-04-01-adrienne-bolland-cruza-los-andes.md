@@ -23,7 +23,9 @@ published: true
   </p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
+
 - **Fecha:** 1 de abril de 1921  
 - **Lugar:** Mendoza (Argentina) – Santiago (Chile)  
 - **Protagonistas:** Adrienne Bolland  
@@ -32,7 +34,9 @@ published: true
 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
+
 A principios del siglo XX, cruzar los Andes era uno de los mayores retos de la aviación mundial. El chileno Dagoberto Godoy había logrado el primer cruce masculino el 12 de diciembre de 1918, según la Dirección General de Aeronáutica Civil de Chile. <a href="https://www.efemeridesdeaviacion.com/nacimiento/1895/11/25/nacimiento-adrienne-bolland.html" style="color: #315fea; text-decoration: none;">Adrienne Bolland</a>, piloto de pruebas de Caudron, fue enviada a Sudamérica en 1920 para promocionar el G.3, aeronave considerada demasiado débil para la tarea.
 
 ### Entorno social
@@ -45,7 +49,9 @@ El Caudron G.3 era un biplano ligero, diseñado para reconocimiento en la Primer
 La hazaña consolidó a Bolland como ícono femenino en la aviación, desafiando prejuicios de género y convenciones sociales de la época.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
+
 - Diciembre 1920: llegada de Bolland a Argentina [NO CONFIRMADO].  
 - Preparación y escepticismo de pilotos locales.  
 - 1 de abril de 1921: despegue desde Mendoza entre las 6:15 y las 6:35, según la fuente consultada; sin mapa ni brújula según las crónicas de la época.  
@@ -54,17 +60,23 @@ La hazaña consolidó a Bolland como ícono femenino en la aviación, desafiando
 - Aterrizaje en Santiago tras 4 horas y 15 minutos de vuelo, según los Archivos Departamentales del Loiret.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
+
 - Publicidad para Caudron y su aeronave.  
 - Empoderamiento femenino en la aviación.  
 - Precedente para rutas aéreas andinas: en septiembre de 1922, la aviación militar chilena cruzó la cordillera en sentido inverso, de Santiago a Mendoza, como primera etapa del <a href="{{ site.baseurl }}/evento/1922/09/14/raid-aereo-santiago-rio-de-janeiro.html" style="color: #315fea; text-decoration: none;">raid aéreo Santiago-Río de Janeiro</a>.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Legado
+
 Hoy se la evoca como una de las pilotos más audaces de la historia, celebrada en Argentina y Chile como símbolo de valor y tenacidad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
     <li><a href="https://www.thisdayinaviation.com/tag/adrienne-bolland/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Adrienne Bolland (cita de la revista <em>Flight</em>)</a></li>
@@ -85,8 +97,10 @@ Hoy se la evoca como una de las pilotos más audaces de la historia, celebrada e
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-11-24 14:47:45 CST
+
+- **Timestamp de verificación:** 2026-11-24 15:34:39 CST
 - **Fuentes primarias/institucionales consultadas:** Archivos Departamentales del Loiret (fondo 479J de Bolland; institucional, sin cita de documento concreto); DGAC de Chile (fecha del cruce de Godoy); Musée Lorris y Évreux Aéronautique (institucionales); This Day in Aviation (archivo fotográfico, con cita de *Flight* de 7 de abril de 1921, p. 250, que recoge un informe del *Daily Mail*); Infobae, Aire de Santa Fe y Clarín (2021, que citan documentos de la Biblioteca Nacional de Chile y un informe del Instituto de Investigaciones Histórico Aeronáuticas de Chile, no consultados directamente). No se pudo consultar la nota original de *Flight*.
 - **Discrepancias no resueltas:** hora de despegue (6:00, 6:15, 6:35, 7:30 según la fuente). Duración: 4 h 15 min fijada según los Archivos del Loiret; la cifra de *Flight* («tres horas») y la de This Day in Aviation (4 h 17 min) quedan como minoritarias. Altitud: 4.200 m según Bolland; 4.500 m según This Day in Aviation.
 - **Nivel de confianza:** Alto en fecha, ruta, aeronave y primer cruce femenino; medio en duración (4 h 15 min, sin cita primaria verificada); bajo en hora de despegue.
