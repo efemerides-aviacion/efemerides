@@ -54,7 +54,7 @@ Para la Armada, la organización del trabajo importaba tanto como el rendimiento
 
 ### Entorno tecnológico
 
-Antes del Tracker, la Armada utilizó versiones especializadas del <a href="https://www.efemeridesdeaviacion.com/evento/1941/08/07/primer-vuelo-grumman-tbf-tbm-avenger.html" style="color: #315fea; text-decoration: none;">Grumman Avenger</a> y del AF Guardian. En el Guardian, un AF-2W equipado para buscar acompañaba a un AF-2S armado para atacar. La solución repartía el peso de equipos y armamento entre dos células, pero dependía de la coordinación de la pareja.
+Antes del Tracker, la Armada utilizó versiones especializadas del <a href="https://www.efemeridesdeaviacion.com/evento/1941/08/07/primer-vuelo-grumman-tbf-tbm-avenger.html" style="color: #315fea; text-decoration: none;">Grumman Avenger</a> y del <a href="https://www.efemeridesdeaviacion.com/evento/1946/12/23/primer-vuelo-grumman-xtb3f-guardian.html" style="color: #315fea; text-decoration: none;">AF Guardian</a>. En el Guardian, un AF-2W equipado para buscar acompañaba a un AF-2S armado para atacar. La solución repartía el peso de equipos y armamento entre dos células, pero dependía de la coordinación de la pareja.
 
 El G-89 de Grumman reunió ambas funciones en una célula bimotora de ala alta. El radar de búsqueda se alojaba en un radomo ventral retráctil; el detector de anomalías magnéticas, situado en una extensión de cola, ayudaba a buscar alteraciones del campo magnético asociadas a objetos metálicos. Las sonoboyas transmitían información acústica desde el agua. Un reflector servía para iluminar objetivos en la superficie; torpedos y cargas de profundidad proporcionaban medios de ataque. 
 
@@ -122,7 +122,7 @@ El primer vuelo del XS2F-1 inició la trayectoria de un diseño asociado a una s
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-11-24 05:50:22 CST
+- **Timestamp de verificación:** 2026-11-24 07:44:20 CST
 - **Fuentes primarias/institucionales consultadas:** Pacific Coast Air Museum; Cradle of Aviation Museum; Canadian Warplane Heritage Museum.
 - **Fuentes secundarias de contraste:** Vintage Aviation News; History of War; Warbirds Resource Group.
 - **Nivel de confianza:** Alto para la fecha y el cometido general; se omiten el piloto y la duración del primer vuelo al no haberlos corroborado.
