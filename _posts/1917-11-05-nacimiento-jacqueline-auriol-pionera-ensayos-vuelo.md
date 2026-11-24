@@ -98,7 +98,7 @@ La memoria material de su carrera se reparte entre museos, archivos y nombres ur
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
   <ol>
-    <li><strong>Primacía profesional.</strong> Dassault, la FAI y el Museo del Aire y del Espacio presentan a Auriol como la primera mujer piloto de pruebas francesa. Algunas semblanzas locales recuerdan, sin embargo, que Adrienne Bolland ya había realizado pruebas para Caudron en 1920. La primacía de Auriol se entiende en el sentido de su carrera profesional de ensayos en vuelo en la posguerra, no como afirmación de que ninguna mujer hubiera probado antes un avión en Francia.</li>
+    <li><strong>Primacía profesional.</strong> Dassault, la FAI y el Museo del Aire y del Espacio presentan a Auriol como la primera mujer piloto de pruebas francesa. Algunas semblanzas locales recuerdan, sin embargo, que <a href="https://www.efemeridesdeaviacion.com/nacimiento/1895/11/25/nacimiento-adrienne-bolland.html" style="color: #315fea; text-decoration: none;">Adrienne Bolland</a> ya había realizado pruebas para Caudron en 1920. La primacía de Auriol se entiende en el sentido de su carrera profesional de ensayos en vuelo en la posguerra, no como afirmación de que ninguna mujer hubiera probado antes un avión en Francia.</li>
     <li><strong>Barrera del sonido.</strong> Auriol fue la primera mujer europea en superarla, no la primera del mundo. La estadounidense Jacqueline Cochran lo había conseguido antes, en mayo de 1953.</li>
     <li><strong>Accidente de 1949.</strong> Las fuentes coinciden en la fecha, el lugar y la gravedad de las lesiones, pero no siempre en el papel exacto de Auriol a bordo ni en el número de intervenciones quirúrgicas. Se consigna el hecho esencial y se evita fijar una cifra cerrada de operaciones.</li>
   </ol>
@@ -107,7 +107,7 @@ La memoria material de su carrera se reparte entre museos, archivos y nombres ur
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-29 14:21:31 CST  
+- **Timestamp de verificación:** 2026-11-24 14:56:08 CST  
 - **Fuentes primarias/institucionales consultadas:** FAI; Dassault Aviation; Museo del Aire y del Espacio; Consejo Departamental de Vendée; France Culture/INA.  
 - **Fuentes secundarias de contraste:** Encyclopædia Universalis.  
 - **Discrepancias resueltas:** alcance de la primacía como piloto de pruebas, primacía europea frente a mundial en vuelo supersónico y variantes sobre el accidente de 1949.  

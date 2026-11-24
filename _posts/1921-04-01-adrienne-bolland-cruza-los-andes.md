@@ -33,7 +33,7 @@ published: true
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
-A principios del siglo XX, cruzar los Andes era uno de los mayores retos de la aviación mundial. El chileno Dagoberto Godoy había logrado el primer cruce masculino el 12 de diciembre de 1918, según la Dirección General de Aeronáutica Civil de Chile. Adrienne Bolland, piloto de pruebas de Caudron, fue enviada a Sudamérica en 1920 para promocionar el G.3, aeronave considerada demasiado débil para la tarea.
+A principios del siglo XX, cruzar los Andes era uno de los mayores retos de la aviación mundial. El chileno Dagoberto Godoy había logrado el primer cruce masculino el 12 de diciembre de 1918, según la Dirección General de Aeronáutica Civil de Chile. <a href="https://www.efemeridesdeaviacion.com/nacimiento/1895/11/25/nacimiento-adrienne-bolland.html" style="color: #315fea; text-decoration: none;">Adrienne Bolland</a>, piloto de pruebas de Caudron, fue enviada a Sudamérica en 1920 para promocionar el G.3, aeronave considerada demasiado débil para la tarea.
 
 ### Entorno social
 La opinión pública y los aviadores locales consideraban el intento suicida. Su éxito fue recibido con sorpresa y admiración en Chile.
@@ -86,7 +86,7 @@ Hoy se la evoca como una de las pilotos más audaces de la historia, celebrada e
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-08 (revisión de referencias y sustitución de enlaces rotos)
+- **Timestamp de verificación:** 2026-11-24 14:47:45 CST
 - **Fuentes primarias/institucionales consultadas:** Archivos Departamentales del Loiret (fondo 479J de Bolland; institucional, sin cita de documento concreto); DGAC de Chile (fecha del cruce de Godoy); Musée Lorris y Évreux Aéronautique (institucionales); This Day in Aviation (archivo fotográfico, con cita de *Flight* de 7 de abril de 1921, p. 250, que recoge un informe del *Daily Mail*); Infobae, Aire de Santa Fe y Clarín (2021, que citan documentos de la Biblioteca Nacional de Chile y un informe del Instituto de Investigaciones Histórico Aeronáuticas de Chile, no consultados directamente). No se pudo consultar la nota original de *Flight*.
 - **Discrepancias no resueltas:** hora de despegue (6:00, 6:15, 6:35, 7:30 según la fuente). Duración: 4 h 15 min fijada según los Archivos del Loiret; la cifra de *Flight* («tres horas») y la de This Day in Aviation (4 h 17 min) quedan como minoritarias. Altitud: 4.200 m según Bolland; 4.500 m según This Day in Aviation.
 - **Nivel de confianza:** Alto en fecha, ruta, aeronave y primer cruce femenino; medio en duración (4 h 15 min, sin cita primaria verificada); bajo en hora de despegue.
