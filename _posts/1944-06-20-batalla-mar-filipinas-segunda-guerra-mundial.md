@@ -12,7 +12,7 @@ image: 1944-06-20-batalla-mar-filipinas-segunda-guerra-mundial.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-06-20-batalla-mar-filipinas-segunda-guerra-mundial.webp" alt="Aeronaves embarcadas de Estados Unidos durante la campaña de las Marianas">
-  <figcaption class="post-caption">Aeronaves de la Armada de Estados Unidos en operaciones en el Pacífico durante la campaña de las Marianas; imagen de archivo asociada al teatro de guerra. Fuente: Naval History and Heritage Command.</figcaption>
+  <figcaption class="post-caption">Aeronaves de la Armada de Estados Unidos en el Pacífico durante la campaña de las Marianas, en 1944. Fuente: Naval History and Heritage Command.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -71,7 +71,7 @@ La batalla fue una serie de acciones conectadas por la invasión de las Marianas
 
 ## Consecuencias e Impacto
 
-La derrota debilitó de manera profunda la aviación embarcada japonesa y redujo su capacidad para disputar el control del aire en las campañas posteriores. La pérdida de tres portaaviones, junto con pilotos y aeronaves, fue difícil de reemplazar en un sistema que ya tenía problemas de entrenamiento y reposición. Estados Unidos conservó la iniciativa naval y pudo sostener la ofensiva sobre las Marianas, aunque el ataque de regreso nocturno mostró que la superioridad táctica no eliminaba los riesgos operacionales. La batalla no significó el fin de la aviación naval japonesa, que aún participaría en combates posteriores, pero alteró el equilibrio de fuerzas en el Pacífico. El resultado inmediato favoreció la protección de la invasión y abrió camino a bases aéreas más próximas al territorio japonés.
+La derrota debilitó de manera profunda la aviación embarcada japonesa y redujo su capacidad para disputar el control del aire en las campañas posteriores. La pérdida de tres portaaviones, junto con pilotos y aeronaves, fue difícil de reemplazar en un sistema que ya tenía problemas de entrenamiento y reposición. Estados Unidos conservó la iniciativa naval y pudo sostener la ofensiva sobre las Marianas, aunque el ataque de regreso nocturno mostró que la superioridad táctica no eliminaba los riesgos operacionales. La batalla no significó el fin de la aviación naval japonesa, que aún participaría en combates posteriores, pero alteró el equilibrio de fuerzas en el Pacífico. El resultado inmediato favoreció la protección de la invasión y abrió camino a bases aéreas más próximas al territorio japonés. Entre los pilotos que salieron al encuentro estuvo <a href="https://www.efemeridesdeaviacion.com/nacimiento/1918/11/02/nacimiento-alexander-vraciu-as-armada-hellcat.html" style="color: #315fea; text-decoration: none;">Alexander Vraciu</a>, con seis derribos en ocho minutos.
 
 El episodio mostró también que la ventaja estadounidense dependía de una cadena de detección, coordinación entre portaaviones, dirección de cazas y recuperación de aeronaves, no solo de la calidad individual de los aviones. La retirada japonesa fue grave, pero no equivalió a la desaparición inmediata de su poder militar ni cerró la campaña. Mantener esa distinción evita transformar una victoria decisiva en una afirmación de destrucción total.
 
