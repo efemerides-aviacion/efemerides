@@ -91,7 +91,7 @@ El éxito de la demostración desató la "globomanía" en Francia. Los globos se
 - **Nacimiento de la aeronáutica moderna:** La demostración del 4 de junio de 1783 demostró que el vuelo humano era posible, abriendo el camino a la aviación moderna.
 - **Impulso a la experimentación científica:** El éxito de los Montgolfier desató una ola de experimentación en toda Europa, llevando a rápidos avances en el diseño de globos y en la comprensión de la atmósfera.
 - **Popularización de la ciencia:** La "globomanía" que siguió al vuelo popularizó la ciencia y la tecnología entre el público general, demostrando que los conceptos científicos podían tener aplicaciones prácticas y espectaculares.
-- **Inspiración para futuros pioneros:** La hazaña de los Montgolfier inspiró a generaciones de inventores y aventureros, incluyendo a los pioneros de los dirigibles y, más tarde, de los aviones.
+- **Inspiración para futuros pioneros:** La hazaña de los Montgolfier inspiró a generaciones de inventores y aventureros, incluyendo a los pioneros de los dirigibles y, más tarde, de los aviones. Diez años después, el burgalés <a href="https://www.efemeridesdeaviacion.com/nacimiento/1757/11/07/nacimiento-diego-marin-aguilera.html" style="color: #315fea; text-decoration: none;">Diego Marín Aguilera</a> ensayó el otro camino, el de las alas artificiales, desde el castillo de Coruña del Conde.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -97,7 +97,7 @@ La familia Montgolfier también aportó décadas de experiencia en la fabricaci�
 ## Consecuencias e Impacto
 La autorización de vuelos con personas transformó una serie de demostraciones en una práctica pública. En los meses siguientes, aeronautas exploraron distintas envolventes, gases y procedimientos de control.
 
-La experiencia contribuyó a popularizar la experimentación: periódicos y estampas llevaron el tema más allá de los círculos académicos. También impulsó el desarrollo de soluciones para mantener el calor, regular la altitud y proteger a los pasajeros, aunque los primeros aparatos seguían dependiendo del viento y de decisiones manuales.
+La experiencia contribuyó a popularizar la experimentación: periódicos y estampas llevaron el tema más allá de los círculos académicos. También impulsó el desarrollo de soluciones para mantener el calor, regular la altitud y proteger a los pasajeros, aunque los primeros aparatos seguían dependiendo del viento y de decisiones manuales. El globo resolvió el ascenso, no la dirección: el camino de las alas que imitan a las aves lo retomó en 1793 <a href="https://www.efemeridesdeaviacion.com/nacimiento/1757/11/07/nacimiento-diego-marin-aguilera.html" style="color: #315fea; text-decoration: none;">Diego Marín Aguilera</a>, que se lanzó con un artefacto de varillas y plumas desde el alto de un castillo burgalés.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
