@@ -1,5 +1,7 @@
 # Guía del validador estructural de efemérides
-> Última actualización: 2026-11-16 (enmienda presidencial de D1-a y nueva comprobación **16** en modo `[AVISO]`: retirada de `Presidente` de `CIVIL_RE` —de modo que `Presidente` y `Presidenta` ante nombre propio ya no disparan `[FALLECE]`— y aviso cuando `presidente`/`presidenta` va en minúscula ante nombre propio como jefe/a de Estado; Manual de Estilo v1.26 § 4.3, Plantilla Maestra v2.27, Instrucciones de Formato v2.26. Censo sobre los `744` posts del HEAD `5770364266e2`: **80** posts y **118** ocurrencias en minúscula de jefe/a de Estado, más **1** exención documentada en `1961-10-20` —cargo directivo de asociación civil— y **664** posts conformes; **0** cambios de código de salida en los `744` posts.)
+> Última actualización: 2026-11-25 (orden del editor: la **auditoría 11** de enlaces internos deja de limitarse a la forma de la URL y verifica además categoría —incluidas las **categorías dobles**, `/espacial/accidente/…`—, fecha y existencia del destino, mediante `tools/verifica-enlaces.py`, que debe copiarse junto al linter; el autoenlace y la fecha con guiones se siguen comprobando en el propio script para los posts aún no publicados, y si falta el verificador, `python3` o el corpus la auditoría se degrada a la comprobación anterior con un `[AVISO]`. No añade comprobaciones: en la fotografía del corpus de trabajo (774 posts, 1.592 enlaces internos distintos, de ellos 9 de categoría doble) el recuento de `[OK]` por post y los **códigos de salida son idénticos** a los de la versión anterior —0 diferencias en los 771 posts—, de modo que la comprobación **no es retroactiva** ni reabre cierres. El único post que falla en ese corpus (`1886-11-14`, con las H2 normativas ausentes) ya fallaba antes,
+de modo que el reparto de veredictos es 773 aprobados y 1 fallo previo.)
+> Última actualización anterior: 2026-11-16 (enmienda presidencial de D1-a y nueva comprobación **16** en modo `[AVISO]`: retirada de `Presidente` de `CIVIL_RE` —de modo que `Presidente` y `Presidenta` ante nombre propio ya no disparan `[FALLECE]`— y aviso cuando `presidente`/`presidenta` va en minúscula ante nombre propio como jefe/a de Estado; Manual de Estilo v1.26 § 4.3, Plantilla Maestra v2.27, Instrucciones de Formato v2.26. Censo sobre los `744` posts del HEAD `5770364266e2`: **80** posts y **118** ocurrencias en minúscula de jefe/a de Estado, más **1** exención documentada en `1961-10-20` —cargo directivo de asociación civil— y **664** posts conformes; **0** cambios de código de salida en los `744` posts.)
 > Última actualización anterior: 2026-11-01 (nueva comprobación **15**: extensión del `<figcaption class="post-caption">` — banda de **20 a 30 palabras** de texto visible, descontadas las etiquetas HTML y, con ellas, las URL; señala tanto el pie recargado como el que no llega al mínimo descriptivo. Censo sobre los `697` posts del HEAD `49b3f51e`: **134** en banda, **538** por encima de 30 y **25** por debajo de 20; mediana de `38` palabras, máximo de `131`. En modo `[AVISO]`, no retroactiva, sin cambios de veredicto: **0** diferencias de código de salida en los `697` posts. Orden del editor del `01-11-2026` para que el pie breve se respete siempre.)
 > Última actualización anterior: 2026-10-25 (nueva auditoría **14**: marcado de `## Referencias Verificadas` — envoltorio obligatorio `<div class="references"><ul><li>…</li></ul></div>`, aviso ante cualquier clase ajena a la hoja de estilos del sitio —`references-box` u otra— y aviso ante lista Markdown sin `<li>`; en modo `[AVISO]`, no retroactiva y sin cambios de código de salida. Censo sobre `672` posts en el HEAD `fbc8d8024f46`: **665** con el envoltorio normativo, **7** sin él y **11** avisos nuevos; `0` cambios de veredicto).
 > Última actualización anterior: 2026-10-22 (calibración integral de la auditoría [AVISO] 12 en `awk` POSIX compatible con `bash 3.2` de macOS: audita todas las ocurrencias de `YAML` (`title`/`excerpt`), cuerpo y `Nota aclaratoria`, incluidos apócopes `un`/`veintiún`, `A X años de…`, aproximaciones `casi`/`más de`/`durante X años`, edad viva `cumple X años` y `Un siglo después` sin ancla; censo verificado sobre `663` posts: **117 posts** y **132 ocurrencias**; `0` cambios de código de salida). Actualización previa del mismo día: 2026-10-22 (nueva auditoría [AVISO] 13: títulos de realeza, nobleza y dignidades en minúscula ante nombre propio — Manual de Estilo v1.22, § 4.3, decisión D1-c; Plantilla Maestra v2.25, regla maestra 5; Instrucciones de Formato v2.24 —; no computa como fallo y no es retroactiva). Actualización anterior: 2026-10-21 (nueva auditoría [AVISO] 12: recuento de años anclado al presente, tras la derogación de la regla de cómputo — Manual de Estilo v1.20, § 5.9 —; no computa como fallo y no es retroactiva). > Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
@@ -12,6 +14,10 @@
 ## Archivos
 
 - `tools/efemerides-linter.sh`: programa de validación.
+- `tools/verifica-enlaces.py`: verificador de enlaces internos que alimenta la auditoría 11
+  (`validar`, `buscar`, `sugerir` y `auditar-todos`). **Debe copiarse junto al linter**: si no
+  está, la auditoría 11 se degrada a la comprobación de forma y lo advierte. Se ejecuta con
+  `python3`; no requiere bibliotecas externas.
 - `tools/efemerides-rangos-excepciones.txt`: cinco excepciones documentadas D1-a/D2-a legibles por máquina (cuatro de la tanda del 03-09-2026 —incluidas dos históricas sobre `Presidente` conservadas como registro— más una quinta añadida el 16-11-2026 para `1961-10-20`).
 - `docs/excepciones-rangos-y-tratamientos.md`: explicación humana y normativa de esas excepciones.
 
@@ -148,6 +154,48 @@ por separado —**760** `.md` en `_posts/`—. Las seis pasadas de calibración 
 resolvieron ampliando la tabla y las abstenciones, sin excluir ningún post. La regresión completa
 deja **0 cambios de código de salida**: el único `FALLECE` del corpus (1886-11-14) ya fallaba con
 el linter anterior.
+
+Desde el 2026-11-25 la **auditoría 11** (enlaces internos canónicos) verifica el destino y no
+solo la forma de la URL. Hasta esa fecha se limitaba a contrastar la cadena contra una expresión
+regular, de modo que un enlace con el prefijo de categoría equivocado, con la fecha de otro post o
+apuntando a una efeméride inexistente pasaba como `[OK]`. Ahora delega en
+`tools/verifica-enlaces.py`, que comprueba cuatro cosas por enlace:
+
+1. **Patrón canónico** con uno o varios segmentos de categoría: `/:categoría/AAAA/MM/DD/:slug.html`,
+   con fecha en barras y sin guion terminal. Un post con varias categorías en el YAML publica con un
+   segmento por categoría, en el orden del YAML (`/espacial/accidente/1986/01/28/…`): enlazarlo con un
+   solo segmento produce 404. En el corpus de trabajo hay **9 enlaces de este tipo**, todos correctos,
+   y el patrón anterior ya los admitía; lo que faltaba era comprobar que la cadena completa coincidiera
+   con las categorías del destino.
+2. **Categoría.** El prefijo de la URL debe coincidir con las categorías del post de destino, en orden.
+3. **Fecha.** La fecha de la URL debe ser la del destino; el mensaje indica la fecha real y la URL
+   canónica que corresponde.
+4. **Existencia y repetición.** El slug debe existir en el corpus —si existe con otra fecha, el mensaje
+   lo dice— y un enlace repetido en el cuerpo se señala como `[AVISO]`, no como fallo.
+
+El **autoenlace** y la **fecha unida por guiones** se siguen comprobando en el propio linter, porque
+estas dos reglas valen también para un post que aún no está publicado y, por tanto, no figura en el
+corpus. El mensaje del autoenlace no se cuenta dos veces.
+
+**Degradación.** Si no hay `python3` en el `PATH`, si falta `tools/verifica-enlaces.py` o si no se
+localiza el corpus de posts, la auditoría imprime un `[AVISO]` con el motivo, aplica la comprobación de
+forma de la versión anterior y **no aprueba en falso**: el mensaje de `[OK]` indica «solo forma: ver
+aviso». También hay una guarda contra el caso peor: si el verificador no llega a emitir su línea
+`SALIDA:`, se considera no ejecutado y se degrada igual.
+
+**Alcance de la comprobación.** El verificador coteja contra el corpus local de posts, que es el que el
+validador tenga a la vista (`corpus/_posts`, `_posts` o el que se fije). No consulta la red: la
+verificación en producción sigue siendo del editor en el navegador, conforme al protocolo de
+continuidad. Para una comprobación opcional contra el sitio publicado existe
+`python3 tools/verifica-enlaces.py validar <post> --http`, que no forma parte del veredicto del linter.
+
+**Recuento.** La auditoría 11 sigue emitiendo una sola línea `[OK]`, de modo que el número de
+comprobaciones por post no cambia. La fotografía del corpus de trabajo (774 posts, HEAD `d698a9d7`,
+idénticos blob por blob) da **1.592 enlaces internos distintos** —evento 914, fundacion 229,
+nacimiento 209, accidente 112, espacial 103, seguridad 14, espacial/accidente 9, conmemoracion 2—,
+**0 fallos** de enlace y **0 diferencias de código de salida** respecto de la versión anterior del
+linter en los 774 posts. La norma **no es retroactiva**: los
+posts ya publicados no se reabren.
 
 ## Normas de mantenimiento
 

@@ -73,6 +73,13 @@
 # alineado con Manual de Estilo v1.27 el 2026-11-20 (comprobación [AVISO] 18: recuento de
 #  motores coherente con la configuración del modelo; tabla mínima de modelos unívocos; orden
 #  del editor tras el error del alta 2023-11-28, que atribuyó cuatro Trent 1000 a un bimotor).
+# auditoría 11 profundizada el 2026-11-25 (orden del editor): la comprobación de enlaces
+#  internos deja de limitarse a la forma de la URL y delega en verifica-enlaces.py —que debe
+#  copiarse junto a este script— la coherencia de categoría (incluidas las categorías dobles,
+#  /espacial/accidente/…), la de fecha, la existencia del destino en el corpus y la repetición.
+#  Conserva el autoenlace y la fecha con guiones para los posts no publicados; si falta el
+#  script, python3 o el corpus, degrada a la comprobación anterior y lo advierte. No añade
+#  comprobaciones: el recuento de [OK] y el veredicto del corpus no cambian.
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
 # ============================================================================
@@ -335,17 +342,79 @@ grep -qE '\[citation:[0-9]+\]|\[VERIFICADO\]' <<<"$BODY" && fail "Marcadores aut
 grep -qiE "pendiente de revisi[oó]n|mayor resoluci[oó]n disponible" <<<"$BODY" && fail "Hay líneas de estado del documento o notas de resolución (prohibidas)" || ok "Sin líneas de estado ni notas de resolución"
 
 # ------------------------------------------ Enlaces internos canónicos (11)
-INTERNAL=$(grep -oE 'https://www.efemeridesdeaviacion.com/[^")]*' <<<"$BODY" | sort -u)
+# Hasta el 2026-11-25 esta auditoría contrastaba solo la FORMA de la URL con una
+# expresión regular: no miraba el destino. Desde esa fecha delega la verificación
+# profunda en verifica-enlaces.py, que debe estar junto a este script, y comprueba
+# además: (a) patrón canónico con uno o varios segmentos de categoría —los posts
+# con categorías dobles publican bajo /espacial/accidente/AAAA/MM/DD/, y enlazarlos
+# con un solo segmento da 404—; (b) que el prefijo de categoría coincida con las
+# categorías del destino y en el orden del YAML; (c) que la fecha de la URL sea la
+# del destino; (d) que el destino exista en el corpus (enlace muerto) y que no se
+# repita. El autoenlace y la fecha con guiones se siguen comprobando aquí, porque
+# estas dos reglas valen también para posts aún no publicados, que no están en el
+# corpus. Si falta python3, falta el script o no se localiza el corpus, la
+# auditoría se degrada a la comprobación de forma anterior y lo advierte: nunca
+# calla ni aprueba en falso.
+INTERNAL=$(grep -oE 'https://www\.efemeridesdeaviacion\.com/[^")]*' <<<"$BODY" | sort -u)
 LINK_FAIL=0
+ENL_SCRIPT="$SCRIPT_DIR/verifica-enlaces.py"
+CORPUS_DIR=""
+for C in "$SCRIPT_DIR/../corpus/_posts" "$PWD/corpus/_posts" "$PWD/_posts" "$SCRIPT_DIR/corpus/_posts"; do
+  [ -d "$C" ] && { CORPUS_DIR="$C"; break; }
+done
+PYBIN=$(command -v python3 2>/dev/null || true)
+
 if [ -n "$INTERNAL" ]; then
   SELF_PATH="/$(printf '%04d' "$((10#$YEAR))")/$(printf '%02d' "$((10#$MON))")/$(printf '%02d' "$((10#$DAY))")/${SLUG}.html"
   while IFS= read -r u; do
-    [[ "$u" =~ ^https://www\.efemeridesdeaviacion\.com/[a-z]+(/[a-z]+)?/[0-9]{4}/[0-9]{2}/[0-9]{2}/[^/-][^/]*\.html$ ]] \
-      || { fail "Enlace interno fuera del patrón canónico (fecha en barras, slug sin guion terminal): $u"; LINK_FAIL=1; }
     [[ "$u" == *"$SELF_PATH"* ]] && { fail "El post se enlaza a sí mismo: $u"; LINK_FAIL=1; }
     [[ "$u" == *"${DATE_LINE}-"* ]] && { fail "Enlace interno con fecha unida por guiones: $u"; LINK_FAIL=1; }
   done <<<"$INTERNAL"
-  [ $LINK_FAIL -eq 0 ] && ok "Enlaces internos conformes al patrón canónico de Jekyll"
+
+  if [ -n "$PYBIN" ] && [ -f "$ENL_SCRIPT" ] && [ -n "$CORPUS_DIR" ]; then
+    ENL_OUT=$("$PYBIN" "$ENL_SCRIPT" --corpus "$CORPUS_DIR" validar "$FILE" 2>&1) || true
+    # guarda: si el verificador no llegó a emitir su línea de salida, no se aprueba nada
+    if ! grep -q '^SALIDA: ' <<<"$ENL_OUT"; then
+      printf '[AVISO]   Enlaces internos: el verificador no terminó correctamente; se degrada a la comprobación de forma.\n'
+      printf '%s\n' "$ENL_OUT" | sed -n '1,3p' | sed 's/^/           · /'
+      ENL_OUT=""
+    fi
+    while IFS= read -r l; do
+      [ -z "$l" ] && continue
+      case "$l" in
+        *'[FALLO] '*)
+          msg="${l#*\[FALLO\] }"
+          case "$msg" in
+            "El post se enlaza a sí mismo"*) continue ;;   # ya emitido arriba, no se cuenta dos veces
+          esac
+          fail "Enlaces internos: $msg"; LINK_FAIL=1 ;;
+        *'[AVISO] '*)
+          printf '[AVISO]   Enlaces internos: %s\n' "${l#*\[AVISO\] }" ;;
+      esac
+    done <<<"$ENL_OUT"
+    if ! grep -q '^SALIDA: ' <<<"$ENL_OUT"; then
+      while IFS= read -r u; do
+        [[ "$u" =~ ^https://www\.efemeridesdeaviacion\.com/[a-z]+(/[a-z]+)?/[0-9]{4}/[0-9]{2}/[0-9]{2}/[^/-][^/]*\.html$ ]] \
+          || { fail "Enlace interno fuera del patrón canónico (fecha en barras, slug sin guion terminal): $u"; LINK_FAIL=1; }
+      done <<<"$INTERNAL"
+    fi
+    N_ENL=$(grep -c '' <<<"$INTERNAL")
+    if grep -q '^SALIDA: ' <<<"$ENL_OUT"; then
+      [ $LINK_FAIL -eq 0 ] && ok "Enlaces internos conformes al patrón canónico de Jekyll ($N_ENL enlace(s): categoría, fecha y destino verificados)"
+    else
+      [ $LINK_FAIL -eq 0 ] && ok "Enlaces internos conformes al patrón canónico de Jekyll ($N_ENL enlace(s); solo forma: ver aviso)"
+    fi
+  else
+    if [ -z "$PYBIN" ]; then MOTIVO="python3 no disponible en el PATH"
+    elif [ ! -f "$ENL_SCRIPT" ]; then MOTIVO="falta $ENL_SCRIPT (debe copiarse junto al linter)"
+    else MOTIVO="no se localizó el corpus de posts (usar --corpus en verifica-enlaces.py)"; fi
+    printf '[AVISO]   Enlaces internos: verificación de categoría, fecha y destino NO ejecutada — %s. Solo se comprobó la forma de la URL.\n' "$MOTIVO"
+    while IFS= read -r u; do
+      [[ "$u" =~ ^https://www\.efemeridesdeaviacion\.com/[a-z]+(/[a-z]+)?/[0-9]{4}/[0-9]{2}/[0-9]{2}/[^/-][^/]*\.html$ ]] \
+        || { fail "Enlace interno fuera del patrón canónico (fecha en barras, slug sin guion terminal): $u"; LINK_FAIL=1; }
+    done <<<"$INTERNAL"
+    [ $LINK_FAIL -eq 0 ] && ok "Enlaces internos conformes al patrón canónico de Jekyll (solo forma: ver aviso)"
+  fi
 else
   ok "Sin enlaces internos (nada que auditar)"
 fi
