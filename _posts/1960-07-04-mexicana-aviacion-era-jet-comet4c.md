@@ -78,7 +78,7 @@ La entrada en servicio del De Havilland Comet 4C el 4 de julio de 1960 situó a 
 - **Consolidación de la ASPA y derechos laborales:** el adiestramiento de los pilotos en el nuevo equipo de reacción sirvió para ratificar el primer contrato colectivo firmado con la Asociación Sindical de Pilotos Aviadores (ASPA), marcando un hito en la defensa de los derechos profesionales de las tripulaciones.
 - **Modernización de la infraestructura aeroportuaria:** la operación regular de reactores pesados impulsó a la Secretaría de Comunicaciones y Transportes (SCT) a adquirir y reforzar las pistas y terminales de los aeropuertos nacionales de la época.
 - **Réplica de la competencia nacional:** el primado del jet mexicano tuvo réplica pocos meses después: a finales de 1960 y comienzos de 1961, Aeronaves de México —la segunda aerolínea del país, <a href="https://www.efemeridesdeaviacion.com/fundacion/1934/09/14/fundacion-aeronaves-de-mexico.html" style="color: #315fea; text-decoration: none;">fundada el 14 de septiembre de 1934</a> y rebautizada Aeroméxico en febrero de 1972— incorporó sus primeros Douglas DC-8 para la ruta hacia Nueva York.
-- **Paso al Boeing 727:** las lecciones operativas obtenidas con los Comet 4C cimentaron la posterior adquisición del trirreactor Boeing 727 a partir de 1966, que convirtió a Mexicana en una de las mayores operadoras de reactores de Latinoamérica.
+- **Paso al Boeing 727:** las lecciones operativas obtenidas con los Comet 4C cimentaron la posterior adquisición del <a href="https://www.efemeridesdeaviacion.com/evento/1962/11/27/boeing-727-rollout.html" style="color: #315fea; text-decoration: none;">trirreactor Boeing 727</a> a partir de 1966, que convirtió a Mexicana en una de las mayores operadoras de reactores de Latinoamérica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -113,7 +113,7 @@ A más de seis décadas de su inauguración, el vuelo del Comet 4C de Mexicana e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 11:50:00 CST
+- **Timestamp de verificación:** 2026-11-26 15:08:44 CST
 - **Fuentes primarias/institucionales consultadas:** Secretaría de Comunicaciones y Transportes de México (`El Mirador SCT`), registros históricos de ASPA y catálogo de restauración del *Museum of Flight* (Seattle).
 - **Fuentes secundarias de contraste:** A21, Transponder 1200 y Wikipedia (`Compañía Mexicana de Aviación`).
 - **Discrepancias resueltas:** Se confirma al Cap. Roberto Pini Pignol como comandante del vuelo inaugural del `XA-NAS` del 4 de julio de 1960 (3 horas de vuelo y 81 pasajeros), deslindándolo de la actuación sindical previa del Cap. Andrés Fabre Terán.

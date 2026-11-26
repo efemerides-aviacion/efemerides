@@ -49,7 +49,7 @@ Los viajes transcontinentales y transatlánticos en aviones de hélice exigían 
 
 ### Entorno tecnológico
 
-Tras los accidentes por fatiga estructural que habían obligado a retirar de servicio en 1954 a la primera generación del <a href="https://www.efemeridesdeaviacion.com/accidente/1954/01/10/descompresion-explosiva-comet-boac.html" style="color: #315fea; text-decoration: none;">reactor británico de Havilland Comet 1</a>, el Presidente de Boeing, William M. Allen, apostó dieciséis millones de dólares de fondos propios en el prototipo **Model 367-80 (*Dash 80*)**, que realizó su <a href="https://www.efemeridesdeaviacion.com/evento/1954/07/15/primer-vuelo-boeing-367-80-dash80.html" style="color: #315fea; text-decoration: none;">vuelo inaugural el 15 de julio de 1954</a>. Aunque el *Dash 80* dio origen inmediato al avión cisterna militar KC-135 Stratotanker con un fuselaje de 144 pulgadas de anchura, las aerolíneas estadounidenses exigieron una cabina capaz de alojar seis asientos por fila (tres más tres) para competir con el futuro Douglas DC-8. Boeing aceptó el desafío y ensanchó el fuselaje de producción del 707-120 hasta **148 pulgadas (3,76 metros)**, estandarizando la sección transversal que heredarían los modelos 727, 737 y 757.
+Tras los accidentes por fatiga estructural que habían obligado a retirar de servicio en 1954 a la primera generación del <a href="https://www.efemeridesdeaviacion.com/accidente/1954/01/10/descompresion-explosiva-comet-boac.html" style="color: #315fea; text-decoration: none;">reactor británico de Havilland Comet 1</a>, el Presidente de Boeing, William M. Allen, apostó dieciséis millones de dólares de fondos propios en el prototipo **Model 367-80 (*Dash 80*)**, que realizó su <a href="https://www.efemeridesdeaviacion.com/evento/1954/07/15/primer-vuelo-boeing-367-80-dash80.html" style="color: #315fea; text-decoration: none;">vuelo inaugural el 15 de julio de 1954</a>. Aunque el *Dash 80* dio origen inmediato al avión cisterna militar KC-135 Stratotanker con un fuselaje de 144 pulgadas de anchura, las aerolíneas estadounidenses exigieron una cabina capaz de alojar seis asientos por fila (tres más tres) para competir con el futuro Douglas DC-8. Boeing aceptó el desafío y ensanchó el fuselaje de producción del 707-120 hasta **148 pulgadas (3,76 metros)**, estandarizando la sección transversal que heredarían los modelos <a href="https://www.efemeridesdeaviacion.com/evento/1962/11/27/boeing-727-rollout.html" style="color: #315fea; text-decoration: none;">727</a>, 737 y 757.
 
 ### Entorno cultural
 
@@ -106,7 +106,7 @@ El primer ejemplar de serie `N708PA`, modernizado en febrero de 1965 al estánda
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 09:58:00 CST
+- **Timestamp de verificación:** 2026-11-26 15:08:44 CST
 - **Fuentes primarias/institucionales consultadas:** Archivo histórico de Boeing (reproducido en *This Day in Aviation*) y Encyclopaedia Britannica.
 - **Fuentes secundarias de contraste:** This Day in Aviation (`20 December 1957`) y Wikipedia (`Boeing 707`).
 - **Discrepancias resueltas:** Se diferencia el demostrador 367-80 (15 de julio de 1954, 132 pulgadas) del primer 707-120/121 de serie `N708PA` (20 de diciembre de 1957, 148 pulgadas), precisando la duración de 7 minutos del primer traslado Renton–Boeing Field y el segundo vuelo vespertino de 71 minutos.

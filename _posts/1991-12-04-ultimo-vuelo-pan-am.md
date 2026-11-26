@@ -60,7 +60,7 @@ El ocaso de Pan Am reflejó el cambio estructural que trajo la Ley de Desregulac
 - **8 de enero de 1991:** Asfixiada por el alza del queroseno y la caída de viajeros durante la crisis del Golfo Pérsico, Pan Am solicita protección judicial bajo el Capítulo 11 concursal estadounidense.
 - **Agosto de 1991:** El tribunal concursal aprueba la transferencia a Delta Air Lines de las líneas europeas desde el centro de distribución de Fráncfort y del corredor de cabotaje del noreste estadounidense, dejando a una Pan Am reducida (*Pan Am II*) concentrada en Miami y las rutas hacia América Latina y el Caribe.
 - **3 de diciembre de 1991:** Tras evaluar las pérdidas acumuladas en el otoño, la dirección de Delta Air Lines comunica por la noche que no desembolsará el tramo adicional de 25 millones de dólares necesario para mantener la compañía en el aire.
-- **4 de diciembre de 1991:** El Presidente de Pan Am, Russell L. Ray Jr., ordena el cese de las operaciones a las 09:00 EST. El Vuelo 436, que ya había despegado de Bridgetown (Barbados) a los mandos del Capitán Mark Pyle, recibe permiso para completar el viaje hasta Miami: el Boeing 727-221 *Clipper Goodwill* realiza una pasada baja de despedida, aterriza en la pista 12 y rueda hasta la puerta E31 bajo el arco de agua de los camiones de bomberos del aeropuerto.
+- **4 de diciembre de 1991:** El Presidente de Pan Am, Russell L. Ray Jr., ordena el cese de las operaciones a las 09:00 EST. El Vuelo 436, que ya había despegado de Bridgetown (Barbados) a los mandos del Capitán Mark Pyle, recibe permiso para completar el viaje hasta Miami: el <a href="https://www.efemeridesdeaviacion.com/evento/1962/11/27/boeing-727-rollout.html" style="color: #315fea; text-decoration: none;">Boeing 727-221</a> *Clipper Goodwill* realiza una pasada baja de despedida, aterriza en la pista 12 y rueda hasta la puerta E31 bajo el arco de agua de los camiones de bomberos del aeropuerto.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -99,7 +99,7 @@ Más de tres décadas después de aquel último aterrizaje en Miami, Pan America
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-11-18 14:26:56 CST
+- **Timestamp de verificación:** 2026-11-26 15:08:44 CST
 - **Fuentes primarias/institucionales consultadas:** Prensa Libre (archivo hemerográfico de 1991); Pan Am Historical Foundation.
 - **Fuentes secundarias de contraste:** Gaceta Aeronáutica, Aero-Naves y Wikipedia (EN/ES).
 - **Discrepancias resueltas:** Se diferencia la acogida al Capítulo 11 (8 de enero de 1991) del cierre operativo (4 de diciembre de 1991) y se documenta en la nota aclaratoria la horquilla horaria del aterrizaje del vuelo PA436 en Miami.

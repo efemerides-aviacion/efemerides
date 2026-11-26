@@ -51,7 +51,7 @@ En 1948, el año de su nacimiento, las cabinas de las grandes aerolíneas estado
 
 ### Entorno tecnológico
 
-El avión de su debut fue el Boeing 727, con tripulación de tres: capitán, primer oficial e ingeniero de vuelo. Ese tercer asiento —el de ingeniero de vuelo, hoy desaparecido en los jets de línea— fue su puerta de entrada. Más tarde pasó al 757 y al 767, ya con mando de dos. El ejército estadounidense aún no admitía mujeres como piloto de combate: muchos de sus compañeros de academia venían de las fuerzas armadas; ella, de la aviación general.
+El avión de su debut fue el <a href="https://www.efemeridesdeaviacion.com/evento/1962/11/27/boeing-727-rollout.html" style="color: #315fea; text-decoration: none;">Boeing 727</a>, con tripulación de tres: capitán, primer oficial e ingeniero de vuelo. Ese tercer asiento —el de ingeniero de vuelo, hoy desaparecido en los jets de línea— fue su puerta de entrada. Más tarde pasó al 757 y al 767, ya con mando de dos. El ejército estadounidense aún no admitía mujeres como piloto de combate: muchos de sus compañeros de academia venían de las fuerzas armadas; ella, de la aviación general.
 
 ### Entorno cultural
 
@@ -116,7 +116,7 @@ Ella no se presentó como militante. Quiso el trabajo que había visto en su pad
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-25 15:37:53 CST
+- **Timestamp de verificación:** 2026-11-26 15:08:44 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum (artículo de 2021 y ficha A20060636000); Women in Aviation International (Pioneer Hall of Fame, 2018); American Airlines Newsroom (2023) y cronología del centenario
 - **Fuentes secundarias de contraste:** entrevista de Bonnie Tiburzi a *Business Insider* (2023); *The Washington Post* (1984)
 - **Discrepancias resueltas:** «primera piloto de aerolínea» frente a Warner (Frontier) y Widerøe (SAS); «First Officer» del comunicado de 2023 frente al asiento de ingeniero de vuelo; último vuelo el 31-ago-1998 frente al retiro en 1999.

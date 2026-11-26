@@ -46,7 +46,7 @@ La década de 1960 fue testigo de la explosión del turismo de masas y la democr
 
 ### Entorno tecnológico
 
-El diseño del 737 fue una lección de pragmatismo. Para ahorrar tiempo y costes, Boeing decidió compartir un 60% de las piezas con el Boeing 727, incluyendo la sección transversal del fuselaje (que permitía la codiciada configuración de 3+3 asientos) y componentes del morro derivados del 707.
+El diseño del 737 fue una lección de pragmatismo. Para ahorrar tiempo y costes, Boeing decidió compartir un 60% de las piezas con el <a href="https://www.efemeridesdeaviacion.com/evento/1962/11/27/boeing-727-rollout.html" style="color: #315fea; text-decoration: none;">Boeing 727</a>, incluyendo la sección transversal del fuselaje (que permitía la codiciada configuración de 3+3 asientos) y componentes del morro derivados del 707.
 
 La principal innovación estética y funcional fue la ubicación de los motores. Mientras sus competidores colocaban los motores en la cola, el ingeniero Joe Sutter (futuro «padre del 747») decidió montar los Pratt & Whitney JT8D directamente debajo de las alas. Para evitar que el tren de aterrizaje fuera excesivamente largo y complejo, los motores se incrustaron prácticamente en el ala, creando la característica forma «chata» de las góndolas de los primeros 737. Esto redujo el peso en 700 kg y facilitó el mantenimiento en tierra.
 
@@ -100,7 +100,7 @@ El primer vuelo del Boeing 737 el 9 de abril de 1967 marcó el nacimiento del «
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-11-26 15:08:44 CST  
 - **Fuentes primarias/institucionales consultadas:** HistoryLink.org, Boeing Historical Snapshot, Wikipedia (EN/ES)
 - **Discrepancias resueltas:** Se ha verificado la matrícula N73700 y la fecha exacta del primer vuelo. La duración exacta del vuelo (2h 30min) es consistente en todas las fuentes. Se omite la controversia sobre el retraso por fusible por falta de confirmación oficial.
 - **Nivel de confianza:** Alto
