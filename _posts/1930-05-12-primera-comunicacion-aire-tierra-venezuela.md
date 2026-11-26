@@ -89,7 +89,7 @@ El enlace del 12 de mayo conectó el Breguet 19 Nro. 2 con la estación fija de 
 
 #### La tripulación
 
-El avión fue pilotado por el Alférez de Navío Jorge Marcano, quien luego llegó a jefatura de la Escuela de Aviación Militar; la radio corrió a cargo del especialista Guillermo Pacanins Acevedo, egresado de la primera promoción de radiotelegrafía.
+El avión fue pilotado por el Alférez de Navío Jorge Marcano, quien luego llegó a jefatura de la Escuela de Aviación Militar; la radio corrió a cargo del especialista <a href="https://www.efemeridesdeaviacion.com/nacimiento/1909/02/27/nacimiento-guillermo-pacanins-acevedo.html" style="color: #315fea; text-decoration: none;">Guillermo Pacanins Acevedo</a>, egresado de la primera promoción de radiotelegrafía.
 
 #### El testimonio de Pacanins
 
@@ -140,7 +140,7 @@ De aquella primera escuela nació la actual ESCOELFA, que honra la memoria de Ce
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-04 17:11:57 CST  
+- **Timestamp de verificación:** 2026-11-26 08:33:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Documento fuente suministrado por Enrique Pomares, Fav Club Venezuela, Wikipedia (Enciclopedia El Mirador), Saber UCV
 - **Discrepancias resueltas:** La información proporcionada en el documento adjunto es consistente con las fuentes complementarias. Los detalles biográficos de Guillermo Pacanins fueron ampliados con fuentes externas. La fecha de la primera comunicación (12 de mayo de 1930) es consistente en todas las fuentes.
 - **Nivel de confianza:** Alto

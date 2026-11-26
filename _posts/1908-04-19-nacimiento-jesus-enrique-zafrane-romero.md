@@ -69,7 +69,7 @@ La siguiente secuencia procede principalmente de FAV-Club; las fechas de formaci
 - **1927–1928:** ingresa en la Escuela de Aviación Militar a los diecinueve años. Obtiene el título de mecánico el 30 de abril de 1928 y pasa a la formación de pilotaje.
 - **4 de julio de 1928:** realiza su primer vuelo solo. La biografía sitúa su ascenso a subteniente el 9 de agosto del mismo año, dentro de la progresión establecida por la escuela.
 - **5 de enero de 1934:** alcanza el grado de teniente. Su actividad se desarrolla sobre diversos aparatos de instrucción y servicio, no exclusivamente sobre cazas.
-- **1935:** viaja a Francia con el Capitán Alcides Quintero y el Teniente Guillermo Pacanins. FAV-Club fecha la llegada a El Havre el 6 de febrero. La misión incluye formación en vuelo nocturno, navegación y empleo de aviones de caza, además del adiestramiento relacionado con la compra de tres Dewoitine.
+- **1935:** viaja a Francia con el Capitán Alcides Quintero y el Teniente <a href="https://www.efemeridesdeaviacion.com/nacimiento/1909/02/27/nacimiento-guillermo-pacanins-acevedo.html" style="color: #315fea; text-decoration: none;">Guillermo Pacanins</a>. FAV-Club fecha la llegada a El Havre el 6 de febrero. La misión incluye formación en vuelo nocturno, navegación y empleo de aviones de caza, además del adiestramiento relacionado con la compra de tres Dewoitine.
 - **5 de enero de 1936:** asciende a capitán y queda asociado al mando de la primera Escuadrilla de Caza. La publicación especializada identifica entre sus integrantes al Subteniente Josué López Henríquez y al Sargento Primero Carlos Arias Velazco.
 - **30 de abril de 1936:** muere durante una misión de entrenamiento cuando su aparato se precipita al norte de Boca del Río, en el área de Maracay. El relato identifica un Dewoitine, pero no permite establecer por sí solo una causa técnica del siniestro.
 
@@ -112,7 +112,7 @@ Las publicaciones posteriores han reunido fotografías, recuerdos familiares y b
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-02 14:01:25 CST
+- **Timestamp de verificación:** 2026-11-26 08:31:14 CST
 - **Fuentes primarias/institucionales consultadas:** No se dispone de expediente militar primario; FAV, publicación conmemorativa.
 - **Fuentes secundarias de contraste:** FAV-Club; Cuando Venezuela estaba bien gobernada; Historias Taurinas.
 - **Datos no confirmados:** variantes del nacimiento (1907/1908), ingreso escolar y misión francesa; causa técnica y número de serie del aparato accidentado.
