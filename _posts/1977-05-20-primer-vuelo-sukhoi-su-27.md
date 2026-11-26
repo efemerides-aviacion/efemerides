@@ -100,7 +100,7 @@ El avión también estableció récords mundiales: una versión modificada desig
 
 ## Legado
 
-El Su-27 es, junto al MiG-21 y el Su-57, uno de los aviones más representativos de la aviación militar rusa. Su diseño resultó tan acertado que, más de 45 años después de su primer vuelo, los derivados modernizados (Su-30SM, Su-35S) constituyen el núcleo de la Fuerza Aeroespacial Rusa.
+El Su-27 es, junto al MiG-21 y el <a href="https://www.efemeridesdeaviacion.com/evento/2010/01/29/primer-vuelo-sukhoi-t-50-pak-fa.html" style="color: #315fea; text-decoration: none;">Su-57</a>, uno de los aviones más representativos de la aviación militar rusa. Su diseño resultó tan acertado que, más de 45 años después de su primer vuelo, los derivados modernizados (Su-30SM, Su-35S) constituyen el núcleo de la Fuerza Aeroespacial Rusa.
 
 El Su-27 y sus derivados han sido operados por más de 15 países, incluyendo China (que produce su propia versión con licencia, la Shenyang J-11), India, Vietnam, Indonesia, Etiopía y Ucrania. Se han producido más de 1.600 unidades de toda la familia Flanker desde 1985.
 
@@ -125,7 +125,7 @@ El prototipo original T-10-1 se exhibe actualmente en el Museo de la Fuerza Aér
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Timestamp de verificación:** 2026-11-26 12:06:23 CST  
 - **Fuentes primarias/institucionales consultadas:** Rostec (oficial), TASS, Wikipedia (EN), Jane's, Zona Militar, WarHistory.org
 - **Discrepancias resueltas:** Todas las fuentes coinciden unánimemente en la fecha del 20 de mayo de 1977 y en el piloto Vladímir Ilyushin. Las fuentes también coinciden en que el primer prototipo fue designado T-10-1 y que el diseño sufrió una revisión radical tras los prototipos iniciales.
 - **Nivel de confianza:** Alto
