@@ -59,7 +59,7 @@ La evolución de la base desde la compra de los terrenos hasta su consolidación
 
 - **1934:** el Estado venezolano adquiere los terrenos de los Potreros de San Vicente (entre Palo Negro y Maracay) por 280.000 bolívares.
 - **1952–1953:** se construyen la torre de control y los pabellones de los escuadrones C-34 y C-36, e inician operaciones en la pista los primeros bombarderos English Electric Canberra B.Mk.2 del Escuadrón B-40.
-- **Julio–octubre de 1955:** se establecen en el recinto el Escuadrón de Caza N.º 36 (comandado desde el 5 de julio por el Teniente Coronel Alberto Delgado Ontiveros y dotado desde octubre con los nuevos F-86F Sabre) y el Escuadrón de Caza N.º 34 (equipado con reactores británicos de Havilland Venom FB.Mk.54).
+- **Julio–octubre de 1955:** se establecen en el recinto el Escuadrón de Caza N.º 36 (comandado desde el 5 de julio por el Teniente Coronel Alberto Delgado Ontiveros y dotado desde octubre con <a href="https://www.efemeridesdeaviacion.com/evento/1955/11/24/primer-vuelo-supersonico-venezuela-f86f-sabre.html" style="color: #315fea; text-decoration: none;">los nuevos F-86F Sabre</a>) y el Escuadrón de Caza N.º 34 (equipado con reactores británicos de Havilland Venom FB.Mk.54).
 - **9 de diciembre de 1955:** el presidente Marcos Pérez Jiménez y el Comandante de la Aviación, Coronel José Saúl Guerrero Rosales, inauguran oficialmente la base con motivo del XXXV aniversario de la fuerza; el Teniente Coronel Delgado Ontiveros asume como primer comandante del comando de base e inicia con el Servicio de Ingeniería las obras de canales de drenaje y cercado perimétrico.
 - **2 de diciembre de 1958:** por disposición del despacho de la Defensa (Resolución N.º A-57) se oficializa el nombre de **Base Aérea «El Libertador» (BAEL)**.
 - **27 de julio de 1961 y 1962:** en el marco de la reorganización en grupos aéreos, la base alberga nueve escuadrones operativos (C-34, C-35, C-36, B-39, B-40, T-1, T-2, R-1 y Vuelo «A») y pasa a ser sede fundacional del <a href="https://www.efemeridesdeaviacion.com/fundacion/1961/07/27/creacion-grupo-aereo-transporte-6-pegasos.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Transporte N.º 6 «Pegasos»</a>, del Grupo Aéreo de Caza N.º 12 y del Grupo Aéreo de Bombardeo N.º 13, iniciándose en 1962 la construcción de su área industrial de mantenimiento de tercer escalón.
@@ -100,7 +100,7 @@ Desde aquel corte de cinta del 9 de diciembre de 1955, la Base Aérea «El Liber
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-07 09:25:00 CST  
+- **Timestamp de verificación:** 2026-11-26 10:30:37 CST  
 - **Fuentes primarias/institucionales consultadas:** registros históricos de la Fuerza Aérea Venezolana / Aviación Militar Bolivariana (resoluciones N.º 707 y N.º A-57), Academia Nacional de la Ingeniería y el Hábitat  
 - **Fuentes de contraste:** Wikipedia (ES), Defensa.com, OurAirports (SVBL)  
 - **Discrepancias resueltas:** se articulan las tres fechas del proceso fundacional: inicio de obras de la torre de control (1952), inauguración oficial en Palo Negro (9 de diciembre de 1955) y denominación formal «El Libertador» (2 de diciembre de 1958).  

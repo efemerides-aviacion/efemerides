@@ -60,7 +60,7 @@ La secuencia que llevó del vuelo de instrucción en Nevada al despliegue operat
 - **1954–enero de 1955:** los tres alféreces venezolanos (Azara, Marquina y Martínez Zerpa) cursan en bases estadounidenses las etapas de vuelo por instrumentos y transición a reactores antes de incorporarse al programa avanzado de caza en Nellis Air Force Base (Nevada).
 - **10 de febrero de 1955 (vuelo en Nellis):** durante una misión programada de familiarización con el régimen transónico a gran altitud sobre el polígono de Nevada, los tres jóvenes oficiales venezolanos ascienden en formación con sus North American F-86F Sabre y ejecutan el picado supersónico reglamentario, superando por primera vez para las alas de Venezuela la velocidad de Mach 1.
 - **10 de febrero de 1955 (reconocimiento):** al tomar tierra en la plataforma de Nellis, el delegado de North American Aviation, Donald Wolfe, hace entrega a los tres Alféreces del certificado oficial y del pin del *Club Supersónico*.
-- **Julio y octubre de 1955:** graduados como oficiales pilotos de caza, regresan al país pocos meses antes de que en octubre de 1955 arriben a Venezuela los primeros **North American F-86F-30-NA Sabre** (de un total de 30 ejemplares recibidos entre 1955 y 1960), asignados inicialmente al **Escuadrón de Caza N.º 36 «Jaguares»** en Maracay.
+- **Julio y octubre de 1955:** graduados como oficiales pilotos de caza, regresan al país pocos meses antes de que en octubre de 1955 arriben a Venezuela <a href="https://www.efemeridesdeaviacion.com/evento/1955/11/24/primer-vuelo-supersonico-venezuela-f86f-sabre.html" style="color: #315fea; text-decoration: none;">los primeros <strong>North American F-86F-30-NA Sabre</strong></a> (de un total de 30 ejemplares recibidos entre 1955 y 1960), asignados inicialmente al **Escuadrón de Caza N.º 36 «Jaguares»** en Maracay.
 - **Décadas de 1960 y 1970:** los F-86F Sabre —complementados a partir de 1966 por los interceptores todo tiempo provistos de radar F-86K— integran la columna vertebral del <a href="https://www.efemeridesdeaviacion.com/fundacion/1961/07/27/creacion-grupo-aereo-caza-12-grifos.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Caza N.º 12</a> y prestan servicio en Palo Negro, Maracaibo y <a href="https://www.efemeridesdeaviacion.com/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Barquisimeto</a> hasta el relevo generacional por los cazabombarderos supersónicos Canadair CF-5 en la década de 1970.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -99,7 +99,7 @@ Desde aquella jornada en el desierto de Nevada, los nombres de Pascual Azara, Le
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-07 08:35:00 CST  
+- **Timestamp de verificación:** 2026-11-26 10:30:36 CST  
 - **Fuentes primarias/institucionales consultadas:** archivo histórico de la Fuerza Aérea Venezolana (FAV) y registro de números de serie de la USAF (Joe Baugher)  
 - **Fuentes de contraste:** Defensa.com, Archivo Historias y Personajes de la FAV, Wikipedia (ES)  
 - **Discrepancias resueltas:** se precisa el carácter de picado controlado desde gran altitud del cruce de Mach 1 en el F-86F Sabre en Nellis AFB (10 de febrero de 1955), previo a la recepción de los primeros ejemplares en Venezuela en octubre de 1955.  
