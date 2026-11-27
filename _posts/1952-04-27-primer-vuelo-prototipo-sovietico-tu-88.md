@@ -52,7 +52,7 @@ Dos avances técnicos desarrollados en Moscú entre 1949 y 1951 hicieron viable 
 
 ### Entorno cultural
 
-El programa avanzó en paralelo con los grandes reactores estratégicos de ambos bloques durante 1952: el primer despegue del Tu-88 en Zhukovski se produjo apenas doce días después del <a href="https://www.efemeridesdeaviacion.com/evento/1952/04/15/primer-vuelo-yb-52-stratofortress.html" style="color: #315fea; text-decoration: none;">vuelo inaugural del Boeing YB-52 Stratofortress</a> en Seattle y cuatro meses antes del estreno del bombardero británico <a href="https://www.efemeridesdeaviacion.com/evento/1952/08/30/primer-vuelo-avro-vulcan.html" style="color: #315fea; text-decoration: none;">Avro Vulcan</a>.
+El programa avanzó en paralelo con los grandes reactores estratégicos de ambos bloques durante 1952: el primer despegue del Tu-88 en Zhukovski se produjo apenas doce días después del <a href="https://www.efemeridesdeaviacion.com/evento/1952/04/15/primer-vuelo-yb-52-stratofortress.html" style="color: #315fea; text-decoration: none;">vuelo inaugural del Boeing YB-52 Stratofortress</a> en Seattle y cuatro meses antes del estreno del bombardero británico <a href="https://www.efemeridesdeaviacion.com/evento/1952/08/30/primer-vuelo-avro-vulcan.html" style="color: #315fea; text-decoration: none;">Avro Vulcan</a>, y en noviembre despegó en Zhukovski el <a href="https://www.efemeridesdeaviacion.com/evento/1952/11/12/primer-vuelo-tupolev-tu-95.html" style="color: #315fea; text-decoration: none;">«95-1», origen del Túpolev Tu-95</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
