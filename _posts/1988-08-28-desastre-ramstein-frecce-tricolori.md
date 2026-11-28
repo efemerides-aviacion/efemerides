@@ -67,7 +67,7 @@ Hasta aquella tarde, los festivales europeos admitían maniobras con vector de v
 - **15:40:** despegan los diez MB-339PAN de las Frecce Tricolori para cerrar la jornada.
 - **15:44:** los dos grupos completan el corazón y se cruzan frente a las gradas. **Pony 10 llega al punto de intersección con antelación y a menor altura de la prevista.** El ala derecha del solista atraviesa la cabina de Pony 2 y su morro secciona la cola de Pony 1.
 - **Segundos 1 a 3:** Pony 2 queda destruido y el Capitán Alessio muere en el acto; Pony 1 entra en barrena; Nutarelli muere en la colisión.
-- **Segundos 3 a 7:** Pony 10, con la proa destrozada y en llamas, sigue una trayectoria balística sobre la pista, golpea el suelo delante de las gradas, arrastra la alambrada de concertina y entra ardiendo en la multitud hasta detenerse contra un furgón frigorífico de helados.
+- **Segundos 3 a 7:** Pony 10, con el morro destrozado y en llamas, sigue una trayectoria balística sobre la pista, golpea el suelo delante de las gradas, arrastra la alambrada de concertina y entra ardiendo en la multitud hasta detenerse contra un furgón frigorífico de helados.
 - **En paralelo:** Naldini alcanza a eyectarse de Pony 1, pero su paracaídas no llega a abrirse antes de tocar la pista; su aparato cae sobre una calle de rodaje y alcanza un helicóptero medicalizado UH-60 Black Hawk, hiriendo de gravedad a su piloto. Los siete aviones supervivientes reciben orden de aterrizar en la base de Sembach.
 - **15:46–16:47:** llegan los equipos de extinción (15:46), la primera ambulancia estadounidense (15:48) y los helicópteros alemanes *Christoph 5* y *Christoph 16* (16:10), pero a las 16:47 el centro de coordinación de Kaiserslautern reconoce por radio que aún desconoce la magnitud exacta del siniestro.
 - **29 de agosto de 1988:** el Gobierno federal alemán suspende de inmediato todas las demostraciones aéreas acrobáticas en territorio nacional.
@@ -123,7 +123,7 @@ La huella cultural incluye a la banda alemana **Rammstein**, que tomó su nombre
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 18:42:00 CST
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Institut für pfälzische Geschichte und Volkskunde; <em>Journal of the Royal Army Medical Corps</em> (T. E. Martin, 1990); informe oficial citado en Austrian Wings.
 - **Fuentes secundarias de contraste:** Wikipedia (DE/EN/IT); Rai News; Panorama; Die Welt.
 - **Discrepancias resueltas:** Se adopta el balance cerrado de 70 fallecidos frente a los recuentos preliminares (34–69), se indica la estimación de 300.000 asistentes y se documenta el rechazo judicial de la hipótesis de Ustica.

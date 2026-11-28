@@ -47,7 +47,7 @@ Dentro de la carrera tecnológica de la Guerra Fría, la Fuerza Aérea de Estado
 
 ### Entorno tecnológico
 
-Aunque el avión cohete experimental Bell X-1 pilotado por Chuck Yeager había atravesado por primera vez la barrera sónica en octubre de 1947 tras ser lanzado desde la bodega de un bombardero B-29, lograr que un caza autónomo de serie despegara por sus propios medios y venciera el brusco incremento de resistencia aerodinámica transónica en vuelo nivelado exigía tres avances simultáneos. El equipo de ingenieros de North American liderado por Raymond Rice y Edgar Schmued incrementó la flecha alar de los 35 grados del F-86 a **45 grados** en su propuesta *Sabre 45*, diseñó un empenaje horizontal enterizo accionado hidráulicamente para conservar el mando de cabeceo a través de las ondas de choque e integró el nuevo turborreactor de doble rotor axial Pratt &amp; Whitney J57 provisto de postcombustión, rodeando la sección caliente de popa con chapas de titanio capaces de resistir las temperaturas del postquemador.
+Aunque el avión cohete experimental Bell X-1 pilotado por Chuck Yeager había atravesado por primera vez la barrera sónica en octubre de 1947 tras ser lanzado desde la bodega de un bombardero B-29, lograr que un caza autónomo de serie despegara por sus propios medios y venciera el brusco incremento de resistencia aerodinámica transónica en vuelo nivelado exigía tres avances simultáneos. El equipo de ingenieros de North American liderado por Raymond Rice y Edgar Schmued incrementó la flecha alar de los 35 grados del F-86 a **45 grados** en su propuesta *Sabre 45*, diseñó un empenaje horizontal enterizo accionado hidráulicamente para conservar el mando de cabeceo a través de las ondas de choque e integró el nuevo turborreactor de doble rotor axial Pratt &amp; Whitney J57 provisto de postcombustión, rodeando la sección caliente de cola con chapas de titanio capaces de resistir las temperaturas del postquemador.
 
 ### Entorno cultural
 
@@ -104,7 +104,7 @@ Subsanados sus defectos de juventud en las variantes definitivas F-100C, F-100D 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 08:35:00 CST  
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Air Force Test Center (USAF), San Diego Air &amp; Space Museum  
 - **Fuentes de contraste:** This Day in Aviation, Wikipedia (EN/ES)  
 - **Discrepancias resueltas:** se explica el rango de Mach 1,03–1,10 registrado en las dos salidas del 25 de mayo de 1953 y se descarta con base en los datos instrumentados (Mach 0,93) el rumor sobre el XP-86 en 1947.  

@@ -46,7 +46,7 @@ En la Gran Bretaña de la posguerra inmediata, sometida al racionamiento y a la 
 
 ### Entorno tecnológico
 
-Mientras los primeros ensayos mundiales con turbinas acopladas a hélices en 1945 —como el Gloster Meteor modificado con motores Rolls-Royce Trent o el Ryan XF2R-1 estadounidense— habían empleado plantas bimotores o configuraciones mixtas con un turborreactor auxiliar en la cola, la Especificación T.7/45 exigía confiar toda la tracción de la aeronave a un único turbohélice montado en el morro. El motor elegido, el Armstrong Siddeley Mamba, utilizaba un compresor axial de diez etapas que permitía un carenado frontal sumamente estrecho y ofrecía a la cabina una visibilidad hacia proa muy superior a la de los motores radiales o en línea de gran cilindrada, a la vez que eliminaba el par de torsión brusco y las vibraciones propias de los motores de pistón.
+Mientras los primeros ensayos mundiales con turbinas acopladas a hélices en 1945 —como el Gloster Meteor modificado con motores Rolls-Royce Trent o el Ryan XF2R-1 estadounidense— habían empleado plantas bimotores o configuraciones mixtas con un turborreactor auxiliar en la cola, la Especificación T.7/45 exigía confiar toda la tracción de la aeronave a un único turbohélice montado en el morro. El motor elegido, el Armstrong Siddeley Mamba, utilizaba un compresor axial de diez etapas que permitía un carenado frontal sumamente estrecho y ofrecía a la cabina una visibilidad hacia delante muy superior a la de los motores radiales o en línea de gran cilindrada, a la vez que eliminaba el par de torsión brusco y las vibraciones propias de los motores de pistón.
 
 ### Entorno cultural
 
@@ -100,7 +100,7 @@ Aunque el modelo entró finalmente en los escuadrones de escuela con el veterano
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-07 07:34:50 CST  
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Royal Air Force Museum (expediente histórico 69-A-626)  
 - **Fuentes de contraste:** Aviations Militaires, Wikipedia (EN)  
 - **Discrepancias resueltas:** se distinguen el vuelo inicial con motor radial Mercury (30 de mayo de 1947), el vuelo fallido del prototipo VL917 (24 de marzo de 1948) y el primer vuelo exitoso con turbina Mamba del VL892 (17 de mayo de 1948).  

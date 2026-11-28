@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Boeing / United Air Lines / Eastern Air Lines
-excerpt: "El 27 de noviembre de 1962, Boeing presentó en Renton el N7001U, primer ejemplar del 727, con tres motores en popa y un ala diseñada para aeropuertos modestos. El programa se había lanzado en 1960 con ochenta pedidos y buscaba llevar el reactor a rutas donde el 707 resultaba excesivo. Aquella salida del hangar precedió en poco más de diez semanas al vuelo inaugural."
+excerpt: "El 27 de noviembre de 1962, Boeing presentó en Renton el N7001U, primer ejemplar del 727, con tres motores en la cola y un ala diseñada para aeropuertos modestos. El programa se había lanzado en 1960 con ochenta pedidos y buscaba llevar el reactor a rutas donde el 707 resultaba excesivo. Aquella salida del hangar precedió en poco más de diez semanas al vuelo inaugural."
 image: 1962-11-27-boeing-727-rollout.webp
 ---
 
@@ -19,7 +19,7 @@ image: 1962-11-27-boeing-727-rollout.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 27 de noviembre de 1962, Boeing mostró en Renton el N7001U, primer 727. No despegó: salió de la línea con librea amarillo limón y marrón cobre, tres turbofanes en popa y ala para campos breves. Lanzado en diciembre de 1960 con ochenta pedidos, seguía lejos del umbral de doscientos aparatos que la casa calculaba para cubrir costes. El reto era ofrecer velocidad de reactor a ciudades medianas y terminales modestas donde el 707 sobraba. La respuesta combinó cabina de seis plazas, hipersustentación y autonomía en tierra. Faltaban poco más de diez semanas para el primer vuelo; la familia sumaría 1.832 unidades hasta 1984.</p>
+<p>El 27 de noviembre de 1962, Boeing mostró en Renton el N7001U, primer 727. No despegó: salió de la línea con librea amarillo limón y marrón cobre, tres turbofanes en la cola y ala para campos breves. Lanzado en diciembre de 1960 con ochenta pedidos, seguía lejos del umbral de doscientos aparatos que la casa calculaba para cubrir costes. El reto era ofrecer velocidad de reactor a ciudades medianas y terminales modestas donde el 707 sobraba. La respuesta combinó cabina de seis plazas, hipersustentación y autonomía en tierra. Faltaban poco más de diez semanas para el primer vuelo; la familia sumaría 1.832 unidades hasta 1984.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -72,7 +72,7 @@ Del anuncio comercial a la conservación museística, el itinerario del primer e
 
 ## Consecuencias e Impacto
 
-El efecto más visible fue la reordenación de las redes domésticas. Un reactor de tamaño medio podía cubrir tramos de alta demanda entre ciudades sin las pistas ni las instalaciones que exigía un cuatrimotor, y las compañías pudieron alimentar sus centros de conexión con más frecuencias. La versión estirada duplicó esa ventaja al aumentar capacidad sin cambiar la filosofía de operación, mientras la configuración convertible atrajo a operadores de carga y chárter. El éxito también tuvo costes: la cabina de tres tripulantes quedó anticuada frente a las cubiertas de dos personas, el consumo de los JT8D se encareció tras las crisis petroleras y las normas de ruido obligaron a instalar atenuadores o a retirar ejemplares. La escalerilla de popa, concebida para la autonomía en tierra, entró en la crónica judicial estadounidense por <a href="https://www.efemeridesdeaviacion.com/seguridad/1971/11/24/secuestro-vuelo-305-northwest-orient-db-cooper.html" style="color: #315fea; text-decoration: none;">el caso de D. B. Cooper</a> y acabó con un dispositivo que impedía abrirla en vuelo. La familia no desapareció de golpe: siguió en servicios postales, ejecutivos y de mercancías mucho después de cerrarse la línea de Renton.
+El efecto más visible fue la reordenación de las redes domésticas. Un reactor de tamaño medio podía cubrir tramos de alta demanda entre ciudades sin las pistas ni las instalaciones que exigía un cuatrimotor, y las compañías pudieron alimentar sus centros de conexión con más frecuencias. La versión estirada duplicó esa ventaja al aumentar capacidad sin cambiar la filosofía de operación, mientras la configuración convertible atrajo a operadores de carga y chárter. El éxito también tuvo costes: la cabina de tres tripulantes quedó anticuada frente a las cubiertas de dos personas, el consumo de los JT8D se encareció tras las crisis petroleras y las normas de ruido obligaron a instalar atenuadores o a retirar ejemplares. La escalerilla trasera, concebida para la autonomía en tierra, entró en la crónica judicial estadounidense por <a href="https://www.efemeridesdeaviacion.com/seguridad/1971/11/24/secuestro-vuelo-305-northwest-orient-db-cooper.html" style="color: #315fea; text-decoration: none;">el caso de D. B. Cooper</a> y acabó con un dispositivo que impedía abrirla en vuelo. La familia no desapareció de golpe: siguió en servicios postales, ejecutivos y de mercancías mucho después de cerrarse la línea de Renton.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -105,7 +105,7 @@ El `N7001U` sobrevive como pieza documental y técnica en el Museum of Flight de
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-11-26 14:32:10 CST  
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Boeing; Museum of Flight; FAA Registry (identidad registral); American Airlines  
 - **Fuentes secundarias de contraste:** This Day in Aviation (artículo y ficha de imagen); AirlineReporter; Aero-Naves; Wikipedia (EN)  
 - **Discrepancias resueltas:** matrícula N7001U y designación 727-22/727-100; año inicial de producción 1962 o 1963; errata de mes en la ficha de la imagen  

@@ -32,7 +32,7 @@ image: 1956-09-27-milburn-apt-primer-humano-mach-3-bell-x2.webp
 - **Aeronave experimental:** Bell X-2 *«Starbuster»* n.º 1, matrícula `46-674`, en acero inoxidable y aleación K-Monel (vuelo 17 de la célula y 13 propulsado).
 - **Aeronave nodriza y propulsión:** Boeing EB-50D Superfortress (`48-096`); motor cohete Curtiss-Wright XLR25-CW-1 regulable entre 2.500 y 15.000 libras de empuje.
 - **Perfil y marca alcanzada:** suelta a 31.800 pies (9.693 m), ascenso a 72.200 pies (22.007 m) y aceleración hasta **Mach 3,196 (2.094 mph / 3.377 km/h)** a **65.589 pies (19.992 m)** tras arder el cohete 12,5 segundos más de lo previsto.
-- **Secuencia del accidente:** viraje iniciado por encima de Mach 3 (el plan exigía decelerar a Mach 2,4), acoplamiento inercial veinte segundos tras el apagado con picos de `±6 g`, barrena invertida bajo 40.000 pies, separación de la cápsula de proa e impacto mortal en las Kramer Hills.
+- **Secuencia del accidente:** viraje iniciado por encima de Mach 3 (el plan exigía decelerar a Mach 2,4), acoplamiento inercial veinte segundos tras el apagado con picos de `±6 g`, barrena invertida bajo 40.000 pies, separación de la cápsula delantera e impacto mortal en las Kramer Hills.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -46,7 +46,7 @@ En plena Guerra Fría, la Base Edwards vivía una sucesión vertiginosa de plusm
 
 ### Entorno tecnológico
 
-De las dos células fabricadas, la segunda (`46-675`) había resultado destruida el 12 de mayo de 1953 al explotar su sistema de oxígeno líquido bajo el B-50 portador sobre el lago Ontario, accidente en el que murieron el piloto de Bell Jean L. «Skip» Ziegler y el tripulante Frank Wolko. La única superviviente (`46-674`), dotada de alas en flecha de 40° construidas en acero inoxidable y K-Monel, carecía de asiento eyectable convencional: en caso de emergencia, toda la sección de proa se desprendía mediante cargos pirotécnicos y desplegaba un paracaídas estabilizador, tras lo cual el piloto debía abrir manualmente la cúpula y saltar con su paracaídas personal. Además, las simulaciones ejecutadas por el ingeniero del NACA Richard E. Day en el computador analógico GEDA (*Goodyear Electronic Differential Analyzer*) habían advertido de que a partir de Mach 2,7 la pérdida de eficacia de la deriva vertical por calentamiento y aeroelasticidad reducía al mínimo la estabilidad direccional, por lo que cualquier alabeo provocaría una divergencia catastrófica.
+De las dos células fabricadas, la segunda (`46-675`) había resultado destruida el 12 de mayo de 1953 al explotar su sistema de oxígeno líquido bajo el B-50 portador sobre el lago Ontario, accidente en el que murieron el piloto de Bell Jean L. «Skip» Ziegler y el tripulante Frank Wolko. La única superviviente (`46-674`), dotada de alas en flecha de 40° construidas en acero inoxidable y K-Monel, carecía de asiento eyectable convencional: en caso de emergencia, toda la sección delantera se desprendía mediante cargos pirotécnicos y desplegaba un paracaídas estabilizador, tras lo cual el piloto debía abrir manualmente la cúpula y saltar con su paracaídas personal. Además, las simulaciones ejecutadas por el ingeniero del NACA Richard E. Day en el computador analógico GEDA (*Goodyear Electronic Differential Analyzer*) habían advertido de que a partir de Mach 2,7 la pérdida de eficacia de la deriva vertical por calentamiento y aeroelasticidad reducía al mínimo la estabilidad direccional, por lo que cualquier alabeo provocaría una divergencia catastrófica.
 
 ### Entorno cultural
 
@@ -61,7 +61,7 @@ El cuerpo de pilotos de pruebas de Edwards valoraba por encima de todo la sangre
 - **23 de julio y 3 de agosto de 1956:** Everest alcanza Mach 2,87 a 65.000 pies; pocos días después, el Director del NACA, Hugh L. Dryden, solicita formalmente la transferencia del avión para ensayos de calentamiento aerodinámico.
 - **7 de septiembre de 1956:** Iven C. Kincheloe lleva el `46-674` hasta 126.200 pies (38.466 m), primer vuelo tripulado por encima de los 100.000 pies; tras varios intentos abortados de Kincheloe para superar Mach 3, la USAF asigna la misión trece propulsada a Mel Apt, quien se entrena intensivamente en el simulador analógico GEDA.
 - **27 de septiembre de 1956 (suelta y récord):** el EB-50D `48-096` libera el X-2 a 31.800 pies sobre el Mojave; Apt enciende las dos cámaras del XLR25, cruza Mach 1 a 44.000 pies, corona los 72.200 pies e inicia un picado suave en el que el cohete arde 12,5 segundos más de lo previsto, impulsando el avión hasta su marca cumbre de **Mach 3,196** a casi veinte kilómetros de altura.
-- **27 de septiembre de 1956 (acoplamiento e impacto):** aún por encima de Mach 3, Apt inicia un viraje hacia Rogers Dry Lake; veinte segundos después del apagado el X-2 entra en acoplamiento inercial, cae en barrena invertida y, aunque el piloto separa la cápsula de proa, los golpes le impiden abandonarla antes de estrellarse en las Kramer Hills.
+- **27 de septiembre de 1956 (acoplamiento e impacto):** aún por encima de Mach 3, Apt inicia un viraje hacia Rogers Dry Lake; veinte segundos después del apagado el X-2 entra en acoplamiento inercial, cae en barrena invertida y, aunque el piloto separa la cápsula delantera, los golpes le impiden abandonarla antes de estrellarse en las Kramer Hills.
 - **8 de junio de 1959:** la pérdida del último X-2 cierra el programa, cuyas enseñanzas se vuelcan en el <a href="https://www.efemeridesdeaviacion.com/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15</a>, que superará la velocidad de Apt en 1960.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -105,7 +105,7 @@ En la ingeniería aeronáutica, los manuales de mecánica del vuelo explican el 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-11-18 09:20:07 CST
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA (`Bell X-2 Starbuster`, Fact Sheet `FS-2003-06-0079 DFRC`, Monograph 18) y Edwards Air Force Base (`Starbuster: 55 years ago Capt. Mel Apt conquered Mach 3`).
 - **Fuentes secundarias de contraste:** This Day in Aviation (`27 September 1956`).
 - **Discrepancias resueltas:** Uniformidad en Mach 3,196 (2.094 mph); se consigna el valor instrumentado de 65.589 pies (19.992 m) junto con el redondeo institucional de 65.500 pies explicado en la nota aclaratoria.

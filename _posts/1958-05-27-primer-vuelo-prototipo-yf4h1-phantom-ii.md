@@ -30,7 +30,7 @@ image: 1958-05-27-primer-vuelo-prototipo-yf4h1-phantom-ii.webp
 - **Fecha y lugar del primer vuelo:** martes 27 de mayo de 1958, en Lambert-St. Louis Municipal Airport (Missouri, Estados Unidos).
 - **Aeronave:** prototipo McDonnell XF4H-1 (posteriormente YF4H-1 y F-4A), número de serie de la US Navy `BuNo 142259`.
 - **Piloto:** Robert C. «Bob» Little (1924–2008), piloto jefe de ensayos de McDonnell Aircraft Corporation (y futuro Vicepresidente de McDonnell Douglas).
-- **Duración e incidencias del vuelo inaugural:** 22 minutos; tren de aterrizaje mantenido abajo y velocidad limitada a 370 nudos (685 km/h; 426 mph) debido a una pérdida de presión en una línea hidráulica y ligeros daños por ingestión de objetos extraños (*FOD*) en el motor de estribor.
+- **Duración e incidencias del vuelo inaugural:** 22 minutos; tren de aterrizaje mantenido abajo y velocidad limitada a 370 nudos (685 km/h; 426 mph) debido a una pérdida de presión en una línea hidráulica y ligeros daños por ingestión de objetos extraños (*FOD*) en el motor derecho.
 - **Planta motriz:** dos turborreactores General Electric J79-GE-3A (en el prototipo inicial) y J79-GE-2/-8 en preproducción y serie F-4B, de hasta 17.000 libras (75,6 kN) de empuje unitario con postcombustión.
 - **Bautizo oficial y producción:** bautizado *«Phantom II»* el 3 de julio de 1959 en el vigésimo aniversario de McDonnell; 5.195 unidades fabricadas (5.057 en St. Louis entre 1958 y 1979 más 138 construidas bajo licencia por Mitsubishi en Japón hasta 1981).
 - **Plusmarcas:** dieciséis récords mundiales homologados por la FAI entre diciembre de 1959 y abril de 1962 (altitud absoluta, velocidad absoluta, velocidad a baja cota y ocho marcas de tiempo de ascenso).
@@ -105,7 +105,7 @@ Operado por doce fuerzas aéreas en cuatro continentes a lo largo de más de sei
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 10:06:00 CST
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (`National Naval Aviation Museum`), DVIDS (USAF) y archivo histórico de McDonnell Douglas / Boeing.
 - **Fuentes secundarias de contraste:** This Day in Aviation (`27 May 1958`), GlobalSecurity y Wikipedia (`McDonnell Douglas F-4 Phantom II`).
 - **Discrepancias resueltas:** Se precisa la secuencia de designaciones (`XF4H-1` → `YF4H-1` → `F-4A`), las 16 plusmarcas mundiales entre 1959 y 1962 y el desglose de las 5.195 unidades construidas (5.057 en EE. UU. y 138 en Japón).

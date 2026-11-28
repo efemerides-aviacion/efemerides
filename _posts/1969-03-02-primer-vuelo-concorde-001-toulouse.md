@@ -42,7 +42,7 @@ A finales de los años cincuenta, el Reino Unido y Francia estudiaban por separa
 
 ### Entorno tecnológico
 
-Para lograr que un avión de pasaje volara en crucero sostenido a Mach 2,02 (más de 2.150 km/h) a 18.000 metros sin perder estabilidad a baja velocidad en el aterrizaje, los aerodinamistas Dietrich Küchemann, Johanna Weber y Robert Legendre adoptaron el **ala delta ojival** (*aile gothique*) de borde de ataque doblemente curvado, cuya generación de vórtices sustentadores se probó en el Handley Page HP.115 y en el avión experimental BAC 221 reconstruido sobre la célula del <a href="https://www.efemeridesdeaviacion.com/evento/1954/10/06/primer-vuelo-fairey-delta-2.html" style="color: #315fea; text-decoration: none;">caza de investigación Fairey Delta 2</a>. Dado el elevado ángulo de ataque en aproximación, la proa incorporó un **morro hidráulico abatible** con visera retráctil. Al frente de las pruebas francesas se situó desde 1962 **André Turcat**, célebre por sus vuelos a más de Mach 2 tras el <a href="https://www.efemeridesdeaviacion.com/evento/1955/09/20/primer-vuelo-nord-griffon-i.html" style="color: #315fea; text-decoration: none;">estreno del reactor experimental Nord 1500 Griffon</a>.
+Para lograr que un avión de pasaje volara en crucero sostenido a Mach 2,02 (más de 2.150 km/h) a 18.000 metros sin perder estabilidad a baja velocidad en el aterrizaje, los aerodinamistas Dietrich Küchemann, Johanna Weber y Robert Legendre adoptaron el **ala delta ojival** (*aile gothique*) de borde de ataque doblemente curvado, cuya generación de vórtices sustentadores se probó en el Handley Page HP.115 y en el avión experimental BAC 221 reconstruido sobre la célula del <a href="https://www.efemeridesdeaviacion.com/evento/1954/10/06/primer-vuelo-fairey-delta-2.html" style="color: #315fea; text-decoration: none;">caza de investigación Fairey Delta 2</a>. Dado el elevado ángulo de ataque en aproximación, el morro incorporó una **sección abatible** con visera retráctil. Al frente de las pruebas francesas se situó desde 1962 **André Turcat**, célebre por sus vuelos a más de Mach 2 tras el <a href="https://www.efemeridesdeaviacion.com/evento/1955/09/20/primer-vuelo-nord-griffon-i.html" style="color: #315fea; text-decoration: none;">estreno del reactor experimental Nord 1500 Griffon</a>.
 
 ### Entorno social
 
@@ -107,7 +107,7 @@ En el *Hall Concorde* del **Museo del Aire y del Espacio de París-Le Bourget**,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 13:20:00 CST
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Musée de l'Air et de l'Espace; Archives municipales de Toulouse; Heritage Concorde; Encyclopædia Universalis; Aviation Week.
 - **Discrepancias resueltas:** Denominación societaria de 1969 y cómputo de 27 frente a 29 minutos explicados en la Nota aclaratoria; se verificó que ambos récords circumterrestres (1992 y 1995) pertenecen al ejemplar `F-BTSD`.
 - **Nivel de confianza:** Alto

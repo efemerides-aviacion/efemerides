@@ -12,7 +12,7 @@ image: 1955-10-25-primer-vuelo-saab-35-draken.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-10-25-primer-vuelo-saab-35-draken.webp" alt="Prototipo Fpl 35-1 del Saab 35 Draken en vuelo, visto desde abajo y atrás, con su planta alar en doble delta y la marca U en el fuselaje">
-  <figcaption class="post-caption">El prototipo Fpl 35-1 del Saab 35 Draken, con la marca «U» de utveckling y la larga sonda de pitot en proa, en una pasada de pruebas, con su planta alar en doble delta vista desde abajo. <a href="https://commons.wikimedia.org/wiki/File:Saab_J_35A_Draken_35-1_001.jpg" style="color: #315fea; text-decoration: none;">Flygvapenmuseum</a> lo conserva y lo publica en dominio público.</figcaption>
+  <figcaption class="post-caption">El prototipo Fpl 35-1 del Saab 35 Draken, con la marca «U» de utveckling y la larga sonda de pitot en el morro, en una pasada de pruebas, con su planta alar en doble delta vista desde abajo. <a href="https://commons.wikimedia.org/wiki/File:Saab_J_35A_Draken_35-1_001.jpg" style="color: #315fea; text-decoration: none;">Flygvapenmuseum</a> lo conserva y lo publica en dominio público.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -29,7 +29,7 @@ image: 1955-10-25-primer-vuelo-saab-35-draken.webp
 - **Fecha:** 25 de octubre de 1955; primer vuelo del prototipo Fpl 35-1, primero de los tres ordenados por el programa
 - **Lugar:** aeródromo de Saab en Linköping, Suecia, donde se concentró la campaña de pruebas
 - **Protagonista:** Bengt Olow, jefe de pilotos de pruebas de Saab, autor también del primer vuelo del Saab 210 en 1952
-- **Célula:** prototipo Fpl 35-1, con la letra «U» de utveckling y una sonda de pitot de proa para medir velocidad
+- **Célula:** prototipo Fpl 35-1, con la letra «U» de utveckling y una sonda de pitot de morro para medir velocidad
 - **Planta motriz:** Rolls-Royce Avon Mk 21 sin postcombustión, antecedente de los RM 5 y RM 6 que Svenska Flygmotor fabricaría bajo licencia
 - **Configuración:** doble delta con 80 grados de flecha en el plano interior y 60 en el exterior, sin plano de cola horizontal; tren triciclo con dos ruedas finales para aterrizar con el morro alto
 - **Resultado:** primera célula en doble delta que vuela; en enero de 1956 el programa ya superaba la barrera del sonido en ascenso, sin ayuda de la postcombustión, y el 14 de enero de 1960 alcanzó Mach 2
@@ -104,7 +104,7 @@ El doble delta del Draken no tuvo descendencia directa en serie, pero enseñó a
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-20 06:41:00  
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Saab AB (comunicado de 2005 y relato oficial); Swedish Air Force Historic Flight; Flygvapenmuseum (autoría de la imagen)  
 - **Fuentes secundarias de contraste:** Aef.se; Wikipedia (EN); Wikimedia Commons  
 - **Discrepancias resueltas:** total construido, día de entrada en servicio y atribución del primer vuelo supersónico; remitidas a la nota aclaratoria.  

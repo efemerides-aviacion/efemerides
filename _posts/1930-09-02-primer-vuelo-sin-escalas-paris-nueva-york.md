@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Francia
 operator: Dieudonné Costes / Maurice Bellonte
-excerpt: "El 2 de septiembre de 1930, los aviadores franceses Dieudonné Costes y Maurice Bellonte aterrizaron en Curtiss Field, Long Island, completando en 37 horas y 18 minutos la primera travesía aérea directa sin escalas de París a Nueva York en el biplano Breguet 19 Super Bidon «Point d'Interrogation». La hazaña venció los vientos dominantes de proa del Atlántico Norte."
+excerpt: "El 2 de septiembre de 1930, los aviadores franceses Dieudonné Costes y Maurice Bellonte aterrizaron en Curtiss Field, Long Island, completando en 37 horas y 18 minutos la primera travesía aérea directa sin escalas de París a Nueva York en el biplano Breguet 19 Super Bidon «Point d'Interrogation». La hazaña venció los vientos dominantes de cara del Atlántico Norte."
 image: 1930-09-02-primer-vuelo-sin-escalas-paris-nueva-york.webp
 ---
 
@@ -49,7 +49,7 @@ El recuerdo de la tragedia de mayo de 1927 pesaba en la conciencia de la socieda
 
 ### Entorno tecnológico
 
-Cruzar el Atlántico hacia América obligaba a remontar vientos dominantes de proa que restaban de 30 a 50 km/h de avance sobre el suelo, alargando el vuelo más de 35 horas frente a las 33 y media de Lindbergh hacia el este. Para sortear esa penalización, Louis Breguet rediseñó el afamado modelo 19 hasta concebir el Super Bidon: alargó la envergadura del plano superior hasta los 18,30 metros, ensanchó el fuselaje central para alojar colosales tanques estructurales y adaptó el Hispano-Suiza 12Nb de 650 CV para un consumo optimizado a baja altitud. Al despegar, el aparato pesaba 6.375 kg, con más del 60 % de gasolina y aceite.
+Cruzar el Atlántico hacia América obligaba a remontar vientos dominantes de cara que restaban de 30 a 50 km/h de avance sobre el suelo, alargando el vuelo más de 35 horas frente a las 33 y media de Lindbergh hacia el este. Para sortear esa penalización, Louis Breguet rediseñó el afamado modelo 19 hasta concebir el Super Bidon: alargó la envergadura del plano superior hasta los 18,30 metros, ensanchó el fuselaje central para alojar colosales tanques estructurales y adaptó el Hispano-Suiza 12Nb de 650 CV para un consumo optimizado a baja altitud. Al despegar, el aparato pesaba 6.375 kg, con más del 60 % de gasolina y aceite.
 
 ### Entorno cultural
 
@@ -64,9 +64,9 @@ El duelo transatlántico entre las capitales simbolizaba la hermandad y la emula
 - **13 de julio de 1929:** Costes y Bellonte intentan por primera vez la travesía París–Nueva York en el *Point d'Interrogation*, pero deben virar en redondo y aterrizar en Villacoublay tras volar 17 horas al topar con vientos contrarios insalvables sobre las Azores.
 - **27 al 29 de septiembre de 1929:** como demostración palmaria de la autonomía del aparato, Costes y Bellonte baten el récord mundial de distancia en línea recta volando 7.905 km sin escalas desde París hasta Tsitsihar, en Manchuria.
 - **31 de agosto de 1930:** el ingeniero meteorólogo André Viaut certifica una ventana de calma relativa con vientos de cola moderados en el primer tercio del Atlántico; Costes y Bellonte autorizan el llenado máximo de combustible.
-- **1 de septiembre de 1930, 09:58 GMT (10:58 hora de París):** el *Point d'Interrogation* despega de Le Bourget tras una carrera de rodaje de casi un kilómetro por la pista acondicionada, con proa a la costa de Normandía.
+- **1 de septiembre de 1930, 09:58 GMT (10:58 hora de París):** el *Point d'Interrogation* despega de Le Bourget tras una carrera de rodaje de casi un kilómetro por la pista acondicionada, rumbo a la costa de Normandía.
 - **Noche del 1 al 2 de septiembre:** la aeronave asciende a 3.000 metros sobre el océano. Bellonte calcula la posición y mantiene el rumbo con el sextante de burbuja y las estrellas, y con enlaces radiotelegráficos con buques mercantes.
-- **2 de septiembre, mediodía:** los vientos de proa arrecian y reducen la velocidad a 120 km/h. Al aproximarse a las costas de Terranova y Nueva Escocia, densas masas de niebla ciegan el horizonte. Costes desciende a menos de 100 metros sobre el oleaje y traza un desvío de más de 150 km al sur para esquivar la tempestad, antes de virar al oeste sobre el golfo de Maine.
+- **2 de septiembre, mediodía:** los vientos de cara arrecian y reducen la velocidad a 120 km/h. Al aproximarse a las costas de Terranova y Nueva Escocia, densas masas de niebla ciegan el horizonte. Costes desciende a menos de 100 metros sobre el oleaje y traza un desvío de más de 150 km al sur para esquivar la tempestad, antes de virar al oeste sobre el golfo de Maine.
 - **2 de septiembre, 18:30 horas (hora local):** el biplano sobrevuela la bahía de Boston y enfila la línea costera de Connecticut hacia el estado de Nueva York.
 - **2 de septiembre, 19:12 horas (hora de Nueva York, 23:12 GMT):** tras 37 horas y 18 minutos de permanencia ininterrumpida en el aire, el *Point d'Interrogation* aterriza con suavidad en Curtiss Field (Valley Stream, Long Island). Charles Lindbergh acude inmediatamente al encuentro de los pilotos franceses a pie de escala.
 - **4 de septiembre de 1930:** Nueva York les rinde un desfile triunfal por Broadway con lluvia de confeti, son condecorados por el alcalde Jimmy Walker y recibidos en Washington D.C. por el presidente Herbert Hoover.
@@ -111,7 +111,7 @@ La emblemática aeronave roja, con su signo de interrogación intacto, se exhibe
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-04 17:11:57 CST
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Musée de l'Air et de l'Espace (Le Bourget); Smithsonian National Air and Space Museum; Bibliothèque nationale de France (Gallica / prensa histórica); Fédération Aéronautique Internationale (registros de récords).
 - **Fuentes secundarias de contraste:** Archivos de prensa y fondos fotográficos de la Library of Congress (Bain Collection) y Air-Journal.
 - **Discrepancias resueltas:** Tiempo de vuelo exacto (37 h 18 min homologados frente a 37 h 12 min de contacto inicial de costa; se aclara en nota); denominación del punto de aterrizaje (Curtiss Field en Valley Stream, Long Island).

@@ -33,7 +33,7 @@ image: 1906-10-23-primer-vuelo-publico-14-bis.webp
 - **Hito:** primer vuelo de un aeroplano ante público y comisarios de un organismo aeronáutico en Europa.
 - **Distancia y altura:** unos 60 metros, a una altura de dos a tres metros sobre el terreno, con despegue autónomo desde hierba llana.
 - **Premio:** Copa Archdeacon, 3.000 francos por un vuelo de al menos 25 metros sin ayuda externa.
-- **Resultado inmediato:** aterrizaje con la rotura de las ruedas y del timón de proa, sin heridos, y requisito del premio cumplido.
+- **Resultado inmediato:** aterrizaje con la rotura de las ruedas y del timón de morro, sin heridos, y requisito del premio cumplido.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -47,7 +47,7 @@ Alberto Santos-Dumont llegó a París en 1892, con veinte años, una parte de la
 
 ### Entorno tecnológico
 
-El 14-bis nacía de una tradición y de un cálculo. Su ala procedía de las cometas celulares que el australiano Lawrence Hargrave había desarrollado y que Octave Chanute divulgó en Europa; su estructura, de bambú y seda con herrajes de aluminio, buscaba la máxima ligereza. La configuración era la de un biplano de tipo canard, con el plano de profundidad en la proa y una hélice de dos palas de dos metros de diámetro movida por un motor Antoinette V-8 de 50 caballos. El peso al despegue rondaba los 160 kilogramos. El aviador viajaba de pie en una barquilla de mimbre, como la de sus dirigibles, y gobernaba con una palanca y un volante. A diferencia de las plataformas lanzadas por raíles o catapultas, rodaba sobre ruedas de bicicleta: despegaba por sus propios medios, condición que los reglamentos exigían.
+El 14-bis nacía de una tradición y de un cálculo. Su ala procedía de las cometas celulares que el australiano Lawrence Hargrave había desarrollado y que Octave Chanute divulgó en Europa; su estructura, de bambú y seda con herrajes de aluminio, buscaba la máxima ligereza. La configuración era la de un biplano de tipo canard, con el plano de profundidad en el morro y una hélice de dos palas de dos metros de diámetro movida por un motor Antoinette V-8 de 50 caballos. El peso al despegue rondaba los 160 kilogramos. El aviador viajaba de pie en una barquilla de mimbre, como la de sus dirigibles, y gobernaba con una palanca y un volante. A diferencia de las plataformas lanzadas por raíles o catapultas, rodaba sobre ruedas de bicicleta: despegaba por sus propios medios, condición que los reglamentos exigían.
 
 ### Entorno cultural
 
@@ -61,7 +61,7 @@ Los premios fueron la forma que tomó en Francia la competencia técnica. A fina
 - **Agosto de 1906:** traslada el biplano a Bagatelle, donde dispone de más espacio, y sustituye el motor original de 24 caballos por un Antoinette más potente. También eleva el depósito de combustible y suprime la rueda trasera.
 - **7 de septiembre de 1906:** en los ensayos privados, el aparato se separa brevemente del suelo. La máquina empieza a comportarse como aeroplano y no como planeador remolcado.
 - **13 de septiembre de 1906:** primera tentativa ante la comisión del Aéro-Club. Tras un salto de pocos metros, el aterrizaje es duro, la hélice se rompe y el aparato regresa al taller de los hermanos Voisin en Billancourt para ser reparado.
-- **23 de octubre de 1906, tarde:** ante los comisarios y el público, el 14-bis rueda sobre la hierba, se eleva con suavidad y se mantiene en el aire a dos o tres metros, con una ligera guiñada, antes de tomar tierra. La distancia recorrida supera con holgura el umbral de los 25 metros exigidos; en el momento de tomar tierra, una de las ruedas y el timón de proa quedan dañados.
+- **23 de octubre de 1906, tarde:** ante los comisarios y el público, el 14-bis rueda sobre la hierba, se eleva con suavidad y se mantiene en el aire a dos o tres metros, con una ligera guiñada, antes de tomar tierra. La distancia recorrida supera con holgura el umbral de los 25 metros exigidos; en el momento de tomar tierra, una de las ruedas y el timón de morro quedan dañados.
 - **23 de octubre de 1906, tras el aterrizaje:** los testigos acreditaron el vuelo; el Aéro-Club de France concedió a Santos-Dumont la Copa Archdeacon y la noticia se difundió de inmediato por la prensa europea y americana.
 - **12 de noviembre de 1906:** con dos planos auxiliares añadidos en las celdas externas, el 14-bis cubre 220 metros en algo más de veintiún segundos y gana el premio del Aéro-Club de France, la marca que la federación internacional inscribiría como primer récord de la aviación.
 
@@ -107,7 +107,7 @@ La historiografía reciente ha matizado la primacía: los Wright volaron antes, 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-17 05:01:58 CST
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** FranceArchives; Aéro-Club de France; Archives de la ville de Puteaux; Fédération Aéronautique Internationale; OACI.
 - **Fuentes secundarias de contraste:** Encyclopaedia Britannica; Greco y Catalano (USP, CEAS 2007).
 - **Discrepancias resueltas:** Distancia medida (60–70 m) frente al mínimo homologado de 25 m, altura de uno a tres metros y salto del 13 de septiembre de 7 a 13 m; se detallan en la nota aclaratoria.

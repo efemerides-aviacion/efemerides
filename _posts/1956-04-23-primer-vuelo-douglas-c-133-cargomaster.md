@@ -46,7 +46,7 @@ En plena Guerra Fría, el despliegue de los proyectiles estratégicos Atlas, Tit
 
 ### Entorno tecnológico
 
-Hasta entonces, el mayor avión de transporte en servicio con el *Military Air Transport Service* (MATS) era el Douglas C-124 Globemaster II de motores radiales, cuyo piso de bodega se alzaba a cuatro metros sobre el suelo y cuya compuerta de proa con rampa articulada no admitía cargas cilíndricas de más de veintisiete metros de largo. Dos años después del <a href="https://www.efemeridesdeaviacion.com/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">estreno del transporte táctico Lockheed YC-130 Hercules</a>, Douglas aplicó una configuración similar a escala estratégica en su modelo **C-133**: ala alta para despejar por completo la sección interior, tren de aterrizaje principal de ocho ruedas alojado en carenados externos a ambos lados del fuselaje, bodega presurizada de 27,4 metros de longitud con el piso situado a sólo 1,27 metros (50 pulgadas) del pavimento y doble acceso mediante compuerta lateral delantera y rampa trasera (ampliada en la variante **C-133B** con puertas posteriores de apertura en cinco pétalos o *clamshell doors* que permitían introducir sin obstáculos los misiles Titan y Minuteman).
+Hasta entonces, el mayor avión de transporte en servicio con el *Military Air Transport Service* (MATS) era el Douglas C-124 Globemaster II de motores radiales, cuyo piso de bodega se alzaba a cuatro metros sobre el suelo y cuya compuerta delantera con rampa articulada no admitía cargas cilíndricas de más de veintisiete metros de largo. Dos años después del <a href="https://www.efemeridesdeaviacion.com/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">estreno del transporte táctico Lockheed YC-130 Hercules</a>, Douglas aplicó una configuración similar a escala estratégica en su modelo **C-133**: ala alta para despejar por completo la sección interior, tren de aterrizaje principal de ocho ruedas alojado en carenados externos a ambos lados del fuselaje, bodega presurizada de 27,4 metros de longitud con el piso situado a sólo 1,27 metros (50 pulgadas) del pavimento y doble acceso mediante compuerta lateral delantera y rampa trasera (ampliada en la variante **C-133B** con puertas posteriores de apertura en cinco pétalos o *clamshell doors* que permitían introducir sin obstáculos los misiles Titan y Minuteman).
 
 ### Entorno cultural
 
@@ -106,7 +106,7 @@ Aunque la mayor parte de la flota fue desguazada en Davis-Monthan Air Force Base
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 09:25:00 CST  
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, Aviation Safety Network  
 - **Fuentes de contraste:** Vintage Aviation News, Flug Revue, Wikipedia (EN/FR)  
 - **Discrepancias resueltas:** se explica la diferencia de cómputo entre 35/15 (Museo de la USAF) y 32/18 unidades de las series C-133A y C-133B dentro del total invariante de 50 aparatos, así como el rango de tripulación (4 a 6/10 efectivos).  

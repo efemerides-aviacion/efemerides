@@ -47,7 +47,7 @@ En la cultura de las aerolíneas de los años noventa, el concepto de «comunali
 
 - **22 de febrero de 1987:** Realiza su primer vuelo en Toulouse el prototipo del Airbus A320, base tecnológica de la gama de corto y medio radio con mandos *fly-by-wire*.
 - **24 de noviembre de 1988:** El consejo de supervisión de Airbus Industrie aprueba el lanzamiento industrial del programa A321 (conocido en los estudios iniciales como A320-300 o SA1), respaldado por compromisos de diez clientes por 183 aparatos.
-- **1990–1992:** Se levanta en Hamburgo-Finkenwerder la nueva nave de ensamblaje final Otto Lilienthal y se fabrican las secciones del primer ejemplar (MSN 385), con proa y cabina construidas en Francia, alas en el Reino Unido, empenaje en España y secciones de fuselaje en Alemania e Italia (Alenia).
+- **1990–1992:** Se levanta en Hamburgo-Finkenwerder la nueva nave de ensamblaje final Otto Lilienthal y se fabrican las secciones del primer ejemplar (MSN 385), con el morro y la cabina construidos en Francia, alas en el Reino Unido, empenaje en España y secciones de fuselaje en Alemania e Italia (Alenia).
 - **11 de marzo de 1993:** El primer prototipo A321-131 (F-WWIA), motorizado con turbofanes IAE V2530-A5, despega de Hamburgo-Finkenwerder pilotado por Karl-Eugen Nagel y Pierre Baud y completa un vuelo inaugural de 4 horas y 29 minutos.
 - **25 de mayo de 1993:** Vuela por primera vez el segundo prototipo (MSN 386), equipado con la planta motriz alternativa CFM International CFM56-5B, completando la flota de certificación que acumularía 750 horas de ensayo en 360 salidas.
 - **17 de diciembre de 1993:** Las autoridades aeronáuticas europeas conjuntas (JAA) otorgan la certificación de tipo al Airbus A321.
@@ -91,7 +91,7 @@ Tres décadas después de su bautismo del aire sobre el río Elba, el Airbus A32
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-07 18:50:00 CST
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** UPI Archives (despacho del 11 de marzo de 1993); Airways Magazine; Afterburner.  
 - **Fuentes secundarias de contraste:** Simple Flying; AviatorDB; Wikipedia (EN).  
 - **Discrepancias resueltas:** Se precisa el número de serie de producción del prototipo F-WWIA dentro de la familia A320 (MSN 385) y la duración exacta de su vuelo inaugural desde Hamburgo-Finkenwerder (4 horas y 29 minutos).  

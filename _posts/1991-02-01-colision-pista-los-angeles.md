@@ -60,7 +60,7 @@ La investigación del Consejo Nacional de Seguridad en el Transporte (NTSB), pla
 - **1 de febrero de 1991, 18:03:38 PST:** el vuelo 5569 de SkyWest avisa a la controladora local Robin Lee Wascher que se halla en la calle de rodaje 45 listo para despegar desde esa intersección de la pista 24L.
 - **18:04:44 PST:** tras el aterrizaje de un avión precedente y el cruce de otro (Wings West 5006), la controladora autoriza al Metroliner de SkyWest a entrar en la pista 24L en la intersección 45 y mantener posición. La tira impresa de progreso de vuelo del SkyWest 5569 no había llegado aún al atril de la controladora local.
 - **18:05:16–18:05:55 PST:** otro avión regional (Wings West 5072) llama listo para despegar; debido a un cambio de frecuencia y a la falta de la tira del SkyWest 5569, la controladora confunde mentalmente ambos vuelos y a las 18:05:55 autoriza al vuelo 1493 de USAir a aterrizar en la pista 24L sin recordar que el Metroliner aguarda alineado sobre el asfalto.
-- **18:06:59 PST:** el Boeing 737‑3B7 de USAir toma tierra en la pista 24L; al bajar el morro a unos 100 nudos, los pilotos divisan el Metroliner detenido e intentan frenar, pero colisionan. El turbohélice queda encajado bajo la proa del 737 y ambas aeronaves salen por el margen izquierdo hasta chocar e incendiarse contra el edificio en desuso del antiguo cuartel de bomberos.
+- **18:06:59 PST:** el Boeing 737‑3B7 de USAir toma tierra en la pista 24L; al bajar el morro a unos 100 nudos, los pilotos divisan el Metroliner detenido e intentan frenar, pero colisionan. El turbohélice queda encajado bajo el morro del 737 y ambas aeronaves salen por el margen izquierdo hasta chocar e incendiarse contra el edificio en desuso del antiguo cuartel de bomberos.
 - **18:07–18:15 PST:** el Capitán Shaw muere en el impacto contra el muro, mientras el Primer Oficial Kelly escapa por la ventanilla derecha; los bomberos del aeropuerto llegan en menos de dos minutos y rescatan con vida a 66 ocupantes del 737.
 - **22 de octubre de 1991:** el NTSB aprueba su informe final AAR‑91‑08 con recomendaciones urgentes a la FAA.
 
@@ -107,7 +107,7 @@ Más de tres décadas después, la colisión de los vuelos USAir 1493 y SkyWest 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-07 18:46:00 CST  
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** NTSB (Informe AAR‑91‑08); FAA (Lessons Learned); SKYbrary; Aviation Safety Network.  
 - **Fuentes secundarias de contraste:** Bureau of Aircraft Accidents Archives; Los Angeles Times; Wikipedia (ES/EN).  
 - **Discrepancias resueltas:** Se documenta el total histórico de 35 fallecidos junto al cómputo estadístico de 34 víctimas a treinta días del informe AAR‑91‑08.  

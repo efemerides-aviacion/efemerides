@@ -50,7 +50,7 @@ El viaje aéreo se había convertido en una práctica de masas y las terminales 
 
 ### Entorno tecnológico
 
-El aparato de la ruta era un <a href="https://www.efemeridesdeaviacion.com/evento/1962/11/27/boeing-727-rollout.html" style="color: #315fea; text-decoration: none;">Boeing 727 de la serie 100</a>, el trimotor de fuselaje estrecho que la compañía fabricaba en Renton desde 1963 y que llevaba dos motores en los costados del fuselaje y un tercero en la base de la deriva. Su rasgo distintivo era la escalerilla ventral de popa, integrada para operar en aeródromos sin pasarelas ni escaleras motorizadas: se desplegaba hacia el suelo y permitía embarcar por la cola. Aquel recurso de autonomía en tierra no contaba con bloqueo alguno que impidiera accionarla con el avión en vuelo, una circunstancia que el secuestrador conocía y que convirtió la puerta trasera en la vía de escape más limpia imaginable. La cabina de mando alojaba a tres tripulantes técnicos, y el avión podía volar a baja cota sin presurización diferencial, condiciones que hicieron posible mantener la puerta abierta.
+El aparato de la ruta era un <a href="https://www.efemeridesdeaviacion.com/evento/1962/11/27/boeing-727-rollout.html" style="color: #315fea; text-decoration: none;">Boeing 727 de la serie 100</a>, el trimotor de fuselaje estrecho que la compañía fabricaba en Renton desde 1963 y que llevaba dos motores en los costados del fuselaje y un tercero en la base de la deriva. Su rasgo distintivo era la escalerilla ventral trasera, integrada para operar en aeródromos sin pasarelas ni escaleras motorizadas: se desplegaba hacia el suelo y permitía embarcar por la cola. Aquel recurso de autonomía en tierra no contaba con bloqueo alguno que impidiera accionarla con el avión en vuelo, una circunstancia que el secuestrador conocía y que convirtió la puerta trasera en la vía de escape más limpia imaginable. La cabina de mando alojaba a tres tripulantes técnicos, y el avión podía volar a baja cota sin presurización diferencial, condiciones que hicieron posible mantener la puerta abierta.
 
 ### Entorno cultural
 
@@ -102,7 +102,7 @@ El caso sigue siendo el único documentado de piratería aérea sin resolver en 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-11-27 07:21:45 CST  
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** FBI — *D. B. Cooper Hijacking* y FBI Seattle — *Update on Investigation of 1971 Hijacking by D. B. Cooper* (12 de julio de 2016).  
 - **Fuentes secundarias de contraste:** Wikipedia (EN y ES) y la ficha de Wikimedia Commons de la imagen.  
 - **Discrepancias resueltas:** El dinero hallado en 1980 se consigna como 5.800 dólares —tres fajos de 100, 100 y 90 billetes— frente al redondeo de 6.000 de algunas síntesis; la hora exacta del aterrizaje en Reno varía entre fuentes y se omite; la reasignación de recursos se fecha el 8 de julio de 2016 y se comunicó por nota el 12 de julio.  

@@ -65,7 +65,7 @@ En el periodo de entreguerras, las armadas de las potencias mundiales competían
 
 ### Entorno tecnológico
 
-El Walrus era un diseño puntero para su época. Supermarine, bajo la dirección de R. J. Mitchell, había ganado prestigio con sus hidroaviones de competición en la Copa Schneider. Mitchell aplicó su experiencia en aerodinámica y construcción metálica al diseño del Seagull V. El motor iba en posición propulsora, con la hélice trasera: ello la protegía del agua salada y dejaba la proa libre para la tripulación.
+El Walrus era un diseño puntero para su época. Supermarine, bajo la dirección de R. J. Mitchell, había ganado prestigio con sus hidroaviones de competición en la Copa Schneider. Mitchell aplicó su experiencia en aerodinámica y construcción metálica al diseño del Seagull V. El motor iba en posición propulsora, con la hélice trasera: ello la protegía del agua salada y dejaba el morro libre para la tripulación.
 
 ### Entorno cultural
 
@@ -108,7 +108,7 @@ Además de las misiones de rescate, el Walrus también realizó misiones de patr
 
 El Walrus fue el primer avión británico de servicio en combinar tres innovaciones clave: tren de aterrizaje totalmente retráctil, cabina cerrada para la tripulación y fuselaje completamente metálico. Estas características, ahora estándar, eran revolucionarias en 1933.
 
-El uso de un motor en configuración propulsora (con la hélice trasera) protegía la hélice de daños por agua salada y reducía el riesgo para la tripulación durante las operaciones de amarre. El motor se montó desviado 3° a estribor para contrarrestar el efecto de guiñada causado por la hélice.
+El uso de un motor en configuración propulsora (con la hélice trasera) protegía la hélice de daños por agua salada y reducía el riesgo para la tripulación durante las operaciones de amarre. El motor se montó desviado 3° a la derecha para contrarrestar el efecto de guiñada causado por la hélice.
 
 Su capacidad para plegar alas a 90° (reduciendo la envergadura de 14 m a solo 5,33 m) permitía almacenar varios aviones en los reducidos hangares de los cruceros. El Walrus también era famoso por su robustez: un piloto de pruebas comentó que podía aterrizar sobre hierba con el tren retraído sin sufrir daños graves; asimismo sirvió en escuelas aeronavales como Trinidad junto a los Reliant marcados por el <a href="https://www.efemeridesdeaviacion.com/accidente/1943/11/16/accidente-stinson-reliant-fk825-peninsula-paria.html" style="color: #315fea; text-decoration: none;">siniestro del FK825 frente a Uquire</a>.
 
@@ -149,7 +149,7 @@ Hoy, los sobrevivientes —incluyendo uno en el Fleet Air Arm Museum de Yeovilto
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-04 17:41:08 CST  
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/IT), Classic Warbirds, Naval Encyclopedia, La Segunda Guerra, Military History Fandom, FDRA
 - **Discrepancias resueltas:** Algunas fuentes citan el motor del prototipo como Bristol Jupiter IX, mientras que otras indican Pegasus. El motor de serie fue el Pegasus VI. Se ha aclarado la distinción.
 - **Nivel de confianza:** Alto

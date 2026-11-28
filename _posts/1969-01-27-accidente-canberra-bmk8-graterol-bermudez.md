@@ -48,11 +48,11 @@ Venezuela fue el primer país latinoamericano en operar el English Electric Canb
 
 ### Entorno social
 
-A finales de los años sesenta el Canberra llevaba ya más de quince años en servicio venezolano. El vuelo del 27 de enero de 1969 era un ejercicio nocturno rutinario del Grupo Aéreo de Bombardeo N.º 13, no una misión de combate. La prensa dio al principio por muertos a los dos tripulantes; el hallazgo de ambos con vida convirtió el caso en noticia nacional.
+En 1969 el Canberra llevaba ya más de quince años en servicio venezolano. El vuelo del 27 de enero de 1969 era un ejercicio nocturno rutinario del Grupo Aéreo de Bombardeo N.º 13, no una misión de combate. La prensa dio al principio por muertos a los dos tripulantes; el hallazgo de ambos con vida convirtió el caso en noticia nacional.
 
 ### Entorno tecnológico
 
-El B(I).Mk.8 era la versión de intrusión nocturna y ataque, reconocible por su cabina asimétrica con cúpula desplazada a babor. Su limitación más grave quedó expuesta precisamente en este accidente: **solo el piloto disponía de asiento eyectable**. El navegante, para abandonar la aeronave, debía accionar una palanca que hacía estallar los treinta y cuatro pernos explosivos de la puerta de entrada y lanzarse de cabeza por debajo del ala, abriendo el paracaídas de forma manual. Entre las tripulaciones de la unidad se consideraba una maniobra muy peligrosa, por el temor a ser golpeado por el ala.
+El B(I).Mk.8 era la versión de intrusión nocturna y ataque, reconocible por su cabina asimétrica con cúpula desplazada a la izquierda. Su limitación más grave quedó expuesta precisamente en este accidente: **solo el piloto disponía de asiento eyectable**. El navegante, para abandonar la aeronave, debía accionar una palanca que hacía estallar los treinta y cuatro pernos explosivos de la puerta de entrada y lanzarse de cabeza por debajo del ala, abriendo el paracaídas de forma manual. Entre las tripulaciones de la unidad se consideraba una maniobra muy peligrosa, por el temor a ser golpeado por el ala.
 
 La dotación de navegación tampoco ayudaba: la aeronave contaba únicamente con un ADF, radiogoniómetro automático de comportamiento inestable con mal tiempo. El tren de aterrizaje era hidráulico: con los motores apagados perdía presión si no se bombeaba a mano para bloquear las ruedas principales.
 
@@ -123,7 +123,7 @@ El Canberra prestó servicio en Venezuela durante casi cuatro décadas, uno de l
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-19 10:25:00 CST
+- **Timestamp de verificación:** 2026-11-28 08:10:16 CST  
 - **Fuentes primarias/institucionales consultadas:** relato en primera persona del piloto al mando, General de División (Av.) Fernando Graterol Calles, publicado por FAV-CLUB; registro de flota del Canberra en la Fuerza Aérea Venezolana; ficha del Aviation Heritage Museum (Australia Occidental).
 - **Fuentes secundarias de contraste:** Wikipedia en inglés, «English Electric Canberra».
 - **Discrepancias resueltas:** el apellido del navegante es **Bermúdez Mare**, no «Bermúdez Mares», según la fuente testimonial. El lugar exacto se fija en la salina de Villa Marina, frente a la denominación «Sanajaquín» del registro de flota. Se descarta la atribución del accidente al agotamiento de combustible.

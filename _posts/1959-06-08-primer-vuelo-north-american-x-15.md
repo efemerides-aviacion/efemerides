@@ -43,7 +43,7 @@ En junio de 1952, cuando el programa de aviones de investigación aún exploraba
 
 ### Entorno tecnológico
 
-La pérdida del Bell X-2 en septiembre de 1956 tras alcanzar Mach 3,196 con el <a href="https://www.efemeridesdeaviacion.com/evento/1956/09/27/milburn-apt-primer-humano-mach-3-bell-x2.html" style="color: #315fea; text-decoration: none;">Capitán Milburn G. Apt</a> había demostrado que ningún revestimiento convencional de aluminio ni un empenaje clásico podían sobrevivir al régimen hipersónico. Bajo la dirección del ingeniero jefe Harrison A. «Stormy» Storms en Inglewood, North American Aviation construyó el X-15 con una piel exterior de **Inconel-X** tratada térmicamente, alas trapezoidales muy cortas (6,81 m de envergadura), enormes derivas dorsal y ventral con perfil en cuña de 10° para asegurar la estabilidad direccional a seis veces la velocidad del sonido y un tren de aterrizaje formado por dos patines metálicos traseros y una rueda de proa no dirigible. Dado que a cotas superiores a los 100.000 pies el aire era demasiado tenue para que actuaran las superficies aerodinámicas, el avión incorporaba en el morro y en las puntas alares doce toberas de peróxido de hidrógeno manejadas con una palanca en la consola izquierda.
+La pérdida del Bell X-2 en septiembre de 1956 tras alcanzar Mach 3,196 con el <a href="https://www.efemeridesdeaviacion.com/evento/1956/09/27/milburn-apt-primer-humano-mach-3-bell-x2.html" style="color: #315fea; text-decoration: none;">Capitán Milburn G. Apt</a> había demostrado que ningún revestimiento convencional de aluminio ni un empenaje clásico podían sobrevivir al régimen hipersónico. Bajo la dirección del ingeniero jefe Harrison A. «Stormy» Storms en Inglewood, North American Aviation construyó el X-15 con una piel exterior de **Inconel-X** tratada térmicamente, alas trapezoidales muy cortas (6,81 m de envergadura), enormes derivas dorsal y ventral con perfil en cuña de 10° para asegurar la estabilidad direccional a seis veces la velocidad del sonido y un tren de aterrizaje formado por dos patines metálicos traseros y una rueda de morro no dirigible. Dado que a cotas superiores a los 100.000 pies el aire era demasiado tenue para que actuaran las superficies aerodinámicas, el avión incorporaba en el morro y en las puntas alares doce toberas de peróxido de hidrógeno manejadas con una palanca en la consola izquierda.
 
 ### Entorno social
 
@@ -104,7 +104,7 @@ Las dos células supervivientes ocupan hoy lugares de honor en los dos grandes m
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-11-18 09:20:07 CST
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA History Office (`X-15 Chronology`) y NASA Armstrong Flight Research Center.
 - **Fuentes secundarias de contraste:** This Day in Aviation (`8 June 1959`) y Wikipedia (`North American X-15`).
 - **Discrepancias resueltas:** Se distingue el primer vuelo cautivo (10 de marzo de 1959), el primer vuelo libre en planeo (8 de junio de 1959, 4 min 56,6 s desde 37.550 pies) y el primer vuelo propulsado (17 de septiembre de 1959).

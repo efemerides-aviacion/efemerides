@@ -12,7 +12,7 @@ image: 1966-10-16-ekranoplan-km-primer-vuelo-monstruo-del-mar-caspio.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1966-10-16-ekranoplan-km-primer-vuelo-monstruo-del-mar-caspio.webp" alt="Reconstrucción digital del ekranoplano KM despegando del mar Caspio en 1966">
-  <figcaption class="post-caption">El ekranoplano KM, fotografiado de frente durante las pruebas del Caspio: los ocho reactores sobre el canard de proa, el ala corta con flotadores en las puntas y la gran cruz de la cola. La imagen es una reconstrucción digital a partir de esa fotografía histórica, con el fondo restaurado, y no una imagen de archivo. Fuente: <a href="https://commons.wikimedia.org/wiki/File:%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD_%D0%9A%D0%9C.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>, fotografía de К.Е.Сергеев, licencia CC BY-SA 3.0. Así lo vio por primera vez Occidente: <a href="https://commons.wikimedia.org/wiki/File:Kaspiysk_rd_1968.jpg" style="color: #315fea; text-decoration: none;">la única imagen de la época que se conoce es esta toma del satélite KH-8</a> sobre la rampa de Kaspiysk, en marzo de 1968.</figcaption>
+  <figcaption class="post-caption">El ekranoplano KM, fotografiado de frente durante las pruebas del Caspio: los ocho reactores sobre el plano delantero (canard) de proa, el ala corta con flotadores en las puntas y la gran cruz de la cola. La imagen es una reconstrucción digital a partir de esa fotografía histórica, con el fondo restaurado, y no una imagen de archivo. Fuente: <a href="https://commons.wikimedia.org/wiki/File:%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD_%D0%9A%D0%9C.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>, fotografía de К.Е.Сергеев, licencia CC BY-SA 3.0. Así lo vio por primera vez Occidente: <a href="https://commons.wikimedia.org/wiki/File:Kaspiysk_rd_1968.jpg" style="color: #315fea; text-decoration: none;">la única imagen de la época que se conoce es esta toma del satélite KH-8</a> sobre la rampa de Kaspiysk, en marzo de 1968.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -44,7 +44,7 @@ Un ekranoplano no es un avión que vuela bajo ni un barco con alas: es un térmi
 
 ### Entorno social
 
-El programa creció al amparo de un secreto que en la URSS era también una carrera burocrática. Jruschov autorizó una financiación que las crónicas describen como abierta y, tras su caída en 1964, el interés se enfrió sin desaparecer: lo sostuvo el mariscal Ustinov desde Defensa. El aparato nunca fue tratado como avión: se documentó como buque, se asignó a la Armada y lo construyó una fábrica naval con un diseñador de barcos, aunque los pilotos fueran militares de la Fuerza Aérea. Al botarlo le rompieron en la proa una botella de champán, ceremonia de barcos y no de aparatos volantes: en ese detalle estaba escrita ya la pelea administrativa que lo frenaría.
+El programa creció al amparo de un secreto que en la URSS era también una carrera burocrática. Jruschov autorizó una financiación que las crónicas describen como abierta y, tras su caída en 1964, el interés se enfrió sin desaparecer: lo sostuvo el mariscal Ustinov desde Defensa. El aparato nunca fue tratado como avión: se documentó como buque, se asignó a la Armada y lo construyó una fábrica naval con un diseñador de barcos, aunque los pilotos fueran militares de la Fuerza Aérea. Al botarlo le rompieron en la proa, como se hace en un buque, una botella de champán, ceremonia de barcos y no de aparatos volantes: en ese detalle estaba escrita ya la pelea administrativa que lo frenaría.
 
 ### Entorno tecnológico
 
@@ -105,7 +105,7 @@ Hubo herederos directos, el *Lun* armado con misiles, y después proyectos rusos
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-10 13:02:13 CST
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Instituto Naval de los Estados Unidos (*Proceedings*, 2020); National Reconnaissance Office (placa KH-8, dominio público); memorándum NACA de 1934 sobre el efecto de pantalla
 - **Fuentes secundarias de contraste:** Wikipedia; Guntston, *The Osprey Encyclopedia of Russian Aircraft*; Komissárov, *Russia's Ekranoplans*
 - **Discrepancias resueltas:** se fijan el 16 de octubre, las medidas de la ficha técnica y las 544 toneladas al despegue; se excluyen las velocidades no confirmadas y la atribución al KM del descubrimiento del efecto de pantalla.

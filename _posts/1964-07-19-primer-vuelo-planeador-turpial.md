@@ -103,14 +103,14 @@ A largo plazo, aquella jornada del **19 de julio de 1964** inauguró el camino q
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La fecha exacta del estreno (19 de julio de 1964), la participación del piloto de pruebas Jaromir Flolik y la matrícula experimental <strong>YV-X-BTX</strong> proceden del archivo documental y fotográfico de la familia Remiddi González y del grupo AVER, sistematizado por <em>Aviación Civil Venezuela</em> y en la biografía <em>Romano Remiddi Fabrini: El italiano constructor de aviones en Venezuela</em>. En la imagen histórica del despegue en La Carlota se aprecian con nitidez el cable del torno terrestre tensado hacia la proa y la carrucha de dos ruedas recién desprendida sobre la pista.</p>
+  <p><strong>Nota aclaratoria:</strong> La fecha exacta del estreno (19 de julio de 1964), la participación del piloto de pruebas Jaromir Flolik y la matrícula experimental <strong>YV-X-BTX</strong> proceden del archivo documental y fotográfico de la familia Remiddi González y del grupo AVER, sistematizado por <em>Aviación Civil Venezuela</em> y en la biografía <em>Romano Remiddi Fabrini: El italiano constructor de aviones en Venezuela</em>. En la imagen histórica del despegue en La Carlota se aprecian con nitidez el cable del torno terrestre tensado hacia el morro y la carrucha de dos ruedas recién desprendida sobre la pista.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-07 15:14:00 CST
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Aviación Civil Venezuela (archivo familiar Remiddi González / AVER) y biografía documental de O! Ediciones.
 - **Discrepancias resueltas:** Se preservó con rigor documental la atribución del diseño R1 Turpial a Romano Remiddi, el pilotaje de Jaromir Flolik mediante torno en La Carlota y la matrícula experimental asociada `YV-X-BTX`.
 - **Nivel de confianza:** Alto

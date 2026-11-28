@@ -31,7 +31,7 @@ image: 1955-04-11-kashmir-princess-constellation.webp
 - **Aeronave y matrícula:** cuatrimotor presurizado <a href="https://www.efemeridesdeaviacion.com/evento/1949/02/05/eastern-constellation-record.html" style="color: #315fea; text-decoration: none;">Lockheed L-749A Constellation</a> bautizado *«Kashmir Princess»*, matrícula india `VT-DEP`, operado por Air India International en vuelo chárter diplomático.
 - **Ruta programada:** Bombay (India) – Hong Kong (escala técnica en Kai Tak) – Yakarta (Indonesia).
 - **Ocupantes y balance de víctimas:** 19 personas a bordo (11 pasajeros —en su mayoría periodistas y funcionarios chinos y extranjeros acreditados para la cumbre de Bandung— y 8 tripulantes indios); **16 fallecidos** (los 11 pasajeros y 5 tripulantes, entre ellos el Comandante D. K. Jatar y la sobrecargo Gloria Berry) y **3 supervivientes** de la tripulación técnica: el copiloto M. C. Dixit, el navegante J. C. Pathak y el mecánico de tierra en tránsito Anant Karnik.
-- **Causa del siniestro:** explosión de un artefacto incendiario-explosivo de fabricación estadounidense con detonador de relojería MK-7 alojado en el pozo del tren principal de estribor.
+- **Causa del siniestro:** explosión de un artefacto incendiario-explosivo de fabricación estadounidense con detonador de relojería MK-7 alojado en el pozo del tren principal derecho.
 - **Objetivo político de la operación:** eliminar al Primer Ministro y Ministro de Asuntos Exteriores de la República Popular China, Zhou Enlai, antes de su intervención en la Conferencia de Bandung.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
@@ -61,7 +61,7 @@ La preparación del atentado y el desenlace del vuelo se sucedieron entre marzo 
 - **Marzo de 1955:** la estación en Hong Kong de la Oficina de Seguridad Nacional del Kuomintang pone en marcha la operación encubierta contra el avión chárter que trasladará a la delegación china a Indonesia y recluta a Chow Tse-ming (conocido también como Zhou Zhiming o Zhou Ju), empleado de mantenimiento y limpieza de la *Hong Kong Aircraft Engineering Company* (HAECO) en Kai Tak, prometiéndole una recompensa de 600.000 dólares de Hong Kong y refugio en Taiwán.
 - **9–10 de abril de 1955:** los servicios de información de Pekín detectan indicios de un complot en Hong Kong y advierten a las autoridades coloniales británicas y a la dirección de Air India; entretanto, Zhou Enlai modifica discretamente su viaje —oficialmente por convalecencia de una apendicectomía y compromisos con el Primer Ministro birmano U Nu— para volar a Yakarta vía Kunming y Rangún.
 - **11 de abril de 1955 (11:20–12:25, hora de Hong Kong):** el *Kashmir Princess* (`VT-DEP`) toma tierra en el aeropuerto de Kai Tak procedente de Bombay; durante los setenta minutos de escala técnica, Chow Tse-ming introduce en el alojamiento de la rueda derecha un artefacto incendiario con temporizador camuflado en un estuche de aseo, y a las 12:25 el Constellation despega rumbo a Yakarta con 11 pasajeros y 8 tripulantes.
-- **11 de abril de 1955 (hacia las 16:50, sobre el mar de la China Meridional):** tras más de cuatro horas de crucero a 18.000 pies, el artefacto detona cerca del motor n.º 3, perfora los depósitos alares de estribor y desata un incendio inextinguible que inutiliza los sistemas hidráulicos y eléctricos.
+- **11 de abril de 1955 (hacia las 16:50, sobre el mar de la China Meridional):** tras más de cuatro horas de crucero a 18.000 pies, el artefacto detona cerca del motor n.º 3, perfora los depósitos alares derechos y desata un incendio inextinguible que inutiliza los sistemas hidráulicos y eléctricos.
 - **Amaraje y rescate en las islas Natuna:** el Comandante Jatar inicia un descenso de emergencia buscando amerizar junto a la costa de las islas Natuna, pero al tocar el agua la punta del ala derecha incendiada se parte y el fuselaje se hunde; sólo el mecánico Karnik, el navegante Pathak y el segundo piloto Dixit logran salir a flote, alcanzar un islote de la isla de Jemaja y ser auxiliados al día siguiente por la fragata británica HMS *Dampier*.
 - **18 de mayo de 1955:** cuando la policía de Hong Kong se dispone a detener a Chow Tse-ming tras las pesquisas de la comisión investigadora indio-indonesia-británica, el autor material logra ocultarse como polizón en un avión de *Civil Air Transport* (CAT) con destino a Taipéi, donde las autoridades nacionalistas rechazan su extradición al carecer de tratado bilateral con Londres.
 
@@ -100,7 +100,7 @@ El caso del *Kashmir Princess* figura en los anales de la aviación civil como u
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-07 09:25:00 CST  
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Aviation Safety Network (extracto del informe oficial indonesio de investigación), BBC News  
 - **Fuentes de contraste:** Wikipedia (EN/ES)  
 - **Discrepancias resueltas:** se corrige la versión sobre una supuesta condena del saboteador en Hong Kong (documentando su huida a Taiwán el 18 de mayo de 1955) y el desglose exacto de víctimas (11 pasajeros y 5 tripulantes fallecidos; 3 tripulantes supervivientes).  

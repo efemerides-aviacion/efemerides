@@ -61,7 +61,7 @@ El vuelo se divulgó con un comunicado escueto y un vídeo breve, en un país de
 La secuencia que llevó del requisito soviético al primer despegue y de éste a la designación definitiva se repartió a lo largo de tres décadas:
 
 - **1979–2002:** el programa soviético I-90 deriva en los proyectos MFI y LFI; tras el parón de los noventa, Rusia lanza el concurso PAK FA y adjudica el diseño a Sukhoi, que bautiza su propuesta como T-50.
-- **24 de diciembre de 2009:** el T-50-1 efectúa las primeras pruebas de rodaje en Dzemgi; el 22 de enero siguiente completa carreteos de alta velocidad con elevación de la rueda de proa y frenado con paracaídas.
+- **24 de diciembre de 2009:** el T-50-1 efectúa las primeras pruebas de rodaje en Dzemgi; el 22 de enero siguiente completa carreteos de alta velocidad con elevación de la rueda de morro y frenado con paracaídas.
 - **29 de enero de 2010:** con Serguéi Bogdán a los mandos, el prototipo despega y permanece 47 minutos en el aire; se evalúan controlabilidad, motores, sistemas primarios y el ciclo del tren de aterrizaje, y regresa a la pista de la factoría. El comunicado de Sukhoi destacó la valoración inicial de la controlabilidad y de los sistemas, y Mijaíl Pogosián lo presentó como el arranque de la campaña de ensayos.
 - **6 y 12 de febrero de 2010:** segundo y tercer vuelos del mismo ejemplar; hacia agosto se habían acumulado 17 salidas y en noviembre unas 40, siempre con la célula sin camuflar.
 - **17 de agosto de 2011:** el modelo se presenta en público en el salón MAKS de Zhukovski, ya con tres prototipos en campaña de ensayos y con la pintura de camuflaje aplicada. La exhibición dejó ver de cerca una célula que en enero sólo se conocía por un vídeo.
@@ -108,7 +108,7 @@ El T-50-1, con su numeral 051 y su imprimación gris, sobrevive como la estampa 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-11-26 11:04:23 CST  
+- **Timestamp de verificación:** 2026-11-28 08:07:37 CST  
 - **Fuentes primarias/institucionales consultadas:** Sukhoi Company (JSC), Corporación Aeronáutica Unida, Air & Space Forces Association / Mitchell Institute  
 - **Fuentes secundarias de contraste:** Wikipedia (ES y EN), The Moscow Times, Russia Beyond, Airforce Technology, Infodefensa, Wikimedia Commons  
 - **Discrepancias resueltas:** denominación del aparato y de la fuerza aérea en 2010; duración del vuelo (47 frente a 45 minutos); alcance de la baja observabilidad; carácter representativo de la fotografía; véase Nota aclaratoria.  
