@@ -12,7 +12,7 @@ image: 1956-02-17-primer-vuelo-yf104a-starfighter.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1956-02-17-primer-vuelo-yf104a-starfighter.webp" alt="Lockheed YF-104A Starfighter en pista antes de su primer vuelo">
-  <figcaption class="post-caption">Lockheed YF-104A Starfighter (s/n 55-2955), prototipo de servicio de pruebas, en pista antes de su primer vuelo el 17 de febrero de 1956 en Edwards AFB, pilotado por Herman ‘Fish’ Salmon. (Foto: John Eaves Blog / Lockheed records).</figcaption>
+  <figcaption class="post-caption">El YF-104A (s/n 55-2955) en pista antes de su primer vuelo, el 17 de febrero de 1956 en Edwards, con Herman «Fish» Salmon a los mandos. Fuente: <a href="https://johneaves.wordpress.com/2011/02/17/the-lockhead-yf-104-55-2955-and-the-55th-anniversary-of-her-first-flight/" style="color: #315fea; text-decoration: none;">John Eaves Blog</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
@@ -40,7 +40,7 @@ En plena Guerra Fría, Estados Unidos buscaba interceptores capaces de enfrentar
 El YF-104A introdujo alas trapezoidales de baja relación de aspecto, fuselaje alargado y el motor J79, que se convertiría en estándar en la producción del F-104A y posteriores.
 
 ### Entorno cultural
-El Starfighter se convirtió en símbolo de la era supersónica y en protagonista de múltiples fuerzas aéreas aliadas.
+El Starfighter quedó ligado a la era supersónica y pasó a servir en fuerzas aéreas de varios países aliados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
@@ -60,7 +60,7 @@ El YF-104A (55-2955) es recordado con dos sobrenombres:
 - **“Starfighter”**, nombre oficial del modelo F‑104, símbolo de la era supersónica.  
 - **“Apple Knocker”**, apodo coloquial dado al prototipo tras el accidente de 1957 en Palmdale.  
 
-Herman “Fish” Salmon (1915–2008) es recordado como uno de los grandes pilotos de pruebas de Lockheed, con experiencia en el P-80 y múltiples prototipos F-104.
+Herman “Fish” Salmon (1915–2008) es recordado como uno de los grandes pilotos de pruebas de Lockheed, con experiencia en el P-80 y múltiples prototipos F-104; en 1954 llevó al aire el <a href="https://www.efemeridesdeaviacion.com/evento/1954/06/16/primer-vuelo-oficial-lockheed-xfv-1-salmon.html" style="color: #315fea; text-decoration: none;">caza experimental de despegue vertical XFV-1</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
@@ -82,7 +82,7 @@ Herman “Fish” Salmon (1915–2008) es recordado como uno de los grandes pilo
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 12:00:55 CST
+- **Timestamp de verificación:** 2026-11-28 06:36:42 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, John Eaves Blog, 916 Starfighter, Wikipedia, Wisconsin Aviation Hall of Fame, Air Force Test Center  
 - **Discrepancias resueltas:** Confirmación del motor correcto (J79 desde fábrica en YF-104A) y aclaración de sobrenombres.  
 - **Nivel de confianza:** Alto  

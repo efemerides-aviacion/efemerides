@@ -12,7 +12,7 @@ image: 1954-11-02-primera-transicion-vtol-convair-xfy-1-pogo.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1954-11-02-primera-transicion-vtol-convair-xfy-1-pogo.webp" alt="El Convair XFY-1 Pogo en actitud vertical sobre Brown Field en noviembre de 1954, con un avión de seguimiento al fondo">
-  <figcaption class="post-caption">El Convair XFY-1 Pogo en actitud vertical sobre la estación aeronaval auxiliar Brown Field, en California, en noviembre de 1954; al fondo vuela un Grumman TBM-3 Avenger como avión de seguimiento. Fotografía de la Armada de los Estados Unidos. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Convair_XFY-1_taking_off_at_NAAF_Brown_Field_1954.jpeg" style="color: #315fea; text-decoration: none;">U.S. Navy, vía Wikimedia Commons</a>; dominio público según su ficha.</figcaption>
+  <figcaption class="post-caption">El Convair XFY-1 Pogo en actitud vertical sobre Brown Field, California, en noviembre de 1954, con un Grumman TBM-3 de seguimiento. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Convair_XFY-1_taking_off_at_NAAF_Brown_Field_1954.jpeg" style="color: #315fea; text-decoration: none;">U.S. Navy, vía Wikimedia Commons</a>; dominio público.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -56,7 +56,7 @@ El Pogo era un monoplaza de cola sentada: en reposo descansaba sobre los bordes 
 
 Su ala en delta y los empenajes le daban un aspecto poco convencional. Lo movía el Allison YT-40, que reunía dos grupos T-38 en una sola caja reductora, con dos hélices tripalas contrarrotatorias Curtiss-Wright de 4,8 metros. El asiento giraba para ambas actitudes de vuelo, y una cuerda de 7,6 metros permitía abandonar la cabina en una emergencia en tierra.
 
-El armamento propuesto, nunca ensayado, contemplaba 48 cohetes o hasta cuatro cañones de 20 mm en los extremos alares. El rival Lockheed XFV-1 nunca llegó a despegar ni aterrizar en vertical: la Armada había reservado a Convair la única planta motriz apta para ambos regímenes.
+El armamento propuesto, nunca ensayado, contemplaba 48 cohetes o hasta cuatro cañones de 20 mm en los extremos alares. El rival <a href="https://www.efemeridesdeaviacion.com/evento/1954/06/16/primer-vuelo-oficial-lockheed-xfv-1-salmon.html" style="color: #315fea; text-decoration: none;">Lockheed XFV-1</a> nunca llegó a despegar ni aterrizar en vertical: la Armada había reservado a Convair la única planta motriz apta para ambos regímenes.
 
 ### Entorno cultural
 El apodo Pogo venía del juguete de salto con resorte: el avión rebotaba sobre su tren amortiguado al aterrizar, igual que un niño sobre su Pogo Stick.
@@ -114,7 +114,7 @@ El ejemplar único pasó años junto a San Diego, sirvió como guardián de la e
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-31 05:27:06 CST  
+- **Timestamp de verificación:** 2026-11-28 06:35:47 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian NASM, Vertical Flight Society, Naval Aviation News (Armada de los Estados Unidos).  
 - **Fuentes secundarias de contraste:** White Eagle Aerospace.  
 - **Nivel de confianza:** Alto  
